@@ -125,14 +125,14 @@ def fig_eps(L):
                     label=L("JPM Q2 调整后 (剔 Visa)", "JPM Q2 adjusted (ex Visa)"))
         ax.plot([x[s.q.iloc[-1]], ix], [s.eps.iloc[-1], m.eps], ls=":", color=C_FC)
         ax.set_xticks(list(x.values()), [QLAB(q) for q in x], rotation=60, fontsize=7)
-        ax.set_title(f"{t}  Q3E ${m.eps:.2f} vs {L('共识', 'cons.')} ${m.cons:.2f}", color=BANK_COL[t], fontsize=11)
+        ax.set_title(f"{t}  Q3E ${m.eps+1e-9:.2f} vs {L('共识', 'cons.')} ${m.cons+1e-9:.2f}", color=BANK_COL[t], fontsize=11)
         ax.set_ylabel("$ / share")
     seen = {}
     for ax in axes.flat:
         for hh, ll in zip(*ax.get_legend_handles_labels()):
             seen.setdefault(ll, hh)
     fig.legend(seen.values(), seen.keys(), loc="upper center", ncol=4, bbox_to_anchor=(0.5, 1.03))
-    footer(fig, L("数据:SEC XBRL(Q4 = 全年 − 前三季,EPS 为近似);C 的 26Q1/Q2 来自 10-Q 表格。Q2'26 的 JPM/WFC/GS/MS 含季度性高点,GS 为 $20.98。\n"
+    footer(fig, L("数据:SEC XBRL(Q4 = 全年 − 前三季,EPS 为近似);C 的 26Q1/Q2 来自 10-Q 表格。Q2'26 为创纪录季度;JPM 的 Q2 含 Visa 一次性收益(灰色方块为剔除后)。\n"
                   "共识来自多家聚合页,口径可能混用 GAAP 与调整后,详见 consensus_q3_2026.csv。", 
                   "Source: SEC XBRL (Q4 = FY − 9M, EPS approximated); C's 26Q1/Q2 from 10-Q tables. Consensus is aggregated from several pages and may mix GAAP/adjusted; see consensus_q3_2026.csv."))
     fig.tight_layout()

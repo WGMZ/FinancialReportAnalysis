@@ -37,8 +37,8 @@ def fig_curve(L):
     ax[1].set_title(L("Q3 各期限变动 (bp)", "Q3 change by tenor (bp)"))
     s210_a = (cd.fred_at("DGS10", DATES[-2]) - cd.fred_at("DGS2", DATES[-2])) * 100
     s210_b = (cd.fred_at("DGS10", DATES[-1]) - cd.fred_at("DGS2", DATES[-1])) * 100
-    ax[1].text(0.02, 0.97, L(f"2s10s: {s210_a:.0f} → {s210_b:.0f} bp\n(整体上移,长端略多)",
-                             f"2s10s: {s210_a:.0f} → {s210_b:.0f} bp\n(parallel-ish, long end a bit more)"),
+    ax[1].text(0.02, 0.97, L(f"2s10s: {s210_a:.0f} → {s210_b:.0f} bp\n(5Y 附近上移最多,曲线变陡)",
+                             f"2s10s: {s210_a:.0f} → {s210_b:.0f} bp\n(belly rose most; curve steepened)"),
                transform=ax[1].transAxes, va="top", fontsize=9,
                bbox=dict(boxstyle="round", fc="#f4f6f7", ec="#cccccc"))
     ax[1].set_ylim(0, max(d) * 1.25)

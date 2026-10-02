@@ -65,4 +65,4 @@ def save(fig, lang: Lang, name: str) -> str:
 
 
 def footer(fig, text: str, y=-0.02):
-    fig.text(0.01, y, text, fontsize=7.5, color="#555555", ha="left", va="top", wrap=True)
+    fig.text(0.01, y, text, fontsize=7.5, color="#555555", ha="left", va="top", wrap=True, parse_math=False)
