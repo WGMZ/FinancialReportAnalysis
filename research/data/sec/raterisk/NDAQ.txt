@@ -1,0 +1,164 @@
+# NDAQ 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/1120193/000112019326000013/ndaq-20260630.htm
+# full_doc_chars=224797
+
+
+----- [line 6150] -----
+activities.
+We have implemented policies and procedures to measure,
+manage, monitor and report risk exposures, which are
+reviewed regularly by management and the board of
+directors. We identify risk exposures and monitor and
+manage such risks on a daily basis.
+We perform sensitivity analyses to determine the effects of
+market risk exposures. We may use derivative instruments
+solely to hedge financial risks related to our financial
+positions or risks that are incurred during the normal course
+of business. We do not use derivative instruments for
+speculative purposes.
+Interest Rate Risk
+We are subject to the risk of fluctuating interest rates in the
+normal course of business. Our exposure to market risk for
+changes in interest rates relates primarily to our financial
+investments and debt obligations, which are discussed below.
+We may enter into transactions that expose us to interest rate
+risk, for which we may utilize interest rate derivatives
+agreements to manage that risk.
+Financial Investments
+As of June 30, 2026, our investment portfolio was primarily
+comprised of highly rated European government debt
+securities, which pay a fixed rate of interest. These securities
+are subject to interest rate risk and the fair value of these
+securities will decrease if market interest rates increase. The
+impact of an immediate increase to market interest rates,
+uniformly, by a hypothetical 100 basis points from levels as
+of June 30, 2026, would not have a material impact on our
+financial statements.
+Debt Obligations
+As of June 30, 2026, the majority of our outstanding debt
+obligations are fixed-rate obligations. Interest rates on certain
+tranches of notes are subject to adjustment to the extent our
+debt rating is downgraded below investment grade, as further
+discussed in Note 8, "Debt Obligations," to the condensed
+consolidated financial statements. While changes in interest
+rates will have no impact on the interest we pay on fixed-rate
+obligations, we are exposed to changes in interest rates as a
+result of the borrowings under our 2026 Revolving Credit
+Facility, as this facility has a variable interest rate. We may
+also be exposed to changes in interest rates if there are
+amounts outstanding from the sale of commercial paper
+under our commercial paper program, which have variable
+interest rates. As of June 30, 2026, we have $269 million
+outstanding under our commercial paper program. A
+hypothetical 100 basis points increase in interest rates on our
+outstanding commercial paper would not have a material
+impact on our financial statements.
+Foreign Currency Exchange Rate Risk
+We are subject to foreign currency exchange rate risk. Our
+primary transactional exposure to foreign currency
+denominated revenues less transaction-based expenses and
+operating income for the three and six months ended June 30,
+2026 is presented in the following tables. The tables below
+do not include the offsetting impact of our hedging programs.
+44
+Euro
+Swedish
+Krona
+Canadian
+Dollar
+Other
+Foreign
+Currencies
+U.S.
+Dollar
+(in millions, except currency rate)
+Three Months Ended June 30, 2026
+Average FX
+rate to the
+U.S. dollar
+1.162
+0.107
+0.722
+#
+N/A
+Percentage of
+revenues less
+transaction-
+based
+expenses
+8.3%
+3.3%
+
+----- [line 6496] -----
+financial institutions, highly rated government debt
+instruments and other creditworthy counterparties.
+&#8226;Liquidity Risk: Liquidity risk is the risk a clearinghouse
+may not be able to meet its payment obligations in the right
+currency, in the right place and the right time. To mitigate
+this risk, the clearinghouse monitors liquidity requirements
+closely and maintains funds and assets in a manner which
+minimizes the risk of loss or delay in the access by the
+clearinghouse to such funds and assets. For example,
+holding funds with a central bank where possible or
+investing in highly liquid government debt instruments
+serves to reduce liquidity risks.
+&#8226;Interest Rate Risk: Interest rate risk is the risk that interest
+rates rise causing the value of purchased securities to
+decline. If we were required to sell securities prior to
+maturity, and interest rates had risen, the sale of the
+securities might be made at a loss relative to the latest
+market price. Our clearinghouse seeks to manage this risk
+by making short-term investments of members' cash
+46
+deposits. In addition, the clearinghouse investment
+guidelines allow for direct purchases or repurchase
+agreements with short dated maturities of high quality
+sovereign debt (for example, European government and
+U.S. Treasury securities), central bank certificates and
+multilateral development bank debt instruments.
+&#8226;Security Issuer Risk: Security issuer risk is the risk that an
+issuer of a security defaults on its payment when the
+security matures. This risk is mitigated by limiting
+allowable investments and collateral under reverse
+repurchase agreements to high quality sovereign,
+government agency or multilateral development bank debt
+instruments.
+Item 4. Controls and Procedures
+Disclosure Controls and Procedures
+Nasdaq's management, with the participation of Nasdaq's
+Chief Executive Officer, and Executive Vice President and
+Chief Financial Officer, has evaluated the effectiveness of
+Nasdaq's disclosure controls and procedures (as defined in
+Rule 13a-15(e) and Rule 15d-15(e) under the Exchange Act)
+as of the end of the period covered by this report. Based upon
+that evaluation, Nasdaq's Chief Executive Officer and
+Executive Vice President and Chief Financial Officer, have
+concluded that, as of the end of such period, Nasdaq's
+disclosure controls and procedures are effective.
+Changes in Internal Control Over Financial Reporting
+There have been no changes in Nasdaq's internal control over
+financial reporting (as defined in Rule 13a-15(f) and Rule
+15d-15(f) under the Exchange Act) that occurred during the
+quarter ended June 30, 2026 that have materially affected, or
+are reasonably likely to materially affect, Nasdaq's internal
+control over financial reporting.
+PART II - OTHER INFORMATION
+Item 1. Legal Proceedings
+See "Legal and Regulatory Matters" of Note 17,
+"Commitments, Contingencies and Guarantees," to the
+condensed consolidated financial statements for a description
+of our legal proceedings, if any.
+Item 1A. Risk Factors
+In addition to the other information set forth in this Quarterly
+Report on Form 10-Q, you should carefully consider the
+factors discussed under "Risk Factors" in our most recent
+Form 10-K. These risks could materially and adversely affect
+our business, financial condition and results of operations.
+These risks and uncertainties are not the only ones facing us.
+Additional risks and uncertainties not presently known to us
+or that we currently believe to be immaterial may also
+adversely affect our business.
+Item 2. Unregistered Sales of Equity Securities and Use of
+Proceeds
+Issuer Purchases of Equity Securities
+Share Repurchase Program

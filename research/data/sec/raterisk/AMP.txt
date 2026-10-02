@@ -1,0 +1,441 @@
+# AMP 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/820027/000082002726000043/amp-20260630.htm
+# full_doc_chars=704333
+
+
+----- [line 1253] -----
+Future policy benefits |
+Reserve for future policy benefits | 7,424 | 7,601 |
+Deferred profit liability | 137 | 130 |
+Additional liabilities for insurance guarantees | 1,541 | 1,500 |
+Other insurance and annuity liabilities | 142 | 78 |
+Total future policy benefits | 9,244 | 9,309 |
+Policy claims and other policyholders' funds | 209 | 184 |
+Total policyholder account balances, future policy benefits and claims | $ | 49,199 | $ | 46,498 |
+Variable Annuities
+Purchasers of variable annuities can select from a variety of investment options and can elect to allocate a portion to a fixed account. A vast majority of the premiums received for variable annuity contracts are held in separate accounts where the assets are held for the exclusive benefit of those contractholders.
+Most of the variable annuity contracts issued by the Company contain a guaranteed minimum death benefit ("GMDB"). The Company previously offered contracts with guaranteed minimum accumulation benefit ("GMAB"), guaranteed minimum withdrawal benefit ("GMWB"), and guaranteed minimum income benefit ("GMIB") provisions. See Note 10 for additional information regarding the Company's variable annuity guarantees. See Note 12 and Note 14 for additional information regarding the Company's derivative instruments used to hedge risks related to these guarantees.
+Structured Variable Annuities
+Structured variable annuities allow contractholders to allocate a portion of their account value to an indexed account held in a non-insulated separate account. The contractholder's rate of return is tied to selected market indices and may be positive or negative, subject to either a cap or floor. The amount allocated by a contractholder to the indexed account creates an embedded derivative which is measured at fair value. The Company hedges the equity and interest rate risk related to the indexed account with freestanding derivative instruments.
+Fixed Annuities
+Fixed annuities include deferred, payout and fixed deferred indexed annuity contracts. In 2020, the Company discontinued sales of fixed deferred and fixed deferred indexed annuities.
+Deferred contracts offer a guaranteed minimum rate of interest and security of the principal invested. Payout contracts guarantee a fixed income payment for life or the term of the contract. Liabilities for fixed annuities in a benefit or payout status are based on future estimated payments using established industry mortality tables and interest rates.
+The Company's fixed index annuity product is a fixed annuity that includes an indexed account. The rate of interest credited above the minimum guarantee for funds allocated to the indexed account is linked to the performance of the specific index for the indexed account (subject to a cap). The amount allocated by a contractholder to the indexed account creates an embedded derivative which is measured at fair value.
+See Note 14 for additional information regarding the Company's derivative instruments used to hedge the risk related to indexed accounts.
+30
+Index
+AMERIPRISE FINANCIAL, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) (Continued)
+Insurance Liabilities
+Universal life ("UL") policies accumulate cash value that increases by a fixed interest rate. Purchasers of variable universal life ("VUL") can select from a variety of investment options and can elect to allocate a portion of their account balance to a fixed account or a separate account. A vast majority of the premiums received for VUL policies are held in separate accounts where the assets are held for the exclusive benefit of those policyholders.
+Indexed universal life ("IUL") is a UL policy that includes an indexed account. The rate of credited interest for funds allocated by a contractholder to the indexed account is linked to the performance of the specific index for the indexed account (subject to stated account parameters, which include a cap and floor, or a spread). The policyholder may allocate all or a portion of the policy value to a fixed or any available indexed account. The amount allocated by a contractholder to the indexed account creates an embedded derivative which is measured at fair value. The Company hedges the interest credited rate including equity and interest rate risk related to the indexed account with freestanding derivative instruments.
+See Note 14 for additional information regarding the Company's derivative instruments used to hedge the risk related to IUL.
+The Company also offers term life insurance as well as disability income ("DI") insurance products. The Company no longer offers standalone long term care ("LTC") insurance products and whole life insurance but has in force policies from prior years.
+Insurance liabilities include accumulation values, incurred but not reported claims, obligations for anticipated future claims, unpaid reported claims and claim adjustment expenses.
+The balances of and changes in policyholder account balances were as follows:
+Variable Annuities | Structured Variable Annuities | Fixed Annuities | Fixed Indexed Annuities | Non-Life Contingent Payout Annuities |
+(in millions, except percentages) |
+Balance at January 1, 2026
+$ | 3,320 | $ | 21,504 | $ | 4,918 | $ | 289 | $ | 435 |
+Contract deposits | 23 | 2,123 | 16 | -- | 35 |
+Policy charges | (6) | (2) | -- | -- | -- |
+Surrenders and other benefits | (208) | (806) | (296) | (28) | (50) |
+Net transfer from (to) separate account liabilities | (8) | -- | -- | -- | -- |
+Variable account index-linked adjustments
+-- | 1,713 | -- | -- | -- |
+Interest credited | 52 | 1 | 91 | 7 | 7 |
+Balance at June 30, 2026
+$ | 3,173 | $ | 24,533 | $ | 4,729 | $ | 268 | $ | 427 |
+Weighted-average crediting rate | 3.3 | % | 1.8 | % | 3.9 | % | 2.1 | % | N/A |
+Cash surrender value (1)
+$ | 3,158 | $ | 23,411 | $ | 4,728 | $ | 254 | N/A |
+Universal Life Insurance | Variable Universal Life Insurance | Indexed Universal Life Insurance | Other Life Insurance | Total,
+All Products |
+(in millions, except percentages) |
+Balance at January 1, 2026
+$ | 1,349 | $ | 1,705 | $ | 3,048 | $ | 437 | $ | 37,005 |
+Contract deposits | 51 | 173 | 79 | -- | 2,500 |
+Policy charges | (83) | (45) | (60) | -- | (196) |
+Surrenders and other benefits | (26) | (44) | (35) | (25) | (1,518) |
+Net transfer from (to) separate account liabilities | -- | (78) | -- | -- | (86) |
+Variable account index-linked adjustments
+-- | -- | -- | -- | 1,713 |
+Interest credited | 22 | 35 | 105 | 8 | 328 |
+Balance at June 30, 2026
+$ | 1,313 | $ | 1,746 | $ | 3,137 | $ | 420 | $ | 39,746 |
+Weighted-average crediting rate | 3.6 | % | 3.9 | % | 3.0 | % | 4.0 | % |
+Net amount at risk | $ | 7,762 | $ | 56,937 | $ | 12,705 | $ | 115 |
+Cash surrender value (1)
+$ | 1,215 | $ | 1,130 | $ | 2,755 | $ | 266 |
+31
+Index
+AMERIPRISE FINANCIAL, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) (Continued)
+Variable Annuities | Structured Variable Annuities | Fixed Annuities | Fixed Indexed Annuities | Non-Life Contingent Payout Annuities |
+(in millions, except percentages) |
+Balance at January 1, 2025
+$ | 3,680 | $ | 16,330 | $ | 5,369 | $ | 305 | $ | 447 |
+Contract deposits | 57 | 3,816 | 35 | -- | 73 |
+Policy charges | (13) | (4) | -- | -- | -- |
+Surrenders and other benefits | (486) | (846) | (677) | (26) | (99) |
+Net transfer from (to) separate account liabilities | (31) | -- | -- | -- | -- |
+Variable account index-linked adjustments
+-- | 2,206 | -- | -- | -- |
+Interest credited | 113 | 2 | 191 | 10 | 14 |
+Balance at December 31, 2025
+$ | 3,320 | $ | 21,504 | $ | 4,918 | $ | 289 | $ | 435 |
+Weighted-average crediting rate | 3.3 | % | 1.9 | % | 3.8 | % | 2.1 | % | N/A |
+Cash surrender value (1)
+$ | 3,302 | $ | 20,582 | $ | 4,916 | $ | 272 | N/A |
+Universal Life Insurance | Variable Universal Life Insurance | Indexed Universal Life Insurance | Other Life Insurance | Total,
+
+----- [line 1539] -----
+Effect of changes in discount rate assumptions | (63) | (31) | 10 | (161) | (245) |
+Balance at June 30, 2026
+$ | 1,249 | $ | 1,343 | $ | 481 | $ | 6,099 | $ | 9,172 |
+Adjustment due to reserve flooring | $ | -- | $ | 9 | $ | -- | $ | -- | $ | 9 |
+Net liability for future policy benefits | $ | 1,249 | $ | 558 | $ | 444 | $ | 5,173 | $ | 7,424 |
+Less: reinsurance recoverable | 655 | 400 | 20 | 2,597 | 3,672 |
+Net liability for future policy benefits, after reinsurance recoverable | $ | 594 | $ | 158 | $ | 424 | $ | 2,576 | $ | 3,752 |
+Discounted expected future gross premiums | $ | -- | $ | 1,901 | $ | 772 | $ | 1,099 | $ | 3,772 |
+Expected future gross premiums | $ | -- | $ | 3,266 | $ | 1,093 | $ | 1,472 | $ | 5,831 |
+Expected future benefit payments | $ | 1,902 | $ | 2,318 | $ | 774 | $ | 10,013 | $ | 15,007 |
+Weighted average interest accretion rate | 4.3 | % | 6.0 | % | 6.3 | % | 5.1 | % |
+Weighted average discount rate | 5.3 | % | 5.5 | % | 5.5 | % | 5.6 | % |
+Weighted average duration of liability (in years) | 6 | 7 | 6 | 8 |
+37
+Index
+AMERIPRISE FINANCIAL, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) (Continued)
+Life Contingent Payout Annuities | Term and Whole Life Insurance | Disability Income Insurance
+Long Term Care Insurance | Total,
+All Products |
+(in millions, except percentages) |
+Present Value of Expected Net Premiums: |
+Balance at January 1, 2025
+$ | -- | $ | 737 | $ | 53 | $ | 1,057 | $ | 1,847 |
+Beginning balance at original discount rate | -- | 774 | 59 | 1,072 | 1,905 |
+Effect of changes in cash flow assumptions | -- | 58 | (19) | (8) | 31 |
+Effect of actual variances from expected experience | -- | (17) | (12) | 1 | (28) |
+Adjusted beginning of year balance | $ | -- | $ | 815 | $ | 28 | $ | 1,065 | $ | 1,908 |
+Issuances | 141 | 60 | 9 | -- | 210 |
+Interest accrual | 1 | 39 | 2 | 50 | 92 |
+Net premiums collected | (142) | (78) | (2) | (138) | (360) |
+Derecognition (lapses) | -- | -- | -- | -- | -- |
+Ending balance at original discount rate | $ | -- | $ | 836 | $ | 37 | $ | 977 | $ | 1,850 |
+Effect of changes in discount rate assumptions | -- | (23) | (4) | 11 | (16) |
+Balance at December 31, 2025
+$ | -- | $ | 813 | $ | 33 | $ | 988 | $ | 1,834 |
+Present Value of Future Policy Benefits: |
+Balance at January 1, 2025
+$ | 1,204 | $ | 1,322 | $ | 545 | $ | 6,187 | $ | 9,258 |
+Beginning balance at original discount rate | 1,289 | 1,353 | 535 | 6,408 | 9,585 |
+Effect of changes in cash flow assumptions | (2) | 27 | (30) | 25 | 20 |
+Effect of actual variances from expected experience | (5) | (20) | (25) | 13 | (37) |
+Adjusted beginning of year balance | $ | 1,282 | $ | 1,360 | $ | 480 | $ | 6,446 | $ | 9,568 |
+Issuances | 141 | 60 | 9 | -- | 210 |
+Interest accrual | 57 | 74 | 30 | 316 | 477 |
+Benefit payments | (162) | (114) | (41) | (440) | (757) |
+Derecognition (lapses) | -- | -- | -- | -- | -- |
+Ending balance at original discount rate | $ | 1,318 | $ | 1,380 | $ | 478 | $ | 6,322 | $ | 9,498 |
+Effect of changes in discount rate assumptions | (45) | (2) | 21 | (45) | (71) |
+Balance at December 31, 2025
+$ | 1,273 | $ | 1,378 | $ | 499 | $ | 6,277 | $ | 9,427 |
+Adjustment due to reserve flooring | $ | -- | $ | 8 | $ | -- | $ | -- | $ | 8 |
+Net liability for future policy benefits | $ | 1,273 | $ | 573 | $ | 466 | $ | 5,289 | $ | 7,601 |
+Less: reinsurance recoverable | 703 | 408 | 20 | 2,657 | 3,788 |
+Net liability for future policy benefits, after reinsurance recoverable | $ | 570 | $ | 165 | $ | 446 | $ | 2,632 | $ | 3,813 |
+Discounted expected future gross premiums | $ | -- | $ | 1,971 | $ | 809 | $ | 1,173 | $ | 3,953 |
+Expected future gross premiums | $ | -- | $ | 3,334 | $ | 1,126 | $ | 1,554 | $ | 6,014 |
+Expected future benefit payments | $ | 1,906 | $ | 2,328 | $ | 789 | $ | 10,218 | $ | 15,241 |
+Weighted average interest accretion rate | 4.4 | % | 6.2 | % | 6.3 | % | 5.0 | % |
+Weighted average discount rate | 5.0 | % | 5.3 | % | 5.2 | % | 5.3 | % |
+Weighted average duration of liability (in years) | 6 | 7 | 6 | 8 |
+38
+Index
+AMERIPRISE FINANCIAL, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) (Continued)
+Impacts of the annual review of policy benefit reserves assumptions are reflected within the effect of changes in cash flow assumptions in the disaggregated rollforwards above. The annual review of policy benefit reserves assumptions in the third quarter of 2025 resulted in a net increase in future policy benefit reserves, primarily due to net unfavorable changes in LTC morbidity and mortality assumptions partially offset by favorable changes to DI insurance claim incidence rates.
+The balances of and changes in additional liabilities related to insurance guarantees were as follows:
+Universal Life Insurance | Variable Universal Life Insurance | Other Life Insurance | Total,
+All Products |
+(in millions, except percentages) |
+Balance at January 1, 2026
+$ | 1,409 | $ | 80 | $ | 11 | $ | 1,500 |
+Interest accrual | 21 | 3 | -- | 24 |
+Benefit accrual | 62 | 4 | 1 | 67 |
+Benefit payments | (40) | (6) | (3) | (49) |
+Effect of actual variances from expected experience | 3 | -- | 1 | 4 |
+Impact of change in net unrealized (gains) losses on securities | (4) | -- | (1) | (5) |
+Balance at June 30, 2026
+$ | 1,451 | $ | 81 | $ | 9 | $ | 1,541 |
+Weighted average interest accretion rate | 3.0 | % | 7.0 | % | 3.9 | % |
+Weighted average discount rate | 3.1 | % | 7.1 | % | 3.9 | % |
+Weighted average duration of reserves (in years) | 9 | 8 | 7 |
+Universal Life Insurance | Variable Universal Life Insurance | Other Life Insurance | Total,
+All Products |
+(in millions, except percentages) |
+Balance at January 1, 2025
+$ | 1,301 | $ | 80 | $ | 8 | $ | 1,389 |
+Interest accrual | 40 | 5 | 1 | 46 |
+Benefit accrual | 132 | 10 | 2 | 144 |
+Benefit payments | (84) | (14) | (4) | (102) |
+Effect of actual variances from expected experience | 11 | (1) | 2 | 12 |
+Impact of change in net unrealized (gains) losses on securities | 9 | -- | 2 | 11 |
+Balance at December 31, 2025
+$ | 1,409 | $ | 80 | $ | 11 | $ | 1,500 |
+Weighted average interest accretion rate | 2.9 | % | 6.8 | % | 3.8 | % |
+Weighted average discount rate | 3.1 | % | 7.1 | % | 3.9 | % |
+Weighted average duration of reserves (in years) | 9 | 8 | 7 |
+The amount of revenue and interest recognized in the Statements of Operations was as follows:
+Six Months Ended June 30, |
+2026 |
+Gross Premiums | Interest Expense |
+(in millions) |
+Life contingent payout annuities | $ | 62 | $ | 28 |
+Term and whole life insurance | 86 | 15 |
+Disability income insurance
+54 | 13 |
+Long term care insurance | 80 | 134 |
+Total | $ | 282 | $ | 190 |
+39
+Index
+AMERIPRISE FINANCIAL, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) (Continued)
+Year Ended December 31,
+2025 |
+Gross Premiums | Interest Expense |
+(in millions) |
+Life contingent payout annuities | $ | 157 | $ | 56 |
+Term and whole life insurance | 174 | 35 |
+Disability income insurance
+114 | 28 |
+Long term care insurance | 171 | 266 |
+Total | $ | 616 | $ | 385 |
+The following tables summarize the balances of and changes in unearned revenue:
+Universal Life Insurance | Variable Universal Life Insurance | Indexed Universal Life Insurance | Total,
+All Products |
+(in millions) |
+Balance at January 1, 2026
+$ | 26 | $ | 307 | $ | 318 | $ | 651 |
+Deferral of revenue | -- | 43 | 21 | 64 |
+Amortization | (1) | (12) | (13) | (26) |
+Balance at June 30, 2026
+$ | 25 | $ | 338 | $ | 326 | $ | 689 |
+Balance at January 1, 2025
+$ | 26 | $ | 249 | $ | 295 | $ | 570 |
+Deferral of revenue | 1 | 79 | 47 | 127 |
+Amortization | (1) | (21) | (24) | (46) |
+Balance at December 31, 2025
+$ | 26 | $ | 307 | $ | 318 | $ | 651 |
+9. Separate Account Assets and Liabilities
+Aggregate fair value of separate account assets, by major asset category, consisted of the following:
+June 30, 2026 | December 31, 2025 |
+(in millions) |
+Variable annuities and variable universal life:
+Mutual funds | $ | 78,796 | $ | 77,645 |
+Unitized pooled pension funds:
+Property/real estate | 1,507 | 1,755 |
+Equity securities | 473 | 454 |
+Debt securities | 114 | 116 |
+Cash and cash equivalents | 86 | 56 |
+Other | 14 | 18 |
+Total | $ | 80,990 | $ | 80,044 |
+40
+Index
+AMERIPRISE FINANCIAL, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) (Continued)
+The balances of and changes in separate account liabilities were as follows:
+
+----- [line 2810] -----
+General and administrative expense | 859 | 718 | 159 | 156 |
+Total expenses
+$ | 3,985 | $ | 1,213 | $ | 1,433 | $ | 416 |
+72
+Index
+AMERIPRISE FINANCIAL, INC.
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following discussion and analysis of our consolidated results of operations and financial condition should be read in conjunction with the "Forward-Looking Statements" that follow and our Consolidated Financial Statements and Notes presented in Item 1. Our Management's Discussion and Analysis should be read in conjunction with our Annual Report on Form 10-K for the year ended December 31, 2025, filed with the Securities and Exchange Commission ("SEC") on February 19, 2026 ("2025 10-K"), as well as our quarterly reports on Form 10-Q and current reports on Form 8-K. References below to "Ameriprise Financial," "Ameriprise," the "Company," "we," "us," and "our" refer to Ameriprise Financial, Inc. exclusively, to our entire family of companies, or to one or more of our subsidiaries.
+Overview
+Ameriprise Financial is a diversified financial services company with a more than 130-year history of providing financial solutions. We are a long-standing leader in financial planning and advice with $1.8 trillion in assets under management, administration and advisement as of June 30, 2026. We offer a broad range of products and services designed to achieve individual and institutional clients' financial objectives.
+The products and services we provide retail clients and, to a lesser extent, institutional clients, are the primary source of our revenues and net income. Revenues and net income are significantly affected by investment performance and the total value and composition of assets we manage and administer for our retail and institutional clients as well as the distribution fees we receive from other companies. These factors, in turn, are largely determined by overall investment market performance and the depth and breadth of our individual client relationships.
+We operate our business in the broader context of the macroeconomic forces around us, including the global and U.S. economies, changes in interest and inflation rates, financial market volatility, fluctuations in foreign exchange rates, geopolitical strain, the competitive environment, client and customer activities and preferences, and the various regulatory and legislative developments. Financial markets and macroeconomic conditions have had and will continue to have a significant impact on our operating and performance results. In addition, the business, political and regulatory environments in which we operate are subject to elevated uncertainty and substantial, frequent change. Accordingly, we expect to continue focusing on our key strategic objectives and obtaining operational and strategic leverage from our core capabilities. The success of these and other strategies may be affected by the factors discussed in Item 1A, "Risk Factors" in our 2025 10-K and other factors as discussed herein.
+Equity price, credit market and interest rate fluctuations can have a significant impact on our results of operations, primarily due to the effects they have on the asset management and other asset-based fees we earn, the values of market risk benefits and embedded derivatives associated with our variable annuities and the values of derivatives held to hedge these benefits and the "spread" income generated on our deposit products, fixed insurance, the fixed portion of variable annuities and variable insurance contracts and fixed deferred annuities. A higher (lower) interest rate environment may result in decreases (increases) to our long-duration contract reserves, which may impact our adjusted operating earnings after tax. For additional discussion on our interest rate risk, see Item 3. "Quantitative and Qualitative Disclosures About Market Risk."
+We consolidate certain variable interest entities for which we provide asset management services. These entities are defined as consolidated investment entities ("CIEs"). While the consolidation of the CIEs impacts our balance sheet and income statement, our exposure to these entities is unchanged and there is no impact to the underlying business results. For further information on CIEs, see Note 4 to our Consolidated Financial Statements. The results of operations of the CIEs are reflected in the Corporate & Other segment. On a consolidated basis, the management fees we earn for the services we provide to the CIEs and the related general and administrative expenses are eliminated and the changes in the fair value of assets and liabilities related to the CIEs, primarily syndicated loans and debt, are reflected in Net investment income. We include the fees from these entities in the Management and financial advice fees line within our Asset Management segment.
+While our consolidated financial statements are prepared in accordance with U.S. generally accepted accounting principles ("GAAP"), management believes that adjusted operating earnings measures, which exclude net realized investment gains or losses, net of reinsurance accrual; the market impact on non-traditional long-duration products (including variable and fixed deferred annuity contracts and universal life ("UL") insurance contracts), net of hedges and the reinsurance accrual; mean reversion related impacts (the impact on variable universal life ("VUL") products for the difference between assumed and updated separate account investment performance on the reinsurance accrual and additional insurance benefit reserves); the market impact of hedges to offset interest rate and currency changes on unrealized gains or losses for certain investments; block transfer reinsurance transaction impact; gain or loss on disposal of a business that is not considered discontinued operations; integration and restructuring charges; income (loss) from discontinued operations; and the impact of consolidating CIEs, best reflect the underlying performance of our core operations and facilitate a more meaningful trend analysis.
+73
+Index
+AMERIPRISE FINANCIAL, INC.
+The market impact on non-traditional long-duration products includes changes in market risk benefits and embedded derivative values caused by changes in financial market conditions, net of changes in economic hedge values and unhedged items including the difference between assumed and actual underlying separate account investment performance, fixed income credit exposures, transaction costs and certain policyholder contract elections. The market impact also includes certain valuation adjustments made in accordance with Financial Accounting Standards Board Accounting Standards Codification 820, Fair Value Measurements and Disclosures, including the impact on embedded derivative values of discounting projected benefits to reflect a current estimate of our life insurance subsidiary's nonperformance spread.
+Management uses these non-GAAP measures to evaluate our financial performance and available capital on a basis comparable to that used by some securities analysts and investors. Also, certain of these non-GAAP measures are taken into consideration, to varying degrees, for purposes of business planning and analysis and for certain compensation-related matters. Throughout our Management's Discussion and Analysis, these non-GAAP measures are referred to as adjusted operating measures. These non-GAAP measures should not be viewed as a substitute for U.S. GAAP measures.
+It is management's priority to increase shareholder value over a multi-year horizon by achieving our on-average, over-time financial targets.
+Our financial targets are:
+&#8226;Adjusted operating earnings per diluted share growth of 12% to 15%, and
+&#8226;Adjusted operating return on equity of over 30%.
+The following tables reconcile our GAAP measures to adjusted operating measures:
+Per Diluted Share |
+Three Months Ended June 30,
+Three Months Ended June 30,
+2026
+2025
+2026
+2025
+(in millions, except per share amounts) |
+Net income (loss)
+$ | 1,113 | $ | 1,060 | $ | 11.98 | $ | 10.73 |
+Less Adjustments: |
+Net realized investment gains (losses) (1)
+5 | (18) | 0.05 | (0.18) |
+Market impact on non-traditional long-duration products (1)
+106 | 219 | 1.14 | 2.22 |
+Mean reversion related impacts (1)
+1 | 1 | 0.01 | 0.01 |
+Integration/restructuring charges (1)
+(1) | -- | (0.01) | -- |
+Net income (loss) attributable to CIEs | (2) | -- | (0.02) | -- |
+Tax effect of adjustments (2)
+(24) | (42) | (0.26) | (0.43) |
+Adjusted operating earnings
+$ | 1,028 | $ | 900 | $ | 11.07 | $ | 9.11 |
+Weighted average common shares outstanding:
+Basic | 91.8 | 97.4 |
+Diluted | 92.9 | 98.8 |
+74
+Index
+AMERIPRISE FINANCIAL, INC.
+Per Diluted Share |
+Six Months Ended June 30,
+Six Months Ended June 30,
+2026
+2025
+2026
+2025
+(in millions, except per share amounts) |
+Net income (loss) | $ | 2,028 | $ | 1,643 | $ | 21.64 | $ | 16.53 |
+Less Adjustments:
+Net realized investment gains (losses) (1)
+-- | (20) | -- | (0.20) |
+Market impact on non-traditional long-duration products (1)
+(78) | (241) | (0.84) | (2.42) |
+Mean reversion related impacts (1)
+1 | 1 | 0.01 | 0.01 |
+Integration/restructuring charges (1)
+
+----- [line 3788] -----
+&#8226; legal and regulatory actions brought against us;
+&#8226; changes to laws and regulations that govern operation of our business;
+&#8226; supervision by bank regulators and related regulatory and prudential standards as a savings and loan holding company that may limit our activities and strategies;
+&#8226; changes in corporate tax laws and regulations and interpretations and determinations of tax laws impacting our products;
+&#8226; protection of our intellectual property and claims we infringe the intellectual property of others; and
+&#8226;changes in and the adoption of new accounting standards.
+Management cautions the reader that the foregoing list of factors is not exhaustive. There may also be other risks that management is unable to predict at this time that may cause actual results to differ materially from those in forward-looking statements. Readers are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date on which they are made. Management undertakes no obligation to update publicly or revise any forward-looking statements. The foregoing list of factors should be read in conjunction with the "Risk Factors" discussion included in Part I, Item 1A of our 2025 10-K.
+Ameriprise Financial announces financial and other information to investors through the Company's investor relations website at ir.ameriprise.com, as well as SEC filings, press releases, public conference calls and webcasts. Investors and others interested in the company are encouraged to visit the investor relations website from time to time, as information is updated and new information is posted. The website also allows users to sign up for automatic notifications in the event new materials are posted. The information found on the website is not incorporated by reference into this report or in any other report or document the Company furnishes or files with the SEC.
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+Market Risk
+Our primary market risk exposures are interest rate, equity price, foreign currency exchange rate and credit risk. Equity price and interest rate fluctuations can have a significant impact on our results of operations, primarily due to the effects they have on the asset management and other asset-based fees we earn, the spread income generated on our brokerage client cash balances, banking deposits, face-amount certificate products, fixed portion of our variable annuities and variable insurance contracts, fixed annuity and insurance contracts, the value of market risk benefits and other liabilities associated with our variable annuities and the value of derivatives held to hedge related benefits.
+Market risk benefits continue to be managed by utilizing a hedging program which attempts to match the sensitivity of the assets with the sensitivity of the benefits. This approach works with the premise that matched sensitivities will produce a highly effective hedging result. Our comprehensive hedging program focuses mainly on first order sensitivities of assets and liabilities: Equity Market Level (Delta), Interest Rate Level (Rho) and Volatility (Vega). Additionally, various second order sensitivities are managed. We use various options, swaptions, swaps and futures to manage risk exposures. The exposures are measured and monitored daily, and adjustments to the hedge portfolio are made as necessary.
+To evaluate interest rate and equity price risk, we perform sensitivity testing which measures the impact on pretax income from the sources listed below for a 12-month period following a hypothetical 100 basis point increase in interest rates or a hypothetical 10% decline in equity prices. The interest rate risk test assumes a sudden 100 basis point parallel shift in the yield curve, with rates then staying at those levels for the next 12 months. The equity price risk test assumes a sudden 10% drop in equity prices, with equity prices then staying at those levels for the next 12 months. In estimating the values of variable annuities, indexed annuities, indexed
+99
+Index
+AMERIPRISE FINANCIAL, INC.
+universal life ("IUL") insurance and the associated hedging instruments, we assume no change in implied market volatility despite the 10% drop in equity prices.
+The following tables present our estimate of the impact on pretax income from the above defined hypothetical market movements as of June 30, 2026:
+Equity Price Decline 10% | Equity Price Exposure to Pretax Income |
+Before Hedge Impact | Hedge Impact | Net Impact |
+(in millions) |
+Asset-based management and distribution fees (1)
+$ | (413) | $ | 3 | $ | (410) |
+Variable annuity and structured variable annuity benefits: |
+Market risk benefits | (721) | 395 | (326) |
+Indexing feature for structured variable annuities | 1,405 | (1,446) | (41) |
+Total variable annuity and structured variable annuity benefits | 684 | (1,051) | (367) |
+IUL insurance | 63 | (74) | (11) |
+Total | $ | 334 | $ | (1,122) | $ | (788) | (2) |
+Interest Rate Increase 100 Basis Points | Interest Rate Exposure to Pretax Income |
+Before Hedge Impact | Hedge Impact | Net Impact |
+(in millions) |
+Asset-based management and distribution fees (1)
+$ | (69) | $ | -- | $ | (69) |
+Variable annuity and structured variable annuity benefits: |
+Market risk benefits | 850 | (623) | 227 |
+Indexing feature for structured variable annuities | (26) | 176 | 150 |
+Total variable annuity and structured variable annuity benefits | 824 | (447) | 377 |
+Fixed annuities, fixed insurance and fixed portion of variable annuities and variable insurance products | 33 | -- | 33 |
+Banking deposits | 33 | -- | 33 |
+Brokerage client cash balances | 41 | -- | 41 |
+Certificates | (7) | -- | (7) |
+IUL insurance | 8 | 2 | 10 |
+Total | $ | 863 | $ | (445) | $ | 418 |
+(1) Excludes incentive income which is impacted by market and fund performance during the period and cannot be readily estimated.
+(2) Represents the net impact to pretax income. The estimated net impact to pretax adjusted operating income is $(410) million as of June 30, 2026.
+The above results compare to an estimated negative net impact to pretax income of $510 million related to a 10% equity price decline and an estimated positive net impact to pretax income of $514 million related to a 100 basis point increase in interest rates as of December 31, 2025.
+Net impacts shown in the above tables from market risk benefits result largely from differences between the liability valuation basis and the hedging basis. Liabilities are valued using fair value accounting principles, with risk margins incorporated in contractholder behavior assumptions. Our hedging is based on our determination of economic risk, which excludes certain items in the liability valuation.
+Actual results could and likely will differ materially from those illustrated above as fair values have a number of estimates and assumptions. For example, the illustration above includes assuming that implied market volatility does not change when equity prices fall by 10% and that the 100 basis point increase in interest rates is a parallel shift of the yield curve. Furthermore, we have not tried to anticipate changes in client preferences for different types of assets or other changes in client behavior, nor have we tried to anticipate all strategic actions management might take to increase revenues or reduce expenses in these scenarios.
+The selection of a 100 basis point interest rate increase as well as a 10% equity price decline should not be construed as a prediction of future market events. Impacts of larger or smaller changes in interest rates or equity prices will not be proportional to those shown for a 100 basis point increase in interest rates or a 10% decline in equity prices.
+Fixed Annuities, Fixed Insurance and Fixed Portion of Variable Annuities and Variable Insurance Contracts
+Our earnings from fixed deferred annuities, fixed insurance, and the fixed portion of variable annuities and variable insurance contracts are based upon the spread between rates earned on assets held and the rates at which interest is credited to accounts. We primarily invest in fixed rate securities to fund the rate credited to clients. We guarantee an interest rate to the holders of these products. Investment assets and client liabilities generally differ as it relates to basis, repricing or maturity characteristics. Rates credited to clients' accounts generally reset at shorter intervals than the yield on the underlying investments. Therefore, in an
+100
+Index
+AMERIPRISE FINANCIAL, INC.
+increasing interest rate environment, higher interest rates may be reflected in crediting rates to clients sooner than in rates earned on invested assets, which could result in a reduced spread between the two rates, reduced earned income and a negative impact on pretax income. While interest rates under the current environment have relieved some pressure from the liability guaranteed minimum interest rates ("GMIRs"), there are still some GMIRs above current levels. Hence, liability credited rates will move more slowly under a modest rise in interest rates while projected asset purchases would capture the full increase in interest rates. This dynamic would result in widening spreads under a modestly rising rate scenario given the current relationship between the current level of interest rates and the underlying GMIRs on the business. Of the $49.2 billion in Policyholder account balances, future policy benefits and claims as of June 30, 2026, $14.9 billion is related to liabilities created by these products. We do not hedge this exposure.
+As a result of the current market environment, reinvestment yields are becoming more aligned with the current portfolio yield. The carrying value and weighted average yield of non-structured fixed maturity securities and commercial mortgage loans that may generate proceeds to reinvest through June 30, 2028 due to prepayment, maturity or call activity at the option of the issuer, excluding securities with a make-whole provision, were $3.0 billion and 4.1%, respectively, as of June 30, 2026. In addition, residential mortgage backed securities, which can be subject to prepayment risk under a low interest rate environment, totaled $28.0 billion and had a weighted average yield of 4.7% as of June 30, 2026. While these amounts represent investments that could be subject to reinvestment risk, it is also possible that these investments will be used to fund liabilities or may not be prepaid and will remain invested at their current yields. In addition to the interest rate environment, the mix of benefit payments versus product sales as well as the timing and volumes associated with such mix may impact our investment yield. Furthermore, reinvestment activities and the associated investment yield may also be impacted by corporate strategies implemented at management's discretion. The average yield for investment purchases during the six months ended June 30, 2026 was approximately 4.8%.
+The reinvestment of proceeds from maturities, calls and prepayments at rates above the current portfolio yields will create potential upside impact to future operating results. In this volatile rate environment, we assess reinvestment risk in our investment portfolio and monitor this risk in accordance with our asset/liability management framework. In addition, we may update the crediting rates on our fixed products when warranted, subject to guaranteed minimums.
+See Note 8 to our Consolidated Financial Statements for more information on the account values of fixed deferred annuities, fixed insurance, and the fixed portion of variable annuities and variable insurance contracts by range of GMIRs and the range of the difference between rates credited to policyholders and contractholders as of June 30, 2026 and December 31, 2025 and the respective guaranteed minimums, as well as the percentage of account values subject to rate reset in the time period indicated.
+101
+Index
+AMERIPRISE FINANCIAL, INC.
+ITEM 4. CONTROLS AND PROCEDURES
+Disclosure Controls and Procedures
+We maintain disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) of the Securities Exchange Act of 1934, as amended (the "Exchange Act") designed to provide reasonable assurance that the information required to be reported in the Exchange Act filings is recorded, processed, summarized and reported within the time periods specified in and pursuant to U.S. Securities and Exchange Commission ("SEC") regulations, including controls and procedures designed to ensure that this information is accumulated and communicated to our management, including our principal executive officer and principal financial officer, as appropriate, to allow timely decisions regarding the required disclosure. It should be noted that, because of inherent limitations, our company's disclosure controls and procedures, however well designed and operated, can provide only reasonable, and not absolute, assurance that the objectives of the disclosure controls and procedures are met.
+Our management, under the supervision and with the participation of our principal executive officer and principal financial officer, evaluated the effectiveness of the disclosure controls and procedures as of the end of the period covered by this report. Based upon that evaluation, our company's principal executive officer and principal financial officer have concluded that our disclosure controls and procedures were effective at a reasonable level of assurance as of June 30, 2026.
+Changes in Internal Control over Financial Reporting
+There have not been any changes to our internal control over financial reporting (as such term is defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) during the second fiscal quarter of the year to which this report relates that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+102
+Index
+AMERIPRISE FINANCIAL, INC.
+PART II. OTHER INFORMATION
+ITEM 1. LEGAL PROCEEDINGS
+The information set forth in Note 17 to the Consolidated Financial Statements in Part I, Item 1 is incorporated herein by reference.
+ITEM 1A. RISK FACTORS
+There have been no material changes in the risk factors provided in Part I, Item 1A of our 2025 10-K.
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES, USE OF PROCEEDS, AND ISSUER PURCHASES OF EQUITY SECURITIES
+The following table presents the information with respect to purchases made by or on behalf of Ameriprise Financial, Inc. or any "affiliated purchaser" (as defined in Rule 10b-18(a)(3) under the Securities Exchange Act of 1934), of our common stock during the second quarter of 2026:
+Period
+(a) | (b) | (c) | (d) |
+Total Number
+of Shares Purchased
+Average Price
+Paid Per Share
+Total Number of Shares Purchased as part of Publicly Announced Plans or Programs (1)
+Approximate Dollar Value of Shares that May Yet Be Purchased Under the Plans or Programs (1)
+April 1 to April 30, 2026
+Share repurchase program (1)
+289,045 | $ | 465.35 | 289,045 | $ | 1,695,743,463 |
+Employee transactions (2)
+6,133 | $ | 472.70 | N/A | N/A |
+May 1 to May 31, 2026
+Share repurchase program (1)
+569,436 | $ | 465.38 | 569,436 | $ | 1,430,741,516 |
+Employee transactions (2)
+25,107 | $ | 469.24 | N/A | N/A |
+June 1 to June 30, 2026
+Share repurchase program (1)
+814,603 | $ | 460.35 | 814,603 | $ | 1,055,740,889 |
+Employee transactions (2)
+24,153 | $ | 465.06 | N/A | N/A |
+Totals |
+Share repurchase program (1)
+1,673,084 | $ | 462.92 | 1,673,084 |
+Employee transactions (2)
+55,393 | $ | 467.80 | N/A |
+1,728,477 | 1,673,084 |
+N/A Not applicable.
+(1) On April 22, 2025, our Board of Directors authorized $4.5 billion for the repurchase of our common stock through June 30, 2027. The share repurchase program does not require the purchase of any minimum number of shares, and depending on market conditions and other factors, these purchases may be commenced or suspended at any time without prior notice. Acquisitions under the share repurchase program may be made in the open market, through privately negotiated transactions or block trades or other means.
+(2) Includes restricted shares withheld pursuant to the terms of awards under the Company's share-based compensation plans to offset tax withholding obligations that occur upon vesting and release of restricted shares. The value of the restricted shares withheld is the closing price of common stock of Ameriprise Financial, Inc. on the date the relevant transaction occurs. Also includes shares withheld pursuant to the net settlement of Non-Qualified Stock Option ("NQSO") exercises to offset tax withholding obligations that occur upon exercise and to cover the strike price of the NQSO. The value of the shares withheld pursuant to the net settlement of NQSO exercises is the closing price of common stock of Ameriprise Financial, Inc. on the day prior to the date the relevant transaction occurs.
+ITEM 5. OTHER INFORMATION
+During the three months ended June 30, 2026, no director or officer of the Company adopted, modified or terminated a "Rule 10b5-1 trading arrangement" or "non-Rule 10b5-1 trading arrangement," as each term is defined in Item 408(a) of Regulation S-K.
+103
+Index
+AMERIPRISE FINANCIAL, INC.
+ITEM 6. EXHIBITS
+Pursuant to the rules and regulations of the Securities and Exchange Commission, we have filed certain agreements as exhibits to this Quarterly Report on Form 10-Q. These agreements may contain representations and warranties by the parties. These representations and warranties have been made solely for the benefit of the other party or parties to such agreements and (i) may have been qualified by disclosures made to such other party or parties, (ii) were made only as of the date of such agreements or such other date(s) as may be specified in such agreements and are subject to more recent developments, which may not be fully reflected in our public disclosure, (iii) may reflect the allocation of risk among the parties to such agreements and (iv) may apply materiality standards different from what may be viewed as material to investors. Accordingly, these representations and warranties may not describe our actual state of affairs at the date hereof and should not be relied upon.

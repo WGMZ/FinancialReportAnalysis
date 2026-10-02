@@ -1,0 +1,87 @@
+# FIS 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/1136893/000113689326000050/fis-20260630.htm
+# full_doc_chars=207063
+
+
+----- [line 1158] -----
+A regular quarterly dividend of $0.44 per common share is payable on September 25, 2026, to shareholders of record as of the close of business on September 11, 2026. We currently expect to continue to pay quarterly dividends targeting dividend-per-share growth aligned to adjusted earnings-per-share growth. However, the amount, declaration and payment of future dividends are at the discretion of the Board of Directors and depend on, among other things, our investment opportunities (including potential mergers and acquisitions), results of operations, financial condition, cash requirements, future prospects, and other factors, including legal and contractual restrictions, that may be considered relevant by our Board of Directors. Additionally, the payment of cash dividends may be limited by covenants in certain debt agreements.
+In August 2024, the Company's Board of Directors approved a share repurchase program authorizing the repurchase of up to $3.0 billion in aggregate value of shares of our common stock. Repurchases under the program may be made from time to time at management's discretion through open market purchases, privately negotiated transactions, or pursuant to Rule 10b5-1 plans. The program does not have an expiration date and may be suspended, amended or discontinued at any time. During the quarter ended June 30, 2026, the Company repurchased approximately 1.0 million shares for approximately $42 million. As of June 30, 2026, approximately $1.7 billion remained available for repurchase under the program. Following the closing of the Issuer Solutions Acquisition, the Company has temporarily curtailed repurchases under this program and may resume at management's discretion, taking into account our target leverage ratio.
+Cash Flows from Operations
+Our net cash provided by operating activities consists primarily of net earnings, adjusted to add back depreciation and amortization and other non-cash items, including asset impairments. Cash flows from operations were $1,207 million and $839 million for the six-month periods ended June 30, 2026 and 2025, respectively. Cash flows from operations increased $368 million during the six months ended June 30, 2026, primarily due to improved operating performance.
+Cash Flows from Investing
+Our principal investing activity relates to capital expenditures for software (purchased and internally developed) and property and equipment. We invested approximately $517 million and $451 million in capital expenditures (excluding purchases of certain hardware and software subject to financing or other long-term payment arrangements) during the six-month periods ended June 30, 2026 and 2025, respectively. We expect to continue investing in software and in property and equipment to support our business.
+We also invest in acquisitions that complement and extend our existing solutions and capabilities and provide additional solutions to our portfolio, and we dispose of assets that are no longer considered strategic. We used approximately $7,859 million and $197 million of cash (net of cash acquired) for new acquisitions during the six-month periods ended June 30, 2026 and 2025, respectively. In the first half of 2025, in connection with the conveyance of RealNet to Buyer as part of the 2024 Worldpay Sale, we divested approximately $1.4 billion in cash, cash equivalents and restricted cash included in current assets held for sale at the date of transfer. While we expect to continue to invest in acquisitions as part of our strategy to add solutions to help win new clients and cross-sell to existing clients, the Company expects to limit further investment in acquisitions to accelerate deleveraging until it returns to its target leverage ratio.
+We received regular cash distributions from Worldpay pursuant to the terms of a Limited Liability Company Operating Agreement until the completion of the 2026 Worldpay Minority Interest Sale. During the six months ended June 30, 2026 and 2025, we received distributions of $32 million and $66 million, respectively, from Worldpay recorded as investing cash flows.
+Cash flows from investing also occasionally include cash received or paid relative to other activities that are not regularly recurring in nature.
+41
+Table of Contents
+Cash Flows from Financing
+Cash flows from financing principally involve borrowing funds, repaying debt, repurchasing shares and paying dividends. For information regarding the Company's debt and financing activity, see "Risk Factors--Risks Related to Our Indebtedness" in Item 1A and "Quantitative and Qualitative Disclosures About Market Risk" of our Annual Report on Form 10-K filed on February 24, 2026, and "Quantitative and Qualitative Disclosures About Market Risk--Interest Rate Risk" in Item 3 below as well as Notes 7 and 8 to the consolidated financial statements.
+Contractual Obligations
+There were no material changes in our contractual obligations through the six months ended June 30, 2026, in comparison to the table included in our Annual Report on Form 10-K for the year ended December 31, 2025, except as disclosed in Notes 7 and 8 to the consolidated financial statements.
+Recent Accounting Pronouncements
+See Note 1 to the consolidated financial statements for information on recently adopted accounting guidance and recent accounting guidance not yet adopted.
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+Market Risk
+We are exposed to market risks primarily from changes in interest rates and foreign currency exchange rates. We periodically use certain derivative financial instruments, including interest rate swaps, cross-currency interest rate swaps and foreign currency forward contracts, to manage interest rate and foreign currency risk. We do not use derivatives for trading purposes, to generate income or to engage in speculative activity.
+Interest Rate Risk
+In addition to existing cash balances and cash provided by operating activities, we use fixed-rate and variable-rate debt to finance our operations. We are exposed to interest rate risk on these debt obligations.
+Our fixed rate senior notes (as included in Note 7 to the consolidated financial statements) represent the majority of our fixed-rate long-term debt obligations as of June 30, 2026. Excluding unamortized discounts and the fair value basis adjustments due to interest rate swaps described below, the carrying value of our senior notes was $16.9 billion as of June 30, 2026. The fair value of our fixed-rate senior notes was approximately $16.1 billion as of June 30, 2026. The potential reduction in fair value of the fixed-rate senior notes from a hypothetical 10% increase in market interest rates would not be material to the overall fair value of the debt.
+Our variable-rate risk principally relates to our EUR floating rate senior notes and borrowings under our U.S. commercial paper program, Euro-commercial paper program, and revolving credit facilities (as included in Note 7 to the consolidated financial statements) (collectively, "variable-rate debt"). The variable-rate risk on USD floating rate senior notes is hedged using interest rate swaps as cash flow hedges (see Note 8). At June 30, 2026, our weighted-average cost of debt was 3.8%, with a weighted-average maturity of 3.8 years, and 76% of our debt was fixed rate, and the remaining 24% was variable-rate debt, inclusive of fair value basis adjustments due to interest rate swaps. A 100 basis-point increase in the weighted-average interest rate on our variable-rate debt as of June 30, 2026, would have increased our annual interest expense by $50 million. We performed the foregoing sensitivity analysis based solely on the outstanding balance of our variable-rate debt as of June 30, 2026. This sensitivity analysis does not take into account any changes that occurred in the prior 12 months or that may take place in the next 12 months in the amount of our outstanding debt. Further, this sensitivity analysis assumes the change in interest rates is applicable for an entire year. For comparison purposes, based on the outstanding balance of our variable-rate debt as of June 30, 2025, and calculated in the same manner as set forth above, an increase of 100 basis points in the weighted-average interest rate would have increased our annual interest expense by approximately $17 million.
+42
+Table of Contents
+Foreign Currency Risk
+We are exposed to foreign currency risks that arise from normal business operations. These risks include the translation of local currency balances of foreign subsidiaries, transaction gains and losses associated with intercompany loans with foreign subsidiaries and transactions denominated in currencies other than a location's functional currency. We may manage the exposure to these risks through a combination of normal operating activities and the use of foreign currency forward contracts and non-derivative and derivative instruments.
+Our exposure to foreign currency exchange risks generally arises from our non-U.S. operations, to the extent they are conducted in local currency. Changes in foreign currency exchange rates affect translations of revenue denominated in currencies other than the U.S. Dollar. We generated approximately $490 million and $313 million during the three months and $971 million and $619 million during the six months ended June 30, 2026 and 2025, respectively, in revenue denominated in currencies other than the U.S. Dollar. The major currencies to which our revenue is exposed are the British Pound Sterling, Euro, Australian Dollar, Swedish Krona, Brazilian Real, Swiss Franc and Canadian Dollar. A 10% movement in average exchange rates for these currencies (assuming a simultaneous and immediate 10% change in all of such rates for the relevant period) would have resulted in the following increase or decrease in our reported revenue for the three and six months ended June 30, 2026 and 2025 (in millions):
+Three months ended
+June 30,
+Six months ended
+June 30,
+Currency | 2026 | 2025 | 2026 | 2025 |
+Pound Sterling | $ | 25 | $ | 12 | $ | 50 | $ | 23 |
+Euro | 8 | 7 | 17 | 13 |
+Real | 2 | 1 | 4 | 3 |
+Australian Dollar | 3 | 2 | 5 | 5 |
+Swedish Krona | 2 | 2 | 4 | 4 |
+Swiss Franc | 2 | 1 | 3 | 3 |
+Canadian Dollar | 2 | 1 | 4 | 2 |
+Total increase or decrease | $ | 44 | $ | 26 | $ | 87 | $ | 53 |
+While our results of operations have been impacted by the effects of currency fluctuations, our international operations' revenue and expenses are generally denominated in local currency, which reduces our economic exposure to foreign exchange risk in those jurisdictions.
+Our foreign exchange risk management policy permits the use of derivative instruments, such as forward contracts and options, to reduce volatility in our results of operations and/or cash flows resulting from foreign exchange rate fluctuations. We do not enter into foreign currency derivative instruments for trading purposes or to engage in speculative activity. We do periodically enter into foreign currency forward contracts to hedge foreign currency exposure to intercompany loans, other balance sheet items or expected foreign currency cash flows resulting from forecasted transactions. The Company also utilizes foreign currency-denominated debt and cross-currency interest rate swaps designated as net investment hedges in order to reduce the volatility of the net investment value of certain of its non-U.S. dollar functional currency subsidiaries and utilizes cross-currency interest rate swaps designated as fair value hedges in order to mitigate the impact of foreign currency risk associated with our foreign currency-denominated debt (see Note 8 to the consolidated financial statements).
+Item 4. Controls and Procedures
+As of the end of the period covered by this report, we carried out an evaluation, under the supervision and with the participation of our principal executive officer and principal financial officer, of the effectiveness of the design and operation of our disclosure controls and procedures, as such term is defined in Rule 13a-15(e) under the Securities Exchange Act of 1934, as amended (the "Exchange Act"). Based on this evaluation, our principal executive officer and principal financial officer concluded that our disclosure controls and procedures were effective to ensure that information required to be disclosed by us in the reports that we file or submit under the Exchange Act is (a) recorded, processed, summarized and reported within the time periods specified in the Commission's rules and forms and (b) accumulated and communicated to management, including our principal executive and principal financial officers, as appropriate to allow timely decisions regarding required disclosure.
+We completed the Issuer Solutions Acquisition on January 9, 2026 (see Notes 1 and 3 of the Notes to Condensed consolidated financial statements). The scope of management's assessment of the effectiveness of the Company's disclosure
+43
+Table of Contents
+controls and procedures did not include the internal controls over financial reporting of the Issuer Solutions Business. This exclusion is in accordance with the SEC Staff's general guidance that an assessment of a recently acquired business may be omitted from the scope of management's assessment for one year following the acquisition. The Issuer Solutions Business represented approximately 19% of our gross revenue for the quarter ended June 30, 2026. Total assets of the acquired business as of June 30, 2026, represented approximately 33% of total consolidated assets, consisting principally of goodwill, software and other intangible assets.
+In connection with the closing of the Issuer Solutions Acquisition, we are in the process of integrating internal controls over significant processes specific to the acquisition that we believe are appropriate and necessary in consideration of the level of related integration. As the post-closing integration continues, we will continue to review the internal controls and processes of the Issuer Solutions Business and may take further steps to integrate such controls and processes with those of the Company.
+Other than this ongoing integration there have been no changes in our internal control over financial reporting that occurred during the most recent fiscal quarter that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+Part II: OTHER INFORMATION
+Item 1A. Risk Factors
+See Item 1A. Risk Factors in our Annual Report on Form 10-K for the year ended December 31, 2025, for a detailed discussion of risk factors affecting the Company. There have been no material changes in the risk factors described therein.
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+The following table summarizes purchases of equity securities by the issuer during the three-month period ended June 30, 2026:
+Total cost of shares |
+purchased as part of |
+Total | publicly announced | Remaining |
+shares purchased (1) | Average price | plans or programs (1) | Authorization (1) |
+Period | (in millions) | paid per share | (in millions) | (in millions) |
+April 1-30, 2026 | -- | $ | -- | $ | 1,792 |
+May 1-31, 2026 | 0.8 | $ | 42.57 | 32.7 | $ | 1,759 |
+June 1-30, 2026 | 0.2 | $ | 39.68 | 9.1 | 1,750 |
+1.0 | $ | 41.8 |
+(1)In August 2024, our Board of Directors approved a share repurchase program authorizing the repurchase of up to $3.0 billion in aggregate value of shares of our common stock. Repurchases under the program may be made from time to time at management's discretion through open market purchases, privately negotiated transactions, or pursuant to Rule 10b5-1 plans. The program does not have an expiration date, and may be suspended, amended or discontinued at any time. As of June 30, 2026, approximately $1.7 billion remained available for repurchase under the program.
+Item 5. Other Information
+Rule 10b5-1 Trading Arrangements
+During the period covered by this report, none of the Company's directors or executive officers adopted or terminated a Rule 10b5-1 trading arrangement or a non-Rule 10b5-1 trading arrangement (each as defined in Item 408 of Regulation S-K under the Exchange Act).
+44
+Table of Contents
+Item 6. Exhibits
+Incorporated by Reference |
+Exhibit | SEC File | Filed/ Furnished |
+No. | Exhibit Description | Form | Number | Exhibit | Filing Date | Herewith |
+31.1 | Certification of Stephanie Ferris, Chief Executive Officer of Fidelity National Information Services, Inc., pursuant to rule 13a-14(a) or 15d-14(a) of the Exchange Act, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+* |
+31.2 | Certification of James Kehoe, Chief Financial Officer of Fidelity National Information Services, Inc., pursuant to rule 13a-14(a) or 15d-14(a) of the Exchange Act, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+* |
+32.1 | Certification of Stephanie Ferris, Chief Executive Officer of Fidelity National Information Services, Inc., pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.

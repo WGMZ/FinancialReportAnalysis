@@ -1,0 +1,292 @@
+# UWMC 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/1783398/000178339826000117/uwmc-20260630.htm
+# full_doc_chars=210353
+
+
+----- [line 305] -----
+Table of Contents
+In December 2025, the FASB issued ASU 2025-11, Interim Reporting (Topic 270): Narrow-Scope Improvements, which improves the consistency of interim financial reporting requirements and introduces a new requirement to disclose material events occurring after the end of the most recent annual reporting period. The ASU may be applied either prospectively or retrospectively for interim periods beginning after December 15, 2027. Early adoption is permitted. The Company is currently evaluating the potential impacts of the guidance in this ASU and will include the required disclosures in its interim consolidated financial statements once adopted.
+NOTE 2 - MORTGAGE LOANS AT FAIR VALUE
+The table below includes the estimated fair value and unpaid principal balance ("UPB") of mortgage loans that have contractual principal amounts and for which the Company has elected the fair value option. The fair value option has been elected for mortgage loans, as this accounting treatment best reflects the economic consequences of the Company's mortgage origination and related hedging and risk management activities. The difference between the UPB and estimated fair value is made up of the premiums paid on mortgage loans, as well as the fair value adjustment as of the balance sheet date. The change in fair value adjustment is recorded in the "Loan production income" line item of the condensed consolidated statements of operations.
+(In thousands) | June 30,
+2026 | December 31,
+2025 |
+Mortgage loans, unpaid principal balance | $ | 9,404,670 | $ | 9,735,186 |
+Premiums paid on mortgage loans | 139,978 | 121,140 |
+Fair value adjustment | 74,428 | 76,403 |
+Mortgage loans at fair value | $ | 9,619,076 | $ | 9,932,729 |
+NOTE 3 - DERIVATIVES
+The Company enters into interest rate lock commitments ("IRLCs") to originate residential mortgage loans at specified interest rates and terms within a specified period of time with customers who have applied for a loan and may meet certain credit and underwriting criteria. To determine the fair value of the IRLCs, each contract is evaluated based upon its stage in the application, approval and origination process for its likelihood of consummating the transaction (or "pullthrough"). Pullthrough is estimated based on changes in market conditions, loan stage, and actual borrower behavior using a historical analysis of IRLC closing rates. Generally, the further into the process the more likely that the IRLC will convert to a loan. The blended average pullthrough rate was 81% and 78% as of June 30, 2026 and December 31, 2025, respectively. The Company primarily uses forward loan sale commitments ("FLSCs") to economically hedge its pipeline of IRLCs and mortgage loans at fair value. From time to time, the Company enters into other interest rate derivatives as part of its overall interest rate risk mitigation strategy. These other derivative financial instruments are measured at estimated fair value with changes in fair value recorded in the condensed consolidated statements of operations within the "Gain (loss) on other interest rate derivatives" line item in the "Other gains (losses), net" section.
+The notional amounts and fair values of derivative financial instruments not designated as hedging instruments were as follows (in thousands):
+June 30, 2026 | December 31, 2025 |
+Fair value | Fair value |
+Derivative
+assets | Derivative
+liabilities | Notional
+Amount | Derivative
+assets | Derivative
+liabilities | Notional
+Amount |
+IRLCs | $ | 18,847 | $ | 15,531 | $ | 12,679,990 | (a) | $ | 27,780 | $ | 6,475 | $ | 12,221,203 | (a) |
+FLSCs | 22,677 | 18,035 | 18,247,435 | 9,787 | 20,099 | 16,964,025 |
+Other interest rate derivatives
+42,077 | -- | 12,805,000 | -- | -- | -- |
+Total | $ | 83,601 | $ | 33,566 | $ | 37,567 | $ | 26,574 |
+(a)Notional amounts have been adjusted for pullthrough rates of 81% and 78% as of June 30, 2026 and December 31, 2025, respectively.
+Table of Contents
+NOTE 4 - ACCOUNTS RECEIVABLE, NET
+The following summarizes accounts receivable, net (in thousands):
+June 30,
+2026 | December 31,
+2025 |
+Servicing fees | $ | 150,029 | $ | 136,780 |
+Servicing advances | 127,089 | 177,281 |
+Receivables from sales of servicing | 110,413 | 128,223 |
+Margin deposits
+101,819 | 51,103 |
+Origination receivables | 38,225 | 28,079 |
+Other receivables | 10,688 | 2,018 |
+Derivative settlements receivable | 9,704 | 7,918 |
+Provision for current expected credit losses | (16,178) | (4,708) |
+Total accounts receivable, net | $ | 531,790 | $ | 526,694 |
+The Company periodically evaluates the carrying value of accounts receivable balances with delinquent receivables being written-off based on specific credit evaluations and circumstances of the debtor.
+NOTE 5 - MORTGAGE SERVICING RIGHTS
+Mortgage servicing rights are recognized on the condensed consolidated balance sheets when loans are sold and the associated servicing rights are retained. The Company's MSRs are measured at fair value, which is determined using a valuation model that calculates the present value of estimated future net servicing cash flows. The model includes estimates of prepayment speeds, discount rates, costs to service, float earnings, contractual servicing fee income, and ancillary income and late fees, among others. These estimates are supported by market and economic data collected from various external sources.
+The unpaid principal balance of mortgage loans serviced for others approximated $247.6 billion and $240.8 billion at June 30, 2026 and December 31, 2025, respectively. Conforming conventional loans serviced by the Company have previously been sold to Fannie Mae and Freddie Mac on a non-recourse basis, whereby credit losses are generally the responsibility of Fannie Mae and Freddie Mac, and not the Company. Loans serviced for Ginnie Mae are insured by the FHA, guaranteed by the VA, or insured by other applicable government programs. While the above guarantees and insurance are the responsibility of those parties, the Company is still subject to potential losses related to its servicing of these loans. Those estimated losses are incorporated into the valuation of MSRs.
+The following table summarizes changes in the MSR assets for the three and six months ended June 30, 2026 and 2025 (in thousands):
+For the three months ended June 30, | For the six months ended June 30, |
+2026 | 2025 | 2026 | 2025 |
+Fair value, beginning of period | $ | 4,591,855 | $ | 3,321,457 | $ | 4,073,781 | $ | 3,969,881 |
+Capitalization of MSRs | 1,041,838 | 901,271 | 2,142,855 | 1,636,842 |
+MSR and excess servicing sales | (218,673) | (684,105) | (822,996) | (1,694,230) |
+Changes in fair value: |
+Due to changes in valuation inputs and assumptions | 65,056 | 3,154 | 312,953 | (247,667) |
+Due to collection/realization of cash flows and other | (168,611) | (96,582) | (395,128) | (219,631) |
+Fair value, end of period | $ | 5,311,465 | $ | 3,445,195 | $ | 5,311,465 | $ | 3,445,195 |
+Table of Contents
+The following is a summary of the components of the total change in fair value of MSRs as reported in the condensed consolidated statements of operations (in thousands):
+For the three months ended June 30, | For the six months ended June 30, |
+2026 | 2025 | 2026 | 2025 |
+Changes in fair value: |
+Due to changes in valuation inputs and assumptions, net | $ | 65,056 | $ | 3,154 | $ | 312,953 | $ | (247,667) |
+Due to collection/realization of cash flows and other | (168,611) | (96,582) | (395,128) | (219,631) |
+Net reserves and transaction costs on sales of servicing rights | (19,128) | (17,993) | (50,843) | (32,708) |
+Changes in fair value of mortgage servicing rights | $ | (122,683) | $ | (111,421) | $ | (133,018) | $ | (500,006) |
+During the three months ended June 30, 2026 and 2025, the Company sold MSRs on loans with an aggregate UPB of approximately $12.1 billion and $34.9 billion, respectively, for proceeds of approximately $218.6 million and $494.9 million, respectively. There were no excess servicing cash flow sales during the three months ended June 30, 2026. During the three months ended June 30, 2025, the Company sold excess servicing cash flows on certain agency loans with a total UPB of approximately $21.5 billion for proceeds of approximately $201.2 million. In connection with the MSR sales during the three months ended June 30, 2026 and 2025, the Company recorded approximately $19.1 million and $18.0 million, respectively, for estimated reserves and transaction costs, which is reflected as part of the change in fair value of MSRs in the condensed consolidated statements of operations.
+During the six months ended June 30, 2026 and 2025, the Company sold MSRs on loans with an aggregate UPB of approximately $51.8 billion and $88.3 billion, respectively, for proceeds of approximately $822.7 million and $1.3 billion, respectively. There were no excess servicing cash flow sales during the six months ended June 30, 2026. During the six months ended June 30, 2025, the Company sold excess servicing cash flows on certain agency loans with a total UPB of approximately $41.4 billion for proceeds of approximately $386.0 million. In connection with the MSR sales during the six months ended June 30, 2026 and 2025, the Company recorded approximately $50.8 million and $32.7 million, respectively, for estimated reserves and transaction costs, which is reflected as part of the change in fair value of MSRs in the condensed consolidated statements of operations.
+The following table summarizes the loan servicing income recognized during the three and six months ended June 30, 2026 and 2025 (in thousands):
+For the three months ended June 30, | For the six months ended June 30, |
+
+----- [line 555] -----
+Fair value is defined under U.S. GAAP as the price that would be received if an asset were sold or the price that would be paid to transfer a liability in an orderly transaction between willing market participants at the measurement date. Required disclosures include classification of fair value measurements within a three-level hierarchy (Level 1, Level 2 and Level 3). Classification of a fair value measurement within the hierarchy is dependent on the classification and significance of the inputs used to determine the fair value measurement. Observable inputs are those that are observed, implied from, or corroborated with externally available market information. Unobservable inputs represent the Company's estimates of market participants' assumptions.
+Fair value measurements are classified in the following manner:
+Level 1--Valuation is based on quoted prices in active markets for identical assets or liabilities at the measurement date.
+Level 2--Valuation is based on either observable prices for identical assets or liabilities in inactive markets, observable prices for similar assets or liabilities, or other inputs that are derived directly from, or through correlation to, observable market data at the measurement date.
+Level 3--Valuation is based on the Company's or others' models using significant unobservable assumptions at the measurement date that a market participant would use.
+In determining fair value measurements, the Company uses observable inputs whenever possible. The level of a fair value measurement within the hierarchy is dependent on the lowest level of input that has a significant impact on the measurement as a whole. If quoted market prices are available at the measurement date or are available for similar instruments,
+Table of Contents
+such prices are used in the measurements. If observable market data is not available at the measurement date, judgment is required to measure fair value.
+The following is a description of measurement techniques for items recorded at fair value on a recurring basis. There were no material items recorded at fair value on a nonrecurring basis as of June 30, 2026 or December 31, 2025.
+Mortgage loans at fair value: The Company has elected the fair value option for mortgage loans. The fair values of mortgage loans are based on valuation models that use the market price for similar loans sold in the secondary market. As these prices are derived from market observable inputs, they are categorized as Level 2.
+IRLCs: The Company's interest rate lock commitments are derivative instruments that are recorded at fair value based on valuation models that use the market price for similar loans sold in the secondary market. The IRLCs are then subject to an estimated loan funding probability, or "pullthrough rate." Given the significant and unobservable nature of the pullthrough rate assumption, IRLC fair value measurements are classified as Level 3.
+FLSCs: The Company enters into forward loan sales commitments to sell certain mortgage loans which are recorded at fair value based on valuation models. The Company's expectation of the amount of its interest rate lock commitments that will ultimately close is a factor in determining the position. The valuation models utilize the fair value of related mortgage loans determined using observable market data, and therefore, the fair value measurements of these commitments are categorized as Level 2.
+Other interest rate derivatives: The Company has entered into other interest rate derivatives as part of its overall interest rate risk mitigation strategy. These financial instruments are generally comprised of interest rate swap futures, treasury futures, and forward loan purchase commitments. The interest rate swap and treasury futures are valued based on quoted prices in an active market and are therefore categorized as Level 1. The forward loan purchase commitments are valued based on observable market data and therefore categorized as Level 2. None of these other derivative financial instruments were outstanding as of December 31, 2025.
+Investment securities at fair value, pledged: The Company has previously sold mortgage loans that it originates through its private label securitization transactions. In executing these securitizations, the Company sells mortgage loans to a securitization trust for cash and, in some cases, retained interests in the trust. The Company has elected the fair value option for subsequently measuring the retained beneficial interests in the securitization trusts. The fair value of these investment securities is primarily based on observable market data and therefore categorized as Level 2.
+MSRs: The fair value of MSRs is determined using a valuation model that calculates the present value of estimated future net servicing cash flows. The model includes estimates of prepayment speeds, discount rates, cost to service, float earnings, contractual servicing fee income, and ancillary income and late fees, among others. These estimates are supported by market and economic data collected from various sources. These fair value measurements are classified as Level 3.
+Table of Contents
+Financial Instruments - Assets and Liabilities Measured at Fair Value on a Recurring Basis
+The following are the major categories of financial assets and liabilities measured at fair value on a recurring basis (in thousands):
+June 30, 2026 |
+Description | Level 1 | Level 2 | Level 3 | Total |
+Assets: |
+Mortgage loans at fair value | $ | -- | $ | 9,619,076 | $ | -- | $ | 9,619,076 |
+IRLCs | -- | -- | 18,847 | 18,847 |
+FLSCs | -- | 22,677 | -- | 22,677 |
+Other interest rate derivatives | 21,819 | 20,258 | -- | 42,077 |
+Investment securities at fair value, pledged | -- | 96,044 | -- | 96,044 |
+Mortgage servicing rights | -- | -- | 5,311,465 | 5,311,465 |
+Total assets | $ | 21,819 | $ | 9,758,055 | $ | 5,330,312 | $ | 15,110,186 |
+Liabilities: |
+IRLCs | $ | -- | $ | -- | $ | 15,531 | $ | 15,531 |
+FLSCs | -- | 18,035 | -- | 18,035 |
+Total liabilities | $ | -- | $ | 18,035 | $ | 15,531 | $ | 33,566 |
+December 31, 2025 |
+Description | Level 1 | Level 2 | Level 3 | Total |
+Assets: |
+Mortgage loans at fair value | $ | -- | $ | 9,932,729 | $ | -- | $ | 9,932,729 |
+IRLCs | -- | -- | 27,780 | 27,780 |
+FLSCs | -- | 9,787 | -- | 9,787 |
+Investment securities at fair value, pledged | -- | 100,512 | -- | 100,512 |
+Mortgage servicing rights | -- | -- | 4,073,781 | 4,073,781 |
+Total assets | $ | -- | $ | 10,043,028 | $ | 4,101,561 | $ | 14,144,589 |
+Liabilities: |
+IRLCs | $ | -- | $ | -- | $ | 6,475 | $ | 6,475 |
+FLSCs | -- | 20,099 | -- | 20,099 |
+Total liabilities | $ | -- | $ | 20,099 | $ | 6,475 | $ | 26,574 |
+The following table presents quantitative information about the inputs used in recurring Level 3 fair value financial instruments and the fair value measurements for IRLCs:
+Unobservable Input - IRLCs | June 30, 2026 | December 31, 2025 |
+Pullthrough rate (weighted avg.)
+81 | % | 78 | % |
+Refer to Note 5 - Mortgage Servicing Rights for further information on the unobservable inputs used in measuring the fair value of the Company's MSRs and for the roll-forward of MSRs for the three and six months ended June 30, 2026.
+Level 3 Issuances and Transfers
+The Company enters into IRLCs which are considered derivatives. If the contract converts to a loan, the implied value, which is solely based upon interest rate changes, is incorporated in the basis of the fair value of the loan. If the IRLC does not convert to a loan, the basis is reduced to zero as the contract has no continuing value. The Company does not track the basis of the individual IRLCs that convert to a loan, as that amount has no relevance to the presented condensed consolidated financial statements.
+Other Financial Instruments
+The following table presents the carrying amounts and estimated fair value of the Company's financial liabilities that are not measured at fair value on a recurring or nonrecurring basis (in thousands):
+Table of Contents
+June 30, 2026 | December 31, 2025 |
+Carrying Amount | Estimated Fair Value | Carrying Amount | Estimated Fair Value |
+2027 Senior Notes, due 6/15/27 | $ | 499,170 | $ | 495,595 | $ | 498,736 | $ | 502,120 |
+2029 Senior Notes, due 4/15/29 | 697,558 | 651,112 | 697,120 | 695,205 |
+2030 Senior Notes, due 2/1/30
+795,019 | 745,112 | 794,324 | 810,040 |
+2031 Senior Notes, due 3/15/31
+992,581 | 891,610 | 991,795 | 998,580 |
+Total senior notes
+$ | 2,984,328 | $ | 2,783,429 | $ | 2,981,975 | $ | 3,005,945 |
+The fair value of the 2027, 2029, 2030, and 2031 Senior Notes was estimated using Level 2 inputs, including observable trading information from independent sources.
+Due to their nature and respective terms (including the variable interest rates on warehouse and other lines of credit and borrowings against investment securities), the carrying value of cash and cash equivalents, receivables, payables, borrowings against investment securities and warehouse and other lines of credit approximate their fair values as of June 30, 2026 and December 31, 2025, respectively.
+NOTE 14 - RELATED PARTY TRANSACTIONS
+In the normal course of business, the Company has entered into in the following significant related party transactions:
+&#8226;The Company's corporate campus is located in buildings and on land that are owned by entities controlled by a current member of the Board of Directors and the Company's CEO and leased by the Company from these entities, one of which is classified as a finance lease. The Company also makes leasehold improvements to these properties for the benefit of the Company, for which the Company is responsible pursuant to the terms of the lease agreements;
+&#8226;Legal services are provided to the Company by a law firm in which one of the Company's directors is a partner;
+&#8226;The Company leases aircraft owned by entities controlled by the Company's CEO to facilitate travel of Company executives for business purposes. The Company's executive officers (other than the CEO) may, from time to time, be authorized by the CEO to use the aircraft for personal trips;
+
+----- [line 1101] -----
+Other interest rate derivatives | 12,805,000 | -- |
+(a) Adjusted for pullthrough rates of 81% and 78% as of June 30, 2026 and December 31, 2025, respectively.
+During the quarter, we exited positions for a significant number of interest rate derivatives that we had entered into at the end of the first quarter and beginning of the second quarter of 2026.
+As of June 30, 2026, we had sold $3.2 billion of loans to a global insured depository institution and assigned the related trades to deliver the applicable loans into securities for end investors for settlement in July 2026.
+Critical Accounting Estimates and Use of Significant Estimates
+Preparation of financial statements in accordance with U.S. GAAP requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements, and the reported amounts of revenues and expenses during the reporting period. We have identified certain accounting estimates as being critical because they require management to make difficult, subjective or complex judgments about matters that are uncertain. Actual results could differ and the use of other assumptions or estimates could result in material differences in our condensed consolidated financial statements. Our critical accounting policies and estimates relate to accounting for mortgage loans held at fair value and revenue recognition, mortgage servicing rights, derivative financial instruments and representations and warranties reserve. There were no significant changes to our policies, methodologies, or processes used in applying our critical accounting estimates from what was described in our 2025 Annual Report on Form 10-K.
+Table of Contents
+Cautionary Note Regarding Forward-Looking Statements
+This report contains "forward-looking statements" within the meaning of Section 27A of the Securities Act and Section 21E of the Exchange Act. These forward-looking statements relate to expectations for future financial performance, business strategies or expectations for our business. Specifically, forward-looking statements in this report include statements relating to:
+&#8226;our financial and operational performance;
+&#8226;future loan originations;
+&#8226;our client-based business strategies, business model, strategic initiatives, competitive advantages;
+&#8226;the impact of interest rate risks on our business and results of operations;
+&#8226;the benefits and risks associated with an Exchange Transaction;
+&#8226;the delays or failures to sell or securitize loans in the secondary market and its impact on our financial performance;
+&#8226;our hedging and risk mitigation strategies, including the natural hedges provided by our originations;
+&#8226;Our ability to successfully implement our hedging and risk mitigation strategies and the impact of unanticipated macroeconomic factors on such strategy;
+&#8226;the impacts of defaults on our business;
+&#8226;the potential impact of technological developments on our operations;
+&#8226;the impact of new tax laws and regulations on our financial results;
+&#8226;our accounting policies and the impacts to our agreements and financial results;
+&#8226;the renewal of our sale and repurchase and other financing agreements upon their maturity;
+&#8226;the quality of our loan portfolio;
+&#8226;our ability to increase or decrease the size of our warehouse lines to reflect anticipated increases or decreases in volume;
+&#8226;macroeconomic conditions that may affect our business and the mortgage industry in general;
+&#8226;the opportunity to sell our MSRs and excess servicing;
+&#8226;the impact of pending litigation on our financial position and the outcome of such litigation;
+&#8226;the sufficiency of our liquidity;
+&#8226;our repurchase and indemnification obligations for loans sold to investors and other contractual indemnification obligations; and
+&#8226;other statements preceded by, followed by or that include the words "may," "can," "should," "will," "estimate," "plan," "project," "forecast," "intend," "expect," "anticipate," "believe," "seek," "target" or similar expressions.
+These forward-looking statements involve estimates and assumptions which may be affected by risks and uncertainties in our business, as well as other external factors, which could cause future results to materially differ from those expressed or implied in any forward-looking statement including the following risks:
+&#8226;our dependence on macroeconomic and U.S. residential real estate market conditions, including changes in U.S. monetary policies that affect interest rates and inflation;
+&#8226;our reliance on our warehouse and other short-term financing facilities to fund mortgage loans and otherwise operate our business, leveraging of assets under these facilities and the risk of a decrease in the value of the collateral underlying certain of our facilities causing an unanticipated margin call;
+&#8226;our ability to access, and increase, warehouse lines to meet our anticipated growth;
+&#8226;the impact of actions taken by the Presidential Administration, including actions that could adversely impact inflation, interest rates, consumer discretionary income and confidence and home building starts, which could adversely affect our loan origination volume and profitability;
+&#8226;our ability to sell loans in the secondary market, including to government sponsored enterprises, and to securitize our loans into mortgage-backed securities through the GSEs and Ginnie Mae, and our ability to sell MSRs in the bulk MSR secondary market;
+Table of Contents
+&#8226;our dependence on the GSEs and the risk of changes to these entities and their roles, including, as a result of GSE reform, termination of conservatorship or efforts to increase the capital levels of the GSEs;
+&#8226;changes in the GSEs', FHA, USDA and VA guidelines or GSE and Ginnie Mae guarantees;
+&#8226;our ability to comply with all rules and regulations in connection with the launch of our internal servicing;
+&#8226;our dependence on licensed residential mortgage officers or entities, including brokers that arrange for funding of mortgage loans, or banks, credit unions or other entities that use their own funds or warehouse facilities to fund mortgage loans, but in any case do not underwrite or otherwise make the credit decision with regard to such mortgage loans to originate mortgage loans, as well as changes in banking regulations and capital requirements which may impact the availability of warehouse financing or otherwise affect liquidity in the residential mortgage industry;
+&#8226;our inability to continue to grow, or to effectively manage the growth of, our loan origination volume;
+&#8226;our ability to continue to attract and retain our Independent Mortgage Broker relationships;
+&#8226;the occurrence of a data breach or other failure in our cybersecurity or information security systems;
+&#8226;reliance on third-party software and services in our operations;
+&#8226;reliance on third-party sub-servicers to service our mortgage loans or our mortgage servicing rights;
+&#8226;the occurrence of data breaches or other cybersecurity failures at our third-party sub-servicers or other vendors;
+&#8226;intense competition in the mortgage industry;
+&#8226;our ability to implement and maintain technological innovations in our operations;
+&#8226;loss of key management;
+&#8226;our ability to continue to comply with the complex state and federal laws regulations or practices applicable to mortgage loan origination and servicing in general, including maintaining the appropriate state licenses, managing the costs and operational risk associated with material changes to such laws and the impact of recent changes in federal and state government administrations;
+&#8226;errors or the ineffectiveness of internal and external models or data we rely on to manage risk and make business decisions;
+&#8226;fines or other penalties associated with the conduct of Independent Mortgage Brokers;
+&#8226;the risk that we are or may become subject to legal actions that if decided adversely, could be detrimental to our business; and
+&#8226;those risks described in Item 1A - Risk Factors in our 2025 Annual Report on Form 10-K, as well as those described from time to time in our other filings with the SEC.
+All forward-looking statements speak only as of the date of this report and should not be relied upon as representing our views as of any subsequent date. We do not undertake any obligation to update forward-looking statements to reflect events or circumstances after the date they were made, whether as a result of new information, future events or otherwise, except as may be required under applicable securities laws.
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+In the normal course of business, we are subject to a variety of risks which can affect our operations and profitability. We broadly define these areas of risk as interest rate, credit and counterparty risk.
+Interest rate risk
+We are subject to interest rate risk which may impact our origination volume and associated revenue, MSR valuations, IRLCs and mortgage loans at fair value valuations, and the net interest margin derived from our origination activities. The fair value of MSRs is driven primarily by interest rates, which impact expected prepayments. In periods of rising interest rates, the fair value of the MSRs generally increases as expected prepayments decrease, consequently extending the estimated life of the MSRs, and estimated float earnings increase, resulting in expected increases in cash flows. In a declining interest rate environment, the fair value of MSRs generally decreases as expected prepayments increase consequently truncating the estimated life of the MSRs, and estimated float earnings decrease, resulting in expected decreases in cash flows. Loan origination volumes tend to increase in declining interest rate environments and decrease in increasing rate environments, therefore we believe that our origination business provides a natural hedge to servicing. We periodically evaluate our overall interest rate risk management strategy with respect to MSRs, which includes consideration of our natural business model hedge, regular sales of MSRs and excess servicing cash flows, and at times entering into other interest rate derivatives to mitigate the interest rate risk associated with all or a portion of our MSR portfolio.
+Table of Contents
+Our IRLCs and mortgage loans at fair value are exposed to interest rate volatility. During the origination, pooling, and delivery process, this pipeline value rises and falls with changes in interest rates. Because substantially all of our production is deliverable to Fannie Mae, Freddie Mac, and Ginnie Mae, we predominately utilize forward agency or Ginnie Mae To Be Announced ("TBA") securities as our primary hedge instrument. The TBA market is a secondary market where FLSCs or TBAs are sold by lenders seeking to hedge the risk that market interest rates may change and lock in a price for the mortgages they are in the process of originating.
+We assess our market risk based on changes in interest rates utilizing a sensitivity analysis. The sensitivity analysis measures the potential impact on fair values based on hypothetical changes (increases and decreases) in interest rates. Our total market risk is influenced by a wide variety of factors including market volatility and the liquidity of the markets. There are certain limitations inherent in the sensitivity analysis presented, including the necessity to conduct the analysis based on a single point in time and the inability to include the complex market reactions that normally would arise from the market shifts modeled. We used June 30, 2026 market rates on our instruments outstanding at that time to perform the sensitivity analysis. These sensitivities are hypothetical and presented for illustrative purposes only. Changes in fair value based on variations in assumptions generally cannot be extrapolated to our performance because the relationship of the change in fair value may not be linear nor does it factor ongoing operations. The following table summarizes the estimated change in the fair value of our mortgage loans at fair value, MSRs, IRLCs, FLSCs, and other interest rate derivatives as of June 30, 2026 given hypothetical instantaneous parallel shifts in the yield curve. Actual results could differ materially.
+June 30, 2026 |
+($ in thousands) | Down 25 bps | Up 25 bps |
+Increase (decrease) in assets |
+Mortgage loans at fair value | $ | 51,009 | $ | (61,761) |
+MSRs | (313,118) | 234,587 |
+IRLCs | 74,457 | (94,037) |
+Other interest rate derivatives
+152,979 | (163,032) |
+Total change in assets | $ | (34,673) | $ | (84,243) |
+Increase (decrease) in liabilities |
+FLSCs | $ | (126,609) | $ | 147,669 |
+Total change in liabilities | $ | (126,609) | $ | 147,669 |
+Credit risk
+We are subject to credit risk, which is the risk of default that results from a borrower's inability or unwillingness to make contractually required mortgage payments. While our loans are sold into the secondary market without recourse, we do have repurchase and indemnification obligations to investors for breaches under our loan sale agreements. For loans that were repurchased or not sold in the secondary market, we are subject to credit risk to the extent a borrower defaults and the proceeds upon ultimate foreclosure and liquidation of the property are insufficient to cover the amount of the mortgage loan plus expenses incurred. We believe that this risk is mitigated through the implementation of stringent underwriting standards, strong fraud detection tools and technology designed to comply with applicable laws and our standards. In addition, we believe that this risk is mitigated through the quality of our loan portfolio. For the three and six months ended June 30, 2026, our originated loans had a weighted average loan to value ratio of 82.67% and 81.94%, respectively, and a weighted average FICO score of 738 and 739, respectively. For the three and six months ended June 30, 2025, our originated loans had a weighted average loan to value ratio of 81.97% and 81.83%, respectively, and a weighted average FICO score of 735 and 736, respectively.
+Counterparty risk
+We are subject to risk that arises from our financing facilities and interest rate risk hedging activities. These activities generally involve an exchange of obligations with unaffiliated banks or companies, referred to in such transactions as "counterparties." If a counterparty were to default, we could potentially be exposed to financial loss if such counterparty were unable to meet its obligations to us. We manage this risk by selecting only counterparties that we believe to be financially strong, spreading the risk among many such counterparties, limiting singular credit exposures on the amount of unsecured credit extended to any single counterparty, and entering into master netting agreements with the counterparties as appropriate.
+In accordance with the best practices outlined by The Treasury Market Practices Group, we execute Securities Industry and Financial Markets Association trading agreements with our trading partners. Each such agreement provides for an exchange of margin should either party's exposure exceed a predetermined contractual limit. Such margin requirements limit our overall counterparty exposure. The master netting agreements contain a legal right to offset amounts due to and from the same
+Table of Contents
+counterparty. We incurred no losses due to nonperformance by any of our counterparties during the three or six months ended June 30, 2026 and 2025.
+Also, in the case of our financing facilities, we are subject to risk if the counterparty chooses not to renew a borrowing agreement and we are unable to obtain financing to originate mortgage loans. With our financing facilities, we seek to mitigate this risk by ensuring that we have sufficient borrowing capacity with a variety of well-established counterparties to meet our funding needs as well as by fostering long-term relationships.
+Item 4. Controls and Procedures
+Disclosure Controls and Procedures
+Disclosure controls and procedures are controls and other procedures that are designed to ensure that information required to be disclosed in our reports filed or submitted under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC's rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed in company reports filed or submitted under the Exchange Act is accumulated and communicated to management, including our Principal Executive Officer and Principal Financial Officer, to allow timely decisions regarding required disclosure.
+As required by Rules 13a-15 and 15d-15 under the Exchange Act, our Principal Executive Officer and Principal Financial Officer carried out an evaluation of the effectiveness of the design and operation of our disclosure controls and procedures as of June 30, 2026. Based upon their evaluation, our Principal Executive Officer and Principal Financial Officer concluded that our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) were effective.
+Changes in Internal Control over Financial Reporting
+There were no changes in our internal control over financial reporting during the quarter ended June 30, 2026 that materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+PART II
+Item 1. Legal Proceedings
+We operate in a heavily regulated industry that is highly sensitive to consumer protection, and we are subject to numerous federal, state and local laws. We are routinely involved in consumer complaints, regulatory actions and legal proceedings in the ordinary course of our business. We also, from time to time, initiate legal proceedings against parties from which we believe we have a contractual or other recourse. We are also routinely involved in state regulatory audits and examinations, and occasionally involved in other governmental proceedings arising in connection with our respective business. The resolution of these matters, including the matters specifically described below, is not currently expected to have a material adverse effect on our financial position, financial performance or cash flows.
+Other than as set forth below, there have been no material changes in the "Legal Proceedings" included in our Annual Report on Form 10-K for the year ended December 31, 2025 that would be required to be disclosed pursuant to Item 103 of Regulation S-K.
+On April 2, 2024, a complaint was filed in the U.S. District Court for the Eastern District of Michigan against UWM, the Company, SFS Corp., and Mat Ishbia, individually (collectively, the "UWM Defendants") by Therisa D. Escue, Billy R. Escue, Jr., Kim Schelble, Brian P. Weatherill, et al. (collectively, the "Weatherill Plaintiffs"). The Weatherill Plaintiffs seek class certification, monetary damages, attorneys' fees and equitable and injunctive relief. The Weatherill Plaintiffs allege, among other things, that for mortgage loans originated through UWM, UWM improperly influenced mortgage brokers in its network to steer prospective borrowers to obtain their mortgage loans from UWM at pricing and subject to fees substantially in excess of that charged by competitors, and that such mortgage brokers did not act independently but instead were captive to UWM. UWM filed its renewed motion to strike class allegations (the "Renewed Motion to Strike") and answer to the first amended class action complaint on October 28, 2025. On July 20, 2026, the Court entered an opinion and order denying the Weatherill Plaintiffs motion for reconsideration of the Order and entered an opinion and order granting in part and denying in part the Renewed Motion to Strike.
+On December 16, 2025, a complaint was filed by Andrew Arnold, et al. ("Arnold Plaintiffs") in the 17th Judicial Circuit for Broward County, Florida against UWM, Appraisal Nation, LLC and AMC Links, LLC alleging that the appraisal fee
+Table of Contents
+charged to the Arnold Plaintiffs was unlawful, unfair and deceptive under Florida law. The Arnold Plaintiffs sought class certification, monetary damages, attorneys' fees, and injunctive relief. On February 11, 2026, UWM filed its motion to dismiss and motion to sever in this case. On May 8, 2026, a joint stipulation to dismissal was filed in the case which dismissed UWM with prejudice from the case.
+On February 4, 2026, a complaint was filed in the U.S. District Court for the District of Colorado against UWM by Bridget A. Warne, et al. (collectively, the "Warne Plaintiffs"). The Warne Plaintiffs seek class certification, monetary damages, and declaratory and injunctive relief. The Warne Plaintiffs allege, among other things, violations of the Telephone Consumer Protection Act by UWM under both theories of direct and vicarious liability. On March 31, 2026, UWM filed its motion to dismiss and strike class allegations on the basis that the calls at issue were not made by UWM, and that UWM should not be held vicariously liable for the actions of those who operate independently and of whom it has no control over day-to-day operations. On April 16, 2026, the Warne Plaintiffs filed their first amended class action complaint. UWM filed its motion to transfer venue, dismiss the amended complaint, and strike class allegations on May 14, 2026.
+On May 14, 2026, Rocket Mortgage, LLC ("Rocket"), as successor to Nationstar Mortgage LLC, filed suit against UWM in the Supreme Court of the State of New York - Commercial Division alleging breach of contract with respect to certain mortgage servicing rights sales between Nationstar Mortgage LLC and UWM. Rocket seeks monetary damages and attorneys' fees. UWM filed its motion to dismiss the complaint on July 31, 2026.
+On June 12, 2026, a complaint was filed in the U.S. District Court for the District of New Jersey against Mercadien, P.C., CPAs ("Mercadien") and UWM by Antonio Middlebrook, et al. (collectively, the "Middlebrook Plaintiffs"). The Middlebrook Plaintiffs allege, among other things, damages associated with a cyberattack of UWM's vendor, Mercadien, on October 9, 2025. Two additional complaints were filed against UWM in the U.S. District Court for the Eastern District of Michigan by Ricky Lafountain, et al. (collectively, the "Lafountain Plaintiffs") and in the Oakland County Circuit Court in the State of Michigan by Glenn Prentice, Sr., et al. (collectively, the "Prentice Plaintiffs"), each on July 1, 2026 which contain materially similar allegations to those made by the Middlebrook plaintiffs in their complaint related to the Mercadien cyberattack. The Middlebrook Plaintiffs seek class certification, monetary damages, attorneys' fees, and injunctive relief. The Lafountain Plaintiffs and the Prentice Plaintiffs seek class certification, monetary damages, attorneys' fees, and declaratory and injunctive relief. UWM intends to aggressively defend itself in connection with the claims made in all three complaints as UWM was not the party who suffered the cyberattack.
+On June 26, 2026, a complaint was filed in the U.S. District Court for the District of Colorado against UWM by Jennifer Fox, et al. (collectively, the "Fox Plaintiffs"). The Fox Plaintiffs seek class certification, monetary damages, attorneys' fees, and declaratory and injunctive relief. The Fox Plaintiffs allege, among other things, violations of the Telephone Consumer Protection Act and the Colorado No-Call List Act by UWM. The allegations asserted by the Fox Plaintiffs in their complaint are similar to the allegations asserted by other similar plaintiffs in their respective complaints for which UWM has sought dismissal on the basis that UWM should not be held vicariously liable for the actions of those who operate independently and of whom it has no control over day-to-day operations. UWM intends to aggressively defend itself in connection with the claims made in this complaint.
+Item 1A. Risk Factors
+Except as set forth in Company's Form 10-K for the year ended December 31, 2025, there have been no material changes to the Company's Risk Factors.
+Item 5. Other Information
+Rule 10b5-1 Trading Plans
+SFS Corp., an entity controlled by our CEO and director Mat Ishbia, had previously announced entering into 10b5-1 trading arrangements, adopted on March 17, 2025 and September 16, 2025, as part of its strategy to increase public float and trading liquidity. On May 11, 2026, SFS Corp. announced that all 10b5-1 trading arrangements have been terminated with the most recent being terminated effective May 8, 2026.
+No other director or officer of the Company adopted or terminated a Rule 10b5&#8209;1 trading arrangement or non&#8209;Rule 10b5&#8209;1 trading arrangement during the fiscal quarter.
+Item 6. Exhibits and Financial Statement Schedules
+Table of Contents
+Exhibit
+Number | Description |
+31.1%
+Certification of CEO, pursuant to SEC Rule 13a-14(a) and 15d-14(a)
+31.2%
+Certification of CFO, pursuant to SEC Rule 13a-14(a) and 15d-14(a)
+32.1%
+Certification by the CEO, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+32.2%
+Certification by the CFO, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+101.0 INS | XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the
+Inline XBRL document. |
+101.SCH%
+XBRL Taxonomy Extension Schema Document. |
+101.CAL%
+XBRL Taxonomy Extension Calculation Linkbase Document |
+101.DEF%
+XBRL Taxonomy Extension Definition Linkbase Document |
+101.LAB%
+XBRL Taxonomy Extension Label Linkbase Document. |
+101.PRE%
+XBRL Taxonomy Extension Presentation Linkbase Document |
+104.0%
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101). |
+% | Filed herewith. |
+# | Certain confidential portions of this exhibit were omitted by means of marking such portions with brackets and asterisks because the identified confidential portions (i) are not material and (ii) would be competitively harmful if publicly disclosed, or constituted personally identifiable information that is not material. |
+Table of Contents
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.

@@ -1,0 +1,5 @@
+# FISV 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/798354/000079835426000031/fisv-20260630.htm
+# full_doc_chars=228536
+
+

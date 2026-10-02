@@ -1,0 +1,152 @@
+# BLK 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/2012383/000119312526337177/blk-20260630.htm
+# full_doc_chars=306372
+
+
+----- [line 8652] -----
+99,877
+(1)Amounts represent segregated client assets and related liabilities, in which BlackRock has no economic interest. BlackRock earns an investment advisory fee for the service of managing these assets on behalf of its clients.
+(2)Amounts represent the impact of consolidating CIPs.
+(3)Amount includes property and equipment and other assets.
+(4)Amount includes approximately $6.0 billion of deferred income tax liabilities related to goodwill and intangibles.
+The following discussion summarizes the significant changes in assets and liabilities on a GAAP basis. Please see the condensed consolidated statements of financial condition as of June 30, 2026 and December 31, 2025 contained in Part I, Item 1 of this filing. The discussion does not include changes related to assets and liabilities that are equal and offsetting and have no impact on BlackRock's stockholders' equity.
+Assets. Cash and cash equivalents at June 30, 2026 included $335 million of cash held by CIPs (see Liquidity and Capital Resources for details on the change in cash and cash equivalents during the six months ended June 30, 2026). Accounts receivable at June 30, 2026 increased $286 million from December 31, 2025, primarily due to higher base fee and technology services and subscriptions receivables. Investments at June 30, 2026 increased $1.9 billion from December 31, 2025 (for more information see Investments herein). Goodwill and intangible assets at June 30, 2026 decreased $633 million from December 31, 2025, primarily due to amortization of intangible assets. Other assets at June 30, 2026 increased $1.8 billion from December 31, 2025, primarily related to an increase in unit trust receivables (substantially offset by an increase in unit trust payables recorded within other liabilities) and an increase in certain minority investments.
+61
+Liabilities. Accrued compensation and benefits at June 30, 2026 decreased $1.4 billion from December 31, 2025, primarily due to 2025 incentive compensation cash payments in the first quarter of 2026, partially offset by 2026 incentive compensation accruals. Accounts payable and accrued liabilities at June 30, 2026 increased $272 million from December 31, 2025, primarily due to increased accruals. Contingent consideration liabilities at June 30, 2026 decreased $554 million from December 31, 2025, largely due to a change in fair value of contingent consideration in connection with the GIP and HPS Transactions, primarily impacted by the share price of BlackRock stock at the end of the period. Other liabilities at June 30, 2026 increased $1.2 billion from December 31, 2025, primarily due to higher unit trust payables (substantially offset by an increase in unit trust receivables recorded within other assets). Net deferred income tax liabilities at June 30, 2026 decreased $130 million from December 31, 2025, primarily due to the effects of temporary differences associated with acquired intangible assets.
+Investments
+The Company's investments were $15.1 billion and $13.3 billion at June 30, 2026 and December 31, 2025, respectively. Investments include CIPs accounted for as VIEs and VREs. Management reviews BlackRock's investments on an "economic" basis, which eliminates the NCI - CIPs portion of investments that does not impact BlackRock's book value or net income attributable to BlackRock. BlackRock's management does not advocate that investors consider such non-GAAP financial measures in isolation from, or as a substitute for, financial information prepared in accordance with GAAP.
+The Company presents investments, as adjusted, to enable investors to understand the economic portion of investments that is owned by the Company as a gauge to measure the impact of changes in net nonoperating income (expense) on investments to net income (loss) attributable to BlackRock.
+The Company further presents net "economic" investment exposure, net of deferred cash compensation investments and hedged exposures, to reflect another helpful measure for investors. The economic impact of investments held pursuant to deferred cash compensation plans is substantially offset by a change in associated compensation expense, and the impact of the portfolio of seed investments is mitigated by futures entered into as part of the Company's macro hedging strategy. Carried interest capital allocations are excluded as there is no impact to BlackRock's stockholders' equity until such amounts are realized as performance fees. Finally, the Company's regulatory investment in Federal Reserve Bank stock, which is not subject to market or interest rate risk, is excluded from the Company's net economic investment exposure.
+June 30,
+December 31,
+(in millions)
+2026
+2025
+Investments, GAAP
+$
+15,144
+$
+13,271
+Investments held by CIPs
+(10,525
+)
+(9,131
+)
+Net interest in CIPs(1)
+6,453
+6,564
+Investments, as adjusted
+11,072
+10,704
+Investments related to deferred cash compensation plans
+(507
+)
+(337
+)
+Hedged exposures
+(1,919
+)
+(1,682
+)
+Federal Reserve Bank stock
+(88
+)
+(87
+)
+Carried interest
+(3,594
+)
+(3,710
+)
+Total "economic" investment exposure(2)
+$
+4,964
+$
+4,888
+(1)Amounts include $3.5 billion and $3.7 billion of carried interest (VIEs) at June 30, 2026 and December 31, 2025, respectively, which has no impact on the Company's "economic" investment exposure.
+(2)Amounts do not include corporate minority investments included in other assets on the condensed consolidated statements of financial condition.
+62
+The following table represents the carrying value of the Company's economic investment exposure, by asset type, at June 30, 2026 and December 31, 2025:
+June 30,
+December 31,
+(in millions)
+2026
+2025
+Equity/Fixed income/Multi-asset(1)
+$
+4,398
+$
+
+----- [line 9000] -----
+69
+Investment Advisory Performance Fees / Carried Interest. The Company receives investment advisory performance fees, including incentive allocations (carried interest) from certain actively managed investment funds and certain SMAs. These performance fees are dependent upon exceeding specified relative or absolute investment return thresholds, which vary by product or account, and include monthly, quarterly, annual or longer measurement periods.
+Performance fees, including carried interest, are generated on certain management contracts when performance hurdles are achieved. Such performance fees are recognized when the contractual performance criteria have been met and when it is determined that they are no longer probable of significant reversal. Given the unique nature of each fee arrangement, contracts with customers are evaluated on an individual basis to determine the timing of revenue recognition. Significant judgment is involved in making such determination. Performance fees typically arise from investment management services that began in prior reporting periods. Consequently, a portion of the fees the Company recognizes may be partially related to the services performed in prior periods that meet the recognition criteria in the current period. At each reporting date, the Company considers various factors in estimating performance fees to be recognized, including carried interest. These factors include but are not limited to whether: (1) the amounts are dependent on the financial markets and, thus, are highly susceptible to factors outside the Company's influence; (2) the ultimate payments have a large number and a broad range of possible amounts; and (3) the funds or SMAs have the ability to (a) invest or reinvest their sales proceeds or (b) distribute their sales proceeds and determine the timing of such distributions.
+The Company is allocated/distributed carried interest from certain alternative investment products upon exceeding performance thresholds. The Company may be required to reverse/return all, or part, of such carried interest allocations/distributions depending upon future performance of these products. Carried interest subject to such clawback provisions is recorded in investments or cash and cash equivalents to the extent that it is distributed, on its condensed consolidated statements of financial condition. The Company records a liability for deferred carried interest to the extent it receives cash or capital allocations related to carried interest prior to meeting the revenue recognition criteria. At both June 30, 2026 and December 31, 2025, the Company had $3.5 billion of deferred carried interest recorded in other liabilities on the condensed consolidated statements of financial condition. A portion of the deferred carried interest may also be paid to certain employees and other third parties. The ultimate timing of the recognition of performance fee revenue and related compensation expense, if any, is unknown. See Note 16, Revenue, in the notes to the condensed consolidated financial statements for detailed changes in the deferred carried interest liability balance for the three and six months ended June 30, 2026 and 2025.
+70
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+AUM Market Price Risk. BlackRock's investment advisory and administration fees are primarily comprised of fees based on a percentage of the value of AUM and, in some cases, performance fees expressed as a percentage of the returns realized on AUM. At June 30, 2026, the majority of the Company's investment advisory and administration fees were based on average or period end AUM of the applicable investment funds or separate accounts. Movements in equity market prices, interest rates/credit spreads, foreign exchange rates or all three could cause the value of AUM to decline, which would result in lower investment advisory and administration fees.
+Corporate Investments Portfolio Risks. As a leading investment management firm, BlackRock devotes significant resources across all of its operations to identifying, measuring, monitoring, managing and analyzing market and operating risks, including the management and oversight of its own investment portfolio. The Board of Directors of the Company has adopted guidelines for the review of investments (or commitments to invest) to be made by the Company, requiring, among other things, that certain investments be referred to the Board of Directors, depending on the circumstances, for notification or approval.
+In the normal course of its business, BlackRock is exposed to equity market price risk, interest rate/credit spread risk and foreign exchange rate risk associated with its corporate investments.
+BlackRock has investments primarily in sponsored investment products that invest in a variety of asset classes, including real assets, private equity and hedge funds. Investments generally are made for co-investment purposes, to establish a performance track record, to hedge exposure to certain deferred cash compensation plans or for regulatory purposes. The Company has a seed capital hedging program in which it enters into futures to hedge market and interest rate exposure with respect to its total portfolio of seed investments in sponsored investment products. The Company had outstanding futures related to its seed capital hedging program with an aggregate notional value of approximately $1.9 billion and $1.7 billion at June 30, 2026 and December 31, 2025, respectively.
+At June 30, 2026, approximately $10.5 billion of BlackRock's investments were held in consolidated sponsored investment products accounted for as variable interest entities or voting rights entities. Excluding the impact of the Federal Reserve Bank stock, carried interest, investments made to hedge exposure to certain deferred cash compensation plans and certain investments that are hedged via the seed capital hedging program, the Company's economic exposure to its investment portfolio is $5.0 billion. See Statement of Financial Condition Overview - Investments in Item 2, Management's Discussion and Analysis of Financial Condition and Results of Operations for further information on the Company's investments.
+Equity Market Price Risk. At June 30, 2026, the Company's net exposure to equity market price risk in its investment portfolio was approximately $1.3 billion of the Company's total economic investment exposure. Investments subject to market price risk include public and private equity and real assets investments, hedge funds and funds of funds as well as mutual funds. The Company estimates that a hypothetical exposure to a 10% adverse change in market prices would result in a decrease of approximately $125 million in the carrying value of such investments.
+Interest Rate/Credit Spread Risk. At June 30, 2026, the Company was exposed to interest rate risk and credit spread risk as a result of approximately $3.7 billion of investments in debt securities and sponsored investment products that invest primarily in debt securities. Management considered a hypothetical exposure to an adverse 100 basis point fluctuation in interest rates or credit spreads and estimates that the impact of such a fluctuation on these investments, in the aggregate, would result in a decrease, or increase, of approximately $88 million in the carrying value of such investments.
+Foreign Exchange Rate Risk. As discussed above, the Company invests in sponsored investment products that invest in a variety of asset classes. The carrying value of the total economic investment exposure denominated in foreign currencies, primarily based in the British pound and euro, was approximately $1.5 billion at June 30, 2026. A hypothetical exposure to a 10% adverse change in the applicable foreign exchange rates would result in approximately a $155 million decline in the carrying value of such investments.
+Other Market Risks. The Company executes forward foreign currency exchange contracts to mitigate the risk of certain foreign exchange risk movements. At June 30, 2026, the Company had outstanding forward foreign currency exchange contracts with an aggregate notional value of approximately $2.5 billion, with expiration dates primarily during the third quarter of 2026. In addition, the Company entered into futures to hedge economically the exposure to market movements on certain deferred cash compensation plans. At June 30, 2026, the Company had outstanding exchange-traded futures with aggregate notional values related to its deferred cash compensation hedging program of approximately $302 million, with expiration dates during the third quarter of 2026.
+71
+Item 4. Controls and Procedures
+Disclosure Controls and Procedures. Under the direction of BlackRock's Chief Executive Officer and Chief Financial Officer, BlackRock evaluated the effectiveness of its disclosure controls and procedures (as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) as of the end of the period covered by this quarterly report on Form 10-Q. Based on this evaluation, BlackRock's Chief Executive Officer and Chief Financial Officer have concluded that BlackRock's disclosure controls and procedures were effective.
+Internal Control over Financial Reporting. There were no changes in our internal control over financial reporting that occurred during the quarter ended June 30, 2026 that have materially affected or are reasonably likely to materially affect our internal control over financial reporting.
+72
+PART II - OTHER INFORMATION
+Item 1. Legal Proceedings
+For a discussion of the Company's legal proceedings, see Note 15, Commitments and Contingencies, in the notes to the condensed consolidated financial statements of this Form 10-Q.
+73
+Item 1A. Risk Factors
+In addition to the other information set forth in this report, the risks discussed in BlackRock's Annual Report on Form 10-K for the year ended December 31, 2025 could materially affect our business, financial condition, operating results and nonoperating results.
+74
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+During the three months ended June 30, 2026, the Company made the following purchases of its common stock, which is registered pursuant to Section 12(b) of the Exchange Act.
+Total Number
+of Shares
+Purchased(1)
+Average
+Price Paid
+per Share
+Total
+Number
+of Shares
+Purchased
+as Part of
+Publicly
+Announced
+Plans or
+Programs
+Maximum
+Number of
+Shares that
+May Yet Be
+Purchased
+Under the
+Plans or
+Programs(1)
+April 1, 2026 through April 30, 2026
+152,183
+$
+1,050.18
+151,112
+8,681,203
+May 1, 2026 through May 31, 2026
+253,608
+$
+1,070.00
+247,183
+8,434,020
+June 1, 2026 through June 30, 2026
+29,833
+$
+1,019.16
+25,858
+8,408,162
+Total
+435,624

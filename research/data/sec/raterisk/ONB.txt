@@ -1,0 +1,609 @@
+# ONB 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/707179/000070717926000046/onb-20260630.htm
+# full_doc_chars=345765
+
+
+----- [line 780] -----
+Old National maintains an allowance for credit losses on unfunded loan commitments to provide for the risk of loss inherent in these arrangements. The allowance is computed using a methodology similar to that used to determine the allowance for credit losses on loans, modified to take into account the probability of a drawdown on the commitment. The allowance for credit losses on unfunded loan commitments is classified as a liability account on the balance sheet within accrued expenses and other liabilities, while the corresponding provision for unfunded loan commitments is included in the provision for credit losses. Old National's activity in the allowance for credit losses on unfunded loan commitments was as follows:
+Three Months Ended
+June 30, | Six Months Ended
+June 30, |
+(dollars in thousands) | 2026 | 2025 | 2026 | 2025 |
+Balance at beginning of period | $ | 33,725 | $ | 22,031 | $ | 35,633 | $ | 21,654 |
+Provision for credit losses on unfunded loan commitments
+acquired during the period | -- | 6,458 | -- | 6,458 |
+Provision (release) for credit losses on unfunded loan
+commitments | (2,194) | 1,114 | (4,102) | 1,491 |
+Balance at end of period | $ | 31,531 | $ | 29,603 | $ | 31,531 | $ | 29,603 |
+Credit Quality
+Old National's management monitors the credit quality of its loans on an ongoing basis with the asset quality rating ("AQR") for commercial, commercial real estate, and BBCC loans reviewed annually or at renewal and the performance of its residential and consumer loans based upon the accrual status refreshed at least quarterly. Internally, management assigns an AQR to each non-homogeneous commercial, commercial real estate, and BBCC loan in the portfolio. The primary determinants of the AQR are the reliability of the primary source of repayment and the past, present, and projected financial condition of the borrower. The AQR will also consider current industry conditions. Major factors used in determining the AQR can vary based on the nature of the loan, but commonly include factors such as debt service coverage, internal cash flow, liquidity, leverage, operating performance, debt burden, FICO scores, occupancy, interest rate sensitivity, and expense burden. Old National uses the following definitions for risk ratings:
+Special Mention. Loans categorized as special mention have a potential weakness that deserves management's close attention. If left uncorrected, these potential weaknesses may result in deterioration of the repayment prospects for the loan or of Old National's credit position at some future date.
+Classified - Substandard. Loans classified as substandard are inadequately protected by the current net worth and paying capacity of the obligor or of the collateral pledged, if any. Loans so classified have a well-defined weakness or weaknesses that jeopardize the liquidation of the debt. They are characterized by the distinct possibility that Old National will sustain some loss if the deficiencies are not corrected.
+Classified - Nonaccrual. Loans classified as nonaccrual have all the weaknesses inherent in those classified as substandard, with the added characteristic that the weaknesses make collection in full, on the basis of currently existing facts, conditions, and values, in doubt.
+Classified - Doubtful. Loans classified as doubtful have all the weaknesses inherent in those classified as nonaccrual, with the added characteristic that the weaknesses make collection or liquidation in full, on the basis of currently existing facts, conditions, and values, highly questionable and improbable.
+Pass rated loans are those loans that are other than special mention, classified - substandard, classified - nonaccrual, or classified - doubtful.
+21
+The following table summarizes the amortized cost of term loans by risk category of commercial, commercial real estate, and BBCC loans by class of loan and origination year:
+(dollars in thousands) | Origination Year | Revolving to Term |
+2026 | 2025 | 2024 | 2023 | 2022 | Prior | Revolving | Total |
+June 30, 2026 |
+Commercial: |
+Pass | $ | 1,871,092 | $ | 2,956,426 | $ | 1,671,586 | $ | 985,812 | $ | 836,604 | $ | 1,915,799 | $ | 3,702,028 | $ | 796,631 | $ | 14,735,978 |
+Special Mention | 26,182 | 31,903 | 95,687 | 72,440 | 20,039 | 11,691 | 121,703 | 8,147 | 387,792 |
+Classified: |
+Substandard | 6,033 | 12,860 | 75,756 | 100,408 | 30,899 | 102,488 | 127,855 | 103,241 | 559,540 |
+Nonaccrual | -- | 748 | 2,256 | 2,440 | 631 | 4,422 | -- | 12,471 | 22,968 |
+Doubtful | -- | 8,884 | 10,627 | 31,482 | 27,869 | 23,644 | 9,571 | 43,274 | 155,351 |
+Total | $ | 1,903,307 | $ | 3,010,821 | $ | 1,855,912 | $ | 1,192,582 | $ | 916,042 | $ | 2,058,044 | $ | 3,961,157 | $ | 963,764 | $ | 15,861,629 |
+Commercial real estate: |
+Pass | $ | 2,222,955 | $ | 3,929,498 | $ | 2,334,253 | $ | 2,073,302 | $ | 2,790,586 | $ | 6,115,231 | $ | 151,653 | $ | 902,194 | $ | 20,519,672 |
+Special Mention | 2,669 | 14,374 | 14,760 | 28,664 | 90,982 | 143,033 | 3,681 | 8,244 | 306,407 |
+Classified: |
+Substandard | 1,002 | 36,595 | 116,300 | 308,911 | 398,088 | 423,298 | 8,395 | 61,581 | 1,354,170 |
+Nonaccrual | -- | -- | 3,539 | 2,178 | 2,497 | 3,818 | -- | 743 | 12,775 |
+Doubtful | -- | -- | 2,968 | 32,617 | 35,095 | 68,465 | -- | 17,631 | 156,776 |
+Total | $ | 2,226,626 | $ | 3,980,467 | $ | 2,471,820 | $ | 2,445,672 | $ | 3,317,248 | $ | 6,753,845 | $ | 163,729 | $ | 990,393 | $ | 22,349,800 |
+BBCC: |
+Pass | $ | 37,165 | $ | 53,988 | $ | 47,789 | $ | 42,235 | $ | 30,268 | $ | 94,373 | $ | 85,108 | $ | 27,457 | $ | 418,383 |
+Special Mention | 564 | 54 | 389 | 253 | 494 | 1,695 | 2,810 | 4,696 | 10,955 |
+Classified: |
+Substandard | 22 | 77 | 217 | 598 | 233 | 530 | 1,681 | 1,651 | 5,009 |
+Nonaccrual | -- | -- | -- | 333 | 105 | 395 | -- | 319 | 1,152 |
+Doubtful | -- | -- | -- | -- | -- | 355 | -- | 631 | 986 |
+Total | $ | 37,751 | $ | 54,119 | $ | 48,395 | $ | 43,419 | $ | 31,100 | $ | 97,348 | $ | 89,599 | $ | 34,754 | $ | 436,485 |
+Origination Year | Revolving to Term |
+2025 | 2024 | 2023 | 2022 | 2021 | Prior | Revolving | Total |
+December 31, 2025 |
+Commercial: |
+Pass | $ | 3,073,330 | $ | 1,895,772 | $ | 1,186,468 | $ | 1,064,904 | $ | 619,076 | $ | 1,567,563 | $ | 3,458,502 | $ | 774,686 | $ | 13,640,301 |
+Special Mention | 23,368 | 84,827 | 88,803 | 18,830 | 7,878 | 8,161 | 82,334 | 14,990 | 329,191 |
+Classified: |
+Substandard | 16,253 | 89,293 | 113,232 | 62,649 | 68,265 | 56,616 | 129,209 | 85,729 | 621,246 |
+Nonaccrual | 140 | 1,617 | 6,003 | 7,053 | 1,001 | 654 | 8,659 | 1,944 | 27,071 |
+Doubtful | -- | 7,337 | 34,925 | 27,218 | 2,409 | 24,547 | -- | 49,206 | 145,642 |
+Total | $ | 3,113,091 | $ | 2,078,846 | $ | 1,429,431 | $ | 1,180,654 | $ | 698,629 | $ | 1,657,541 | $ | 3,678,704 | $ | 926,555 | $ | 14,763,451 |
+Commercial real estate: |
+Pass | $ | 3,746,158 | $ | 2,363,809 | $ | 2,510,901 | $ | 3,325,135 | $ | 1,945,116 | $ | 5,082,931 | $ | 169,450 | $ | 886,279 | $ | 20,029,779 |
+Special Mention | 12,351 | 20,695 | 85,266 | 97,148 | 102,821 | 107,590 | 16,239 | 24,962 | 467,072 |
+Classified: |
+Substandard | 14,773 | 34,761 | 184,806 | 294,789 | 116,261 | 321,725 | 45,692 | 120,284 | 1,133,091 |
+Nonaccrual | -- | 4,721 | 1,282 | 6,905 | 5,442 | 24,308 | -- | 23,642 | 66,300 |
+Doubtful | -- | 3,120 | 23,039 | 38,716 | 22,966 | 60,503 | -- | 29,751 | 178,095 |
+Total | $ | 3,773,282 | $ | 2,427,106 | $ | 2,805,294 | $ | 3,762,693 | $ | 2,192,606 | $ | 5,597,057 | $ | 231,381 | $ | 1,084,918 | $ | 21,874,337 |
+BBCC: |
+Pass | $ | 57,344 | $ | 53,469 | $ | 50,466 | $ | 35,366 | $ | 20,106 | $ | 75,805 | $ | 65,971 | $ | 20,036 | $ | 378,563 |
+Special Mention | -- | 663 | 834 | 512 | 535 | 1,490 | 2,281 | 3,323 | 9,638 |
+Classified: |
+Substandard | 86 | 191 | 474 | 304 | 26 | 724 | 203 | 2,877 | 4,885 |
+Nonaccrual | 50 | -- | 60 | 98 | 359 | 345 | -- | 1,115 | 2,027 |
+
+----- [line 1470] -----
+Tax credit investments - federal: |
+New market tax credits | (7,868) | (4,419) | (15,058) | (7,784) |
+Nontaxable or nondeductible items: |
+Tax-exempt interest | (5,955) | (5,599) | (12,175) | (9,851) |
+FDIC premiums | 2,854 | 2,816 | 5,743 | 4,853 |
+Other, net | (386) | (292) | (5,820) | (2,837) |
+Income tax expense | $ | 70,771 | $ | 30,298 | $ | 132,368 | $ | 67,202 |
+Effective tax rate | 21.8 | % | 19.5 | % | 21.4 | % | 19.9 | % |
+Net Deferred Tax Assets
+Net deferred tax assets are included in other assets on the balance sheet. At June 30, 2026, net deferred tax assets totaled $455.8 million, compared to $473.2 million at December 31, 2025. No valuation allowance was required on the Company's deferred tax assets at June 30, 2026 or December 31, 2025.
+Old National has federal net operating loss carryforwards totaling $104.5 million at June 30, 2026 and $87.8 million at December 31, 2025. If not used, the federal net operating loss carryforwards will begin expiring in 2032 and later. Old National has recorded state net operating loss carryforwards totaling $145.5 million at June 30, 2026 and $140.3 million at December 31, 2025. If not used, the state net operating loss carryforwards will expire from 2028 to 2044. The federal and recorded state net operating loss carryforwards are subject to an annual limitation under Internal Revenue Code section 382. Old National believes that all of the federal and recorded state net operating loss carryforwards will be used prior to expiration.
+NOTE 15 - DERIVATIVE FINANCIAL INSTRUMENTS
+As part of our overall interest rate risk management, Old National uses derivative instruments, including interest rate contracts such as swaps, collars, and floors. The notional amount does not represent amounts exchanged by the parties. The amount exchanged is determined by reference to the notional amount and the other terms of the individual agreements. Derivative instruments are recognized on the balance sheet at their fair value and are not reported on a net basis.
+Credit risk arises from the possible inability of counterparties to meet the terms of their contracts. Old National's exposure is limited to the termination value of the contracts rather than the notional, principal, or contract amounts. There are provisions in our agreements with the counterparties that allow for certain unsecured credit exposure up to an agreed threshold. Exposures in excess of the agreed thresholds are collateralized. In addition, we minimize credit risk through credit approvals, limits, and monitoring procedures.
+Derivatives Designated as Hedges
+Subsequent changes in fair value for a hedging instrument that has been designated and qualifies as part of a hedging relationship are accounted for in the following manner:
+Cash flow hedges: changes in fair value are recognized as a component in other comprehensive income (loss).
+Fair value hedges: changes in fair value are recognized concurrently in earnings.
+As long as a hedging instrument is designated, and the results of the effectiveness testing support that the instrument qualifies for hedge accounting treatment, 100% of the periodic changes in fair value of the hedging instrument are accounted for as outlined above. This is the case whether or not economic mismatches exist in the hedging
+38
+relationship. As a result, there is no periodic measurement or recognition of ineffectiveness. Rather, the full impact of hedge gains and losses is recognized in the period in which the hedged transactions impact earnings.
+The change in fair value of the hedging instrument that is included in the assessment of hedge effectiveness is presented in the same income statement line item that is used to present the earnings effect of the hedged item.
+Cash Flow Hedges
+Interest rate swaps of certain borrowings were designated as cash flow hedges totaling $50.0 million notional amount at both June 30, 2026 and December 31, 2025. Interest rate swaps, collars, and floors related to variable-rate commercial loan pools were designated as cash flow hedges totaling $3.2 billion notional amount at June 30, 2026 and $2.3 billion notional amount at December 31, 2025. The hedges were determined to be effective during all periods presented and we expect them to remain effective during the remaining terms.
+Old National has designated its interest rate collars as cash flow hedges. The structure of these instruments is such that Old National pays the counterparty an incremental amount if the collar index exceeds the cap rate. Conversely, Old National receives an incremental amount if the index falls below the floor rate. No payments are required if the collar index falls between the cap and floor rates.
+Old National has designated its interest rate floor transactions as cash flow hedges. The structure of these instruments is such that Old National receives an incremental amount if the index falls below the floor strike rate. No payments are required if the index remains above the floor strike rate.
+Fair Value Hedges
+Interest rate swaps of certain borrowings were designated as fair value hedges totaling $800.0 million notional amount at June 30, 2026 and $1.1 billion notional amount at December 31, 2025. Interest rate swaps of certain available-for-sale investment securities were designated as fair value hedges totaling $874.4 million notional amount at June 30, 2026 and $927.4 million notional amount at December 31, 2025. The hedges were determined to be effective during all periods presented and we expect them to remain effective during the remaining terms.
+The following table summarizes Old National's derivatives designated as hedges:
+June 30, 2026 | December 31, 2025 |
+Fair Value | Fair Value |
+(dollars in thousands) | Notional | Assets (1)
+Liabilities (2)
+Notional | Assets (1)
+Liabilities (2)
+Cash flow hedges: |
+Interest rate swaps, collars, and floors on loan
+pools | $ | 3,200,000 | $ | 2,717 | $ | 14,770 | $ | 2,300,000 | $ | 11,627 | $ | 1,667 |
+Interest rate swaps on borrowings (3)
+50,000 | -- | -- | 50,000 | -- | -- |
+Fair value hedges: |
+Interest rate swaps on investment securities (3)
+874,407 | -- | -- | 927,407 | -- | -- |
+Interest rate swaps on borrowings (3)
+800,000 | 1,013 | -- | 1,100,000 | 4,836 | -- |
+Total | $ | 3,730 | $ | 14,770 | $ | 16,463 | $ | 1,667 |
+(1)Derivative assets are included in other assets on the balance sheet.
+(2)Derivative liabilities are included in other liabilities on the balance sheet.
+(3)The fair values of certain counterparty interest rate swaps are zero due to the settlement of centrally cleared variation margin rules.
+39
+The effect of derivative instruments in fair value hedging relationships on the consolidated statements of income were as follows:
+(dollars in thousands) | Gain (Loss)
+Recognized
+in Income on
+Related
+Hedged
+Items |
+Derivatives in
+Fair Value Hedging
+Relationships | Location of Gain or
+(Loss) Recognized in
+Income on Derivative | Gain (Loss)
+Recognized
+in Income on
+Derivative | Hedged Items
+in Fair Value
+Hedging
+Relationships | Location of Gain or
+(Loss) Recognized in
+in Income on Related
+Hedged Item |
+Three Months Ended
+
+----- [line 1915] -----
+Off-Balance Sheet Financial Instruments |
+Commitments to extend credit | $ | -- | $ | -- | $ | -- | $ | 5,687 |
+The methods utilized to measure the fair value of financial instruments at June 30, 2026 and December 31, 2025 represent an approximation of exit price, however, an actual exit price may differ.
+NOTE 18 - SEGMENT INFORMATION
+Operating segments are components of an enterprise about which separate financial information is available that is evaluated regularly by the chief operating decision maker ("CODM") in assessing performance and in deciding how to allocate resources. Old National's CODM is the Chairman and CEO of the Company.
+Through our wholly owned banking subsidiary and non-bank affiliates, we provide a wide range of services primarily throughout the Midwest and Southeast regions of the United States and elsewhere, including commercial and consumer loan and depository services, private banking, capital markets, brokerage, wealth management, trust, investment advisory, and other traditional banking services. The Company's business activities are predominantly similar in their nature, operations, and economic characteristics, largely serving commercial, specialty and consumer banking clients with products and services that are offered through overall similar processes and platforms. The accounting policies for the services discussed here are the same as those described in Note 1 to the consolidated financial statements included in Old National's Annual Report on Form 10-K for the year ended December 31, 2025. We earn interest income on loans as well as fee income from the origination of loans and from fees charged on deposit accounts. Lending activities include loans to individuals, which primarily consist of home equity lines of credit, residential real estate loans, and consumer loans, and loans to commercial clients, which include commercial loans, commercial real estate loans, agricultural loans, letters of credit, and lease financing. Residential real estate loans are either kept in our loan portfolio or sold to secondary investors, with gains or losses from the sales being recognized.
+48
+The CODM uses consolidated net income to monitor results, evaluate budget-to-actual variances, perform competitive analyses that benchmark the Company to competitors, and determine whether to reinvest earnings in the Company or to deploy capital in other ways to maximize shareholder value. The CODM is regularly provided with the consolidated income and expenses, as well as assets, as presented on the Consolidated Statements of Income and Consolidated Balance Sheets, respectively, to assess performance and decide how to allocate resources on a Company-wide basis. The CODM also uses such information to monitor the level of expenses incurred associated with the various aspects of the Company's business that support our clients, generate revenues, and are associated with the overall administration of the Company's operations. In addition, certain internal financial information is also used by the CODM to monitor credit quality and credit loss expense. As a result, the Company has determined that it has only one reportable segment.
+49
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following is an analysis generally discussing our results of operations for the three and six months ended June 30, 2026 compared to the same period in 2025, and financial condition as of June 30, 2026 compared to December 31, 2025. This discussion and analysis should be read in conjunction with the consolidated financial statements and related notes, as well as our Annual Report on Form 10-K for the year ended December 31, 2025 ("2025 Annual Report on Form 10-K").
+FORWARD-LOOKING STATEMENTS
+This report contains certain "forward-looking statements" within the meaning of the Private Securities Litigation Reform Act of 1995 (the "Act"), Section 27A of the Securities Act of 1933 and Rule 175 promulgated thereunder, and Section 21E of the Securities Exchange Act of 1934 and Rule 3b-6 promulgated thereunder, notwithstanding that such statements are not specifically identified as such. In addition, certain statements may be contained in our future filings with the SEC, in press releases, and in oral and written statements made by us that are not statements of historical fact and constitute forward&#8208;looking statements within the meaning of the Act. These statements include, but are not limited to, descriptions of Old National's financial condition, results of operations, asset and credit quality trends, profitability and business plans or opportunities. Forward-looking statements can be identified by the use of words such as "anticipate," "believe," "contemplate," "continue," "could," "estimate," "expect," "guidance," "intend," "may," "outlook," "plan," "potential," "predict," "should," "would," and "will," and other words of similar meaning. These forward-looking statements express management's current expectations or forecasts of future events and, by their nature, are subject to risks and uncertainties. There are a number of factors that could cause actual results or outcomes to differ materially from those in such statements, including, but not limited to: competition; government legislation, regulations and policies, including trade and tariff policies; the ability of Old National to execute its business plan; unanticipated changes in our liquidity position, including but not limited to changes in our access to sources of liquidity and capital to address our liquidity needs; changes in economic conditions and economic and business uncertainty which could materially impact credit quality trends and the ability to generate loans and gather deposits; inflation and governmental responses to inflation, including increasing interest rates; market, economic, operational, liquidity, credit, and interest rate risks associated with our business; our ability to successfully manage our credit risk and the sufficiency of our allowance for credit losses; the potential impact of future business combinations on our performance and financial condition, including our ability to successfully integrate the businesses, the success of revenue-generating and cost reduction initiatives and the diversion of management's attention from ongoing business operations and opportunities; failure or circumvention of our internal controls; operational risks or risk management failures by us or critical third parties, including without limitation with respect to data processing, information technology systems, cybersecurity, technological changes, vendor issues, business interruption, and fraud risks; significant changes in accounting, tax or regulatory practices or requirements; new legal obligations or liabilities; disruptive technologies in payment systems and other services traditionally provided by banks; adverse effects on our information technology systems, or those of third parties, resulting from failures, disruptions or cybersecurity attacks, including ransomware; security breaches, including denial of service attacks, hacking, social engineering attacks, malware intrusion and other cybersecurity threats; the effects of climate change on Old National and its customers, borrowers, or service providers; political and economic uncertainty and instability; the impacts of pandemics, epidemics and other infectious disease outbreaks; other matters discussed in this report; and other factors identified in our 2025 Annual Report on Form 10-K and other filings with the SEC. These forward-looking statements are made only as of the date of this report and are not guarantees of future results, performance, or outcomes.
+Such forward-looking statements are based on assumptions and estimates, which although believed to be reasonable, may turn out to be incorrect. Therefore, undue reliance should not be placed upon these estimates and statements. We cannot assure that any of these statements, estimates, or beliefs will be realized and actual results or outcomes may differ from those contemplated in these forward-looking statements. Old National does not undertake an obligation to update these forward-looking statements to reflect events or conditions after the date of this report. You are advised to consult further disclosures we may make on related subjects in our filings with the SEC.
+Investors should consider these risks, uncertainties, and other factors in addition to the factors under the heading "Risk Factors" included in Item 1A of Part I of Old National's 2025 Annual Report on Form 10-K and our other filings with the SEC.
+50
+FINANCIAL HIGHLIGHTS
+The following table sets forth certain financial highlights of Old National for the previous five quarters:
+Three Months Ended |
+(dollars and shares in thousands,
+except per share data) | June 30, | March 31, | December 31, | September 30, | June 30, |
+2026 | 2026 | 2025 | 2025 | 2025 |
+Income Statement: |
+Net interest income | $ | 578,988 | $ | 572,573 | $ | 580,832 | $ | 574,609 | $ | 514,790 |
+Taxable equivalent adjustment (1) (3)
+7,510 | 7,849 | 8,013 | 7,975 | 7,063 |
+Net interest income - taxable equivalent basis (3)
+586,498 | 580,422 | 588,845 | 582,584 | 521,853 |
+Provision for credit losses | 36,206 | 34,946 | 32,745 | 26,738 | 106,835 |
+Noninterest income | 153,564 | 122,346 | 109,759 | 130,461 | 132,517 |
+Noninterest expense | 372,161 | 364,704 | 386,320 | 445,734 | 384,766 |
+Net income applicable to common shareholders | 249,381 | 229,638 | 212,589 | 178,533 | 121,375 |
+Per Common Share Data: |
+Weighted average diluted common shares | 383,273 | 388,054 | 389,550 | 390,496 | 361,436 |
+Net income (diluted) | $ | 0.65 | $ | 0.59 | $ | 0.55 | $ | 0.46 | $ | 0.34 |
+Cash dividends | 0.145 | 0.145 | 0.14 | 0.14 | 0.14 |
+Common dividend payout ratio (2)
+22 | % | 25 | % | 25 | % | 30 | % | 41 | % |
+Book value | $ | 21.80 | $ | 21.40 | $ | 21.17 | $ | 20.64 | $ | 20.12 |
+Stock price | 25.90 | 22.10 | 22.31 | 21.95 | 21.34 |
+Tangible common book value (3)
+14.32 | 13.93 | 13.71 | 13.15 | 12.60 |
+Performance Ratios: |
+Return on average assets | 1.38 | % | 1.29 | % | 1.21 | % | 1.03 | % | 0.77 | % |
+Return on average common equity | 12.07 | 11.07 | 10.44 | 9.01 | 6.74 |
+Return on average tangible common equity (3)
+19.84 | 18.41 | 17.76 | 15.87 | 12.00 |
+Net interest margin (3)
+3.54 | 3.55 | 3.65 | 3.64 | 3.53 |
+Efficiency ratio (3)
+47.04 | 48.25 | 51.58 | 58.84 | 55.80 |
+Net charge-offs to average loans | 0.26 | 0.26 | 0.27 | 0.25 | 0.24 |
+Allowance for credit losses on loans to ending loans | 1.14 | 1.15 | 1.17 | 1.19 | 1.18 |
+Allowance for credit losses (4) to ending loans
+1.21 | 1.22 | 1.24 | 1.26 | 1.24 |
+Non-performing loans to ending loans | 0.91 | 1.03 | 1.07 | 1.23 | 1.24 |
+Balance Sheet: |
+Total loans | $ | 50,772,584 | $ | 49,731,844 | $ | 48,764,162 | $ | 47,967,915 | $ | 47,902,819 |
+Total assets | 74,189,417 | 73,002,651 | 72,151,967 | 71,210,162 | 70,979,805 |
+Total deposits | 56,146,770 | 55,672,472 | 55,088,195 | 55,006,184 | 54,357,683 |
+Total borrowed funds | 8,423,983 | 7,823,198 | 7,451,367 | 6,766,381 | 7,346,098 |
+Total shareholders' equity | 8,583,843 | 8,510,653 | 8,494,788 | 8,309,271 | 8,126,387 |
+Capital Ratios: |
+Risk-based capital ratios: |
+Tier 1 common equity | 11.09 | % | 11.11 | % | 11.08 | % | 11.02 | % | 10.74 | % |
+Tier 1 | 11.53 | 11.56 | 11.53 | 11.49 | 11.20 |
+Total | 13.65 | 13.71 | 12.85 | 12.78 | 12.59 |
+Leverage ratio (to average assets) | 8.95 | 8.93 | 8.90 | 8.72 | 9.26 |
+Total equity to assets (averages) | 11.61 | 11.79 | 11.73 | 11.48 | 11.38 |
+Tangible common equity to tangible assets (3)
+7.68 | 7.67 | 7.72 | 7.53 | 7.26 |
+Nonfinancial Data: |
+
+----- [line 2242] -----
+Other Data: |
+Return on average common equity | 12.07 | % | 6.74 | % | 11.57 | % | 7.83 | % |
+Return on average tangible common
+equity (1)
+19.84 | 12.00 | 19.13 | 13.39 |
+Efficiency ratio (1)
+47.04 | 55.80 | 47.63 | 54.92 |
+Tier 1 leverage ratio | 8.95 | 9.26 | 8.95 | 9.26 |
+Net charge-offs to average loans | 0.26 | 0.24 | 0.26 | 0.24 |
+(1)Represents a non-GAAP financial measure. Refer to "Non-GAAP Financial Measures" section for reconciliations to GAAP financial measures.
+Net Interest Income
+Net interest income is the most significant component of our earnings, comprising 81% of revenues for the six months ended June 30, 2026. Net interest income and net interest margin are influenced by many factors, primarily the volume and mix of earning assets, funding sources, and interest rate fluctuations. Other factors include the level of accretion income on purchased loans, prepayment risk on mortgage and investment-related assets, and the composition and maturity of interest-earning assets and interest-bearing liabilities.
+The Federal Reserve held its interest rates steady during the second quarter of 2026 and decreased interest rates compared to those in effect as of June 30, 2025. The Federal Reserve's Federal Funds Rate is currently in a target range of 3.50% to 3.75%, with the Effective Federal Funds Rate of 3.63% at June 30, 2026 compared to 4.33% at June 30, 2025. Management actively takes balance sheet restructuring, derivative, and deposit pricing actions to help mitigate interest rate risk. See the section of this Item 7 titled "Market Risk" for additional information regarding this risk.
+Loans typically generate more interest income than investment securities with similar maturities. Funding from client deposits generally costs less than wholesale funding sources. Factors such as general economic activity, Federal Reserve monetary policy, and price volatility of competing alternative investments can also exert significant influence on our ability to optimize our mix of assets and funding, net interest income, and net interest margin.
+Net interest income is the excess of interest received from interest-earning assets over interest paid on interest-bearing liabilities. For analytical purposes, net interest income is presented in the table that follows, adjusted to a taxable equivalent basis to reflect what our tax-exempt assets would need to yield in order to achieve the same after-tax yield as a taxable asset. We used the current federal statutory tax rate in effect of 21% for all periods. This analysis portrays the income tax benefits related to tax-exempt assets and helps to facilitate a comparison between taxable and tax-exempt assets. Management believes that it is a standard practice in the banking industry to present net interest margin and net interest income on a fully taxable equivalent basis and that it may enhance comparability for peer comparison purposes for both management and investors.
+57
+The following tables present the average balance sheet for each major asset and liability category, its related interest income and yield, or its expense and rate.
+(Tax equivalent basis,
+dollars in thousands) | Three Months Ended
+June 30, 2026 | Three Months Ended
+June 30, 2025 |
+Earning Assets | Average
+Balance | Income (1)/
+Expense
+Yield/
+Rate | Average
+Balance | Income (1)/
+Expense
+Yield/
+Rate |
+Money market and other interest-earning
+investments | $ | 1,212,043 | $ | 11,121 | 3.68 | % | $ | 1,424,700 | $ | 14,791 | 4.16 | % |
+Investment securities: |
+Treasury and government sponsored agencies | 2,349,871 | 18,993 | 3.23 | % | 2,396,691 | 20,820 | 3.47 | % |
+Mortgage-backed securities | 10,428,343 | 111,157 | 4.26 | % | 8,567,318 | 87,734 | 4.10 | % |
+States and political subdivisions | 1,450,389 | 12,017 | 3.31 | % | 1,596,899 | 13,402 | 3.36 | % |
+Other securities | 828,774 | 12,395 | 5.98 | % | 970,581 | 15,770 | 6.50 | % |
+Total investment securities | 15,057,377 | 154,562 | 4.11 | % | 13,531,489 | 137,726 | 4.07 | % |
+Loans: (2)
+Commercial | 15,792,290 | 238,663 | 6.05 | % | 13,240,876 | 219,446 | 6.63 | % |
+Commercial real estate | 22,234,235 | 339,925 | 6.12 | % | 20,022,403 | 316,422 | 6.32 | % |
+Residential real estate loans | 8,722,341 | 103,162 | 4.73 | % | 7,792,440 | 88,852 | 4.56 | % |
+Consumer | 3,323,663 | 54,468 | 6.57 | % | 3,049,341 | 54,787 | 7.21 | % |
+Total loans | 50,072,529 | 736,218 | 5.88 | % | 44,105,060 | 679,507 | 6.16 | % |
+Total earning assets | 66,341,949 | $ | 901,901 | 5.44 | % | 59,061,249 | $ | 832,024 | 5.64 | % |
+Deduct: Allowance for credit losses on loans | (580,550) | (404,871) |
+Non-Earning Assets |
+Cash and due from banks | 545,346 | 426,513 |
+Other assets | 6,991,436 | 6,403,239 |
+Total assets | $ | 73,298,181 | $ | 65,486,130 |
+Interest-Bearing Liabilities |
+Checking and NOW accounts | $ | 11,106,289 | $ | 47,349 | 1.71 | % | $ | 9,672,146 | $ | 41,862 | 1.74 | % |
+Savings accounts | 4,950,785 | 3,032 | 0.25 | % | 4,968,232 | 3,777 | 0.30 | % |
+Money market accounts | 16,485,000 | 99,903 | 2.43 | % | 15,282,970 | 113,542 | 2.98 | % |
+Time deposits | 10,145,661 | 87,220 | 3.45 | % | 8,318,060 | 80,907 | 3.90 | % |
+Total interest-bearing deposits | 42,687,735 | 237,504 | 2.23 | % | 38,241,408 | 240,088 | 2.52 | % |
+Federal funds purchased and interbank
+borrowings | 42,228 | 391 | 3.71 | % | 88,603 | 953 | 4.31 | % |
+Securities sold under agreements to repurchase | 257,217 | 561 | 0.87 | % | 295,948 | 636 | 0.86 | % |
+FHLB advances | 6,561,147 | 61,744 | 3.77 | % | 6,037,462 | 59,042 | 3.92 | % |
+Other borrowings | 1,360,976 | 15,203 | 4.48 | % | 828,214 | 9,452 | 4.58 | % |
+Total borrowed funds | 8,221,568 | 77,899 | 3.80 | % | 7,250,227 | 70,083 | 3.88 | % |
+Total interest-bearing liabilities | $ | 50,909,303 | $ | 315,403 | 2.48 | % | $ | 45,491,635 | $ | 310,171 | 2.73 | % |
+Noninterest-Bearing Liabilities and
+Shareholders' Equity |
+Demand deposits | $ | 12,860,401 | $ | 11,568,854 |
+Other liabilities | 1,020,272 | 973,525 |
+Shareholders' equity | 8,508,205 | 7,452,116 |
+Total liabilities and shareholders' equity | $ | 73,298,181 | $ | 65,486,130 |
+Net interest income - taxable equivalent basis | $ | 586,498 | 3.54 | % | $ | 521,853 | 3.53 | % |
+Taxable equivalent adjustment | (7,510) | (7,063) |
+Net interest income (GAAP) | $ | 578,988 | 3.49 | % | $ | 514,790 | 3.49 | % |
+
+----- [line 2477] -----
+Provision for Income Taxes
+We record a provision for income taxes currently payable and for income taxes payable or benefits to be received in the future, which arise due to timing differences in the recognition of certain items for financial statement and income tax purposes. The major difference between the effective tax rate applied to our financial statement income and the federal statutory tax rate is caused by a tax benefit from our tax credit investments and interest on tax-exempt securities and loans. The effective tax rate was 21.8% and 21.4% for the three and six months ended June 30, 2026, respectively, compared to 19.5% and 19.9% for the three and six months ended June 30, 2025, respectively, reflecting an increase in pre-tax book income contributing to an increase in state taxes. See Note 14 to the consolidated financial statements for additional information. In accordance with ASC 740-270, Accounting for Interim Reporting, the provision for income taxes was recorded at June 30, 2026 based on the current estimate of the effective annual rate.
+62
+FINANCIAL CONDITION
+Overview
+At June 30, 2026, our assets were $74.2 billion, a $2.0 billion increase compared to assets of $72.2 billion at December 31, 2025, reflective of strong loan growth.
+Earning Assets
+Our earning assets are comprised of investment securities, portfolio loans, loans held-for-sale, money market investments, interest-earning accounts with the Federal Reserve, and equity securities. Earning assets were $67.1 billion at June 30, 2026, a $2.1 billion increase compared to earning assets of $65.0 billion at December 31, 2025.
+Investment Securities
+We classify the majority of our investment securities as available-for-sale to give management the flexibility to sell the securities prior to maturity based on fluctuating interest rates or changes in our funding requirements.
+The investment securities portfolio, including equity securities, was $15.1 billion at June 30, 2026, compared to $14.9 billion at December 31, 2025. Investment securities represented 22% of earning assets at June 30, 2026, compared to 23% at December 31, 2025. At June 30, 2026, we had no intent to sell any securities that were in an unrealized loss position nor is it expected that we would be required to sell the securities prior to their anticipated recovery.
+The investment securities available-for-sale portfolio had net unrealized losses of $666.5 million and $570.4 million at June 30, 2026 and December 31, 2025, respectively. The investment securities held-to-maturity portfolio had net unrealized losses of $376.3 million and $355.3 million at June 30, 2026 and December 31, 2025, respectively.
+The investment securities available-for-sale portfolio including securities hedges had an effective duration of 4.08 at June 30, 2026, compared to 3.80 at December 31, 2025. The total investment securities portfolio had an effective duration of 4.69 at June 30, 2026, compared to 4.51 at December 31, 2025. Effective duration represents the percentage change in the fair value of the portfolio in response to a change in interest rates and is used to evaluate the portfolio's price volatility at a single point in time. Generally, there is more uncertainty in interest rates over a longer average maturity, resulting in a higher duration percentage. The weighted average yields on investment securities, on a taxable equivalent basis, were 4.11% and 4.08% for the three and six months ended June 30, 2026, respectively, compared to 4.07% and 3.85% for the three and six months ended June 30, 2025, respectively.
+Loan Portfolio
+We lend to consumer and commercial clients in many diverse industries including real estate rental and leasing, manufacturing, healthcare, wholesale trade, construction, and agriculture, among others. Old National manages concentrations of credit exposure by industry, product, geography, client relationship, and loan size. The following table presents the composition of the loan portfolio:
+(dollars in thousands) | June 30,
+2026 | December 31,
+2025 | $ Change | % Change |
+Commercial | $ | 16,112,685 | $ | 14,983,861 | $ | 1,128,824 | 7.5 | % |
+Commercial real estate | 22,535,229 | 22,050,007 | 485,222 | 2.2 |
+Residential real estate | 8,760,832 | 8,467,496 | 293,336 | 3.5 |
+Consumer | 3,363,838 | 3,262,798 | 101,040 | 3.1 |
+Total loans | $ | 50,772,584 | $ | 48,764,162 | $ | 2,008,422 | 4.1 | % |
+63
+The following table presents the composition of the loan portfolio by state:
+(dollars in thousands) | Commercial | Commercial
+Real Estate | Residential
+Real Estate | Consumer | Total
+Loans | Percent of
+Total |
+June 30, 2026 |
+Minnesota | $ | 2,802,206 | $ | 5,053,884 | $ | 1,850,696 | $ | 399,614 | $ | 10,106,400 | 20 | % |
+Illinois | 3,015,165 | 3,534,824 | 1,459,897 | 646,553 | 8,656,439 | 17 | % |
+Indiana | 1,905,572 | 1,858,655 | 1,086,543 | 981,895 | 5,832,665 | 11 | % |
+Wisconsin | 1,143,129 | 2,693,471 | 545,323 | 189,580 | 4,571,503 | 9 | % |
+Michigan | 841,529 | 1,423,589 | 641,142 | 275,026 | 3,181,286 | 6 | % |
+Tennessee | 432,849 | 1,229,948 | 321,512 | 232,851 | 2,217,160 | 4 | % |
+Kentucky | 326,751 | 629,607 | 263,255 | 409,982 | 1,629,595 | 3 | % |
+North Dakota | 435,560 | 961,486 | 133,291 | 30,915 | 1,561,252 | 3 | % |
+Texas | 459,346 | 704,961 | 291,096 | 10,896 | 1,466,299 | 3 | % |
+Florida | 331,236 | 605,438 | 341,178 | 38,925 | 1,316,777 | 3 | % |
+Ohio | 721,108 | 424,786 | 11,123 | 16,774 | 1,173,791 | 2 | % |
+Other | 3,698,234 | 3,414,580 | 1,815,776 | 130,827 | 9,059,417 | 18 | % |
+Total | $ | 16,112,685 | $ | 22,535,229 | $ | 8,760,832 | $ | 3,363,838 | $ | 50,772,584 | 100 | % |
+Geographic location in the preceding table is determined by collateral location for real estate loans and borrower location for non-real estate loans.
+Commercial and Commercial Real Estate Loans
+Commercial and commercial real estate loans are the largest classifications within earning assets, representing 58% at June 30, 2026, compared to 57% at December 31, 2025. At June 30, 2026, commercial and commercial real estate loans were $38.6 billion, an increase of $1.6 billion from December 31, 2025 driven primarily by disciplined commercial loan production.
+64
+The following table provides detail on commercial loans by industry classification (as defined by the North American Industry Classification System) and by loan size.
+June 30, 2026 | December 31, 2025 |
+(dollars in thousands) | Outstanding | Exposure(1)
+Nonaccrual | Outstanding | Exposure(1)
+Nonaccrual |
+By Industry: |
+Health care and social assistance | $ | 2,990,290 | $ | 3,661,508 | $ | 18,802 | $ | 2,805,380 | $ | 3,464,934 | $ | 24,489 |
+Manufacturing | 2,654,369 | 4,081,240 | 37,087 | 2,139,977 | 3,614,096 | 16,915 |
+Real estate rental and leasing | 1,523,840 | 2,106,105 | 22,290 | 1,518,886 | 2,274,601 | 25,021 |
+Construction | 1,203,618 | 2,467,297 | 7,308 | 1,064,375 | 2,333,033 | 6,996 |
+Wholesale trade | 1,191,364 | 2,000,081 | 4,234 | 1,049,963 | 1,927,612 | 4,154 |
+Accommodation and food services | 1,080,876 | 1,274,843 | 12,660 | 1,159,348 | 1,422,249 | 19,153 |
+Professional, scientific, and
+technical services | 891,988 | 1,415,906 | 6,518 | 795,520 | 1,367,099 | 6,298 |
+Agriculture, forestry, fishing,
+and hunting | 711,579 | 1,047,582 | 5,518 | 776,845 | 1,126,107 | 5,393 |
+Finance and insurance | 652,759 | 1,452,641 | 314 | 678,034 | 1,305,205 | 317 |
+Retail trade | 547,108 | 900,563 | 12,215 | 486,717 | 777,389 | 13,121 |
+Administrative and support and
+waste management and
+remediation services | 466,610 | 641,285 | 16,473 | 440,155 | 667,738 | 4,552 |
+Transportation and warehousing | 381,983 | 538,491 | 15,176 | 474,426 | 634,311 | 29,733 |
+Arts, Entertainment, and Recreation | 338,799 | 463,006 | 3,900 | 303,815 | 419,632 | 3,153 |
+Educational services | 323,058 | 472,944 | 2 | 295,001 | 472,694 | 8 |
+
+----- [line 2595] -----
+Checking and NOW | 11,129,286 | 10,740,919 | 388,367 | 3.6 | % |
+Savings | 4,924,639 | 4,909,138 | 15,501 | 0.3 | % |
+Money market | 16,936,441 | 16,529,631 | 406,810 | 2.5 | % |
+Time deposits | 10,491,126 | 9,661,024 | 830,102 | 8.6 | % |
+Total deposits | 56,146,770 | 55,088,195 | 1,058,575 | 1.9 | % |
+Wholesale borrowings: |
+Federal funds purchased and interbank borrowings | 250,389 | 100,197 | 150,192 | 149.9 | % |
+Securities sold under agreements to repurchase | 265,301 | 261,366 | 3,935 | 1.5 | % |
+Federal Home Loan Bank advances | 6,520,296 | 6,237,375 | 282,921 | 4.5 | % |
+Other borrowings | 1,387,997 | 852,429 | 535,568 | 62.8 | % |
+Total wholesale borrowings | 8,423,983 | 7,451,367 | 972,616 | 13.1 | % |
+Total funding | $ | 64,570,753 | $ | 62,539,562 | $ | 2,031,191 | 3.2 | % |
+The increase in total deposits was due to organic growth. We use wholesale funding to augment deposit funding and to help maintain our desired interest rate risk position. Wholesale funding as a percentage of total funding was 13% at June 30, 2026, compared to 12% at December 31, 2025. The increase in other borrowings was due to the issuance and sale of $450.0 million aggregate principal amount of subordinated notes in January 2026. The Company intends to use the net proceeds from this offering for general corporate purposes.
+Capital
+Shareholders' equity totaled $8.6 billion at June 30, 2026, compared to $8.5 billion at December 31, 2025. Retained earnings were offset by the repurchase of 8.3 million shares of Common Stock under share repurchase plans that were approved by the Company's Board of Directors during the six months ended June 30, 2026, which reduced equity by $201.6 million, dividends, and changes in unrealized losses on available-for-sale investment securities during the six months ended June 30, 2026. As of June 30, 2026, Old National had remaining authorization to repurchase up to $276.6 million of its outstanding Common Stock through February 28, 2027.
+66
+Capital Adequacy
+Old National and the banking industry are subject to various regulatory capital requirements administered by the federal banking agencies. At June 30, 2026, Old National and its bank subsidiary exceeded the regulatory minimums and Old National Bank met the regulatory definition of "well-capitalized" based on the most recent regulatory definition.
+Old National's consolidated capital position remains strong as evidenced by the following key industry ratios.
+Regulatory
+Guidelines
+Minimum | Prompt
+Corrective
+Action "Well
+Capitalized"
+Guidelines | June 30,
+2026 | December 31,
+2025 |
+Tier 1 capital to total average assets (leverage
+ratio) | 4.00 | % | N/A | % | 8.95 | % | 8.90 | % |
+Common equity Tier 1 capital to risk-weighted
+total assets | 7.00 | N/A | 11.09 | 11.08 |
+Tier 1 capital to risk-weighted total assets | 8.50 | 6.00 | 11.53 | 11.53 |
+Total capital to risk-weighted total assets | 10.50 | 10.00 | 13.65 | 12.85 |
+Shareholders' equity to assets | N/A | N/A | 11.57 | 11.77 |
+Old National Bank, Old National's bank subsidiary, maintained a strong capital position as evidenced by the following key industry ratios.
+Regulatory
+Guidelines
+Minimum | Prompt
+Corrective
+Action "Well
+Capitalized"
+Guidelines | June 30,
+2026 | December 31,
+2025 |
+Tier 1 capital to total average assets (leverage
+ratio) | 4.00 | % | 5.00 | % | 8.80 | % | 8.52 | % |
+Common equity Tier 1 capital to risk-weighted
+total assets | 7.00 | 6.50 | 11.34 | 11.05 |
+Tier 1 capital to risk-weighted total assets | 8.50 | 8.00 | 11.34 | 11.05 |
+Total capital to risk-weighted total assets | 10.50 | 10.00 | 12.29 | 12.00 |
+Management views stress testing as an integral part of the Company's risk management and strategic planning activities. Old National performs stress testing periodically throughout the year. The primary objective of the stress testing is to ensure that Old National has a robust, forward-looking stress testing process and maintains sufficient capital to continue operations throughout times of economic and financial stress. Management also uses the stress testing framework to evaluate decisions relating to pricing, loan concentrations, capital deployment, and mergers and acquisitions to ensure that strategic decisions align with Old National's risk appetite statement. Old National's stress testing process incorporates key risks that include strategic, market, liquidity, credit, operational, information security and technology, talent management, and compliance/regulatory/legal risks. Old National's stress testing policy outlines steps that will be taken if stress test results do not meet internal thresholds under severely adverse economic scenarios.
+RISK MANAGEMENT
+Overview
+Old National has adopted a Risk Appetite Statement to enable our Board of Directors, Enterprise Risk Committee of our Board, Executive Leadership Team, and Senior Management to better assess, understand, monitor, and mitigate Old National's risks. The Risk Appetite Statement addresses the following major risks: strategic, market, liquidity, credit, operational, information security and technology, talent management, and regulatory/legal/compliance. Our Chief Risk Officer provides quarterly reports to the Board's Enterprise Risk Committee on various risk topics. The following discussion addresses certain of these major risks including credit, market, and liquidity. Discussion of strategic, talent management, operational, information security and technology, and regulatory/legal/compliance risks is provided in the section entitled "Risk Factors" in the Company's 2025 Annual Report on Form 10-K.
+67
+Credit Risk
+Credit risk represents the risk of loss arising from an obligor's inability or failure to meet contractual payment or performance terms. Our primary credit risks result from our investment and lending activities.
+Asset Quality
+We lend to consumer and commercial clients in many diverse industries including, among others, real estate rental and leasing, manufacturing, healthcare, wholesale trade, construction, and agriculture. Old National manages concentrations of credit exposure by industry, product, geography, client relationship, and loan size. At June 30, 2026, our average commercial loan size was approximately $899,000 and our average commercial real estate loan size was approximately $1,627,000. At June 30, 2026, we had minimal exposure to foreign borrowers and no sovereign debt. Our policy is to concentrate our lending activity in the geographic market areas we serve, primarily in the Midwest and Southeast regions of the United States.
+The following table presents a summary of under-performing assets as well as criticized and classified assets:
+(dollars in thousands) | June 30,
+2026 | December 31,
+2025 |
+Nonaccrual loans | $ | 461,702 | $ | 521,245 |
+Past due loans (90 days or more and still accruing) | 6,832 | 2,691 |
+Foreclosed assets | 3,374 | 6,235 |
+Total under-performing assets | $ | 471,908 | $ | 530,171 |
+Classified loans (includes nonaccrual, past due 90 days
+or more, and other problem loans) | $ | 2,387,255 | $ | 2,283,157 |
+Other classified assets (1)
+7,960 | 20,616 |
+
+----- [line 2682] -----
+Allowance for Credit Losses on Loans and Unfunded Commitments
+Net charge-offs on loans totaled $32.2 million during the three months ended June 30, 2026, compared to $26.5 million for the same period in 2025. Annualized, net charge-offs to average loans were 0.26% and 0.24% for the three months ended June 30, 2026 and 2025, respectively. Annualized, net charge-offs to average loans excluding PCD loans were 0.22% for the three months ended June 30, 2026 and 2025. Net charge-offs on loans totaled $64.3 million during the six months ended June 30, 2026, compared to $48.1 million for the same period in 2025. Annualized, net charge-offs to average loans were 0.26% and 0.24% for the six months ended June 30, 2026 and
+68
+2025, respectively. Annualized, net charge-offs to average loans excluding PCD loans were 0.20% and 0.22% for the six months ended June 30, 2026 and 2025, respectively.
+Credit quality within the loans held for investment portfolio is continuously monitored by management and is reflected within the allowance for credit losses on loans. The allowance for credit losses is an estimate of expected losses inherent within the Company's loans held for investment portfolio. Credit quality is assessed and monitored by evaluating various attributes and the results of those evaluations are utilized in underwriting new loans and in our process for estimating expected credit losses. Expected credit loss inherent in non-cancelable off-balance-sheet credit exposures (unfunded loan commitments) is accounted for as a separate liability included in other liabilities on the balance sheet. The allowance for credit losses on loans held for investment and unfunded loan commitments is adjusted by a credit loss expense, which is reported in earnings, and reduced by the charge-off of loan amounts, net of recoveries. Accrued interest receivable is excluded from the estimate of credit losses.
+The allowance for credit loss estimation process involves procedures to consider the unique characteristics of our loan portfolio segments. These segments are further disaggregated into loan classes based on the level at which credit risk of the loan is monitored. When computing the level of expected credit losses, credit loss assumptions are estimated using a model that categorizes loan pools based on loss history, delinquency status, and other credit trends and risk characteristics, including current conditions and reasonable and supportable forecasts about the future. Determining the appropriateness of the allowance is complex and requires judgment by management about the effect of matters that are inherently uncertain. In future periods, evaluations of the overall loan portfolio, in light of the factors and forecasts then prevailing, may result in significant changes in the allowance and credit loss expense in those future periods.
+The allowance level is influenced by loan volumes, loan AQR migration or delinquency status, changes in historical loss experience, and other conditions influencing loss expectations, such as reasonable and supportable forecasts of economic conditions. The methodology for estimating the amount of expected credit losses reported in the allowance for credit losses on loans has two basic components: first, an asset-specific component involving individual loans that do not share risk characteristics with other loans and the measurement of expected credit losses for such individual loans; and second, a pooled component for estimated expected credit losses for pools of loans that share similar risk characteristics.
+The allowance for credit losses on loans was $580.5 million at June 30, 2026, compared to $569.5 million at December 31, 2025. Continued loan growth in future periods, a decline in our current level of recoveries, or an increase in charge-offs could result in an increase in provision expense. Additionally, provision expense may be volatile due to changes in CECL model assumptions of credit quality, macroeconomic factors and conditions, and loan composition, which drive the allowance for credit losses balance.
+We maintain an allowance for credit losses on unfunded loan commitments to provide for the risk of loss inherent in these arrangements. The allowance is computed using a methodology similar to that used to determine the allowance for credit losses on loans, modified to take into account the probability of a drawdown on the commitment. The allowance for credit losses on unfunded loan commitments is classified as a liability account on the balance sheet within accrued expenses and other liabilities, while the corresponding provision for unfunded loan commitments is included in the provision for credit losses. The allowance for credit losses on unfunded loan commitments totaled $31.5 million at June 30, 2026, compared to $35.6 million at December 31, 2025.
+See the section entitled "Risk Factors" in the Company's 2025 Annual Report on Form 10-K for further discussion of our credit risk.
+Market Risk
+Market risk is the risk that the estimated fair value of our assets, liabilities, and derivative financial instruments will decline as a result of changes in interest rates or financial market volatility, or that our net income will be significantly reduced by interest rate changes.
+The objective of our interest rate management process is to maximize net interest income while operating within acceptable limits established for interest rate risk and maintaining adequate levels of funding and liquidity.
+Potential cash flows, sales, or replacement value of many of our assets and liabilities, especially those that earn or pay interest, are sensitive to changes in the general level of interest rates. This interest rate risk arises primarily from our normal business activities of gathering deposits and extending loans. Many factors affect our exposure to
+69
+changes in interest rates, such as general economic and financial conditions, client preferences, historical pricing relationships, and re-pricing characteristics of financial instruments. Our earnings can also be affected by the monetary and fiscal policies of the U.S. Government and its agencies, particularly the Federal Reserve.
+In managing interest rate risk, we establish guidelines for asset and liability management, including measurement of short and long-term sensitivities to changes in interest rates, which are reviewed with the Enterprise Risk Committee of our Board of Directors. Based on the results of our analysis, we may use different techniques to manage changing trends in interest rates including:
+&#8226;adjusting balance sheet mix or altering interest rate characteristics of assets and liabilities;
+&#8226;changing product pricing strategies;
+&#8226;modifying characteristics of the investment securities portfolio; or
+&#8226;using derivative financial instruments, to a limited degree.
+A key element in our ongoing process is to measure and monitor interest rate risk using a model to quantify the likely impact of changing interest rates on Old National's results of operations. The model quantifies the effects of various possible interest rate scenarios on projected net interest income. The model measures the impact on net interest income relative to a base case scenario over a two-year cumulative horizon resulting from an immediate change in interest rates using multiple rate scenarios. The base case scenario assumes that the balance sheet and interest rates are held at current levels. The model shows our projected net interest income sensitivity based on interest rate changes only and does not consider other forecast assumptions. The net interest income projections across all interest rate scenarios include the expected impact of purchase accounting accretion due to recent acquisitions. Due to the dynamics of future interest rate expectations, we also measure and monitor interest rate risk using the forward curve, which may be a more probable scenario of our interest rate exposure. The forward curve represents the relationship between the price of forward contracts and the time to maturity of the forward contracts at a point in time.
+70
+The following table illustrates our projected net interest income sensitivity over a two-year cumulative horizon based on the asset/liability model at June 30, 2026 and 2025:
+Immediate Rate Decrease | June 30, 2026
+Forward
+Curve
+Immediate Rate Increase |
+(dollars in thousands) | -300
+Basis Points | -200
+Basis Points | -100
+Basis Points | Base | +100
+Basis Points | +200
+Basis Points | +300
+Basis Points |
+June 30, 2026 |
+Projected interest income: |
+Money market, other
+interest earning
+investments, and
+investment
+securities | $ | 1,109,848 | $ | 1,238,634 | $ | 1,357,507 | $ | 1,456,384 | $ | 1,443,976 | $ | 1,504,576 | $ | 1,557,413 | $ | 1,605,770 |
+Loans | 4,047,985 | 4,692,508 | 5,332,672 | 6,165,980 | 5,980,093 | 6,609,127 | 7,222,104 | 7,829,016 |
+Total interest
+income | 5,157,833 | 5,931,142 | 6,690,179 | 7,622,364 | 7,424,069 | 8,113,703 | 8,779,517 | 9,434,786 |
+Projected interest expense: |
+Deposits | 344,070 | 688,920 | 1,147,061 | 1,806,555 | 1,653,444 | 2,114,296 | 2,575,150 | 3,036,004 |
+Borrowings | 431,368 | 616,752 | 803,511 | 1,054,863 | 1,004,985 | 1,207,343 | 1,410,025 | 1,612,728 |
+Total interest
+expense | 775,438 | 1,305,672 | 1,950,572 | 2,861,418 | 2,658,429 | 3,321,639 | 3,985,175 | 4,648,732 |
+Net interest
+income | $ | 4,382,395 | $ | 4,625,470 | $ | 4,739,607 | $ | 4,760,946 | $ | 4,765,640 | $ | 4,792,064 | $ | 4,794,342 | $ | 4,786,054 |
+Change from base | $ | (383,245) | $ | (140,170) | $ | (26,033) | $ | (4,694) | $ | 26,424 | $ | 28,702 | $ | 20,414 |
+% change from base | (8.04) | % | (2.94) | % | (0.55) | % | (0.10) | % | 0.55 | % | 0.60 | % | 0.43 | % |
+Immediate Rate Decrease | June 30, 2025
+Forward
+Curve
+Immediate Rate Increase |
+-300
+Basis Points | -200
+Basis Points | -100
+Basis Points | Base | +100
+Basis Points | +200
+Basis Points | +300
+Basis Points |
+June 30, 2025 |
+Projected interest income: |
+Money market, other
+interest earning
+investments, and
+investment
+securities | $ | 1,003,247 | $ | 1,124,051 | $ | 1,234,492 | $ | 1,291,913 | $ | 1,320,324 | $ | 1,378,486 | $ | 1,428,001 | $ | 1,475,967 |
+Loans | 3,876,868 | 4,538,232 | 5,169,325 | 5,326,771 | 5,761,516 | 6,320,235 | 6,866,992 | 7,409,983 |
+Total interest
+income | 4,880,115 | 5,662,283 | 6,403,817 | 6,618,684 | 7,081,840 | 7,698,721 | 8,294,993 | 8,885,950 |
+Projected interest expense: |
+Deposits | 544,860 | 959,639 | 1,396,607 | 1,487,928 | 1,860,933 | 2,332,488 | 2,777,697 | 3,222,907 |
+Borrowings | 469,089 | 606,475 | 749,830 | 800,724 | 916,315 | 1,086,951 | 1,257,876 | 1,428,853 |
+Total interest
+expense | 1,013,949 | 1,566,114 | 2,146,437 | 2,288,652 | 2,777,248 | 3,419,439 | 4,035,573 | 4,651,760 |
+Net interest
+income | $ | 3,866,166 | $ | 4,096,169 | $ | 4,257,380 | $ | 4,330,032 | $ | 4,304,592 | $ | 4,279,282 | $ | 4,259,420 | $ | 4,234,190 |
+Change from base | $ | (438,426) | $ | (208,423) | $ | (47,212) | $ | 25,440 | $ | (25,310) | $ | (45,172) | $ | (70,402) |
+
+----- [line 2772] -----
+Federal Funds
+Rate (1)
+Month 12 (2)
++300 | 3.75 | % | 6.75 | % | 4.50 | % | 7.50 | % |
++200 | 3.75 | % | 5.75 | % | 4.50 | % | 6.50 | % |
++100 | 3.75 | % | 4.75 | % | 4.50 | % | 5.50 | % |
+Base | 3.75 | % | 3.75 | % | 4.50 | % | 4.50 | % |
+-100 | 3.75 | % | 2.75 | % | 4.50 | % | 3.50 | % |
+-200 | 3.75 | % | 1.75 | % | 4.50 | % | 2.50 | % |
+-300 | 3.75 | % | 0.75 | % | 4.50 | % | 1.50 | % |
+(1)Represents the upper bound, Federal Funds Rate.
+(2)Represents the Federal Funds Rate in month 12 given a gradual, parallel "ramp" relative to the base implied forward scenario.
+Our projected net interest income increased year over year driven by the Bremer acquisition, loan growth, and asset repricing due to current interest rates and economic conditions. Our overall strategy is consistent period over period, as we continue to manage our balance sheet toward a neutral interest rate risk position in a disciplined manner.
+A key element in the measurement and modeling of interest rate risk is the re-pricing assumptions of our transaction deposit accounts, which align with our approach to deposit pricing and are consistent period over period. Because the models are driven by expected behavior in various interest rate scenarios and many factors besides market interest rates affect our net interest income, we recognize that model outputs are not guarantees of actual results. For this reason, we model many different combinations of interest rates and balance sheet assumptions to understand our overall sensitivity to market interest rate changes, including shocks, ramps, yield curve flattening, yield curve steepening, as well as forecasts of likely interest rate scenarios tested.
+We use cash flow and fair value hedges, primarily interest rate swaps, collars, and floors, to mitigate interest rate risk. Derivatives designated as hedging instruments were in a net liability position with a fair value loss of $11.0 million at June 30, 2026, compared to a net asset position with a fair value gain of $14.8 million at December 31, 2025. See Note 15 to the consolidated financial statements for further discussion of derivative financial instruments.
+Liquidity Risk
+Liquidity risk arises from the possibility that we may not be able to satisfy current or future financial commitments or may become unduly reliant on alternative funding sources. We establish liquidity risk guidelines that we review with the Enterprise Risk Committee of our Board of Directors and monitor through our Asset/Liability Executive Management Committee. The objective of liquidity management is to ensure we have the ability to fund balance sheet growth and meet deposit and debt obligations in a timely and cost-effective manner. Management monitors liquidity through a regular review of asset and liability maturities, funding sources, and loan and deposit forecasts. We maintain strategic and contingency liquidity plans to ensure sufficient available funding to satisfy requirements for balance sheet growth, to properly manage capital markets' funding sources, and to address unexpected liquidity requirements. On May 28, 2026, we filed an automatic shelf registration statement with the SEC that permits us to issue an unspecified amount of debt or equity securities.
+Loan repayments and maturing investment securities are a relatively predictable source of funds. However, deposit flows, calls of investment securities, and prepayments of loans and mortgage-related securities are not as predictable as they are strongly influenced by interest rates, events at other banking organizations, the housing market, general and local economic conditions, competition in the marketplace, and other factors. We continually monitor marketplace trends to identify patterns that might improve the predictability of the timing of deposit flows or asset prepayments.
+72
+A maturity schedule for Old National Bank's time deposits is shown in the following table at June 30, 2026.
+(dollars in thousands) |
+Maturity Bucket | Amount | Rate |
+2026 | $ | 6,888,508 | 4.07 | % |
+2027 | 3,421,506 | 3.60 |
+2028 | 94,413 | 2.80 |
+2029 | 40,133 | 2.44 |
+2030 | 21,643 | 4.06 |
+2031 and beyond
+24,923 | 3.52 |
+Total | $ | 10,491,126 | 3.90 | % |
+Our ability to acquire funding at competitive prices is influenced by rating agencies' views of our credit quality, liquidity, capital, and earnings.
+The credit ratings of Old National and Old National Bank at June 30, 2026 are shown in the following table.
+Moody's Investors Service |
+Long-term | Short-term |
+Old National | Baa1 | N/A |
+Old National Bank | A1 | P-1 |
+Old National Bank maintains relationships in capital markets with brokers and dealers to issue certificates of deposit and short-term and medium-term bank notes as well. At June 30, 2026, Old National and its subsidiaries had the following availability of liquid funds and borrowings:
+(dollars in thousands) | June 30, 2026 |
+Available liquid funds: |
+Cash and due from banks | $ | 1,768,180 |
+Unencumbered government-issued debt securities | 6,360,336 |
+Unencumbered investment grade municipal securities | 101,310 |
+Unencumbered corporate securities | 31,618 |
+Availability of borrowings*: |
+Amount available from Federal Reserve discount window | 4,356,933 |
+Amount available from Federal Home Loan Bank | 8,245,763 |
+Total available funds | $ | 20,864,140 |
+* Based on collateral pledged
+Old National Bancorp has routine funding requirements consisting primarily of operating expenses, dividends to shareholders, debt service, net derivative cash flows, and funds used for acquisitions. Old National Bancorp can obtain funding to meet its obligations from dividends and management fees collected from its subsidiaries, operating line of credit, and through the issuance of debt securities. Additionally, Old National Bancorp has a shelf registration in place with the SEC permitting ready access to the public debt and equity markets. At June 30, 2026, Old National Bancorp's other borrowings outstanding were $799.5 million. Management believes the Company has the ability to generate and obtain adequate amounts of liquidity to meet its requirements in the short-term and the long-term.
+Federal banking laws regulate the amount of dividends that may be paid by Old National Bank to Old National Bancorp on an unconsolidated basis without obtaining prior regulatory approval. Prior regulatory approval is required if dividends to be declared in any year would exceed net earnings of the current year plus retained net profits for the preceding two years. Prior regulatory approval to pay dividends was not required in 2025 and is not currently required.
+73
+CRITICAL ACCOUNTING ESTIMATES
+Our most significant accounting policies are described in Note 1 to the consolidated financial statements included in our Annual Report on Form 10-K for the year ended December 31, 2025. Certain of these accounting policies require management to use significant judgment and estimates, which can have a material impact on the carrying value of certain assets and liabilities. We consider these policies to be our critical accounting estimates. The judgment and assumptions made are based upon historical experience, future forecasts, or other factors that management believes to be reasonable under the circumstances. Because of the nature of the judgment and assumptions, actual results could differ from estimates, which could have a material effect on our financial condition and results of operations.
+For additional information regarding critical accounting estimates, see the section titled "Critical Accounting Estimates" included in Item 7 of our Annual Report on Form 10-K for the year ended December 31, 2025. There have been no material changes in the Company's application of critical accounting estimates since December 31, 2025.
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+See Management's Discussion and Analysis of Financial Condition and Results of Operations - Market Risk and Liquidity Risk.
+ITEM 4. CONTROLS AND PROCEDURES
+Conclusion Regarding the Effectiveness of Disclosure Controls and Procedures
+Evaluation of Disclosure Controls and Procedures. Old National's principal executive officer and principal financial officer have concluded that Old National's disclosure controls and procedures (as defined in Rule 13a-15(e) under the Securities Exchange Act of 1934, as amended), based on their evaluation of these controls and procedures as of the end of the period covered by this quarterly report on Form 10-Q, are effective at the reasonable assurance level as discussed below to ensure that information required to be disclosed by Old National in the reports it files under the Securities Exchange Act of 1934, as amended, is recorded, processed, summarized and reported within the time periods specified in the rules and forms of the SEC and that such information is accumulated and communicated to Old National's management, including its principal executive officer and principal financial officer, as appropriate to allow timely decisions regarding required disclosure.
+Limitations on the Effectiveness of Controls. Management, including the principal executive officer and principal financial officer, does not expect that Old National's disclosure controls and internal controls will prevent all error and all fraud. A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within the Company have been detected. These inherent limitations include the realities that judgments in decision-making can be faulty, and that breakdowns can occur because of a simple error or mistake. Additionally, controls can be circumvented by the individual acts of some persons, by collusion of two or more people or by management override of the controls.
+The design of any system of controls also is based in part upon certain assumptions about the likelihood of future events, and there can be only reasonable assurance that any design will succeed in achieving its stated goals under all potential future conditions. Over time, the system of controls may become inadequate because of changes in conditions or the degree of compliance with the policies or procedures may deteriorate. Because of the inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected.
+Changes in Internal Control over Financial Reporting. There were no changes in Old National's internal control over financial reporting that occurred during the period covered by this report that have materially affected, or are reasonably likely to materially affect, Old National's internal control over financial reporting.
+74
+PART II
+OTHER INFORMATION
+ITEM 1A. RISK FACTORS
+There have been no material changes from the risk factors disclosed in the section entitled "Risk Factors" in the Company's Annual Report on Form 10-K for the year ended December 31, 2025.
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+(c)ISSUER PURCHASES OF EQUITY SECURITIES
+Period | Total
+Number
+of Shares
+Purchased (1)
+Average

@@ -1,0 +1,418 @@
+# SF 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/720672/000119312526333953/sf-20260630.htm
+# full_doc_chars=361386
+
+
+----- [line 4119] -----
+Certificates of deposit
+288,684
+481,255
+Total deposits
+$
+32,264,006
+$
+29,752,063
+At June 30, 2026 and December 31, 2025, there were no time deposits that exceeded the FDIC-insured amount, and all certificate of deposit balances at June 30, 2026, were due within one year.
+At June 30, 2026 and December 31, 2025, related party deposits, primarily interest-bearing and time deposits of executive officers, directors, and their affiliates were immaterial. Brokerage customers' deposits were $24.3 billion and $25.6 billion, respectively.
+31
+NOTE 12 - Derivative Instruments and Hedging Activities
+We manage the interest rate risk associated with our derivative transactions with customers by entering into offsetting positions with other derivative dealers, resulting in a substantially "matched book" portfolio. These interest rate contracts are not designated as hedging instruments for accounting purposes. Credit risk associated with its derivative transactions is managed through a variety of measures, including initial and ongoing periodic underwriting of its counterparties' creditworthiness, establishment of customer credit limits, and collateral maintenance requirements for customer exposures that exceed certain preset thresholds.
+Our policy is not to offset fair value amounts recognized for derivative instruments and fair value amounts recognized for the right to reclaim cash collateral or the obligation to return cash collateral arising from derivative instruments recognized at fair value executed with the same counterparty under master netting arrangements.
+The following tables provide the notional values and fair values of our derivative instruments as of June 30, 2026 and December 31, 2025 (in thousands):
+June 30, 2026
+Derivative Assets
+Derivative Liabilities
+Notional value
+Interest rate contracts
+$
+70,457
+$
+70,466
+$
+1,768,530
+December 31, 2025
+Derivative Assets
+Derivative Liabilities
+Notional value
+Interest rate contracts
+$
+71,297
+$
+71,311
+$
+2,186,352
+The scheduled maturities of our derivative instruments as of June 30, 2026, are as follows (in thousands):
+Within one year
+$
+196,678
+One to three years
+574,570
+Three to five years
+527,599
+Five to ten years
+433,625
+Ten to fifteen years
+23,375
+Fifteen years and thereafter
+12,683
+Total notional value
+$
+1,768,530
+The following table presents the distribution of customer interest rate derivative transactions, by derivative product, as of June 30, 2026 and December 31, 2025 (in thousands):
+June 30,
+2026
+December 31,
+2025
+Swaps
+$
+1,671,030
+$
+1,853,852
+Written options
+97,500
+332,500
+Total notional value
+$
+1,768,530
+$
+2,186,352
+
+----- [line 4405] -----
+$
+(8,485
+)
+$
+(8,485
+)
+(4)Securities lending transactions are included in payables to brokers, dealers, and clearing organizations on the consolidated statements of financial condition.
+(5)Collateral pledged includes the fair value of securities pledged to the counterparty. These securities are included on the consolidated statements of financial condition unless we default. Collateral pledged by our company to the counterparty includes U.S. government agency securities, U.S. government securities, and corporate fixed income securities with market values of $1.0 billion and $687.2 million at June 30, 2026 and December 31, 2025, respectively.
+(6)Collateral pledged includes the fair value of securities pledged to the counterparty. There were no securities pledged as collateral at June 30, 2026 or December 31, 2025.
+NOTE 14 - Commitments, Guarantees, and Contingencies
+Broker-Dealer Commitments and Guarantees
+In the normal course of business, we enter into underwriting commitments. Settlement of transactions relating to such underwriting commitments, which were open at June 30, 2026, had no material effect on the consolidated financial statements.
+As a part of our fixed income public finance operations, we enter into forward commitments to purchase agency mortgage-backed securities. In order to hedge the market interest rate risk to which we would otherwise be exposed between the date of the commitment and date of sale of the mortgage-backed securities, we enter into to be announced ("TBA") security contracts with investors for generic mortgage-backed securities at specific rates and prices to be delivered on settlement dates in the future. We may be subject to loss if the timing of, or the actual amount of, the mortgage-backed security differs significantly from the term and notional amount of the TBA security contract to which we entered. These TBA securities and related purchase commitment are accounted for at fair value. As of June 30, 2026, the fair value of the TBA securities and the estimated fair value of the purchase commitments were $156.1 million.
+We also provide guarantees to securities clearinghouses and exchanges under their standard membership agreement, which requires members to guarantee the performance of other members. Under the agreement, if another member becomes unable to satisfy its obligations to the clearinghouse, other members would be required to meet shortfalls. Our liability under these agreements is not quantifiable and may exceed the cash and securities we have posted as collateral. However, the potential requirement for us to make payments under these arrangements is considered remote. Accordingly, no liability has been recognized for these arrangements.
+Other Commitments
+In the ordinary course of business, Stifel Bancorp has commitments to extend credit in the form of commitments to originate loans, standby letters of credit, and lines of credit. See Note 21 in the notes to consolidated financial statements for further details.
+34
+Concentration of Credit Risk
+We provide investment, capital-raising, and related services to a diverse group of domestic customers, including governments, corporations, and institutional and individual investors. Our exposure to credit risk associated with the non-performance of customers in fulfilling their contractual obligations pursuant to securities transactions can be directly impacted by volatile securities markets, credit markets, and regulatory changes. This exposure is measured on an individual customer basis and on a group basis for customers that share similar attributes. To reduce the potential for risk concentrations, counterparty credit limits have been implemented for certain products and are continually monitored in light of changing customer and market conditions. As of June 30, 2026, we did not have significant concentrations of credit risk with any one customer or counterparty, or any group of customers or counterparties.
+NOTE 15 - Legal Proceedings
+The Company and its subsidiaries are named in and subject to various proceedings and claims arising primarily from our securities business activities, including lawsuits, arbitration claims, class actions, and regulatory matters. The Company and its subsidiaries are also involved in other reviews, investigations, and proceedings by governmental and self-regulatory organizations regarding our business, which may result in adverse judgments, settlements, fines, penalties, injunctions, and other relief. The Company is contesting allegations in these claims, and it believes that there are meritorious defenses in each of these lawsuits, arbitrations, and regulatory investigations. In view of the number and diversity of claims against the Company, the number of jurisdictions in which litigation is pending, and the inherent difficulty of predicting the outcome of litigation and other claims, the Company generally cannot predict the eventual outcome of the pending matters, timing of the ultimate resolution of these matters, or eventual loss, fines, or penalties related to each pending matter. Matters frequently need to be more developed before a loss or range of loss can reasonably be estimated.
+As a matter develops, the Company, in conjunction with outside counsel, evaluates whether such matter presents a loss contingency that is probable and estimable, and, for the matters disclosed below, whether a loss in excess of any accrued liability is reasonably possible in future periods. Once the loss contingency is deemed to be both probable and estimable, the Company will establish an accrued liability. The Company continues to monitor the matter for further developments that could affect the amount of the accrued liability that has been previously established. As of June 30, 2026, the Company has estimated the upper end of the range of reasonably possible aggregate loss for such matters and for any other matters described below where management has been able to estimate a range of possible aggregate loss to be approximately $100.0 million in excess of the aggregate reserves for such matters.
+The accrued liability and estimated range of possible loss are based upon currently available information and subject to significant judgment, a variety of assumptions and known and unknown uncertainties. The matters underlying the accrued liability and estimated range of possible loss are unpredictable and may change from time to time, and actual losses may vary significantly from the current estimate and accrual. The estimated range of possible loss does not represent the Company's maximum loss exposure.
+Based on currently available information, review with outside legal counsel, and consideration of accrued liabilities, management does not believe that loss contingencies arising from pending matters, including matters described below, will have a material adverse impact on the consolidated financial position or liquidity of the Company. However, resolution of one or more of these matters may have a material effect on the results of operations in any future period, depending upon the ultimate resolution of those matters and depending upon the level of income for such period. For matters where a liability has not been established and for which the Company believes a loss is reasonably possible, as well as for matters where an accrual has been recorded but for which an exposure to loss in excess of the amount accrued is reasonably possible, based on currently available information, the Company believes that such losses will not have a material effect on its consolidated financial statements.
+FINRA Arbitration Matters
+On March 12, 2025, a three-person FINRA arbitration panel entered an award in a customer arbitration against the Company's brokerage subsidiary, Stifel, in the amount of $132.5 million, consisting of $26.5 million in compensatory damages, $79.5 million in punitive damages, and $26.5 million in attorneys' fees and costs. The arbitration involved claims by four family members arising out of their investments, principally in structured notes, through a now former Stifel private wealth advisor. Stifel subsequently moved to vacate the arbitration award and on May 5, 2026, while the motion to vacate was on appeal, entered into an agreement settling the matter during the quarter.
+Stifel has also been named as the respondent in additional arbitration claims involving similar allegations that were filed by other customers of the same former advisor. Two of those claims resulted in adverse awards and sixteen others have been resolved, and sixteen other such claims have yet to be resolved or adjudicated. The Company's estimate of losses that may be sought by the customers whose claims have been filed but not yet resolved or adjudicated do not take into consideration claims for enhanced damages or attorneys' fees. While we continue to believe that Stifel has viable defenses to at least limit its liability in these additional cases, we can provide no assurance that we will be able to settle these claims or will be successful in defending them on the merits, or that these claims will not result in material liability to the Company.
+35
+Cash Sweeps Litigation
+Beginning in March 2025, the Company and certain of its affiliates were named as defendants in multiple putative class actions brought in the federal district court for the Eastern District of Missouri on behalf of customers who had cash deposits or balances in the Stifel Insured Bank Deposit Program or the Stifel Insured Bank Deposit Program for Retirement Accounts. The actions were consolidated by the Court and on May 5, 2026, lead counsel appointed by the Court filed a Consolidated Class Action Complaint ("Consolidated Complaint"). The Consolidated Complaint alleges various contractual, fiduciary, and statutory claims based on the allegation that the Company failed to pay a reasonable rate of interest on its cash sweep products, and seeks unspecified compensatory damages, equitable relief, and treble damages. On July 9, 2026, the Company filed a motion to dismiss the Complaint. While there can be no assurance that we will be successful, we intend to vigorously defend the claims.
+401(k) Plan Litigation
+On July 4, 2025 (Dell Complaint) and February 20, 2026 (Striplin Complaint), the Company, the Board, and its investment committee and respective members (together, the "Company Defendants") were sued in two separate putative class actions related to the administration of the Company's 401(k) Plan (the "Plan") pending in federal district court for the Eastern District of Missouri. The complaints are brought on behalf of the Plan and current and former employees that are members of the Plan alleging fiduciary violations of the Employee Retirement Income Security Act (ERISA). On September 22, 2025 (Dell) and May 18, 2026 (Striplin) Amended Complaints were filed.
+The Dell Complaint alleges the Company Defendants breached their fiduciary duties by causing the Plan to pay excessive recordkeeping and administrative service fees and by failing to prudently monitor and remove one of the Plan's investment options. The Striplin Complaint alleges the Company Defendants breached their fiduciary duties by failing to prudently monitor and remove two of the Plan's investment options. The Company Defendants filed motions to dismiss the Amended Complaints in both Dell and Striplin.
+Prior to the filing of the Dell Complaint, the Company identified a change in the market pricing of certain record keeping and administrative fees and a potential underperformance with certain Plan investments. The Company calculated restorative payments, funded the Plan on March 31, 2025, notified the Department of Labor through its Voluntary Fiduciary Correction Program, and on August 4, 2025, received a no-action letter from the Department of Labor. The Company Defendants filed a motion to dismiss the Dell Complaint.
+Together, the Dell and Striplin Complaints seek unspecified compensatory damages, equitable relief, and plan reformation. The cases are at an early stage, and while there can be no assurance that we will be successful, the Company Defendants intend to vigorously defend these cases.
+NOTE 16 - Regulatory Capital Requirements
+We operate in a highly regulated environment and are subject to capital requirements, which may limit distributions to our company from its subsidiaries. Distributions from our broker-dealer subsidiaries are subject to net capital rules. A broker-dealer that fails to comply with the SEC's Uniform Net Capital Rule (Rule 15c3-1) may be subject to disciplinary actions by the SEC and self-regulatory organizations, such as FINRA, including censures, fines, suspension, or expulsion. Stifel has chosen to calculate its net capital under the alternative method, which prescribes that their net capital shall not be less than the greater of $1.0 million or two percent of aggregate debit balances (primarily receivables from customers) computed in accordance with the SEC's Customer Protection Rule (Rule 15c3-3). Our other broker-dealer subsidiaries calculate their net capital under the aggregate indebtedness method, whereby their aggregate indebtedness may not be greater than fifteen times their net capital (as defined).
+At June 30, 2026, Stifel had net capital of $776.5 million, which was 37.7% of aggregate debit items and $735.3 million in excess of its minimum required net capital. At December 31, 2025, Stifel had net capital of $559.5 million, which was 37.7% of aggregate debit items and $529.8 million in excess of its minimum required net capital. At June 30, 2026, all of our other broker-dealer subsidiaries' net capital exceeded the minimum net capital required under the SEC rule.
+Our international subsidiary, SNEL, is subject to the regulatory supervision and requirements of the Financial Conduct Authority ("FCA") in the United Kingdom. At June 30, 2026, our international subsidiary's capital and reserves were in excess of the financial resources requirement under the rules of the FCA.
+Our Canadian subsidiary, SNC, is subject to the regulatory supervision and requirements of the Canadian Investment Regulatory Organization ("CIRO"). At June 30, 2026, SNC's net capital and reserves were in excess of the financial resources requirement under the rules of the CIRO.
+36
+Our company, as a bank holding company, Stifel Bank & Trust, Stifel Bank, Stifel Trust Company, N.A., and Stifel Trust Company, Delaware, N.A., (collectively, "banking subsidiaries"), are subject to various regulatory capital requirements administered by the Federal and state banking agencies. Failure to meet minimum capital requirements can initiate certain mandatory and possibly additional discretionary actions by regulators that, if undertaken, could have a direct material effect on our company's and its banking subsidiaries' financial results. Under capital adequacy guidelines and the regulatory framework for prompt corrective action, our company and its banking subsidiaries must meet specific capital guidelines that involve quantitative measures of our assets, liabilities, and certain off-balance sheet items as calculated under regulatory accounting practices. Our company's and its banking subsidiaries' capital amounts and classification are also subject to qualitative judgments by the regulators about components, risk weightings, and other factors.
+Under the Basel III rules, the quantity and quality of regulatory capital increased, a capital conservation buffer was established, selected changes were made to the calculation of risk-weighted assets, and a new ratio, common equity Tier 1 was introduced, all of which are applicable to both our company and its banking subsidiaries.
+Our company and its banking subsidiaries are required to maintain minimum amounts and ratios of Total and Tier 1 capital (as defined) to risk-weighted assets (as defined), Tier 1 capital to average assets (as defined), and under rules defined in Basel III, Common equity Tier 1 capital to risk-weighted assets. Our company and its banking subsidiaries each calculate these ratios in order to assess compliance with both regulatory requirements and their internal capital policies. At current capital levels, our company and its banking subsidiaries are each categorized as "well capitalized" under the regulatory framework for prompt corrective action. To be categorized as "well capitalized," our company and its banking subsidiaries must maintain total risk-based, Tier 1 risk-based, and Tier 1 leverage ratios.
+The amounts and ratios for Stifel Financial Corp., Stifel Bank & Trust, and Stifel Bank as of June 30, 2026 are represented in the tables below (in thousands, except ratios).
+Actual
+For Capital
+Adequacy Purposes
+To Be Well Capitalized
+Under Prompt Corrective
+Action Provisions
+Stifel Financial Corp.
+Amount
+Ratio
+Amount
+Ratio
+Amount
+Ratio
+Common equity tier 1 capital
+$
+3,890,357
+14.7
+%
+$
+1,188,244
+4.5
+%
+$
+1,716,353
+6.5
+%
+Tier 1 capital
+
+----- [line 5368] -----
+The Plan is provided to certain revenue producers, officers, and key administrative associates, whereby a certain percentage of their incentive compensation is deferred as defined by the Plan into company stock units, restricted stock, and debentures. Participants may elect to defer a portion of their incentive compensation. Deferred awards generally vest over a one- to ten-year period and are distributable upon vesting or at future specified dates. Deferred compensation costs are amortized on a straight-line basis over the vesting period. Elective deferrals are 100% vested.
+Additionally, the Plan allows Stifel financial advisors who achieve certain levels of production the ability to earn deferred awards. These financial advisors can earn 5-6% of their gross commissions that is contributed to their mandatory deferral. The mandatory deferral is split between company restricted stock units and debentures. They have the option to defer an additional 1% of gross commissions into company stock units.
+In addition, certain revenue producers, upon joining the Company, may receive company stock units in lieu of transition cash payments. Deferred compensation related to these awards generally vests over a one- to eight-year period. Deferred compensation costs are amortized on a straight-line basis over the deferral period.
+Profit Sharing Plan
+Eligible U.S. associates of the Company who have met certain service requirements may participate in the Stifel Financial Corp. Profit Sharing 401(k) Plan (the "401(k) Plan"). Associates are permitted within limitations imposed by tax law to make pre-tax contributions to the 401(k) Plan. We may match certain associate contributions or make additional contributions to the 401(k) Plan at our discretion. Our contributions to the 401(k) Plan, included in compensation and benefits in the consolidated statements of operations, were $4.2 million and $12.0 million for the three months ended June 30, 2026 and 2025, respectively and $8.2 million and $15.1 million for the six months ended June 30, 2026 and 2025, respectively.
+NOTE 21 - Off-Balance Sheet Credit Risk
+In the normal course of business, we execute, settle, and finance customer and proprietary securities transactions. These activities expose our company to off-balance sheet risk in the event that customers or other parties fail to satisfy their obligations.
+In accordance with industry practice, securities transactions generally settle within one business day after trade date. Should a customer or broker fail to deliver cash or securities as agreed, we may be required to purchase or sell securities at unfavorable market prices.
+We borrow and lend securities to facilitate the settlement process and finance transactions, utilizing customer margin securities held as collateral. We monitor the adequacy of collateral levels on a daily basis. We periodically borrow from banks on a collateralized basis, utilizing firm and customer margin securities in compliance with SEC rules. Should the counterparty fail to return customer securities pledged, we are subject to the risk of acquiring the securities at prevailing market prices in order to satisfy our customer obligations. We control our exposure to credit risk by continually monitoring our counterparties' positions, and where deemed necessary, we may require a deposit of additional collateral and/or a reduction or diversification of positions. Our company sells securities it does not currently own (short sales) and is obligated to subsequently purchase such securities at prevailing market prices. We are exposed to risk of loss if securities prices increase prior to closing the transactions. We control our exposure to price risk from short sales through daily review and setting position and trading limits.
+We manage our risks associated with the aforementioned transactions through position and credit limits and the continuous monitoring of collateral. Additional collateral is required from customers and other counterparties when appropriate.
+45
+We have accepted collateral in connection with resale agreements, securities borrowed transactions, and customer margin loans. Under many agreements, we are permitted to sell or repledge these securities held as collateral and use these securities to enter into securities lending arrangements or to deliver to counterparties to cover short positions. At June 30, 2026 and December 31, 2025, the fair value of securities accepted as collateral where we are permitted to sell or repledge the securities was $2.9 billion and $2.3 billion, respectively, and the fair value of the collateral that had been sold or repledged was $1.1 billion and $651.2 million, respectively.
+We enter into interest rate derivative contracts to manage exposures that arise from business activities that result in the receipt or payment of future known and uncertain cash amounts, the value of which are determined by interest rates. Our derivative financial instruments are principally used to manage differences in the amount, timing, and duration of our known or expected cash payments related to certain variable-rate affiliated deposits. Interest rate swaps designated as cash flow hedges involve the receipt of variable-rate amounts from a counterparty in exchange for us making fixed-rate payments. Our interest rate hedging strategies may not work in all market environments and, as a result, may not be effective in mitigating interest rate risk.
+Derivatives' notional contract amounts are not reflected as assets or liabilities in the consolidated statements of financial condition. Rather, the market or fair value of the derivative transactions are reported in the consolidated statements of financial condition as other assets or accounts payable and accrued expenses, as applicable. For a complete discussion of our activities related to derivative instruments, see Note 12 in the notes to consolidated financial statements.
+In the ordinary course of business, Stifel Bancorp has commitments to originate loans, standby letters of credit, and lines of credit. Commitments to originate loans are agreements to lend to a customer as long as there is no violation of any condition established by the contract. These commitments generally have fixed expiration dates or other termination clauses and may require payment of a fee. Since a portion of the commitments may expire without being drawn upon, the total commitment amounts do not necessarily represent future cash commitments. Each customer's creditworthiness is evaluated on a case-by-case basis. The amount of collateral obtained, if necessary, is based on the credit evaluation of the counterparty. Collateral held varies, but may include accounts receivable, inventory, property, plant and equipment, commercial real estate, and residential real estate.
+At June 30, 2026 and December 31, 2025, Stifel Bancorp had outstanding commitments to originate loans aggregating $368.8 million and $267.6 million, respectively. The commitments extended over varying periods of time, with all commitments at June 30, 2026, scheduled to be disbursed in the following three months.
+Through Stifel Bancorp, in the normal course of business, we originate residential mortgage loans and sell them to investors. We may be required to repurchase mortgage loans that have been sold to investors in the event there are breaches of certain representations and warranties contained within the sales agreements. We may be required to repurchase mortgage loans that were sold to investors in the event that there was inadequate underwriting or fraud, or in the event that the loans become delinquent shortly after they are originated. We also may be required to indemnify certain purchasers and others against losses they incur in the event of breaches of representations and warranties and in various other circumstances, and the amount of such losses could exceed the repurchase amount of the related loans. Consequently, we may be exposed to credit risk associated with sold loans.
+Standby letters of credit are irrevocable conditional commitments issued by Stifel Bancorp to guarantee the performance of a customer to a third party. Financial standby letters of credit are primarily issued to support public and private borrowing arrangements, including commercial paper, bond financing, and similar transactions. Performance standby letters of credit are issued to guarantee performance of certain customers under non-financial contractual obligations. The credit risk involved in issuing standby letters of credit is essentially the same as that involved in extending loans to customers. Should Stifel Bancorp be obligated to perform under the standby letters of credit, it may seek recourse from the customer for reimbursement of amounts paid. At June 30, 2026 and December 31, 2025, Stifel Bancorp had outstanding letters of credit totaling $113.1 million and $91.9 million, respectively. A majority of the standby letters of credit commitments at June 30, 2026, have expiration terms that are less than one year.
+Lines of credit are agreements to lend to a customer as long as there is no violation of any condition established in the contract. Lines of credit generally have fixed expiration dates. Stifel Bancorp uses the same credit policies in granting lines of credit as it does for on-balance sheet instruments. At June 30, 2026 and December 31, 2025, Stifel Bancorp had granted unused lines of credit to commercial and consumer borrowers aggregating $7.2 billion and $5.4 billion, respectively.
+We are required to evaluate our loan portfolio for any expected losses with recognition of an allowance for credit losses, when applicable. At June 30, 2026 and December 31, 2025, the expected credit losses for unfunded lending commitments was $29.4 million and $28.7 million, respectively.
+46
+NOTE 22 - Segment Reporting
+We currently operate through the following three business segments: Global Wealth Management, Institutional Group, and various corporate activities combined in the Other segment. Our chief operating decision maker ("CODM") is our Chairman and Chief Executive Officer. Our CODM regularly reviews segment net revenues, compensation and benefits expense, non-compensation operating expenses, and income before income taxes. Amounts included in non-compensation operating expenses include "Occupancy and equipment rental," "Communications and office supplies," "Commissions and floor brokerage," "Provision for credit losses," and "Other operating expenses."
+Global Wealth Management
+The Global Wealth Management segment consists of two businesses, the Private Client Group and Stifel Bancorp. The Private Client Group includes branch offices and, from the period January 1, 2026 through February 2, 2026, independent contractor offices of our broker-dealer subsidiaries located throughout the United States. These branches provide securities brokerage services, including the sale of equities, mutual funds, fixed income products, and insurance, as well as offering banking products to their clients through our bank subsidiaries, which provide residential, consumer, and commercial lending, as well as FDIC-insured deposit accounts to customers of our private client group and to the general public.
+The success of our Global Wealth Management segment is dependent upon the quality of our products, services, financial advisors, and support personnel, including our ability to attract, retain, and motivate a sufficient number of these associates. We face competition for qualified associates from major financial services companies, including other brokerage firms, insurance companies, banking institutions, and discount brokerage firms. Segment revenue growth and operating income are used to evaluate and measure segment performance by our CODM in assessing performance and deciding how to allocate resources.
+Institutional Group
+The Institutional Group segment includes institutional sales and trading. It provides securities brokerage, trading, and research services to institutions, with an emphasis on the sale of equity and fixed income products. This segment also includes the management of and participation in underwritings for both corporate and public finance (exclusive of sales credits generated through the private client group, which are included in the Global Wealth Management segment), merger and acquisition, and financial advisory services.
+The success of our Institutional Group segment is dependent upon the quality of our personnel, the quality and selection of our investment products and services, pricing (such as execution pricing and fee levels), and reputation. Segment revenue growth and operating income are used to evaluate and measure segment performance by our CODM in assessing performance and deciding how to allocate resources.
+Other
+The Other segment includes interest income from stock borrow activities, unallocated interest expense, interest income and gains and losses from investments held, amortization of stock-based awards, and all unallocated overhead cost associated with the execution of orders; processing of securities transactions; custody of client securities; receipt, identification, and delivery of funds and securities; compliance with regulatory and legal requirements; internal financial accounting and controls; and general administration and acquisition charges.
+47
+Information on reportable segments and reconciliation to consolidated net income available to common shareholders for the three and six months ended June 30, 2026 and 2025 is as follows (in thousands):
+Three Months Ended
+June 30,
+Six Months Ended
+June 30,
+2026
+2025
+2026
+2025
+Global Wealth Management
+Net revenues
+$
+956,534
+$
+845,631
+$
+1,888,657
+$
+1,696,190
+Compensation and benefits
+460,582
+420,240
+933,042
+842,533
+Non-compensation operating expenses
+134,105
+119,335
+263,053
+421,196
+Income before income taxes
+$
+361,847
+$
+306,056
+$
+692,562
+$
+432,461
+Institutional Group
+Net revenues
+
+----- [line 7992] -----
+For the three months ended June 30, 2026, non-interest expenses decreased 2.3% to $168.2 million from $172.2 million during the comparable period in 2025. The decrease is primarily attributable to lower fixed compensation expenses due to workforce reductions in certain of our foreign subsidiaries during 2025. For the six months ended June 30, 2026, non-interest expenses increased 13.8% to $321.5 million from $282.6 from the comparable period in 2025. The increase is primarily attributable to an increase in variable compensation.
+The expenses relating to the Company's acquisition strategy are primarily attributable to integration-related activities, signing bonuses, amortization of restricted stock awards, debentures, and promissory notes issued as retention, additional earn-out expense, and amortization of intangible assets acquired. These costs were directly related to acquisitions of certain businesses and are not representative of the costs of running the Company's ongoing business.
+For the three months ended June 30, 2026, non-interest expenses related to our acquisition strategy, included in the numbers presented in the table above, decreased 71.4% to $13.6 million from $47.3 million in 2025. For the six months ended June 30, 2026, non-interest expenses related to our acquisition strategy, included in the numbers presented in the table above, decreased 26.3% to $44.2 million from $60.0 million in 2025. The three and six months ended June 30, 2025 were negatively impacted by the recording of severance costs associated with workforce reductions in certain of our foreign subsidiaries.
+69
+Analysis of Financial Condition
+Our company's consolidated statements of financial condition consist primarily of cash and cash equivalents, receivables, financial instruments owned, bank loans, investments, goodwill, loans and advances to financial advisors, bank deposits, and payables. Total assets of $44.9 billion, were up 8.8% from December 31, 2025. Our broker-dealer subsidiary's gross assets and liabilities, including financial instruments owned, stock loan/borrow, receivables and payables from/to brokers, dealers, and clearing organizations and clients, fluctuate with our business levels and overall market conditions.
+As of June 30, 2026, our liabilities were comprised primarily of deposits of $32.3 billion at Stifel Bancorp, lease liabilities of $838.1 million, accrued employee compensation of $711.8 million, payables to customers of $709.8 million at our broker-dealer subsidiaries, accounts payable and accrued expenses of $634.0 million, and senior notes, net of debt issuance costs, of $617.9 million. To meet our obligations to clients and operating needs, we had $13.9 billion of cash or assets readily convertible into cash at June 30, 2026.
+Cash Flow
+Cash and cash equivalents decreased $62.2 million to $2.2 billion at June 30, 2026, from $2.3 billion at December 31, 2025. Operating activities used cash of $266.5 million. Investing activities used cash of $2.9 billion primarily due to growth in our loan portfolio, investment securities purchases, and fixed asset purchases, partially offset by proceeds from principal paydowns and maturities of investment securities and the proceeds received from the sale of the SIA business. Financing activities provided cash of $3.1 billion primarily due to an increase in bank deposits, securities sold under agreement to repurchase, and securities loaned, partially offset by repurchases of our common stock, tax payments related to shares withheld for stock-based compensation, and dividends paid on our common and preferred stock.
+Liquidity and Capital Resources
+Liquidity and capital are essential to our business. The primary goal of our liquidity management activities is to ensure adequate funding and liquidity to conduct our business over a range of economic and market environments, including times of broader industry or market liquidity stress events. In times of market stress or uncertainty, we generally maintain higher levels of capital and liquidity, including increased cash levels at our bank subsidiaries, to ensure we have adequate funding to support our business and meet our clients' needs. We seek to manage capital levels to support execution of our business strategy, provide financial strength to our subsidiaries, and maintain sustained access to the capital markets, while at the same time meeting our regulatory capital requirements, and conservative internal management targets.
+Liquidity and capital resources are provided primarily through our business operations and financing activities. Financing activities could include bank borrowings, collateralized financing arrangements, new or enhanced deposit product offerings, or additional capital-raising activities under our "universal" shelf registration statement. We believe our existing assets, most of which are liquid in nature, together with funds generated from operations and available from committed and uncommitted financing facilities, provide adequate funds for continuing operations at current levels of activity in the short-term. We also believe that we will be able to continue to meet our long-term cash requirements due to our strong financial position and ability to access capital from financial markets.
+The Company's senior management establishes the liquidity and capital policies of our company. The Company's senior management reviews business performance relative to these policies, monitors the availability of alternative sources of financing, and oversees the liquidity and interest rate sensitivity of our company's asset and liability position.
+Our assets, consisting mainly of cash or assets readily convertible into cash, are our principal source of liquidity. The liquid nature of these assets provides for flexibility in managing and financing the projected operating needs of the business. These assets are financed primarily by our equity capital, corporate debt, debentures to trusts, client credit balances, short-term bank loans, proceeds from securities lending, repurchase agreements, and other payables. We currently finance our client accounts and firm trading positions through ordinary course borrowings at floating interest rates from various banks on a demand basis, securities lending, and repurchase agreements, with company-owned and client securities pledged as collateral. Changes in securities market volumes, related client borrowing demands, underwriting activity, and levels of securities inventory affect the amount of our financing requirements. Interest rate increases may harm the value of our investment portfolio, if interest rates rise, our unrealized gains on fixed income securities may decrease and our unrealized losses may increase. We would recognize the accumulated change in estimated fair value of these fixed income securities in net income when we realize a gain or loss upon the sale of the security.
+Our bank assets consist principally of available-for-sale and held-to-maturity securities, loans held for investment, and cash and cash equivalents. Stifel Bancorp's current liquidity needs are generally met through deposits from brokerage clients and equity capital. We monitor the liquidity of our bank subsidiaries daily to ensure their ability to meet customer deposit withdrawals, maintain reserve requirements, and support asset growth.
+70
+As of June 30, 2026, we had $44.9 billion in assets, $13.9 billion of which consisted of cash or assets readily convertible into cash as follows (in thousands):
+June 30,
+2026
+December 31,
+2025
+Cash and cash equivalents
+$
+2,191,628
+$
+2,253,789
+Receivables from brokers, dealers, and clearing organizations
+864,846
+571,663
+Securities purchased under agreements to resell
+798,907
+564,162
+Financial instruments owned at fair value
+1,630,563
+1,366,783
+Available-for-sale securities at fair value
+1,529,505
+1,593,390
+Held-to-maturity securities at amortized cost
+6,881,353
+6,549,054
+Investments
+34,403
+35,488
+Total cash and assets readily convertible to cash
+$
+13,931,205
+$
+12,934,329
+As of June 30, 2026 and December 31, 2025, the amount of collateral by asset class is as follows (in thousands):
+June 30, 2026
+December 31, 2025
+Contractual
+Contingent
+Contractual
+Contingent
+Cash and cash equivalents
+$
+245,565
+$
+--
+$
+128,630
+$
+--
+Financial instruments owned at fair value
+1,095,619
+1,095,619
+651,236
+651,236
+Investment portfolio (AFS & HTM)
+--
+
+----- [line 8167] -----
+Our contractual obligations have not materially changed from those reported in our Annual Report on Form 10-K for the year ended December 31, 2025.
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+Risk Management
+Risks are an inherent part of our business and activities. Management of these risks is critical to our soundness and profitability. Risk management at our company is a multi-faceted process that requires communication, judgment, and knowledge of financial products and markets. Our senior management group takes an active role in the risk management process and requires specific administrative and business functions to assist in the identification, assessment, monitoring, and control of various risks. The principal risks involved in our business activities are: market (interest rates and equity prices), credit, capital and liquidity, operational, and regulatory and legal.
+We have adopted policies and procedures concerning Enterprise Risk Management. The Risk Management Committee of the Board of Directors, in exercising its oversight of management's activities, conducts periodic reviews and discussions with management regarding the guidelines and policies governing the processes by which risk assessment and risk management are handled.
+Market Risk
+The potential for changes in the value of financial instruments owned by our company resulting from changes in interest rates and equity prices is referred to as "market risk." Market risk is inherent to financial instruments, and accordingly, the scope of our market risk management procedures includes all market risk-sensitive financial instruments.
+We trade tax-exempt and taxable debt obligations, including U.S. treasury bills, notes, and bonds; U.S. government agency and municipal notes and bonds; bank certificates of deposit; mortgage-backed securities; and corporate obligations. We are also an active market-maker in over-the-counter equity securities. In connection with these activities, we may maintain inventories in order to ensure availability and to facilitate customer transactions.
+Changes in value of our financial instruments may result from fluctuations in interest rates, credit ratings, equity prices, and the correlation among these factors, along with the level of volatility.
+We manage our trading businesses by product and have established trading departments that have responsibility for each product. The trading inventories are managed with a view toward facilitating client transactions, considering the risk and profitability of each inventory position. Position limits in trading inventory accounts are established by our Enterprise Risk Management department and monitored on a daily basis within the business units. We monitor inventory levels and results of the trading departments, as well as inventory aging, pricing, concentration, securities ratings, and risk sensitivities.
+We are also exposed to market risk based on our other investing activities. These investments consist of investments in private equity partnerships, start-up companies, venture capital investments, and zero coupon U.S. government securities and are included under the caption "Investments" on the consolidated statements of financial condition.
+77
+Interest Rate Risk
+We are exposed to interest rate risk as a result of maintaining inventories of interest rate-sensitive financial instruments and from changes in the interest rates on our interest-earning assets (including client loans, stock borrow activities, investments, inventories, and resale agreements) and our funding sources (including client cash balances, Federal Home Loan Bank advances, stock lending activities, bank borrowings, and repurchase agreements), which finance these assets. The collateral underlying financial instruments at the broker-dealer is repriced daily, thus requiring collateral to be delivered as necessary. Interest rates on client balances and stock borrow and lending produce a positive spread to our company, with the rates generally fluctuating in parallel.
+We manage our inventory exposure to interest rate risk by setting and monitoring limits and, where feasible, hedging with offsetting positions in securities with similar interest rate risk characteristics. While a significant portion of our securities inventories have contractual maturities in excess of five years, these inventories, on average, turn over several times per year.
+Value-at-Risk ("VaR") is a statistical technique used to estimate the probability of portfolio losses based on the statistical analysis of historical price trends and volatility. It provides a common risk measure across financial instruments, markets and asset classes. We estimate VaR using a model that assumes historical changes in market conditions are representative of future changes, and trading losses on any given day could exceed the reported VaR by significant amounts in unusually volatile markets. Further, the model involves a number of assumptions and inputs. While we believe that the assumptions and inputs we use in our risk model are reasonable, different assumptions and inputs could produce materially different VaR estimates. We monitor, on a daily basis, the VaR in our trading portfolios using a ten-day horizon and a five year look-back period measured at a 99% confidence level.
+The following table sets forth the high, low, and daily average VaR for our trading portfolios during the six months ended June 30, 2026, and the daily VaR at June 30, 2026 and December 31, 2025 (in thousands):
+Six Months Ended
+June 30, 2026
+VaR Calculation at
+High
+Low
+Daily Average
+June 30, 2026
+December 31, 2025
+Daily VaR
+$
+12,629
+$
+6,023
+$
+8,618
+$
+8,615
+$
+6,680
+Stifel Bancorp's interest rate risk is principally associated with changes in market interest rates related to residential, consumer, and commercial lending activities, as well as FDIC-insured deposit accounts to customers of our broker-dealer subsidiaries and to the general public.
+Our primary emphasis in interest rate risk management for Stifel Bancorp is the matching of assets and liabilities of similar cash flow and repricing time frames. This matching of assets and liabilities reduces exposure to interest rate movements and aids in stabilizing positive interest spreads. Stifel Bancorp has established limits for acceptable interest rate risk and acceptable portfolio value risk. To ensure that Stifel Bancorp is within the limits established for net interest income, an analysis of net interest income based on various shifts in interest rates is prepared each quarter and presented to Stifel Bancorp's Board of Directors. Stifel Bancorp utilizes a third-party model to analyze the available data.
+The following table illustrates the estimated change in net interest income at June 30, 2026, based on shifts in interest rates of up to positive 200 basis points and negative 200 basis points:
+Hypothetical Change in Interest Rates
+Projected Change in Net Interest Income
++200
+3.0
+%
++100
+1.6
+0
+--
+-100
+(2.8
+)
+-200
+(6.7
+)
+78
+The following GAP Analysis table indicates Stifel Bancorp's interest rate sensitivity position at June 30, 2026 (in thousands):
+Repricing Opportunities
+0-6 Months
+7-12 Months
+1-5 Years
+5+ Years
+Interest-earning assets:
+Loans
+$
+15,787,047
+$
+851,982
+$
+5,650,481
+$
+2,766,217
+Securities
+6,725,553
+514,046
+751,531
+645,816
+Interest-bearing cash
+1,249,689
+--
+--
+--
+Total interest-earning assets
+$
+23,762,289
+$
+1,366,028
+$
+6,402,012
+$
+3,412,033
+Interest-bearing liabilities:
+Transaction accounts and savings
+$
+31,476,634
+$
+--
+$
+--
+$
+--
+Borrowings
+594,941
+--
+--
+--
+Certificates of deposit
+290,746
+--
+--
+--
+Total interest-bearing liabilities
+$
+32,362,321
+$
+--
+$

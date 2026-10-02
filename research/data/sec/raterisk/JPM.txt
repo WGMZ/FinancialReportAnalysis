@@ -1,0 +1,923 @@
+# JPM 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/19617/000162828026054343/jpm-20260630.htm
+# full_doc_chars=869483
+
+
+----- [line 746] -----
+Return on tangible common equity | NA | NA | 29 | % | 21 | % | 26 | % | 21 | % |
+Tangible book value per share | $ | 113.35 | $ | 107.56 | NA | NA | NA | NA |
+(a)Represents deferred tax liabilities related to tax-deductible goodwill and to identifiable intangibles created in nontaxable transactions, which are netted against goodwill and other intangibles when calculating TCE.
+19
+BUSINESS SEGMENT & CORPORATE RESULTS |
+The Firm is managed on an LOB basis. There are three reportable business segments - Consumer & Community Banking, Commercial & Investment Bank, and Asset & Wealth Management - with the remaining activities in Corporate.
+The business segments are determined based on the products and services provided, or the type of customer served, and they reflect the manner in which financial information is evaluated by the Firm's Operating Committee, whose members act collectively as the Firm's chief operating decision maker. Segment results are presented on a managed basis. Refer to Explanation and Reconciliation of the Firm's Use of Non-GAAP Financial Measures on pages 18-19 for a definition of managed basis.
+Description of business segment reporting methodology
+Results of the reportable business segments are intended to present each segment as if it were a stand-alone business. The management reporting process that derives business segment results includes the allocation of certain income and expense items. The Firm periodically assesses the assumptions, methodologies and reporting classifications used for segment reporting, and therefore further refinements may be implemented in future periods. The Firm also assesses the level of capital required for each LOB on at least an annual basis. The Firm's LOBs also provide various business metrics which are utilized by the Firm and its investors and analysts in assessing performance.
+Revenue sharing
+When business segments or businesses within each segment join efforts to sell products and services to the Firm's clients and customers, the participating businesses may agree to share revenue from those transactions. Revenue is generally recognized in the segment responsible for the related product or service, with allocations to the other segments or businesses involved in the transaction. The segment and business results reflect these revenue-sharing agreements.
+Funds transfer pricing
+Funds transfer pricing ("FTP") is the process by which the Firm allocates interest income and expense to the LOBs and Other Corporate and transfers the primary interest rate risk and liquidity risk to Treasury and CIO.
+The funds transfer pricing process considers the interest rate and liquidity risk characteristics of assets and liabilities and off-balance sheet products. Periodically, the methodology and assumptions utilized in the FTP process are adjusted to reflect economic conditions and other factors, which may impact the allocation of net interest income to the segments.
+Foreign exchange risk
+Foreign exchange risk is transferred from the LOBs and Other Corporate to Treasury and CIO for certain revenues and expenses. Treasury and CIO manages these risks centrally and reports the impact of foreign exchange rate movements related to the transferred risk in its results. Refer to Market Risk Management on pages 79-85 for additional information.
+Capital allocation
+The amount of capital assigned to each LOB and Corporate is referred to as equity. At least annually, the assumptions, judgments and methodologies used to allocate capital are reassessed and, as a result, the capital allocated to the LOBs and Corporate may change. Refer to Line of business and Corporate equity on page 48, and page 96 of JPMorganChase's 2025 Form 10-K for additional information on capital allocation.
+Refer to Business Segment & Corporate Results - Description of business segment reporting methodology on pages 62-82 and Note 32 of JPMorganChase's 2025 Form 10-K for a further discussion of those methodologies.
+20
+Segment & Corporate Results - Managed basis
+The following tables summarize the Firm's results by business segments and Corporate for the periods indicated.
+Three months ended June 30, | Consumer & Community Banking | Commercial & Investment Bank
+Asset & Wealth Management |
+(in millions, except ratios) | 2026 | 2025 | Change | 2026 | 2025 | Change | 2026 | 2025 | Change |
+Total net revenue | $ | 20,272 | $ | 18,847 | 8 | % | $ | 24,853 | $ | 19,535 | 27 | % | $ | 6,851 | $ | 5,760 | 19 | % |
+Total noninterest expense | 11,108 | 9,858 | 13 | 11,390 | 9,641 | 18 | 4,207 | 3,733 | 13 |
+Pre-provision profit
+9,164 | 8,989 | 2 | 13,463 | 9,894 | 36 | 2,644 | 2,027 | 30 |
+Provision for credit losses | 2,156 | 2,082 | 4 | 356 | 696 | (49) | 13 | 46 | (72) |
+Net income
+5,311 | 5,169 | 3 | 9,678 | 6,650 | 46 | 1,957 | 1,473 | 33 |
+Return on equity ("ROE") | 34 | % | 36 | % | 22 | % | 17 | % | 48 | % | 36 | % |
+Three months ended June 30, | Corporate | Total |
+(in millions, except ratios) | 2026 | 2025 | Change | 2026 | 2025 | Change |
+Total net revenue | $ | 6,046 | (a)
+$ | 1,538 | 293 | % | $ | 58,022 | $ | 45,680 | 27 | % |
+Total noninterest expense | 611 | 547 | 12 | 27,316 | 23,779 | 15 |
+Pre-provision profit
+5,435 | 991 | 448 | 30,706 | 21,901 | 40 |
+Provision for credit losses | (10) | 25 | NM | 2,515 | 2,849 | (12) |
+Net income
+4,209 | 1,695 | 148 | 21,155 | 14,987 | 41 |
+ROE | NM | NM | 24 | % | 18 | % |
+Six months ended June 30, | Consumer & Community Banking | Commercial & Investment Bank | Asset & Wealth Management |
+(in millions, except ratios) | 2026 | 2025 | Change | 2026 | 2025 | Change | 2026 | 2025 | Change |
+Total net revenue | $ | 39,840 | $ | 37,160 | 7 | % | $ | 48,232 | $ | 39,201 | 23 | % | $ | 13,225 | $ | 11,491 | 15 | % |
+Total noninterest expense | 22,087 | 19,715 | 12 | 22,526 | 19,483 | 16 | 8,374 | 7,446 | 12 |
+Pre-provision profit | 17,753 | 17,445 | 2 | 25,706 | 19,718 | 30 | 4,851 | 4,045 | 20 |
+Provision for credit losses | 4,206 | 4,711 | (11) | 838 | 1,401 | (40) | (11) | 36 | NM |
+Net income | 10,287 | 9,594 | 7 | 18,722 | 13,592 | 38 | 3,732 | 3,056 | 22 |
+ROE | 33 | % | 34 | % | 22 | % | 18 | % | 46 | % | 38 | % |
+Six months ended June 30, | Corporate | Total |
+(in millions, except ratios) | 2026 | 2025 | Change | 2026 | 2025 | Change |
+Total net revenue | $ | 7,261 | (a)
+$ | 3,842 | 89 | % | $ | 108,558 | $ | 91,694 | 18 | % |
+Total noninterest expense | 1,179 | 732 | 61 | 54,166 | 47,376 | 14 |
+Pre-provision profit | 6,082 | 3,110 | 96 | 54,392 | 44,318 | 23 |
+Provision for credit losses | (11) | 6 | NM | 5,022 | 6,154 | (18) |
+Net income | 4,908 | 3,388 | 45 | 37,649 | 29,630 | 27 |
+ROE | NM | NM | 22 | % | 18 | % |
+(a)Included a $4.6 billion net gain related to Visa shares and $763 million of gains on certain equity investments. Refer to Executive Overview on pages 5-8, and Notes 2 and 5 for additional information.
+Refer to Note 25 for further details on total net revenue and total noninterest expense.
+The following sections provide a comparative discussion of the Firm's results by business segments and Corporate as of or for the three and six months ended June 30, 2026 and 2025, unless otherwise specified.
+21
+CONSUMER & COMMUNITY BANKING |
+Refer to pages 65-68 of JPMorganChase's 2025 Form 10-K and Line of Business Metrics on page 199 for a discussion of the business profile of CCB.
+Selected income statement data |
+Three months ended June 30, | Six months ended June 30, |
+(in millions, except ratios)
+2026 | 2025 | Change | 2026 | 2025 | Change |
+Revenue |
+
+----- [line 1641] -----
+Investment securities losses | $ | (395) | $ | (54) | NM | $ | (335) | $ | (91) | (268) | % |
+Available-for-sale securities (average)(a)
+$ | 533,510 | $ | 462,179 | 15 | % | $ | 531,516 | $ | 427,282 | 24 |
+Held-to-maturity securities (average)(a)
+270,893 | 262,479 | 3 | 270,191 | 266,172 | 2 |
+Investment securities portfolio (average) | $ | 804,403 | $ | 724,658 | 11 | $ | 801,707 | $ | 693,454 | 16 |
+Available-for-sale securities (period-end)(a)
+$ | 532,368 | $ | 482,269 | 10 | $ | 532,368 | $ | 482,269 | 10 |
+Held-to-maturity securities (period-end)(a)
+268,474 | 260,559 | 3 | 268,474 | 260,559 | 3 |
+Investment securities portfolio, net of allowance for credit losses (period-end)(b)
+$ | 800,842 | $ | 742,828 | 8 | % | $ | 800,842 | $ | 742,828 | 8 | % |
+(a)During 2025, the Firm transferred $44.1 billion of investment securities from AFS to HTM for asset-liability management purposes. Refer to Note 10 of JPMorganChase's 2025 Form 10-K for additional information on transfers from AFS to HTM securities.
+(b)As of June 30, 2026 and 2025, the allowance for credit losses on investment securities was $59 million and $75 million, respectively.
+42
+FIRMWIDE RISK MANAGEMENT |
+Risk is an inherent part of JPMorganChase's business activities. When the Firm extends a consumer or wholesale loan, advises customers and clients on their investment decisions, makes markets in securities, or offers other products or services, the Firm takes on some degree of risk. The Firm's overall objective is to manage its business, and the associated risks, in a manner that balances serving the interests of its clients, customers and investors, and protecting the safety and soundness of the Firm.
+The Firm believes that effective risk management requires, among other things:
+&#8226;Acceptance of responsibility, including identification and escalation of risks by all individuals within the Firm;
+&#8226;Ownership of risk identification, assessment, data and management within each of the LOBs and Corporate; and
+&#8226;A Firmwide risk governance and oversight structure.
+The Firm follows a disciplined and balanced compensation framework with strong internal governance and independent oversight by the Board of Directors. The impact of risk and control issues is carefully considered in the Firm's performance evaluation and incentive compensation processes.
+Risk governance framework
+The Firm's risk governance framework involves understanding drivers of risks, types of risks, and impacts of risks.
+Refer to pages 83-87 of JPMorganChase's 2025 Form 10-K for a further discussion of Firmwide risk management governance and oversight.
+Risk governance and oversight functions
+The following sections of this Form 10-Q and the 2025 Form 10-K discuss the risk governance and oversight functions in place to oversee the risks inherent in the Firm's business activities.
+Risk governance and oversight functions | Form 10-Q page reference | Form 10-K page reference |
+Strategic Risk | 88 |
+Capital Risk | 44-51 | 89-99 |
+Liquidity Risk | 52-58 | 100-107 |
+Reputation Risk | 108 |
+Consumer Credit Risk | 61-65 | 112-117 |
+Wholesale Credit Risk | 66-74 | 118-128 |
+Investment Portfolio Risk | 78 | 132 |
+Market Risk | 79-85 | 133-142 |
+Country Risk | 86 | 143-144 |
+Climate Risk | 145 |
+Operational Risk | 146-149 |
+Compliance Risk | 150 |
+Conduct Risk | 151 |
+Legal Risk | 152 |
+Estimations and Model Risk | 153 |
+43
+CAPITAL RISK MANAGEMENT
+Capital risk is the risk that the Firm has an insufficient level or composition of capital to support the Firm's business activities and associated risks during normal economic environments and under stressed conditions.
+Refer to pages 89-99 of JPMorganChase's 2025 Form 10-K, Note 21 of this Form 10-Q and the Firm's Pillar 3 Regulatory Capital Disclosures reports, which are available on the Firm's website, for a further discussion of the Firm's capital risk management.
+Basel III Overview
+The capital rules under Basel III establish minimum capital ratios and overall capital adequacy standards for large and internationally active U.S. Bank Holding Companies ("BHCs") and banks, including the Firm and JPMorgan Chase Bank, N.A. The minimum amount of regulatory capital that must be held by BHCs and banks is determined by calculating risk-weighted assets ("RWA"), which are on-balance sheet assets and off-balance sheet exposures, weighted according to risk. Under the rules currently in effect, two comprehensive approaches are prescribed for calculating Basel III RWA: a standardized approach ("Standardized"), and an advanced approach ("Advanced").
+For each of these risk-based capital ratios, the capital adequacy of the Firm is evaluated against the lower of the Standardized or Advanced approaches compared to their respective regulatory capital ratio requirements.
+As of June 30, 2026, the Advanced Total Capital ratio became the most binding constraint for the Firm's Basel III risk-based ratios. However, as of June 30, 2026, the Standardized ratios are more binding than the Advanced ratios with respect to the CET1 and Tier 1 risk-based ratios.
+Additionally, Basel III requires that Advanced Approaches banking organizations, including the Firm, calculate their SLRs. Refer to page 48 of this Form 10-Q and page 96 of JPMorganChase's 2025 Form 10-K for additional information on SLR.
+Key Regulatory Developments
+U.S. Basel III Finalization and GSIB Surcharge
+In March 2026, the Federal Reserve, the OCC and the FDIC (collectively, "the Agencies") released a proposal to amend the risk-based capital framework entitled "Regulatory capital rule: Category I and II Banking Organizations, Banking Organizations with Significant Trading Activity, and Optional Adoption for Other Banking Organizations," which is referred to in this Form 10-Q as the "U.S. Basel III Re-Proposal." This proposal reflects changes from the amendments to the risk-based capital framework previously proposed by the Agencies, including replacement of the current
+dual calculation of Advanced and Standardized RWA with a single calculation based on the expanded risk-based approach (which, among other changes, would not permit the use of internal models for the calculation of RWA, other than for market risk) as well as a new operational risk RWA component. Based on the Firm's understanding of the U.S. Basel III Re-Proposal, as applied to its positions as of December 31, 2025, the estimated impact would be an increase to the Firm's required CET1 capital of approximately 6%.
+The Agencies also released a concurrent proposal, "Regulatory Capital Rule: Risk-Based Capital Surcharges for Global Systemically Important Bank Holding Companies; Systemic Risk Report (FR Y-15)," which would amend the calculation of the surcharge for Global Systemically Important Banks ("GSIB") and which is referred to in this Form 10-Q as the "GSIB Surcharge Re-Proposal." If adopted as proposed, the amendments reflected in the GSIB Surcharge Re-Proposal would require the Firm to assess its GSIB surcharge on an annual basis, calculated using an average of the underlying measures throughout the calendar year, with daily averaging required for certain measures. The increments in which the GSIB surcharge is assessed would be reduced from 50 basis points to 10 basis points. The GSIB Surcharge Re-Proposal includes an annual adjustment for the relative weights assigned to each indicator based on an average of the growth in nominal GDP, and applies a set weight for Short-Term Wholesale Funding rather than its current weighting relative to average RWA. Under the rules currently in effect, the Firm's GSIB surcharge, calculated as of December 31, 2025, would be 5.5% with an effective date of January 1, 2028. If the GSIB Surcharge Re-Proposal were to be adopted as proposed, the Firm estimates that the 5.5% GSIB surcharge would be reduced to 5.2%.
+The Firm expects that the changes in requirements reflected in the U.S. Basel III Re-Proposal and the GSIB Surcharge Re-Proposal, taken together, would result in an increase in the Firm's required CET1 capital of approximately 4% as compared with the CET1 capital requirement that, under current rules, would become effective on January 1, 2028. The estimates do not reflect any actions that the Firm could take to mitigate these impacts.
+44
+Enhanced SLR Final Rule
+On January 1, 2026, the Firm early adopted the enhanced Supplementary Leverage Ratio ("eSLR") final rule. The final rule amended the eSLR requirements for GSIB BHCs and their insured depository institution ("IDI") subsidiaries by revising the previous static leverage buffers at the BHC and IDI levels to dynamic buffers that are tied to the BHC's U.S. Method 1 GSIB Surcharge (the "eSLR buffer"), and by making corresponding updates to the leverage-based buffer requirements for total loss-absorbing capacity ("TLAC") and eligible long-term debt ("eligible LTD").
+Refer to page 91 of JPMorganChase's 2025 Form 10-K for additional information on the Enhanced SLR Final Rule and page 92 for information on the U.S. Method 1 GSIB Surcharge.
+Enhanced Transparency and Public Accountability of the Supervisory Stress Test
+In October 2025, the Federal Reserve issued proposals to enhance the transparency and public accountability of its annual stress test. The proposals would require the Federal Reserve to publish for public comment comprehensive documentation concerning the supervisory stress test models and annual stress test scenarios, including the scenarios for the upcoming 2026 stress test. The proposals also introduce an enhanced disclosure process under which material changes to stress test models and scenarios would be subject to public comment prior to implementation. Based on the Federal Reserve's analysis, the proposed changes to the stress test models and scenarios are not expected to change materially the Stress Capital Buffer ("SCB") for firms, such as JPMorganChase, that are subject to the supervisory stress test. In February 2026, the Federal Reserve released the final 2026 supervisory stress test scenarios, while announcing that SCB requirements for large banks, including the Firm, will remain at current levels through September 30, 2027 with new requirements to be calculated in 2027 based on revised models that incorporate public feedback.
+Refer to page 91 of JPMorganChase's 2025 Form 10-K for information on other Key Regulatory Developments.
+45
+Selected capital and RWA data
+The following tables present the Firm's risk-based capital metrics under both the Standardized and Advanced approaches and leverage-based capital metrics. Refer to Capital Risk Management on pages 89-99 of JPMorganChase's 2025 Form 10-K for a further discussion of these capital metrics. Refer to Note 21 for JPMorgan Chase Bank, N.A.'s risk-based and leverage-based capital metrics.
+Standardized | Advanced |
+(in millions, except ratios) | June 30, 2026
+December 31, 2025
+Capital ratio requirements(a)
+
+----- [line 2828] -----
+Auto and other | 1,048 | 5 | 1,051 | 5 |
+Consumer, excluding credit card | 1,796 | 25 | 1,920 | 26 |
+Credit card | 15,561 | 17 | 15,557 | 18 |
+Total consumer | 17,357 | 42 | 17,477 | 44 |
+Secured by real estate | 2,129 | 11 | 2,226 | 12 |
+Commercial and industrial | 4,852 | 13 | 4,240 | 12 |
+Other | 1,814 | 34 | 1,822 | 32 |
+Total wholesale | 8,795 | 58 | 8,288 | 56 |
+Total
+$ | 26,152 | 100 | % | $ | 25,765 | 100 | % |
+77
+INVESTMENT PORTFOLIO RISK MANAGEMENT
+Investment portfolio risk is the risk associated with the loss of principal or a reduction in expected returns on investments arising from the investment securities portfolio or from principal investments. The investment securities portfolio is predominantly held by Treasury and CIO in connection with the Firm's balance sheet and asset-liability management objectives. Principal investments are predominantly privately-held financial instruments and are managed in the LOBs and Corporate. Investments are typically intended to be held over extended periods and, accordingly, the Firm has no expectation for short-term realized gains with respect to these investments.
+Investment securities risk
+Investment securities risk includes the exposure associated with a default in the payment of principal and interest. This risk is mitigated given that the investment securities portfolio held by Treasury and CIO predominantly consists of high-quality securities. At June 30, 2026, the size of the Treasury and CIO investment securities portfolio, net of the allowance for credit losses, was $800.8 billion, and the average credit rating of the securities comprising the portfolio was AA+ (based upon external ratings where available, and where not available, based primarily upon internal risk ratings). Refer to Corporate results on pages 40-42 and Note 9 for further information on the investment securities portfolio and internal risk ratings. Refer to Liquidity Risk Management on pages 52-58 for further information on related liquidity risk. Refer to Market Risk Management on pages 79-85 for further information on the market risk inherent in the portfolio.
+Principal investment risk
+Principal investments are typically privately-held financial instruments representing ownership interests or other forms of junior capital. In general, principal investments include tax-oriented investments and investments made to enhance or accelerate the Firm's business strategies and exclude those that are consolidated on the Firm's balance sheets. These investments are made by dedicated investing businesses or as part of a broader business strategy. The Firm's principal investments are managed by the LOBs and Corporate and are reflected within their respective financial results. The Firm's investments will continue to evolve based on market circumstances and in line with its strategic initiatives.
+The table below presents the aggregate carrying values of the principal investment portfolios as of June 30, 2026 and December 31, 2025.
+(in billions) | June 30, 2026 | December 31, 2025 |
+Tax-oriented investments, primarily in alternative energy and affordable housing
+$ | 35.2 | $ | 35.7 |
+Private equity, various debt and equity instruments, and real assets
+18.9 | (a)
+11.3 |
+Total carrying value | $ | 54.1 | $ | 47.0 |
+(a)The increase from December 31, 2025 is primarily due to equity investments made by the Strategic Investment Group within the Firm's Security and Resiliency Initiative and the Visa C shares held at fair value. Refer to Market Risk Management on pages 79-85 and Note 2 on page 112 for additional information on Visa shares.
+Refer to page 132 of JPMorganChase's 2025 Form 10-K for a discussion of the Firm's Investment Portfolio Risk Management governance and oversight.
+78
+MARKET RISK MANAGEMENT |
+Market risk is the risk associated with the effect of changes in market factors such as interest and foreign exchange rates, equity and commodity prices, credit spreads or implied volatilities, on the value of assets and liabilities held for both the short and long term. Refer to Market Risk Management on pages 133-142 of JPMorganChase's 2025 Form 10-K for a discussion of the Firm's Market Risk Management organization, market risk measurement, risk monitoring and control, and predominant business activities that give rise to market risk.
+Models used to measure market risk are inherently imprecise and are limited in their ability to measure certain risks or to predict losses. This imprecision may be heightened when sudden or severe shifts in market conditions occur. For additional discussion on model uncertainty refer to Estimations and Model Risk Management on page 153 of JPMorganChase's 2025 Form 10-K.
+Market Risk Management periodically reviews the Firm's existing market risk measures to identify opportunities for enhancement, and to the extent appropriate, will calibrate those measures accordingly over time.
+Value-at-risk
+JPMorganChase utilizes value-at-risk ("VaR"), a statistical risk measure, to estimate the potential loss from adverse market moves in the current market environment. The Firm has a single VaR framework used as a basis for calculating Risk Management VaR and Regulatory VaR.
+The Firm's Risk Management VaR is calculated assuming a one-day holding period and an expected tail-loss methodology which approximates a 95% confidence level. For risk management purposes, the Firm believes this methodology provides a daily measure of risk that is closely aligned to risk management decisions made by the LOBs and Corporate and, along with other market risk measures, provides the appropriate information needed to respond to risk events. The Firm calculates separately a daily aggregated VaR in accordance with regulatory rules ("Regulatory VaR"), which is used to derive the Firm's regulatory VaR-based capital requirements under Basel III.
+The Firm's VaR model calculations are periodically evaluated and enhanced in response to changes in the composition of the Firm's portfolios, changes in market conditions, improvements in the Firm's modeling techniques and measurements, and other factors. Such changes may affect historical comparisons of VaR results. Refer to Estimations and Model Risk Management on page 153 of JPMorganChase's 2025 Form 10-K for information regarding model reviews and approvals.
+Refer to page 135 of JPMorganChase's 2025 Form 10-K for further information regarding VaR, including its inherent limitations, and the key differences between Risk Management VaR and Regulatory VaR. Refer to JPMorganChase's Basel III Pillar 3 Regulatory Capital Disclosures reports, which are available on the Firm's website, for additional information on Regulatory VaR and the other components of market risk regulatory capital for the Firm (e.g., VaR-based measure, stressed VaR-based measure and the respective backtesting). Refer to Other risk measures on pages 139-140 of JPMorganChase's 2025 Form 10-K for further information regarding nonstatistical market risk measures used by the Firm.
+79
+The table below shows the results of the Firm's Risk Management VaR measure using a 95% confidence level. VaR can vary significantly as positions change, market volatility fluctuates, and diversification benefits change.
+Total VaR |
+Three months ended |
+June 30, 2026 | March 31, 2026 | June 30, 2025 |
+(in millions) | Avg. | Min | Max | Avg. | Min | Max | Avg. | Min | Max |
+CIB trading VaR by risk type
+Fixed income | $ | 36 | $ | 32 | $ | 45 | $ | 39 | $ | 32 | $ | 49 | $ | 37 | $ | 28 | $ | 51 |
+Foreign exchange | 13 | 9 | 18 | 13 | 9 | 20 | 10 | 6 | 14 |
+Equities | 20 | 10 | 59 | 11 | 7 | 16 | 17 | 13 | 23 |
+Commodities and other | 14 | 11 | 17 | 14 | 10 | 21 | 24 | 17 | 34 |
+Diversification benefit to CIB trading VaR(a)
+(44) | NM | NM | (47) | NM | NM | (55) | NM | NM |
+CIB trading VaR | 39 | 29 |
+70 |
+30 | 23 | 40 | 33 | 23 | 50 |
+Credit Portfolio VaR(b)
+18 | 14 | 22 | 21 | 17 | 24 | 22 | 20 | 24 |
+Diversification benefit to CIB VaR(a)
+(17) | NM | NM | (16) | NM | NM | (17) | NM | NM |
+CIB VaR | 40 | 30 |
+68 |
+35 | 26 | 48 | 38 | 29 | 51 |
+CCB VaR | 7 | 5 | 9 | 4 | 3 | 6 | 4 | 2 | 5 |
+AWM VaR(c)
+8 | 7 | 10 | 9 | 8 |
+10 |
+10 | 8 | 12 |
+Corporate VaR
+33 | 11 |
+58 | 11 | 9 | 12 | 10 | 9 | 11 |
+Diversification benefit to other VaR(a)
+(15) | NM | NM |
+(11) |
+NM | NM | (12) | NM | NM |
+
+----- [line 2918] -----
+2025 | Fourth Quarter
+2025 | First Quarter
+2026 | Second Quarter
+2026 |
+81
+VaR backtesting
+The Firm performs daily VaR model backtesting, which compares the daily Risk Management VaR results with the daily gains and losses that are utilized for VaR backtesting purposes. The gains and losses depicted in the chart below do not reflect the Firm's reported revenue as they exclude certain components of total net revenue, such as those associated with the execution of new transactions (i.e., intraday client-driven trading and intraday risk management activities), fees, commissions, other valuation adjustments and net interest income. These excluded components of total net revenue may more than offset the backtesting gain or loss on a particular day. The definition of backtesting gains and losses above is consistent with the requirements for backtesting under Basel III capital rules.
+A backtesting exception occurs when the daily backtesting loss exceeds the daily Risk Management VaR for the prior day. Under the Firm's Risk Management VaR methodology, assuming current changes in market values are consistent with the historical changes used in the simulation, the Firm would expect to incur VaR backtesting exceptions five times every 100 trading days on average. The number of VaR backtesting exceptions observed can differ from the statistically expected number of backtesting exceptions if the current level of market volatility is materially different from the level of market volatility during the 12 months of historical data used in the VaR calculation.
+For the 12 months ended June 30, 2026, the Firm posted backtesting gains on 186 of the 259 days, and observed 15 VaR backtesting exceptions. For the three months ended June 30, 2026, the Firm posted backtesting gains on 44 of the 65 days, and observed four VaR backtesting exceptions.
+The following chart presents the distribution of Firmwide daily backtesting gains and losses for the trailing 12 months and three months ended June 30, 2026. The daily backtesting losses are displayed as a percentage of the corresponding daily Risk Management VaR. The count of days with backtesting losses are shown in aggregate, in fifty percentage point intervals. Backtesting exceptions are displayed within the intervals that are greater than one hundred percent. The results in the chart below differ from the results of backtesting disclosed in the Market Risk section of the Firm's Basel III Pillar 3 Regulatory Capital Disclosures reports, which are based on Regulatory VaR applied to the Firm's covered positions.
+Distribution of Daily Backtesting Gains and Losses
+82
+Structural interest rate risk management
+The effect of interest rate exposure on the Firm's reported net income is important as interest rate risk represents one of the Firm's significant market risks. Interest rate risk arises not only from trading activities which are included in VaR, but also from the Firm's traditional banking activities, which include extension of loans and credit facilities, taking deposits, issuing debt, as well as the investment securities portfolio, and associated derivative instruments.
+Refer to the table on page 134 of JPMorganChase's 2025 Form 10-K for a summary by LOB and Corporate identifying positions included in earnings-at-risk.
+Earnings-at-risk
+One way that the Firm evaluates its structural interest rate risk is through earnings-at-risk. Earnings-at-risk estimates the Firm's interest rate exposure for a given interest rate scenario. It is presented as a sensitivity to a baseline, which includes net interest income and certain interest rate sensitive fees. The baseline uses market interest rates and, in the case of deposits, pricing assumptions. The Firm conducts simulations of changes to this baseline for interest rate-sensitive assets and liabilities denominated in U.S. dollars and other currencies ("non-U.S. dollar" currencies). These simulations primarily include retained and held-for-sale loans, deposits, deposits with banks and financing activities, investment securities, long-term debt, related interest rate hedges, and funds transfer pricing of other positions in risk management VaR and other sensitivity-based measures as described on page 134 of JPMorganChase's 2025 Form 10-K. These simulations also include hedges of non-U.S. dollar foreign exchange exposures arising from capital investments. Refer to non-U.S. dollar foreign exchange risk on page 142 of JPMorganChase's 2025 Form 10-K for more information.
+Earnings-at-risk scenarios estimate the potential change to a baseline, over the following 12 months utilizing multiple assumptions. These scenarios include a parallel shift involving changes to both short-term and long-term rates by an equal amount; a steeper yield curve involving holding short-term rates constant and increasing long-term rates; and a flatter yield curve involving increasing short-term rates and holding long-term rates constant or holding short-term rates constant and decreasing long-term rates. These scenarios consider many different factors, including:
+&#8226;The impact on exposures as a result of instantaneous changes in interest rates from baseline rates.
+&#8226;Forecasted balance sheet, as well as modeled prepayment and reinvestment behavior, but excluding assumptions about actions that could be taken by the Firm or its clients and customers in response to instantaneous rate changes. Mortgage prepayment assumptions are based on the interest rates used in the scenarios compared with underlying contractual rates, the time since origination, and other factors which are updated periodically based on historical experience. Deposit forecasts are a key assumption in the Firm's earnings-at-risk. The baseline reflects certain assumptions relating to the Federal Reserve's balance sheet policy (e.g., quantitative tightening and usage at the Reverse Repurchase Facility) that require management judgment. The amount of deposits that the Firm holds at any given time may be influenced by Federal Reserve actions, as well as broader monetary conditions and competition for deposits.
+&#8226;The pricing sensitivity of deposits, known as deposit betas, represent the amount by which deposit rates paid could change upon a given change in market interest rates. Actual deposit rates paid may differ from the modeled assumptions, primarily due to customer behavior and competition for deposits.
+The Firm performs sensitivity analyses of the assumptions used in earnings-at-risk scenarios, including with respect to deposit betas and forecasts of deposit balances, both of which are especially significant in the case of consumer deposits. The results of these sensitivity analyses are reported to the CTC Risk Committee and the Board Risk Committee.
+The Firm's earnings-at-risk scenarios are periodically evaluated and enhanced in response to changes in the composition of the Firm's balance sheet, changes in market conditions, improvements in the Firm's simulation and other factors.
+The Firm's earnings-at-risk sensitivities are measures of the Firm's interest rate exposure. The Firm's actual net interest income for the rate changes presented may differ as the earnings-at-risk scenarios are modelled as instantaneous changes and exclude any actions that could be taken by the Firm or its clients or customers in response to rate changes. Other significant assumptions in the earnings-at-risk scenarios, including mortgage prepayments and deposit rates paid, may also differ from actual results. The Firm's forecast for net interest income is included in the Firm's outlook on page 8.
+83
+The Firm's sensitivities are presented in the table below.
+(in billions) | June 30, 2026(a)
+December 31, 2025(a)
+Parallel shift:
++100 bps shift in rates | $ | 1.8 | $ | 2.1 |
+-100 bps shift in rates | (2.4) | (2.4) |
++200 bps shift in rates | 2.9 | 3.7 |
+-200 bps shift in rates | (5.1) | (6.0) |
+Steeper yield curve: |
++100 bps shift in long-term rates | 1.1 | 1.4 |
+-100 bps shift in short-term rates | (1.2) | (1.0) |
+Flatter yield curve:
++100 bps shift in short-term rates | 0.6 | 0.7 |
+-100 bps shift in long-term rates | (1.2) | (1.4) |
+(a)Reflects the simultaneous shift of U.S. dollar and non-U.S. dollar rates, including hedges of non-U.S. dollar capital investments. Non-U.S. dollar sensitivities were insignificant.
+The change in the Firm's sensitivities as of June 30, 2026 compared to December 31, 2025 was primarily driven by the net impact of Treasury and CIO actions including an increase in cash flow hedges of floating rate loans and in investment securities, both of which add duration, as well as the impact of higher rates. This was partially offset by the effects from changes in Firmwide deposits.
+Economic value sensitivity
+In addition to earnings-at-risk, which is measured as a sensitivity to a baseline of earnings over the next 12 months, the Firm also measures economic value sensitivity ("EVS"). EVS stress tests the longer-term economic value of equity by measuring the sensitivity of the Firm's current balance sheet, primarily retained loans, deposits, debt and investment securities as well as related hedges, under various interest rate scenarios. The Firm's pricing and cash flow assumptions associated with deposits, as well as prepayment assumptions for loans and securities, are significant factors in the EVS measure. In accordance with the CTC interest rate risk management policy, the Firm has established limits on EVS as a percentage of TCE.
+Certain assumptions used in the EVS measure may differ from the fair value required in Note 2. For example, certain assets and liabilities with no stated maturity, such as credit card receivables and deposits, have longer assumed durations in the EVS measure. Additional information on long-term debt and held to maturity investment securities is disclosed on page 113 in Note 2.
+84
+Other sensitivity-based measures
+The Firm quantifies the market risk of certain debt and equity and funding-related exposures by assessing the potential impact on net revenue, other comprehensive income ("OCI") and noninterest expense due to changes in relevant market variables. Refer to the predominant business activities that give rise to market risk on page 134 of JPMorganChase's 2025 Form 10-K for additional information on the positions captured in other sensitivity-based measures.
+The table below represents the potential impact to net revenue, OCI or noninterest expense for market risk-sensitive instruments that are not included in VaR or earnings-at-risk. Where appropriate, instruments used for hedging purposes are reported net of the positions being hedged. The sensitivities disclosed in the table below may not be representative of the actual gain or loss that would have been realized at June 30, 2026 and December 31, 2025, as the movement in market parameters across maturities may vary and are not intended to imply management's expectation of future changes in these sensitivities.
+Gain/(loss) (in millions)
+June 30, 2026 | December 31, 2025 |
+Activity | Description | Sensitivity measure |
+Debt and equity(a)
+Asset Management activities | Consists of seed capital and related hedges; fund co-investments(b); and certain deferred compensation and related hedges(c)
+10% decline in market value | $ | (96) | $ | (60) |
+Other debt and equity | Consists of certain real estate-related fair value option elected loans and related hedges, privately held equity and other investments held at fair value(b)
+10% decline in market value | (1,441) | (1,549) |
+Funding-related exposures
+Non-USD LTD cross-currency basis
+Represents the basis risk on derivatives used to hedge the foreign exchange risk on the non-USD LTD(d)
+1 basis point parallel tightening of cross currency basis | (10) | (11) |
+Non-USD LTD hedges foreign currency ("FX") exposure
+Primarily represents the foreign exchange revaluation on the fair value of the derivative hedges(d)
+10% depreciation of currency | 15 | 19 |
+Derivatives - funding spread risk | Impact of changes in the spread related to derivatives FVA(b)
+1 basis point parallel increase in spread | (2) | (2) |
+Fair value option elected liabilities - funding spread risk | Impact of changes in the spread related to fair value option elected liabilities DVA(d)
+1 basis point parallel increase in spread | 67 | 55 |
+(a)Excludes equity securities without readily determinable fair values that are measured under the measurement alternative. Refer to Note 2 for additional information.
+(b)Impact recognized through net revenue.
+(c)Impact recognized through noninterest expense.
+(d)Impact recognized through OCI.
+85
+COUNTRY RISK MANAGEMENT |
+The Firm, through its LOBs and Corporate, may be exposed to country risk resulting from financial, economic, political or other significant developments which adversely affect the value of the Firm's exposures related to a particular country or set of countries. The Country Risk Management group actively monitors the various portfolios which may be impacted by these developments and measures the extent to which the Firm's exposures are diversified given the Firm's strategy and risk tolerance relative to a country.
+Refer to pages 143-144 of JPMorganChase's 2025 Form 10-K for a further discussion of the Firm's country risk management.
+Risk reporting
+The following table presents the Firm's top 20 exposures by country (excluding the U.S.) as of June 30, 2026 and their comparative exposures as of December 31, 2025. The top 20 country exposures represent the Firm's largest total exposures by individual country. Country exposures may fluctuate from period to period due to a variety of factors, including client activity, market flows and liquidity management activities undertaken by the Firm.
+Top 20 country exposures (excluding the U.S.)(a)
+June 30, 2026 | December 31, 2025(f)(g)
+(in billions) | Deposits with banks(b)
+Lending(c)
+Trading and investing(d)
+Other
+(e)
+Total exposure | Total exposure |
+Germany | $ | 88.2 | $ | 17.0 | $ | 1.8 | $ | 0.7 | $ | 107.7 | $ | 101.7 |
+United Kingdom | 24.2 | 27.8 | 45.5 | 1.6 | 99.1 | 93.2 |
+Japan | 63.4 | 6.7 | 9.0 | 0.2 | 79.3 | 79.3 |
+France | 1.3 | 17.6 | 23.4 | 1.1 | 43.4 | 29.5 |
+Canada | 2.5 | 12.4 | 9.8 | 0.2 | 24.9 | 18.4 |
+Australia | 4.2 | 10.5 | 3.5 | -- | 18.2 | 17.6 |
+Brazil | 3.4 | 5.6 | 8.7 | -- | 17.7 | 20.9 |
+Mainland China | 4.0 | 8.0 | 4.5 | 0.2 | 16.7 | 13.2 |
+Saudi Arabia | 1.3 | 9.1 | 5.1 | -- | 15.5 | 12.5 |
+Switzerland | 5.6 | 5.3 | 2.4 | 2.0 | 15.3 | 15.0 |
+Italy | 0.1 | 10.0 | 4.7 | 0.3 | 15.1 | 13.0 |
+India | 0.9 | 7.9 | 5.7 | 0.3 | 14.8 | 13.0 |
+Mexico | 1.9 | 8.2 | 2.8 | -- | 12.9 | 13.6 |
+South Korea | 3.1 | 3.3 | 5.0 | 0.5 | 11.9 | 13.4 |
+Malaysia | 8.8 | 0.9 | 1.2 | 0.1 | 11.0 | 4.1 |
+United Arab Emirates | 0.1 | 8.7 | 1.4 | -- | 10.2 | 5.7 |
+Belgium | 5.3 | 1.9 | 2.5 | -- | 9.7 | 6.8 |
+
+----- [line 4678] -----
+OCI impact |
+Six months ended June 30, 2025
+(in millions)
+Derivatives | Hedged items | Income statement impact | Amortization approach | Changes in fair value | Derivatives - Gains/(losses) recorded in OCI(f)
+Contract type |
+Interest rate(a)(b)
+$ | 79 | $ | 565 | $ | 644 | $ | -- | $ | 596 | $ | -- |
+Foreign exchange(c)
+517 | (392) | 125 | (301) | 125 | 27 |
+Commodity(d)
+(1,276) | 1,409 | 133 | -- | 97 | -- |
+Total | $ | (680) | $ | 1,582 | $ | 902 | $ | (301) | $ | 818 | $ | 27 |
+(a)Primarily consists of hedges of the benchmark (e.g., Secured Overnight Financing Rate ("SOFR")) interest rate risk of fixed-rate long-term debt and AFS securities. Gains and losses were recorded in net interest income.
+(b)Includes the amortization of income/expense associated with the inception hedge accounting adjustment applied to the hedged item. Excludes the accrual of interest on interest rate swaps and the related hedged items.
+(c)Primarily consists of hedges of the foreign currency risk of long-term debt and AFS securities for changes in spot foreign currency rates. Gains and losses related to the derivatives and the hedged items due to changes in foreign currency rates and the income statement impact of excluded components were recorded primarily in principal transactions revenue and net interest income.
+(d)Consists of overall fair value hedges of physical commodities inventories that are generally carried at the lower of cost or net realizable value (net realizable value approximates fair value). Gains and losses were recorded in principal transactions revenue.
+(e)The assessment of hedge effectiveness excludes certain components of the changes in fair values of the derivatives and hedged items such as forward points on foreign exchange forward contracts, time values and cross-currency basis spreads. Excluded components may impact earnings either through amortization of the initial amount over the life of the derivative, or through fair value changes recognized in the current period.
+(f)Represents the change in value of amounts excluded from the assessment of effectiveness under the amortization approach, predominantly cross-currency basis spreads. The amount excluded at inception of the hedge is recognized in earnings over the life of the derivative.
+124
+As of June 30, 2026 and December 31, 2025, the following amounts were recorded on the Consolidated balance sheets related to certain cumulative fair value hedge basis adjustments that are expected to reverse through the income statement in future periods as an adjustment to yield.
+Carrying amount of the hedged items(a)(b)
+Cumulative amount of fair value hedging adjustments included in the carrying amount of hedged items: |
+June 30, 2026
+(in millions) | Active hedging relationships(d)
+Discontinued hedging relationships(d)(e)
+Total |
+Assets |
+Investment securities - AFS | $ | 233,736 | (c)
+$ | 173 | $ | (1,176) | $ | (1,003) |
+Liabilities |
+Long-term debt | 224,743 | (2,444) | (8,300) | (10,744) |
+Beneficial interests issued by consolidated VIEs | 7,075 | (21) | (1) | (22) |
+Carrying amount of the hedged items(a)(b)
+Cumulative amount of fair value hedging adjustments included in the carrying amount of hedged items: |
+December 31, 2025
+(in millions) | Active hedging relationships(d)
+Discontinued hedging relationships(d)(e)
+Total |
+Assets |
+Investment securities - AFS | $ | 255,109 | (c)
+$ | 3,693 | $ | (1,374) | $ | 2,319 |
+Liabilities |
+Long-term debt | 222,611 | 232 | (8,689) | (8,457) |
+Beneficial interests issued by consolidated VIEs | 5,884 | 37 | -- | 37 |
+(a)Excludes physical commodities with a carrying value of $12.9 billion and $22.9 billion at June 30, 2026 and December 31, 2025, respectively, to which the Firm applies fair value hedge accounting. As a result of the application of hedge accounting, these inventories are carried at fair value, thus recognizing unrealized gains and losses in current periods. Since the Firm exits these positions at fair value, there is no incremental impact to net income in future periods.
+(b)Excludes hedged items where only foreign currency risk is the designated hedged risk, as basis adjustments related to foreign currency hedges will not reverse through the income statement in future periods. At June 30, 2026 and December 31, 2025, the carrying amount excluded for AFS securities was $36.3 billion and $33.6 billion, respectively. At June 30, 2026 and December 31, 2025, the carrying amount excluded for long-term debt was $2.3 billion and $587 million, respectively.
+(c)Carrying amount represents the amortized cost, net of allowance if applicable. At June 30, 2026 and December 31, 2025, the amortized cost of the portfolio layer method closed portfolios was $72.5 billion and $91.9 billion, of which $56.4 billion and $68.9 billion was designated as hedged, respectively. The amount designated as hedged is the sum of the notional amounts of all outstanding layers in each portfolio, which includes both spot starting and forward starting layers. At June 30, 2026 and December 31, 2025, the cumulative amount of basis adjustments was $(1.1) billion and $(32) million, which is comprised of $(492) million and $641 million for active hedging relationships, and $(588) million and $(673) million for discontinued hedging relationships, respectively. Refer to Note 9 for additional information.
+(d)Positive (negative) amounts related to assets represent cumulative fair value hedge basis adjustments that will reduce (increase) net interest income in future periods. Positive (negative) amounts related to liabilities represent cumulative fair value hedge basis adjustments that will increase (reduce) net interest income in future periods.
+(e)Represents basis adjustments existing on the balance sheet date associated with hedged items that have been de-designated from qualifying fair value hedging relationships.
+125
+Cash flow hedge gains and losses
+The following tables present derivative instruments, by contract type, used in cash flow hedge accounting relationships, and the pre-tax gains/(losses) recorded on such derivatives, for the three and six months ended June 30, 2026 and 2025, respectively. The Firm includes the gains/(losses) on the hedging derivative in the same line item in the Consolidated statements of income as the change in cash flows on the related hedged item.
+Derivatives gains/(losses) recorded in income and other comprehensive income/(loss) |
+Three months ended June 30, 2026
+(in millions) | Amounts reclassified
+from AOCI to income | Amounts recorded
+in OCI | Total change
+in OCI for period |
+Contract type |
+Interest rate(a)
+$ | (389) | $ | (1,805) | $ | (1,416) |
+Foreign exchange(b)
+(74) | 89 | 163 |
+Total | $ | (463) | $ | (1,716) | $ | (1,253) |
+Derivatives gains/(losses) recorded in income and other comprehensive income/(loss) |
+Three months ended June 30, 2025
+(in millions) | Amounts reclassified
+from AOCI to income | Amounts recorded
+in OCI | Total change
+in OCI for period
+Contract type |
+Interest rate(a)
+
+----- [line 4810] -----
+Three months ended June 30, | Six months ended June 30, |
+(in millions) | 2026 | 2025 | 2026 | 2025 |
+Contract type |
+Interest rate(a)
+$ | (11) | $ | (45) | $ | 93 | $ | 11 |
+Credit(b)
+(276) | (174) | (256) | (234) |
+Foreign exchange(c)
+17 | 67 | 8 | 108 |
+Equity(d)
+(25) | 10 | (6) | 8 |
+Total | $ | (295) | $ | (142) | $ | (161) | $ | (107) |
+(a)Primarily represents interest rate derivatives used to hedge the interest rate risk inherent in mortgage commitments, warehouse loans and MSRs, as well as written commitments to originate warehouse loans. Gains and losses were recorded predominantly in mortgage fees and related income.
+(b)Relates to credit derivatives used to mitigate credit risk associated with lending exposures in the Firm's wholesale businesses. These derivatives do not include credit derivatives used to mitigate counterparty credit risk arising from derivative receivables, which is included in gains and losses on derivatives related to market-making activities and other derivatives. Gains and losses were recorded in principal transactions revenue.
+(c)Primarily relates to derivatives used to mitigate foreign exchange risk of specified foreign currency-denominated assets and liabilities. Gains and losses were recorded in principal transactions revenue.
+(d)Gains and losses were recorded in principal transactions revenue.
+Gains and losses on derivatives related to market-making activities and other derivatives
+The Firm makes markets in derivatives in order to meet the needs of clients and uses derivatives to manage certain risks associated with net open risk positions from its market-making activities, including the counterparty credit risk arising from derivative receivables. All derivatives not included in the hedge accounting or specified risk management categories above are included in this category. Gains and losses on these derivatives are primarily recorded in principal transactions revenue. Refer to Note 5 for information on principal transactions revenue.
+127
+Credit derivatives
+Refer to Note 5 of JPMorganChase's 2025 Form 10-K for a more detailed discussion of credit derivatives. The following tables present a summary of the notional amounts of credit derivatives and credit-related notes the Firm sold and purchased as of June 30, 2026 and December 31, 2025. The Firm does not use notional amounts of credit derivatives as the primary measure of risk management for such derivatives, because the notional amount does not take into account the probability of the occurrence of a credit event, the recovery value of the reference obligation, or related cash instruments and economic hedges, each of which reduces, in the Firm's view, the risks associated with such derivatives.
+Total credit derivatives and credit-related notes
+Maximum payout/Notional amount |
+June 30, 2026
+(in millions) | Protection sold | Protection purchased with identical underlyings(c)
+Net protection (sold)/purchased(d)
+Other protection purchased(e)
+Credit derivatives |
+Credit default swaps | $ | (569,598) | $ | 594,677 | $ | 25,079 | $ | 7,294 |
+Other credit derivatives(a)
+(147,410) | 217,618 | 70,208 | 13,788 |
+Total credit derivatives | (717,008) | 812,295 | 95,287 | 21,082 |
+Credit-related notes(b)
+-- | -- | -- | 14,940 |
+Total | $ | (717,008) | $ | 812,295 | $ | 95,287 | $ | 36,022 |
+Maximum payout/Notional amount |
+December 31, 2025
+(in millions) | Protection sold | Protection purchased with identical underlyings(c)
+Net protection (sold)/purchased(d)
+Other protection purchased(e)
+Credit derivatives |
+Credit default swaps | $ | (503,480) | $ | 549,440 | $ | 45,960 | $ | 6,840 |
+Other credit derivatives(a)
+(124,650) | 187,090 | 62,440 |
+9,495 |
+Total credit derivatives | (628,130) | 736,530 | 108,400 | 16,335 |
+Credit-related notes(b)
+-- | -- | -- | 13,162 |
+Total | $ | (628,130) | $ | 736,530 | $ | 108,400 | $ | 29,497 |
+(a)Other credit derivatives predominantly consist of credit swap options and total return swaps.
+(b)Predominantly represents Other protection purchased by CIB.
+(c)Represents the total notional amount of protection purchased where the underlying reference instrument is identical to the reference instrument on protection sold; the notional amount of protection purchased for each individual identical underlying reference instrument may be greater or lower than the notional amount of protection sold.
+(d)Does not take into account the fair value of the reference obligation at the time of settlement, which would generally reduce the amount the seller of protection pays to the buyer of protection in determining settlement value.
+(e)Represents protection purchased by the Firm on referenced instruments (single-name, portfolio or index) where the Firm has not sold any protection on the identical reference instrument. Also includes credit protection against certain loans and lending-related commitments in the retained lending portfolio through the issuance of credit derivatives and credit-related notes.
+128
+The following tables summarize the notional amounts by the ratings, maturity profile, and total fair value, of credit derivatives as of June 30, 2026 and December 31, 2025, where JPMorganChase is the seller of protection. The maturity profile is based on the remaining contractual maturity of the credit derivative contracts. The ratings profile is based on the rating of the reference entity on which the credit derivative contract is based. The ratings and maturity profile of credit derivatives where JPMorganChase is the purchaser of protection are comparable to the profile reflected below.
+Protection sold -- credit derivatives ratings(a)/maturity profile
+June 30, 2026
+(in millions) | <1 year | 1-5 years | >5 years | Total notional amount | Fair value of receivables(b)
+Fair value of payables(b)
+Net fair value |
+Risk rating of reference entity
+Investment-grade | $ | (180,156) | $ | (353,855) | $ | (33,441) | $ | (567,452) | $ | 5,119 | $ | (837) | $ | 4,282 |
+Noninvestment-grade | (43,314) | (101,339) | (4,903) | (149,556) | 4,034 | (2,284) | 1,750 |
+Total | $ | (223,470) | $ | (455,194) | $ | (38,344) | $ | (717,008) | $ | 9,153 | $ | (3,121) | $ | 6,032 |
+December 31, 2025
+(in millions) | <1 year | 1-5 years | >5 years | Total notional amount | Fair value of receivables(b)
+Fair value of payables(b)
+Net fair value |
+Risk rating of reference entity
+Investment-grade | $ | (146,799) | $ | (314,100) | $ | (28,117) | $ | (489,016) | $ | 4,969 | $ | (908) | $ | 4,061 |
+Noninvestment-grade | (43,863) | (91,220) | (4,031) | (139,114) | 3,439 | (2,085) | 1,354 |
+
+----- [line 5041] -----
+As of June 30, 2026 and December 31, 2025, the fair values of plan assets for the Firm's significant defined benefit pension and OPEB plans were $22.7 billion and $23.6 billion, respectively.
+Note 8 - Employee share-based incentives
+Refer to Note 9 of JPMorganChase's 2025 Form 10-K for a discussion of the accounting policies and other information relating to employee share-based incentives.
+The Firm recognized the following noncash compensation expense related to its various employee share-based incentive plans in its Consolidated statements of income.
+Three months ended June 30, | Six months ended June 30, |
+(in millions) | 2026 | 2025 | 2026 | 2025 |
+Cost of prior grants of restricted stock units ("RSUs"), performance share units ("PSUs") and stock appreciation rights ("SARs") that are amortized over their applicable vesting periods | $ | 459 | $ | 380 | $ | 899 | $ | 804 |
+Accrual of estimated costs of share-based awards to be granted in future periods, predominantly those to full-career eligible employees | 708 | 579 | 1,441 | 1,208 |
+Total noncash compensation expense related to employee share-based incentive plans | $ | 1,167 | $ | 959 | $ | 2,340 | $ | 2,012 |
+In the first quarter of 2026, in connection with its annual incentive grant for the 2025 performance year, the Firm granted 12 million RSUs and 370 thousand PSUs with weighted-average grant date fair values of $305.68 per RSU and $306.51 per PSU.
+133
+Note 9 - Investment securities
+Investment securities consist of debt securities that are classified as AFS or HTM. Debt securities classified as trading assets are discussed in Note 2. Predominantly all of the Firm's AFS and HTM securities are held by Treasury and CIO in connection with its asset-liability management activities. At June 30, 2026, the investment securities portfolio consisted of debt securities with an average credit
+rating of AA+ (based upon external ratings where available, and where not available, based primarily upon internal risk ratings).
+Refer to Note 10 of JPMorganChase's 2025 Form 10-K for additional information regarding the investment securities portfolio.
+The amortized costs and estimated fair values of the investment securities portfolio were as follows for the dates indicated.
+June 30, 2026 | December 31, 2025 |
+(in millions) | Amortized cost(c)(d)
+Gross unrealized gains | Gross unrealized losses | Fair value | Amortized cost(c)(d)
+Gross unrealized gains | Gross unrealized losses | Fair value |
+Available-for-sale securities |
+Mortgage-backed securities: |
+U.S. GSEs and government agencies | $ | 90,011 | $ | 550 | $ | 1,795 | $ | 88,766 | $ | 92,112 | $ | 1,075 | $ | 2,215 | $ | 90,972 |
+Residential: |
+U.S. | 5,245 | 7 | 31 | 5,221 | 5,564 | 38 | 17 | 5,585 |
+Non-U.S. | 258 | 1 | -- | 259 | 405 | 1 | -- | 406 |
+Commercial | 4,804 | 21 | 25 | 4,800 | 4,466 | 48 | 30 | 4,484 |
+Total mortgage-backed securities | 100,318 | 579 | 1,851 | 99,046 | 102,547 | 1,162 | 2,262 | 101,447 |
+U.S. Treasury and government agencies | 342,551 | 524 | 1,860 | 341,215 | 313,470 | 2,384 | 32 | 315,822 |
+Obligations of U.S. states and municipalities | 19,059 | 178 | 521 | 18,716 | 20,915 | 118 | 793 | 20,240 |
+Non-U.S. government debt securities | 50,724 | 99 | 316 | 50,507 | 45,676 | 215 | 236 | 45,655 |
+Corporate debt securities | 133 | -- | 7 | 126 | 139 | -- | 11 | 128 |
+Asset-backed securities: |
+Collateralized loan obligations | 24,498 | 37 | 1 | 24,534 | 21,897 | 51 | 1 | 21,947 |
+Other | 1,898 | 14 | 8 | 1,904 | 1,941 | 25 | 7 | 1,959 |
+Unallocated portfolio layer fair value basis adjustments(a)
+(492) | -- | (492) | NA | 641 | (641) | -- | NA |
+Total available-for-sale securities | 538,689 | 1,431 | 4,072 | 536,048 |
+507,226 | 3,314 | 3,342 | 507,198 |
+Held-to-maturity securities(b)
+Mortgage-backed securities: |
+U.S. GSEs and government agencies | 84,920 | 28 | 9,574 | 75,374 | 89,073 | 57 | 9,200 | 79,930 |
+U.S. Residential | 7,007 | 3 | 621 | 6,389 | 7,542 | 6 | 570 | 6,978 |
+Commercial | 5,716 | 7 | 276 | 5,447 | 6,493 | 19 | 234 | 6,278 |
+Total mortgage-backed securities | 97,643 | 38 | 10,471 | 87,210 | 103,108 | 82 | 10,004 | 93,186 |
+U.S. Treasury and government agencies | 142,379 | -- | 7,310 | 135,069 | 132,727 | 134 | 6,414 | 126,447 |
+Obligations of U.S. states and municipalities | 8,124 | 22 | 436 | 7,710 | 8,600 | 17 | 609 | 8,008 |
+Asset-backed securities: |
+Collateralized loan obligations | 19,493 | 16 | 3 | 19,506 | 24,695 | 29 | 6 | 24,718 |
+Other | 835 | -- | 20 | 815 | 1,004 | 1 | 20 | 985 |
+Total held-to-maturity securities | 268,474 | 76 | 18,240 | 250,310 | 270,134 | 263 | 17,053 | 253,344 |
+Total investment securities, net of allowance for credit losses | $ | 807,163 | $ | 1,507 | $ | 22,312 | $ | 786,358 | $ | 777,360 | $ | 3,577 | $ | 20,395 | $ | 760,542 |
+(a)Represents the amount of portfolio layer method basis adjustments related to AFS securities hedged in a closed portfolio. Under U.S. GAAP portfolio layer method basis adjustments are not allocated to individual securities, however, the amounts impact the unrealized gains or losses in the table for the types of securities being hedged. Refer to Note 4 for additional information.
+(b)The Firm purchased $3.5 billion and $23.1 billion of HTM securities for the three and six months ended June 30, 2026, respectively, and $1.6 billion and $3.2 billion for the three and six months ended June 30, 2025, respectively.
+(c)The amortized cost of investment securities is reported net of allowance for credit losses of $63 million and $106 million at June 30, 2026 and December 31, 2025, respectively.
+(d)Excludes $5.3 billion and $4.6 billion of accrued interest receivable at June 30, 2026 and December 31, 2025, respectively. The Firm did not reverse through interest income any accrued interest receivable for the three and six months ended June 30, 2026 and 2025. Refer to Note 10 of JPMorganChase's 2025 Form 10-K for further discussion of accounting policies for accrued interest receivable on investment securities.
+134
+AFS securities impairment
+The following tables present the fair value and gross unrealized losses by aging category for AFS securities at June 30, 2026 and December 31, 2025. The tables exclude U.S. Treasury and government agency securities and U.S. GSE and government agency MBS with unrealized losses of $3.7 billion and $2.2 billion, at June 30, 2026 and December 31, 2025, respectively; changes in the value of these securities are generally driven by changes in interest rates rather than changes in their credit profile given the explicit or implicit guarantees provided by the U.S. government.
+Available-for-sale securities with gross unrealized losses |
+Less than 12 months | 12 months or more |
+June 30, 2026
+(in millions) | Fair value | Gross
+unrealized losses | Fair value | Gross
+unrealized losses | Total fair value | Total gross unrealized losses
+Available-for-sale securities |
+Mortgage-backed securities: |
+Residential: |
+U.S.
+$ | 2,599 | $ | 11 | $ | 539 | $ | 20 | $ | 3,138 | $ | 31 |
+Non-U.S. | 27 | -- | 18 | -- | 45 | -- |
+Commercial | 630 | 2 | 420 | 23 | 1,050 | 25 |
+
+----- [line 5222] -----
+Amortized cost | $ | -- | $ | 513 | $ | 8,442 | $ | 11,373 | $ | 20,328 |
+Fair value | -- | 512 | 8,446 | 11,363 | 20,321 |
+Average yield(a)
+-- | % | 2.97 | % | 4.40 | % | 4.52 | % | 4.43 | % |
+Total held-to-maturity securities |
+Amortized cost(b)
+$ | 25,896 | $ | 125,745 | $ | 14,775 | $ | 102,100 | $ | 268,516 |
+Fair value | 25,768 | 118,049 | 14,329 | 92,164 | 250,310 |
+Average yield(a)
+3.98 | % | 2.32 | % | 3.91 | % | 3.15 | % | 2.89 | % |
+(a)Average yield is computed using the effective yield of each security owned at the end of the period, weighted based on the amortized cost of each security. The effective yield considers the contractual coupon, amortization of premiums and accretion of discounts, and the effect of related hedging derivatives, including closed portfolio hedges. Taxable-equivalent amounts are used where applicable. The effective yield excludes unscheduled principal prepayments; and accordingly, actual maturities of securities may differ from their contractual or expected maturities as certain securities may be prepaid. However, for certain callable debt securities, the average yield is calculated to the earliest call date.
+(b)For purposes of this table, the amortized cost of available-for-sale securities excludes the allowance for credit losses of $21 million and the portfolio layer fair value hedge basis adjustments of $(492) million at June 30, 2026. The amortized cost of held-to-maturity securities also excludes the allowance for credit losses of $42 million at June 30, 2026.
+(c)Substantially all of the Firm's U.S. residential MBS and collateralized mortgage obligations are due in 10 years or more, based on contractual maturity. The estimated weighted-average life, which reflects anticipated future prepayments, is approximately seven years for agency residential MBS, six years for agency residential collateralized mortgage obligations, and five years for nonagency residential collateralized mortgage obligations.
+137
+Note 10 - Securities financing activities
+Refer to Note 11 of JPMorganChase's 2025 Form 10-K for a discussion of accounting policies relating to securities financing activities. Refer to Note 3 for further information regarding securities financing agreements for which the fair value option has been elected. Refer to Note 23 for further information regarding assets pledged and collateral received in securities financing agreements.
+The table below summarizes the gross and net amounts of the Firm's securities financing agreements as of June 30, 2026 and December 31, 2025. When the Firm has obtained an appropriate legal opinion with respect to a master netting agreement with a counterparty and where other relevant netting criteria under U.S. GAAP are met, the Firm nets, on the Consolidated balance sheets, the balances outstanding under its securities financing agreements with the same counterparty. In addition, the Firm exchanges securities and/or cash collateral with its counterparty to reduce the economic exposure with
+the counterparty, but such collateral is not eligible for net Consolidated balance sheet presentation. Where the Firm has obtained an appropriate legal opinion with respect to the counterparty master netting agreement, such collateral, along with securities financing balances that do not meet all these relevant netting criteria under U.S. GAAP, is presented in the table below as "Amounts not nettable on the Consolidated balance sheets," and reduces the "Net amounts" presented. Where a legal opinion has not been either sought or obtained, the securities financing balances are presented gross in the "Net amounts" below. In transactions where the Firm is acting as the lender in a securities-for-securities lending agreement and receives securities that can be pledged or sold as collateral, the Firm recognizes the securities received at fair value within other assets and the obligation to return those securities within accounts payable and other liabilities on the Consolidated balance sheets.
+June 30, 2026 |
+(in millions) | Gross amounts | Amounts netted on the Consolidated balance sheets | Amounts presented on the Consolidated balance sheets | Amounts not nettable on the Consolidated balance sheets(b)
+Net
+amounts(c)
+Assets
+Securities purchased under resale agreements
+$ | 763,996 | $ | (317,862) | $ | 446,134 | $ | (439,635) | $ | 6,499 |
+Securities borrowed
+456,957 | (94,470) | 362,487 | (301,289) | 61,198 |
+Liabilities
+Securities sold under repurchase agreements | $ | 1,009,979 | $ | (317,862) | $ | 692,117 | $ | (653,736) | $ | 38,381 |
+Securities loaned and other(a)
+125,394 | (94,470) | 30,924 | (30,556) | 368 |
+December 31, 2025 |
+(in millions) | Gross amounts | Amounts netted on the Consolidated balance sheets | Amounts presented on the Consolidated balance sheets | Amounts not nettable on the Consolidated balance sheets(b)
+Net
+amounts(c)
+Assets
+Securities purchased under resale agreements
+$ | 618,516 | $ | (282,090) | $ | 336,426 | $ | (324,217) | $ | 12,209 |
+Securities borrowed
+357,361 | (71,170) | 286,191 | (234,466) | 51,725 |
+Liabilities
+Securities sold under repurchase agreements | $ | 715,251 | $ | (282,090) | $ | 433,161 | $ | (397,550) | $ | 35,611 |
+Securities loaned and other(a)
+86,829 | (71,170) | 15,659 | (15,534) | 125 |
+(a)Includes securities-for-securities lending agreements of $18.3 billion and $6.6 billion at June 30, 2026 and December 31, 2025, respectively, accounted for at fair value, where the Firm is acting as lender.
+(b)In some cases, collateral exchanged with a counterparty exceeds the net asset or liability balance with that counterparty. In such cases, the amounts reported in this column are limited to the related net asset or liability with that counterparty.
+(c)Includes securities financing agreements that provide collateral rights, but where an appropriate legal opinion with respect to the master netting agreement has not been either sought or obtained. At June 30, 2026 and December 31, 2025, included $5.3 billion and $9.4 billion, respectively, of securities purchased under resale agreements; $53.5 billion and $44.0 billion, respectively, of securities borrowed; $37.8 billion and $34.9 billion, respectively, of securities sold under repurchase agreements; and $88 million and $40 million, respectively, of securities loaned and other.
+138
+The tables below present as of June 30, 2026 and December 31, 2025 the types of financial assets pledged in securities financing agreements and the remaining contractual maturity of the securities financing agreements.
+Gross liability balance |
+June 30, 2026 | December 31, 2025 |
+(in millions) | Securities sold under repurchase agreements | Securities loaned and other | Securities sold under repurchase agreements | Securities loaned and other |
+Mortgage-backed securities |
+U.S. GSEs and government agencies | $ | 142,735 | $ | -- | $ | 124,776 | $ | -- |
+Residential - nonagency | 1,271 | -- | 1,685 | -- |
+Commercial - nonagency | 298 | -- | 2,285 | -- |
+U.S. Treasury, GSEs and government agencies | 485,384 | 5,391 | 346,938 | 703 |
+Obligations of U.S. states and municipalities | 2,929 | -- | 1,624 | -- |
+Non-U.S. government debt | 208,047 | 4,168 | 122,346 | 1,415 |
+Corporate debt securities | 75,670 | 6,985 | 66,100 | 3,433 |
+Asset-backed securities | 4,093 | -- | 6,545 | -- |
+Equity securities | 89,552 | 108,850 | 42,952 | 81,278 |
+Total
+$ | 1,009,979 | $ | 125,394 | $ | 715,251 | $ | 86,829 |
+Remaining contractual maturity of the agreements |
+June 30, 2026
+(in millions) | Overnight and continuous | Up to 30 days | 30 - 90 days | Greater than
+90 days | Total |
+Total securities sold under repurchase agreements | $ | 580,119 | $ | 264,590 | $ | 32,866 | $ | 132,404 | $ | 1,009,979 |
+Total securities loaned and other | 111,723 | 149 | 4,280 | 9,242 | 125,394 |
+Remaining contractual maturity of the agreements |
+December 31, 2025
+
+----- [line 5474] -----
+(c)Generally, all consumer nonaccrual loans have an allowance. In accordance with regulatory guidance, certain nonaccrual loans that are considered collateral-dependent have been charged down to the lower of amortized cost or the fair value of their underlying collateral less costs to sell. If the value of the underlying collateral improves subsequent to charge down, the related allowance may be negative.
+(d)Interest income on nonaccrual loans recognized on a cash basis was $37 million for each of the three months ended June 30, 2026 and 2025, and $73 million and $74 million for the six months ended June 30, 2026 and 2025, respectively.
+(e)Represents the aggregate unpaid principal balance of loans divided by the estimated current property value. Current property values are estimated, at a minimum, quarterly, based on home valuation models using nationally recognized home price index valuation estimates incorporating actual data to the extent available and forecasted data where actual data is not available. Current estimated combined LTV for junior lien home equity loans considers all available lien positions, as well as unused lines, related to the property.
+(f)Refreshed FICO scores represent each borrower's most recent credit score, which is obtained by the Firm on at least a quarterly basis.
+(g)Includes residential real estate loans, primarily held in LLCs in AWM that did not have a refreshed FICO score. These loans have been included in a FICO band based on management's estimation of the borrower's credit quality.
+(h)Included U.S. government-guaranteed loans as of June 30, 2026 and December 31, 2025.
+(i)Excludes loans with no FICO and/or LTV data available.
+(j)The geographic regions presented in the table are ordered based on the magnitude of the corresponding loan balances at June 30, 2026.
+144
+Loan modifications
+The Firm grants certain modifications of residential real estate loans to borrowers experiencing financial difficulty. The Firm's proprietary modification programs as well as government programs, including U.S. GSE programs, that generally provide various modifications to borrowers experiencing financial difficulty including, but not limited to, interest rate reductions, term extensions, other-than-insignificant payment deferral and principal forgiveness that would otherwise have been required under the terms of the original agreement, are considered FDMs. Refer to Note 12 of JPMorganChase's 2025 Form 10-K for further information.
+Financial effects of FDMs
+For the three and six months ended June 30, 2026, retained residential real estate FDMs were $49 million and $196 million, respectively, which included $23 million and $152 million, respectively, of FDMs in the form of other-than-insignificant payment deferrals, driven by the forbearance activities related to California wildfires. For the three and six months ended June 30, 2026, the financial effects of the remaining FDMs, which were primarily in the form of term extensions and interest rate reductions, included extending the weighted-average life of the loans by approximately 20 years and 19 years, respectively, and reducing the weighted-average contractual interest rate from 7.33% to 6.74%, and from 7.36% to 6.70%, respectively.
+For the three and six months ended June 30, 2025, retained residential real estate FDMs were $923 million and $977 million, respectively, which included $887 million and $902 million, respectively, of FDMs in the form of other-than-insignificant payment deferrals, driven by the forbearance activities related to California wildfires. For the three and six months ended June 30, 2025, the financial effects of the remaining FDMs, which were in the form of term extensions and interest rate reductions, included extending the weighted-average life of the loans by approximately 15 years and 16 years, respectively, and reducing the weighted-average contractual interest rate from 7.17% to 5.65% and 7.25% to 5.82%, respectively.
+As of June 30, 2026 and December 31, 2025, additional unfunded commitments to lend to borrowers experiencing financial difficulty whose loans have been modified as FDMs were not material.
+For the three and six months ended June 30, 2026 and 2025, loans subject to a trial modification, where the terms of the loans have not been permanently modified, and Chapter 7 loans were not material.
+Payment status of FDMs
+The following table provides information on the payment status of retained residential real estate FDMs during the twelve months ended June 30, 2026 and 2025.
+(in millions) | Amortized cost basis |
+Twelve months ended June 30, |
+2026 | 2025 |
+Current
+$ | 310 | $ | 323 |
+30-149 days past due
+64 | 630 |
+150 or more days past due
+58 | 126 |
+Total | $ | 432 | $ | 1,079 |
+Defaults of FDMs
+For the three and six months ended June 30, 2026 and June 30, 2025, defaults of retained residential real estate FDMs that had been modified within twelve months were not material.
+Active and suspended foreclosure
+At June 30, 2026 and December 31, 2025, the Firm had retained residential real estate loans, excluding those insured by U.S. government agencies, with a carrying value of $584 million and $575 million, respectively, that were not included in REO, but were in the process of active or suspended foreclosure.
+145
+Auto and other
+Delinquency is the primary credit quality indicator for retained auto and other loans. The following tables provide information on delinquency and gross charge-offs.
+As of or for the six months ended June 30, 2026
+(in millions, except ratios)
+Term loans by origination year | Revolving loans |
+2026 | 2025 | 2024 | 2023 | 2022 | Prior to 2022 | Within the revolving period | Converted to term loans | Total |
+Loan delinquency |
+Current | $ | 16,453 | $ | 20,632 | $ | 12,312 | $ | 6,923 | $ | 3,329 | $ | 1,978 | $ | 3,773 | $ | 205 | $ | 65,605 |
+30-119 days past due | 87 | 154 | 153 | 170 | 118 | 68 | 25 | 47 | 822 |
+120 or more days past due | -- | 1 | 2 | 1 | -- | 1 | 1 | 31 | 37 |
+Total retained loans | $ | 16,540 | $ | 20,787 | $ | 12,467 | $ | 7,094 | $ | 3,447 | $ | 2,047 | $ | 3,799 | $ | 283 | $ | 66,464 |
+% of 30+ days past due to total retained loans
+0.53 | % | 0.75 | % | 1.24 | % | 2.41 | % | 3.42 | % | 3.37 | % | 0.68 | % | 27.56 | % | 1.29 | % |
+Gross charge-offs | $ | 74 | $ | 124 | $ | 90 | $ | 93 | $ | 50 | $ | 52 | $ | -- | $ | 5 | $ | 488 |
+As of or for the year
+ended December 31, 2025
+(in millions, except ratios)
+Term loans by origination year | Revolving loans |
+2025 | 2024 | 2023 | 2022 | 2021 | Prior to 2021 | Within the revolving period | Converted to term loans | Total |
+Loan delinquency |
+Current | $ | 26,490 | $ | 15,586 | $ | 9,443 | $ | 4,899 | $ | 2,961 | $ | 846 | $ | 3,817 | $ | 177 | $ | 64,219 |
+30-119 days past due | 170 | 180 | 225 | 170 | 99 | 25 | 33 | 48 | 950 |
+120 or more days past due | -- | 2 | 2 | -- | 1 | -- | 2 | 34 | 41 |
+Total retained loans | $ | 26,660 | $ | 15,768 | $ | 9,670 | $ | 5,069 | $ | 3,061 | $ | 871 | $ | 3,852 | $ | 259 | $ | 65,210 |
+% of 30+ days past due to total retained loans
+0.64 | % | 1.15 | % | 2.35 | % | 3.35 | % | 3.23 | % | 2.87 | % | 0.91 | % | 31.66 | % | 1.52 | % |
+Gross charge-offs | $ | 242 | $ | 228 | $ | 244 | $ | 157 | $ | 69 | $ | 83 | $ | -- | $ | 8 | $ | 1,031 |
+146
+Nonaccrual loans and other credit quality indicators
+The following table provides information on nonaccrual and geographic region as a credit quality indicator for retained auto and other consumer loans.
+June 30, 2026 | December 31, 2025 |
+Nonaccrual loans(a)(b)
+$ | 228 | $ | 243 |
+Geographic region(c)
+California | $ | 10,111 | $ | 9,926 |
+Texas | 8,271 | 7,940 |
+Florida | 5,561 | 5,382 |
+New York | 4,812 | 4,771 |
+Illinois | 2,845 | 2,804 |
+New Jersey | 2,370 | 2,347 |
+
+----- [line 6259] -----
+Balance at beginning of period | $ | 52,706 | $ | 52,621 | $ | 52,731 | $ | 52,565 |
+Changes during the period from:
+Other(a)
+5 | 126 | (20) | 182 |
+Balance at June 30, | $ | 52,711 | $ | 52,747 | $ | 52,711 | $ | 52,747 |
+(a)Primarily foreign currency adjustments.
+Goodwill impairment testing
+Goodwill is tested for impairment during the fourth quarter of each fiscal year, or more often if events or circumstances, such as adverse changes in the business climate, indicate that there may be an impairment.
+Unanticipated declines in business performance, increases in credit losses, increases in capital requirements, as well as deterioration in economic or market conditions, adverse regulatory or legislative changes or increases in the estimated market cost of equity, could cause the estimated fair values of the Firm's reporting units to decline in the future, which could result in a material impairment charge to earnings in a future period related to some portion of the associated goodwill.
+As of June 30, 2026, the Firm reviewed current economic conditions, estimated market cost of equity, as well as actual business results and projections of business performance. Based on such reviews, the Firm has concluded that goodwill was not impaired as of June 30, 2026 or December 31, 2025.
+168
+Mortgage servicing rights
+MSRs represent the fair value of expected future cash flows for performing servicing activities for others. The fair value considers estimated future servicing fees and ancillary revenue, offset by estimated costs to service the loans, and generally declines over time as net servicing cash flows are received, effectively amortizing the MSR asset against contractual servicing and ancillary fee income. MSRs are either purchased from third parties or recognized upon sale or securitization of mortgage loans if servicing is retained. Refer to Notes 2 and 15 of JPMorganChase's 2025 Form 10-K for a further description of the MSR asset, interest rate risk management, and the valuation of MSRs.
+The following table summarizes MSR activity for the three and six months ended June 30, 2026 and 2025.
+As of or for the three months
+ended June 30, | As of or for the six months
+ended June 30, |
+(in millions, except where otherwise noted) | 2026 | 2025 | 2026 | 2025 |
+Fair value at beginning of period | $ | 9,093 | $ | 9,127 | $ | 9,167 | $ | 9,121 |
+MSR activity: |
+Originations of MSRs | 200 | 84 | 346 | 195 |
+Purchase of MSRs(a)
+19 | 1 | 29 | 280 |
+Disposition of MSRs | 2 | 3 | 4 | 7 |
+Net additions/(dispositions) | 221 | 88 | 379 | 482 |
+Changes due to collection/realization of expected cash flows
+(264) | (272) | (534) | (533) |
+Changes in valuation due to inputs and assumptions:
+Changes due to market interest rates and other(b)
+82 | 59 | 138 | (41) |
+Changes in valuation due to other inputs and assumptions:
+Projected cash flows (e.g., cost to service)
+-- | -- | -- | 1 |
+Discount rates
+-- | (1) | -- | (1) |
+Prepayment model changes and other(c)
+24 | (5) | 6 | (33) |
+Total changes in valuation due to other inputs and assumptions | 24 | (6) | 6 | (33) |
+Total changes in valuation due to inputs and assumptions | 106 | 53 | 144 | (74) |
+Fair value at June 30, | $ | 9,156 | $ | 8,996 | $ | 9,156 | $ | 8,996 |
+Changes in unrealized gains/(losses) included in income related to MSRs held at June 30, | $ | 106 | $ | 53 | $ | 144 | $ | (74) |
+Contractual service fees, late fees and other ancillary fees included in income
+404 | 412 | 814 | 814 |
+Third-party mortgage loans serviced at June 30, (in billions) | 661 | 658 | 661 | 658 |
+Servicer advances, net of an allowance for uncollectible amounts, at June 30(d)
+400 | 440 | 400 | 440 |
+(a)Includes purchase price adjustments associated with purchased MSRs, primarily due to loans that prepaid within 90 days of settlement or did not meet certain criteria and were removed from the purchase prior to the transfer date, allowing the Firm to recover the purchase price.
+(b)Represents both the impact of changes in estimated future prepayments due to changes in market interest rates, and the difference between actual and expected prepayments.
+(c)Represents changes in prepayments other than those attributable to changes in market interest rates.
+(d)Represents amounts the Firm pays as the servicer (e.g., scheduled principal and interest, taxes and insurance), which will generally be reimbursed within a short period of time after the advance from future cash flows from the trust or the underlying loans. The Firm's credit risk associated with these servicer advances is minimal because reimbursement of the advances is typically senior to all cash payments to investors. In addition, the Firm maintains the right to stop payment to investors if the collateral is insufficient to cover the advance. However, certain of these servicer advances may not be recoverable if they were not made in accordance with applicable rules and agreements.
+169
+The following table presents the components of mortgage fees and related income (including the impact of MSR risk management activities) for the three and six months ended June 30, 2026 and 2025.
+Three months ended June 30, | Six months ended June 30, |
+(in millions) | 2026 | 2025 | 2026 | 2025 |
+CCB mortgage fees and related income |
+Production revenue | $ | 147 | $ | 151 | $ | 325 | $ | 261 |
+Net mortgage servicing revenue: |
+Operating revenue: |
+Loan servicing revenue | 403 | 420 | 812 | 824 |
+Changes in MSR asset fair value due to collection/realization of expected cash flows | (264) | (271) | (533) | (531) |
+Total operating revenue | 139 | 149 | 279 | 293 |
+Risk management: |
+Changes in MSR asset fair value due to market interest rates and other(a)
+82 | 59 | 138 | (41) |
+Other changes in MSR asset fair value due to other inputs and assumptions in model(b)
+24 | (6) | 6 | (33) |
+Changes in derivative fair value and other | (67) | (6) | (120) | 130 |
+Total risk management | 39 | 47 | 24 | 56 |
+Total net mortgage servicing revenue | 178 | 196 | 303 | 349 |
+Total CCB mortgage fees and related income | 325 | 347 | 628 | 610 |
+All other | 11 | 16 | 17 | 31 |
+Mortgage fees and related income | $ | 336 | $ | 363 | $ | 645 | $ | 641 |
+
+----- [line 6859] -----
+The Firm has established reserves for several hundred of its currently outstanding legal proceedings. Under U.S. GAAP for contingencies, the Firm accrues for a litigation-related liability when it is probable that such a liability has been incurred and the amount of the loss can be reasonably estimated. The Firm evaluates its outstanding legal proceedings each quarter to assess its litigation reserves, and makes adjustments in such reserves, upward or downward, as appropriate, based on management's best judgment after consultation with counsel. The Firm's legal expense was $116 million and $118 million for the three months ended June 30, 2026 and 2025, respectively. There is no assurance that the Firm's litigation reserves will not need to be adjusted in the future.
+In view of the inherent difficulty of predicting the outcome of legal proceedings, particularly where the claimants seek very large or indeterminate damages, or where the matters present novel legal theories, involve a large number of parties or are in early stages of discovery, the Firm cannot state with confidence what will be the eventual outcomes of the currently pending matters, the timing of their ultimate resolution or the eventual losses, fines, penalties or consequences related to those matters. JPMorganChase believes, based upon its current knowledge and after consultation with counsel,
+consideration of the material legal proceedings described above and after taking into account its current litigation reserves and its estimated aggregate range of possible losses, that the other legal proceedings currently pending against it should not have a material adverse effect on the Firm's consolidated financial condition. The Firm notes, however, that in light of the uncertainties involved in such proceedings, there is no assurance that the ultimate resolution of these matters will not significantly exceed the reserves it has currently accrued or that a matter will not have material reputational consequences. As a result, the outcome of a particular matter may be material to JPMorganChase's operating results for a particular period, depending on, among other factors, the size of the loss or liability imposed and the level of JPMorganChase's income for that period.
+185
+Note 25 - Business segments & Corporate
+The Firm is managed on an LOB basis. There are three reportable business segments - Consumer & Community Banking, Commercial & Investment Bank, and Asset & Wealth Management - with the remaining activities in Corporate.
+The business segments are determined based on the products and services provided, or the type of customer served, and they reflect the manner in which financial information is evaluated by the Firm's Operating Committee, whose members act collectively as the Firm's chief operating decision maker. Segment results are presented on a managed basis. Refer to JPMorganChase's 2025 Form 10-K Explanation and Reconciliation of the Firm's Use of Non-GAAP Financial Measures on page 59 for a definition of managed basis and Note 32 for a further discussion of the Firm's business segments.
+Description of business segment reporting methodology
+Results of the reportable business segments are intended to present each segment as if it were a stand-alone business. The management reporting process that derives business segment results includes the allocation of certain income and expense items. The Firm periodically assesses the assumptions, methodologies and reporting classifications used for segment reporting, and therefore further refinements may be implemented in future periods. The Firm also assesses the level of capital required for each LOB on at least an annual basis. The Firm's LOBs also provide various business metrics which are utilized by the Firm and its investors and analysts in assessing performance.
+Revenue sharing
+When business segments or businesses within each segment join efforts to sell products and services to the Firm's clients and customers, the participating businesses may agree to share revenue from those transactions. Revenue is generally recognized in the segment responsible for the related product or service, with allocations to the other segments or businesses involved in the transaction. The segment and business results reflect these revenue-sharing agreements.
+Funds transfer pricing
+Funds transfer pricing ("FTP") is the process by which the Firm allocates interest income and expense to the LOBs and Other Corporate and transfers the primary interest rate risk and liquidity risk to Treasury and CIO.
+The funds transfer pricing process considers the interest rate and liquidity risk characteristics of assets and liabilities and off-balance sheet products. Periodically, the methodology and assumptions utilized in the FTP process are adjusted to reflect economic conditions and other factors, which may impact the allocation of net interest income to the segments.
+Foreign exchange risk
+Foreign exchange risk is transferred from the LOBs and Other Corporate to Treasury and CIO for certain revenues and expenses. Treasury and CIO manages these risks centrally and reports the impact of foreign exchange rate movements related to the transferred risk in its results.
+Capital allocation
+The amount of capital assigned to each LOB and Corporate is referred to as equity. At least annually, the assumptions, judgments and methodologies used to allocate capital are reassessed and, as a result, the capital allocated to the LOBs and Corporate may change. Refer to Note 32 of JPMorganChase's 2025 Form 10-K for additional information on capital allocation.
+186
+Segment & Corporate results
+The following table provides a summary of the Firm's segment results as of or for the three and six months ended June 30, 2026 and 2025, on a managed basis. The Firm's definition of managed basis starts with the reported U.S. GAAP results and includes certain reclassifications to present total net revenue for the Firm
+(and each of the reportable business segments) on an FTE basis. Accordingly, revenue from investments that receive tax credits and tax-exempt securities is presented in the managed results on a basis comparable to taxable investments and securities. Refer to Note 32 of JPMorganChase's 2025 Form 10-K for additional information on the Firm's managed basis.
+Segment & Corporate results and reconciliation(a)
+As of or for the three months
+ended June 30,
+(in millions, except ratios) | Consumer &
+Community Banking | Commercial &
+Investment Bank | Asset & Wealth Management |
+2026 | 2025 | 2026 | 2025 | 2026 | 2025 |
+Noninterest revenue | $ | 5,180 | $ | 4,452 | $ | 16,954 | $ | 13,792 | $ | 5,042 | $ | 4,073 |
+Net interest income | 15,092 | 14,395 | 7,899 | 5,743 | 1,809 | 1,687 |
+Total net revenue | 20,272 | 18,847 | 24,853 | 19,535 | 6,851 | 5,760 |
+Provision for credit losses
+2,156 | 2,082 | 356 | 696 | 13 | 46 |
+Compensation expense(b)
+4,682 | 4,260 | (f)
+5,544 | 4,815 | (f)
+2,322 | 2,083 | (f)
+Noncompensation expense(c)(d)
+6,426 | 5,598 | (f)
+5,846 | 4,826 | (f)
+1,885 | 1,650 | (f)
+Total noninterest expense | 11,108 | 9,858 | 11,390 | 9,641 | 4,207 | 3,733 |
+Income/(loss) before income tax expense/(benefit)
+7,008 | 6,907 | 13,107 | 9,198 | 2,631 | 1,981 |
+Income tax expense/(benefit) | 1,697 | 1,738 | 3,429 | 2,548 | 674 | 508 |
+Net income | $ | 5,311 | $ | 5,169 | $ | 9,678 | $ | 6,650 | $ | 1,957 | $ | 1,473 |
+Average equity
+$ | 61,500 | $ | 56,000 | $ | 172,198 | (g)
+$ | 149,500 | $ | 16,000 | $ | 16,000 |
+Total assets | 672,612 | 652,379 | 2,709,357 | 2,260,825 | 323,243 | 268,966 |
+ROE | 34 | % | 36 | % | 22 | % | 17 | % | 48 | % | 36 | % |
+Overhead ratio | 55 | 52 | 46 | 49 | 61 | 65 |
+As of or for the three months
+ended June 30,
+(in millions, except ratios) | Corporate | Reconciling Items(a)
+Total |
+2026 | 2025 | 2026 | 2025 | 2026 | 2025 |
+Noninterest revenue | $ | 5,224 | (e)
+$ | 49 | $ | (564) | $ | (663) | $ | 31,836 | $ | 21,703 |
+Net interest income | 822 | 1,489 | (111) | (105) | 25,511 | 23,209 |
+Total net revenue | 6,046 | 1,538 | (675) | (768) | 57,347 | 44,912 |
+Provision for credit losses
+(10) | 25 | -- | -- | 2,515 | 2,849 |
+Total noninterest expense(d)
+611 | 547 | (f)
+-- | -- | 27,316 | 23,779 |
+Income/(loss) before income tax expense/(benefit) | 5,445 | 966 | (675) | (768) | 27,516 | 18,284 |
+Income tax expense/(benefit) | 1,236 | (729) | (675) | (768) | 6,361 | 3,297 |
+Net income
+$ | 4,209 | $ | 1,695 | $ | -- | $ | -- | $ | 21,155 | $ | 14,987 |
+Average equity
+
+----- [line 7310] -----
+SAR(s) as it pertains to employee stock awards: Stock appreciation rights
+SCB: Stress capital buffer
+Scored portfolios: Consumer loan portfolios that predominantly include residential real estate loans, credit card loans, auto loans to individuals and certain small business loans.
+SEC: U.S. Securities and Exchange Commission
+Securitized Products Group: Comprised of Securitized Products and tax-oriented investments.
+Seed capital: Initial JPMorgan capital invested in products, such as mutual funds, with the intention of ensuring the fund is of sufficient size to represent a viable offering to clients, enabling pricing of its shares, and allowing the manager to develop a track record. After these goals are achieved, the intent is to remove the Firm's capital from the investment.
+Shelf securities: Securities registered with the SEC under a shelf registration statement that have not been issued, offered or sold. These securities are not included in league tables until they have actually been issued.
+Single-name: Single reference-entities
+SLR: Supplementary leverage ratio
+SMBS: Stripped Mortgage-Backed Securities
+SOFR: Secured Overnight Financing Rate
+SPEs: Special purpose entities
+Structural interest rate risk: Represents interest rate risk of the non-trading assets and liabilities of the Firm.
+Structured notes: Structured notes are financial instruments whose cash flows are linked to the movement in one or more indexes, interest rates, foreign exchange rates, commodities prices, prepayment rates, underlying reference pool of loans or other market variables. The notes typically contain embedded (but not separable or detachable) derivatives. Contractual cash flows for principal, interest, or both can vary in amount and timing throughout the life of the note based on non-traditional indexes or non-traditional uses of traditional interest rates or indexes.
+Suspended foreclosures: Loans referred to foreclosure where formal foreclosure proceedings have started but are currently on hold, which could be due to bankruptcy or loss mitigation. Includes both judicial and non-judicial states.
+Taxable-equivalent basis: In presenting managed results, the total net revenue for each of the business segments and the Firm is presented on a tax-equivalent basis. Accordingly, revenue from investments that receive tax credits and tax-exempt securities is presented in the managed results on a basis comparable to taxable investments and securities; the corresponding income tax impact related to tax-exempt items is recorded within income tax expense.
+TBVPS: Tangible book value per share
+TCE: Tangible common equity
+TLAC: Total Loss Absorbing Capacity
+Total payments transaction volume: Total payments transaction volume includes debit and credit card sales volume and gross outflows of ACH, ATM, teller, wires, BillPay, PayChase, Zelle, person-to-person and checks.
+U.K.: United Kingdom
+U.S.: United States of America
+U.S. GAAP: Accounting principles generally accepted in the United States of America.
+197
+U.S. government agencies: U.S. government agencies include, but are not limited to, agencies such as Ginnie Mae and FHA, and do not include Fannie Mae and Freddie Mac which are U.S. government-sponsored enterprises ("U.S. GSEs"). In general, obligations of U.S. government agencies are fully and explicitly guaranteed as to the timely payment of principal and interest by the full faith and credit of the U.S. government in the event of a default.
+U.S. GSE(s): "U.S. government-sponsored enterprises" are quasi-governmental, privately-held entities established or chartered by the U.S. government to serve public purposes as specified by the U.S. Congress to improve the flow of credit to specific sectors of the economy and provide certain essential services to the public. U.S. GSEs include Fannie Mae and Freddie Mac, but do not include Ginnie Mae or FHA. U.S. GSE obligations are not explicitly guaranteed as to the timely payment of principal and interest by the full faith and credit of the U.S. government.
+U.S. Treasury: U.S. Department of the Treasury
+Unaudited: Financial statements and/or information that have not been subject to auditing procedures by an independent registered public accounting firm.
+VA: U.S. Department of Veterans Affairs
+VaR: "Value-at-risk" is a measure of the dollar amount of potential loss from adverse market moves in an ordinary market environment.
+VIEs: Variable interest entities
+Warehouse loans: Consist of prime mortgages originated with the intent to sell that are accounted for at fair value and classified as loans.
+Weighted-average macroeconomic outlook: Refers to the forecast of macroeconomic conditions used by the Firm in its models to estimate credit losses which reflects the weighted average results of the five internally-developed macroeconomic scenarios over an eight-quarter forecast period and incorporates macroeconomic variables and any qualitative adjustments (such as changes in the weight placed on an upside or adverse scenario).
+198
+LINE OF BUSINESS METRICS |
+CONSUMER & COMMUNITY BANKING ("CCB")
+Debit and credit card sales volume: Dollar amount of card member purchases, net of returns.
+Deposit margin: Represents net interest income expressed as a percentage of average deposits.
+Home Lending Production and Home Lending Servicing revenue comprises the following:
+Net mortgage servicing revenue: Includes operating revenue earned from servicing third-party mortgage loans, which is recognized over the period in which the service is provided; changes in the fair value of MSRs; the impact of risk management activities associated with MSRs; and gains and losses on securitization of excess mortgage servicing. Net mortgage servicing revenue also includes gains and losses on sales and lower of cost or fair value adjustments of certain repurchased loans insured by U.S. government agencies.
+Production revenue: Includes fees and income recognized as earned on mortgage loans originated with the intent to sell, and the impact of risk management activities associated with the mortgage pipeline and warehouse loans. Production revenue also includes gains and losses on sales and lower of cost or fair value adjustments on mortgage loans held-for-sale (excluding certain repurchased loans insured by U.S. government agencies), and changes in the fair value of financial instruments measured under the fair value option.
+Mortgage origination channels comprise the following:
+Retail: Borrowers who buy or refinance a home through direct contact with a mortgage banker employed by the Firm using a branch office, the Internet or by phone. Borrowers are frequently referred to a mortgage banker by a banker in a Chase branch, real estate brokers, home builders or other third parties.
+Correspondent: Banks, thrifts, other mortgage banks and other financial institutions that sell closed loans to the Firm.
+Card Services: A business that primarily issues credit cards to consumers and small businesses.
+Net revenue rate: Represents Card Services net revenue (annualized) expressed as a percentage of average loans for the period.
+Auto loan and lease origination volume: Dollar amount of auto loans and leases originated.
+COMMERCIAL & INVESTMENT BANK ("CIB")
+Definition of selected CIB revenue:
+Investment Banking: Includes investment banking fees as well as other revenues associated with investment banking activities and services including advising on corporate strategy and structure, and capital-raising in equity and debt markets.
+Payments: Reflects revenue from cash management solutions, including services that enable clients to manage payments globally across liquidity and account solutions, commerce solutions, clearing, trade and working capital.
+Lending: Includes revenue from a variety of financing alternatives, which includes on a secured basis.
+Fixed Income Markets: Primarily includes revenue related to market-making and lending across global fixed income markets, including foreign exchange, interest rate, credit and commodities markets.
+Equity Markets: Primarily includes revenue related to market-making and lending across global equity markets, including cash, derivative and prime brokerage products.
+Securities Services: Revenues are primarily generated from net interest income, asset based fees, and transaction based fees. Our core product offering is organized into four key areas: custody, fund services, liquidity and trading services, and data solutions. These services are marketed primarily to institutional investors.
+Description of certain business metrics:
+Assets under custody ("AUC"): Represents activities associated with the safekeeping and servicing of assets on which Securities Services earns fees.
+Investment banking fees: Represents advisory, equity underwriting, bond underwriting and loan syndication fees.
+Description of CIB client coverage segment for Banking & Payments revenue(a):
+Global Corporate Banking & Global Investment Banking: Provides banking products and services generally to large corporations, financial institutions and merchants.
+Commercial Banking: Provides banking products and services to clients, including start-ups, small and mid-sized companies, local governments, municipalities, and nonprofits, as well as commercial real estate clients.
+(a)Global Banking is a client coverage view within the Banking & Payments business and is comprised of the Global Corporate Banking, Global Investment Banking and Commercial Banking client coverage segments.
+199
+ASSET & WEALTH MANAGEMENT ("AWM")
+Assets under management ("AUM"): Represent assets managed by AWM on behalf of its Private Banking, Global Institutional and Global Funds clients. Includes "Committed capital not Called."
+Client assets: Represent assets under management, as well as custody, brokerage, administration and deposit accounts.
+Multi-asset: Any fund or account that allocates assets under management to more than one asset class.
+Alternative assets "Alternatives": The following types of assets constitute alternative investments - hedge funds, currency, real estate, private equity and other investment funds designed to focus on nontraditional strategies.
+Stock Plan Administration: Relates to an equity plan administration business which was acquired in 2022 with the Firm's purchase of Global Shares.
+AWM's lines of business consist of the following:
+Asset Management: Offers multi-asset investment management solutions across equities, fixed income, alternatives and money market funds to institutional and retail investors providing for a broad range of clients' investment needs.
+Global Private Bank: Provides retirement products and services, brokerage, custody, trusts and estates, loans, mortgages, deposits and investment management to high net worth clients.

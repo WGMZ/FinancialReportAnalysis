@@ -1,0 +1,292 @@
+# MS 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/895421/000089542126000212/ms-20260630.htm
+# full_doc_chars=578021
+
+
+----- [line 932] -----
+Investment Management | 28 | 31 | 28 | 31 |
+1.As a result of the reclassification described above in the "Assets Under Management or Supervision Rollforwards" table, prior period amounts have been adjusted to conform with the current period presentation.
+2.Based on Asset management revenues, net of waivers, excluding performance-based fees and other non-management fees. For certain non-U.S. funds, it includes the portion of advisory fees that the advisor collects on behalf of third-party distributors. The payment of those fees to the distributor is included in Non-compensation expenses in the income statement.
+16
+June 2026 Form 10-Q |
+Table of Contents
+Management's Discussion and Analysis |
+Supplemental Financial Information
+U.S. Bank Subsidiaries
+Morgan Stanley Bank, N.A. ("MSBNA") and Morgan Stanley Private Bank, National Association ("MSPBNA") are our U.S. Bank Subsidiaries (together, "U.S. Bank Subsidiaries").
+MSBNA is a national bank that primarily offers institutional lending and institutional sales and trading, including fixed income and equity derivatives. The institutional lending primarily includes Secured lending facilities, Commercial and Residential real estate and Corporate loans, and together with the institutional sales and trading activity is reported within the Institutional Securities business segment.
+MSPBNA is a national bank that primarily offers residential mortgage lending, securities-based and other financing, primarily to customers and clients of our Wealth Management business segment.
+Both MSBNA and MSPBNA source deposits from Wealth Management clients, utilize other sources of funding, and maintain investment portfolios for liquidity and interest rate risk management purposes.
+Consistent with the Firm's strategic objective of ongoing growth of eligible assets at MSBNA, on February 14, 2026, the Fixed Income business of Morgan Stanley Capital Services LLC ("MSCS") was merged into MSBNA, and on March 14, 2026, Morgan Stanley Europe SE ("MSESE"), together with its subsidiary Morgan Stanley Bank AG (collectively, the "MSESE Group") was acquired by MSBNA (collectively the "Reorganization"). In the following table, U.S. Bank Subsidiaries' Supplemental Financial Information is presented as if the Reorganization occurred at the beginning of 2025. Prior period amounts have been revised to conform with the current period presentation.
+For a further discussion of our credit risks, see "Quantitative and Qualitative Disclosures about Risk--Credit Risk" herein. For a further discussion about loans and lending commitments, see Notes 9 and 13 to the financial statements.
+U.S. Bank Subsidiaries' Consolidated Supplemental Financial Information1
+$ in billions | At
+June 30,
+2026 | At
+December 31,
+2025 |
+Trading assets at fair value ($24.7 and $37.8 pledged as collateral)
+$ | 86.7 | $ | 91.7 |
+Investment securities
+Available-for-sale at fair value | 81.0 | 88.4 |
+Held-to-maturity | 41.3 | 44.2 |
+Total Investment securities | $ | 122.3 | $ | 132.6 |
+Wealth Management loans2
+Residential real estate | $ | 75.5 | $ | 72.3 |
+Securities-based lending and Other3
+120.2 | 108.9 |
+Total Wealth Management loans | $ | 195.7 | $ | 181.2 |
+Institutional Securities loans2
+Corporate | $ | 12.3 | $ | 8.9 |
+Secured lending facilities | 72.8 | 67.2 |
+Commercial and Residential real estate | 12.6 | 11.2 |
+Securities-based lending and Other | 8.8 | 9.9 |
+Total Institutional Securities loans | $ | 106.5 | $ | 97.2 |
+Total assets | $ | 613.2 | $ | 598.7 |
+Deposits4
+$ | 436.5 | $ | 408.7 |
+Trading liabilities at fair value | $ | 31.4 | $ | 31.7 |
+1.Financial information is presented on a consolidated basis, inclusive of MSBNA, MSPBNA and their subsidiaries. Amounts exclude transactions between the bank subsidiaries, as well as deposits from the Parent Company and affiliates.
+2.Represents loans, net of ACL. For a further discussion of loans in the Wealth Management and Institutional Securities business segments, see "Quantitative and Qualitative Disclosures about Risk--Credit Risk" herein.
+3.Other loans primarily include tailored lending. For a further discussion of Other loans, see "Quantitative and Qualitative Disclosures about Risk--Credit Risk" herein.
+4.For further information on deposits, see "Liquidity and Capital Resources--Funding Management--Balance Sheet--Unsecured Financing" herein.
+June 2026 Form 10-Q | 17
+Table of Contents
+Management's Discussion and Analysis |
+Other Matters
+Deferred Cash-Based Compensation
+The Firm sponsors a number of deferred cash-based compensation programs and stock-based compensation programs for current and former employees, including financial advisors in the Wealth Management business segment, which generally contain vesting, clawback and cancellation provisions. Deferred compensation for financial advisors in the Wealth Management business segment is generally composed of 75% cash-based awards and 25% stock-based awards. The following discussion relates only to deferred cash-based compensation.
+Employees are permitted to allocate the value of their deferred cash-based awards among a menu of notional investments, whereby the value of their awards will track the performance of the referenced notional investments. The menu of investments, which is selected by the Firm, includes fixed income, equity, commodity and money market funds.
+Compensation expense for DCP awards is calculated based on the notional value of the award granted, adjusted for changes in the fair value of the referenced investments that employees select. Compensation expense is recognized over the vesting period relevant to each separately vesting portion of deferred awards.
+Beginning in the first quarter of 2026, hedges for Wealth Management DCP awards were primarily transitioned to derivative instruments. Additionally, in the first quarter of 2026, the Firm reduced the amount of deferred compensation as a proportion of total compensation for Wealth Management advisors. For further information see "Management's Discussion and Analysis of Financial Condition and Results of Operations--Other Matters" in the 2025 Form 10-K and "Selected Non-GAAP Financial Information" and Note 2 to the financial statements herein.
+18
+June 2026 Form 10-Q |
+Table of Contents
+Management's Discussion and Analysis |
+Accounting Development Updates
+The Financial Accounting Standards Board has issued certain accounting updates that apply to us. Accounting updates not referenced below were assessed and determined to be either not applicable or to not have a material impact on our financial statements upon adoption.
+&#8226;ASU 2025-06 - Internal-Use Software (Issued September 2025). This update introduces targeted improvements to the recognition and capitalization guidance for internal-use software costs. The update eliminates the prior "project stage" framework and instead requires capitalization of software development costs when (i) management has authorized and committed to funding the software project, and (ii) it is probable that the project will be completed and the software will be used to perform its intended function. In assessing the probability threshold, entities are required to evaluate whether significant development uncertainty exists, including whether the software contains novel or unproven functionality or whether significant performance requirements have not been identified or continue to be substantially revised. The update is effective for the Firm beginning January 1, 2028, with early adoption permitted. Transition may be applied prospectively, retrospectively, or under a modified approach. We are currently evaluating this accounting update.
+&#8226;ASU 2026-02 - Environmental Credits and Environmental Credit Obligations (Issued May 2026). This update establishes guidance on the recognition, measurement, presentation, and disclosure of environmental credit assets and environmental credit obligations. This update requires entities to recognize and measure: (1) environmental credit assets based on their intended use (e.g., compliance environmental credits, noncompliance environmental credits and voluntary credits) as well as how the credits are obtained (e.g., acquired, internally generated); and (2) environmental credit obligations based on whether the entity holds and expects to use compliance environmental credits to settle that obligation. The update is effective for the Firm beginning January 1, 2028, with early adoption permitted. Transition should be applied on a modified retrospective basis. We are currently evaluating this accounting update; however, we do not expect a material impact on our financial statements upon adoption.
+Critical Accounting Estimates
+Our financial statements are prepared in accordance with U.S. GAAP, which requires us to make estimates and assumptions (see Note 1 to the financial statements). We believe that of our significant accounting policies (see Note 2 to the financial statements in the 2025 Form 10-K and Note 2 to the financial statements), the fair value of financial instruments, goodwill and intangible assets, legal and regulatory contingencies (see Note 14 to the financial statements in the 2025 Form 10-K and Note 13 to the financial statements) and income taxes policies involve a higher degree of judgment and complexity. For a further discussion about our critical accounting policies,
+see "Management's Discussion and Analysis of Financial Condition and Results of Operations--Critical Accounting Estimates" in the 2025 Form 10-K.
+Liquidity and Capital Resources
+Our liquidity and capital policies are established and maintained by senior management, with oversight by the Asset/Liability Management Committee and our Board of Directors ("Board"). Through various risk and control committees, senior management reviews business performance relative to these policies, monitors the availability of alternative sources of financing, and oversees the liquidity, interest rate and currency sensitivity of our asset and liability position. Our Corporate Treasury department ("Treasury"), Firm Risk Committee, Asset/Liability Management Committee, and other committees and control groups assist in evaluating, monitoring and managing the impact that our business activities have on our balance sheet, liquidity and capital structure. Liquidity and capital matters are reported regularly to the Board and the Risk Committee of the Board.
+Balance Sheet
+We monitor and evaluate the composition and size of our balance sheet on a regular basis. Our balance sheet management process includes quarterly planning, business-specific thresholds, monitoring of business-specific usage versus key performance metrics and new business impact assessments.
+We establish balance sheet thresholds at the consolidated and business segment levels. We monitor balance sheet utilization and review variances resulting from business activity and market fluctuations. On a regular basis, we review current performance versus established thresholds and assess the need to re-allocate our balance sheet based on business segment needs. We also monitor key metrics, including asset and liability size and capital usage.
+Total Assets by Business Segment
+At June 30, 2026 |
+$ in millions | IS | WM | IM | Total |
+Assets |
+Cash and cash equivalents1
+$ | 142,940 | $ | 17,101 | $ | 94 | $ | 160,135 |
+Trading assets at fair value | 531,345 | 7,057 | 5,751 | 544,153 |
+Investment securities1
+115,688 | 37,591 | -- | 153,279 |
+Securities purchased under agreements to resell | 120,460 | 9,056 | -- | 129,516 |
+Securities borrowed | 180,050 | 1,308 | -- | 181,358 |
+Customer and other receivables | 102,223 | 47,204 | 1,583 | 151,010 |
+Loans2
+106,684 | 195,688 | 3 | 302,375 |
+Goodwill
+435 | 10,580 | 6,090 | 17,105 |
+Intangible assets
+18 | 2,529 | 3,326 | 5,873 |
+Other assets3
+18,061 | 10,825 | 1,367 | 30,253 |
+Total assets | $ | 1,317,904 | $ | 338,939 | $ | 18,214 | $ | 1,675,057 |
+June 2026 Form 10-Q | 19
+Table of Contents
+Management's Discussion and Analysis |
+At December 31, 2025 |
+$ in millions | IS | WM
+IM | Total |
+Assets |
+Cash and cash equivalents | $ | 81,228 | $ | 30,426 | $ | 41 | $ | 111,695 |
+Trading assets at fair value | 410,573 | 12,428 | 5,275 | 428,276 |
+Investment securities | 34,111 | 129,445 | -- | 163,556 |
+Securities purchased under agreements to resell | 106,728 | 13,515 | -- | 120,243 |
+Securities borrowed | 150,902 | 1,006 | -- | 151,908 |
+Customer and other receivables | 71,645 | 41,447 | 1,628 | 114,720 |
+Loans2
+96,850 | 181,241 | 3 | 278,094 |
+Goodwill
+437 | 10,199 | 6,090 | 16,726 |
+Intangible assets
+21 | 2,607 | 3,382 | 6,010 |
+Other assets3
+17,058 | 10,703 | 1,281 | 29,042 |
+Total assets | $ | 969,553 | $ | 433,017 | $ | 17,700 | $ | 1,420,270 |
+1.In connection with MSBNA's acquisition of MSESE and the merging of the Fixed Income business of MSCS into MSBNA, the Firm updated its segment balance sheet allocation methodology in the first quarter of 2026. As a result of this update, certain liquid marketable securities and cash which were previously included in the Wealth Management balance sheet are included within the Institutional Securities balance sheet beginning in the first quarter of 2026 to align liquidity resources with segment activities.
+2.Amounts include loans held for investment, net of ACL, and loans held for sale but exclude loans at fair value, which are included in Trading assets in the balance sheet (see Note 9 to the financial statements).
+3.Other assets primarily includes premises, equipment and software, ROU assets related to leases, other investments and deferred tax assets.
+A substantial portion of total assets consists of cash and cash equivalents, liquid marketable securities and short-term receivables. In the Institutional Securities business segment, these arise from market-making, financing and prime brokerage activities, and in the Wealth Management business segment, these arise from banking activities. Liquid marketable securities arising from management of the investment portfolio are included in the balance sheets of the Institutional Securities and Wealth Management business segments. For further information, refer to Note 19 to the financial statements.
+Liquidity Risk Management Framework
+The core components of our Liquidity Risk Management Framework are the Required Liquidity Framework, Liquidity Stress Tests and Liquidity Resources, which support our target liquidity profile. For a further discussion about the Firm's Required Liquidity Framework and Liquidity Stress Tests, see "Management's Discussion and Analysis of Financial Condition and Results of Operations--Liquidity and Capital Resources--Liquidity Risk Management Framework" in the 2025 Form 10-K.
+At June 30, 2026 and December 31, 2025, we maintained sufficient liquidity to meet current and contingent funding obligations as modeled in our Liquidity Stress Tests.
+Liquidity Resources
+We maintain sufficient Liquidity Resources, which consist of HQLA and cash deposits with banks, to cover daily funding needs and to meet strategic liquidity targets sized by the Required Liquidity Framework and Liquidity Stress Tests. We actively manage the amount of our Liquidity Resources
+considering the following components: unsecured debt maturity profile; balance sheet size and composition; funding needs in a stressed environment, inclusive of contingent cash outflows; legal entity, regional and segment liquidity requirements; regulatory requirements; and collateral requirements.
+The amount of Liquidity Resources we hold is based on our risk appetite and is calibrated to meet various internal and regulatory requirements and to fund prospective business activities. The Liquidity Resources are primarily held within the Parent Company and its major operating subsidiaries. The Total HQLA values in the tables immediately following are different from Eligible HQLA, which, in accordance with the LCR rule, also takes into account certain regulatory weightings and other operational considerations.
+Liquidity Resources by Type of Investment
+Average Daily Balance
+
+----- [line 1487] -----
+The Basel III Proposal would apply the SCB and G-SIB Surcharge to risk-based capital requirements calculated under the Expanded Approach. The effective date of the Basel III Proposal is unspecified in the Basel III Proposal. We continue to evaluate the Basel III Proposal and its potential impacts on our capital requirements and our Required Capital Framework, which will depend in part on related changes to the Federal Reserve's supervisory stress testing framework and its related proposed rulemaking to revise the G-SIB Surcharge.
+June 2026 Form 10-Q | 27
+Table of Contents
+Management's Discussion and Analysis |
+G-SIB Surcharge Proposal
+On March 19, 2026, the Federal Reserve proposed revisions to the G-SIB Surcharge framework applicable to us ("G-SIB Surcharge Proposal"). The G-SIB Surcharge Proposal would modify Method 2 by adjusting the calculation and weighting of the short-term wholesale funding component and, for other systemic indicators, introducing a one-time downward adjustment. All Method 2 systemic indicators would be indexed in the future to nominal U.S. GDP. In addition, for Method 2, the G-SIB Surcharge Proposal would require measurement of most systemic indicators based on the annual average of daily or monthly values and would revise the resulting G-SIB Surcharge from 0.5-percentage point increments to 0.1-percentage point increments. The G-SIB Surcharge Proposal would also result in corresponding technical changes to Method 1 G-SIB surcharge requirements. The G-SIB Surcharge Proposal includes a proposed effective date two calendar quarters after the date of adoption of a final rule by the Federal Reserve and new surcharges calculated under the revised methodology would take effect at a later date. We continue to evaluate the G-SIB Surcharge Proposal and the potential impacts, if adopted, on our capital requirements and our Required Capital Framework.
+28
+June 2026 Form 10-Q |
+Table of Contents
+Quantitative and Qualitative Disclosures about Risk
+Management believes effective risk management is vital to the success of our business activities. For a discussion of our Enterprise Risk Management framework and risk management functions, see "Quantitative and Qualitative Disclosures about Risk--Risk Management" in the 2025 Form 10-K.
+Market Risk
+Market risk refers to the risk that a change in the level of one or more market prices, rates, spreads, indices, volatilities, correlations or other market factors, such as market liquidity, will result in losses for a position or portfolio. Generally, we incur market risk as a result of trading, investing and client facilitation activities, principally within the Institutional Securities business segment where the substantial majority of our VaR for market risk exposures is generated. In addition, we incur non-trading market risk, principally within the Wealth Management and Investment Management business segments. The Wealth Management business segment primarily incurs non-trading market risk (including interest rate risk) from lending and deposit-taking activities. The Investment Management business segment primarily incurs non-trading market risk from capital investments in its funds. For a further discussion of market risk, see "Quantitative and Qualitative Disclosures about Risk--Market Risk" in the 2025 Form 10-K.
+Trading Risks
+We have exposures to a wide range of risks related to interest rates and credit spreads, equity prices, foreign exchange rates and commodity prices as well as the associated implied volatilities, correlations and spreads of the global markets in which we conduct our trading activities.
+The statistical technique known as VaR is one of the tools we use to measure, monitor and review the market risk exposures of our trading portfolios.
+For information regarding our primary risk exposures and market risk management, VaR methodology, assumptions and limitations, see "Quantitative and Qualitative Disclosures about Risk--Market Risk--Trading Risks" in the 2025 Form 10-K.
+95%/One-Day Management VaR for the Trading Portfolio
+Three Months Ended |
+June 30, 2026 |
+$ in millions | Period End | Average | High1
+Low1
+Interest rate and credit spread | $ | 29 | $ | 33 | $ | 40 | $ | 26 |
+Equity price | 37 | 31 | 37 | 25 |
+Foreign exchange rate | 10 | 11 | 20 | 6 |
+Commodity price | 22 | 24 | 34 | 17 |
+Less: Diversification benefit2
+(47) | (49) | N/A | N/A |
+Primary Risk Categories | $ | 51 | $ | 50 | $ | 57 | $ | 45 |
+Credit portfolio
+20 | 19 | 21 | 17 |
+Less: Diversification benefit2
+(17) | (13) | N/A | N/A |
+Total Management VaR | $ | 54 | $ | 56 | $ | 66 | $ | 51 |
+Three Months Ended |
+March 31, 2026 |
+$ in millions | Period End | Average | High1
+Low1
+Interest rate and credit spread | $ | 38 | $ | 32 | $ | 42 | $ | 23 |
+Equity price | 37 | 34 | 45 | 30 |
+Foreign exchange rate | 13 | 11 | 20 | 5 |
+Commodity price | 20 | 18 | 27 | 12 |
+Less: Diversification benefit2
+(47) | (47) | N/A | N/A |
+Primary Risk Categories | $ | 61 | $ | 48 | $ | 68 | $ | 39 |
+Credit portfolio
+19 | 16 | 23 | 13 |
+Less: Diversification benefit2
+(12) | (11) | N/A | N/A |
+Total Management VaR | $ | 68 | $ | 53 | $ | 74 | $ | 43 |
+1.The high and low VaR values for the Total Management VaR and each of the component VaRs might have occurred on different days during the quarter, and, therefore, the diversification benefit is not an applicable measure.
+2.Diversification benefit equals the difference between the total VaR and the sum of the component VaRs. This benefit arises because the simulated one-day losses for each of the components occur on different days. Similar diversification benefits are also taken into account within each component.
+Average Total Management VaR for the Primary Risk Categories was relatively unchanged from the three months ended March 31, 2026. Period-end Total Management VaR for the Primary Risk Categories decreased from March 31, 2026, primarily driven by reduced exposures in the interest rate and credit spread category.
+Distribution of VaR Statistics and Net Revenues
+We evaluate the reasonableness of our VaR model by comparing the potential declines in portfolio values generated by the model with corresponding actual trading results for the Firm, as well as individual business units. For days where losses exceed the VaR statistic, we examine the drivers of trading losses to evaluate the VaR model's accuracy. There were no trading loss days in the current quarter.
+June 2026 Form 10-Q | 29
+Table of Contents
+Risk Disclosures |
+Daily 95%/One-Day Total Management VaR for the Current Quarter
+($ in millions)
+Daily Net Trading Revenues for the Current Quarter
+($ in millions)
+Daily net trading revenues include profits and losses from Interest rate and credit spread, Equity price, Foreign exchange rate, Commodity price, and Credit portfolio positions and intraday trading activities for our trading businesses. Certain items such as fees, commissions, net interest income and counterparty default risk are excluded from daily net trading revenues and the VaR model. Revenues required for Regulatory VaR backtesting further exclude intraday trading.
+Non-Trading Risks
+We believe that sensitivity analysis is an appropriate representation of our non-trading risks. The following sensitivity analyses cover substantially all of the non-trading market risk in our portfolio.
+Credit Spread Risk Sensitivity1
+$ in millions | At
+June 30,
+2026 | At
+March 31,
+2026 |
+Derivatives | $ | 5 | $ | 5 |
+Borrowings and Deposits carried at fair value
+61 | 58 |
+1.Amounts represent the potential gain for each 1 bps widening of our credit spread.
+Wealth Management Net Interest Income Sensitivity Analysis
+$ in millions | At
+June 30,
+2026 | At
+March 31,
+2026 |
+Basis point change |
++200
+$ | 413 | $ | 408 |
++100 | 202 | 198 |
+-100 | (224) | (229) |
+-200
+(515) | (502) |
+The Wealth Management business segment reflects a substantial portion of our non-trading interest rate risk. Net interest income in the Wealth Management business segment primarily consists of interest income earned on non-trading assets held, including loans and investment securities, as well as margin and other lending on non-bank entities and interest expense incurred on non-trading liabilities, primarily deposits.
+The previous table presents an analysis of selected instantaneous upward and downward parallel interest rate shocks (subject to a floor of zero percent in the downward scenario) on net interest income over the next 12 months for our Wealth Management business segment. These shocks are applied to our 12-month forecast for our Wealth Management business segment, which incorporates market expectations of interest rates and our forecasted balance sheet and business activity. The forecast includes modeled prepayment behavior, reinvestment of net cash flows from maturing assets and liabilities, and deposit pricing sensitivity to interest rates. These key assumptions are updated periodically based on historical data and future expectations.
+We do not manage to any single rate scenario but rather manage net interest income in our Wealth Management business segment across a range of possible outcomes, including non-parallel rate change scenarios. The sensitivity analysis assumes that we take no action in response to these scenarios, assumes there are no changes in other macroeconomic variables normally correlated with changes in interest rates and includes subjective assumptions regarding customer and market re-pricing behavior and other factors.
+Our Wealth Management business segment balance sheet is asset sensitive, given assets reprice faster than liabilities, resulting in higher net interest income in higher interest rate scenarios and lower net interest income in lower interest rate scenarios. The level of interest rates may impact the amount of deposits held at the Firm, given competition for deposits from other institutions and alternative cash-equivalent
+30
+June 2026 Form 10-Q |
+Table of Contents
+Risk Disclosures |
+products available to depositors. Further, the level of interest rates could also impact client demand for loans.
+Net interest income sensitivity to interest rates at June 30, 2026 was relatively unchanged from March 31, 2026.
+Investments Sensitivity, Including Related Carried Interest
+Loss from 10% Decline |
+$ in millions | At
+June 30,
+2026 | At
+March 31,
+2026 |
+Investments related to Investment Management activities | $ | 622 | $ | 647 |
+Other investments: |
+MUMSS | 128 | 132 |
+Other Firm investments | 499 | 494 |
+We have exposure to public and private companies through direct investments, as well as through funds that invest in these assets. These investments are predominantly equity positions with long investment horizons, a portion of which is for business facilitation purposes. The market risk related to these investments is measured by estimating the potential reduction in net revenues associated with a reasonably possible 10% decline in investment values and related impact on performance-based income, as applicable. The measures reflected in the table above do not reflect the effect of any economic hedges or diversification that may reduce the risk of loss.
+Asset Management Revenue Sensitivity
+Certain asset management revenues in the Wealth Management and Investment Management business segments are derived from management fees, which are based on fee-based client assets in Wealth Management or AUM in Investment Management (together, "client holdings"). The assets underlying client holdings are primarily composed of equity, fixed income and alternative investments and are sensitive to changes in related markets. These revenues depend on multiple factors including, but not limited to, the level and duration of a market increase or decline, price volatility, the geographic and industry mix of client assets, and client behavior such as the rate and magnitude of client investments and redemptions. Therefore, overall revenues may not correlate completely with changes in the related markets.
+Credit Risk
+Credit risk refers to the risk of loss arising when a borrower, counterparty or issuer does not meet its financial obligations to us. We are primarily exposed to credit risk from institutions and individuals through our Institutional Securities and Wealth Management business segments. For a further discussion of our credit risks, see "Quantitative and Qualitative Disclosures about Risk--Credit Risk" in the 2025 Form 10-K.
+Loans and Lending Commitments
+At June 30, 2026 |
+$ in millions | HFI | HFS | FVO1
+Total |
+Institutional Securities: |
+Corporate | $ | 8,955 | $ | 10,880 | $ | -- | $ | 19,835 |
+Secured lending facilities | 73,537 | 1,920 | -- | 75,457 |
+Commercial and Residential real estate | 7,878 | 179 | 6,471 | 14,528 |
+Securities-based lending and Other | 4,163 | 32 | 6,434 | 10,629 |
+Total Institutional Securities | 94,533 | 13,011 | 12,905 | 120,449 |
+Wealth Management: |
+Residential real estate | 75,627 | 5 | -- | 75,632 |
+Securities-based lending and Other | 120,403 | 41 | -- | 120,444 |
+Total Wealth Management | 196,030 | 46 | -- | 196,076 |
+Total Investment Management2
+3 | -- | 373 | 376 |
+Total loans | 290,566 | 13,057 | 13,278 | 316,901 |
+ACL | (1,248) | (1,248) |
+Total loans, net of ACL | $ | 289,318 | $ | 13,057 | $ | 13,278 | $ | 315,653 |
+Lending commitments3
+$ | 179,115 | $ | 46,518 | $ | 800 | $ | 226,433 |
+Total exposure | $ | 468,433 | $ | 59,575 | $ | 14,078 | $ | 542,086 |
+At December 31, 2025 |
+$ in millions | HFI | HFS | FVO1
+Total |
+Institutional Securities: |
+Corporate | $ | 7,277 | $ | 7,202 | $ | -- | $ | 14,479 |
+Secured lending facilities | 69,149 | 1,817 | -- | 70,966 |
+Commercial and Residential real estate | 8,039 | 320 | 3,949 | 12,308 |
+Securities-based lending and Other | 3,780 | 30 | 6,904 | 10,714 |
+Total Institutional Securities | 88,245 | 9,369 | 10,853 | 108,467 |
+Wealth Management: |
+Residential real estate | 72,403 | 5 | -- | 72,408 |
+Securities-based lending and Other | 109,201 | -- | -- | 109,201 |
+Total Wealth Management | 181,604 | 5 | -- | 181,609 |
+Total Investment Management2
+3 | -- | 91 | 94 |
+Total loans | 269,852 | 9,374 | 10,944 | 290,170 |
+ACL | (1,132) | (1,132) |
+Total loans, net of ACL | $ | 268,720 | $ | 9,374 | $ | 10,944 | $ | 289,038 |
+Lending commitments3
+$ | 166,989 | $ | 41,445 | $ | 732 | $ | 209,166 |
+Total exposure | $ | 435,709 | $ | 50,819 | $ | 11,676 | $ | 498,204 |

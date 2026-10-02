@@ -1,0 +1,585 @@
+# C 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/831001/000083100126000045/c-20260630.htm
+# full_doc_chars=943834
+
+
+----- [line 65] -----
+OVERVIEW
+This Quarterly Report on Form 10-Q should be read in conjunction with Citigroup's Annual Report on Form 10-K for the year ended December 31, 2025 (referred to herein as Citi's 2025 Form 10-K) and Citigroup's Quarterly Report on Form 10-Q for the quarter ended March 31, 2026 (First Quarter of 2026 Form 10-Q).
+Throughout this report, "Citigroup," "Citi" and "the Company" refer to Citigroup Inc. and its consolidated subsidiaries. All "Note" references correspond to the Notes to the Consolidated Financial Statements herein, unless otherwise indicated.
+For a list of certain terms and acronyms used in this Quarterly Report on Form 10-Q and other Citigroup presentations, see "Glossary of Terms and Acronyms" at the end of this report.
+Additional Information
+Additional information about Citigroup is available on Citi's website at www.citigroup.com. Citigroup's annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and proxy statements, as well as other filings with the U.S. Securities and Exchange Commission (SEC) are available free of charge through Citi's website by clicking on "SEC Filings" under the "Investors" tab. The SEC's website also contains these filings and other information regarding Citi at www.sec.gov.
+Reporting Changes
+As discussed below, certain reclassifications have been made to the prior periods' financial statements and disclosures to conform to the current period's presentation, effective January 1, 2026. Citi's consolidated results were unchanged for all periods presented.
+&#8226;Citi transferred its Retail Banking business from the former U.S. Personal Banking (USPB) to Wealth and integrated the remaining USPB businesses into a new U.S. Consumer Cards segment.
+&#8226;As part of this transfer, the financial results and balance sheet of the Retail Banking business moved to the Wealth segment.
+&#8226;Citi allocates tangible common equity (TCE) internally to its businesses annually, taking into consideration a variety of factors, including the economics of client relationships that cross businesses. Citi updated its TCE allocation methodology among the Services, Markets and Banking segments to better align their capital usage associated with the shared economic benefits of corporate lending to clients across these segments, eliminating the need for a corporate lending revenue share arrangement, which had historically been reflected in the "All other" revenue line item of these segments.
+&#8226;As a result of these changes, the revenues of Services and Markets increased and the revenues of Banking decreased.
+&#8226;Certain interest rate risk-management activities within Markets were moved to All Other--Corporate/Other, or between businesses within Markets. These changes impacted the results for Markets, as well as All Other--Corporate/Other.
+For additional information on these and other reporting changes, see the Historical Quarterly Financial Data Supplement for the five-year quarterly and annual periods ended December 31, 2025, reflecting the above-mentioned first quarter of 2026 presentation changes, included as Exhibit 99.1 to Citigroup's Current Report on Form 8-K furnished to the SEC on April 3, 2026.
+As previously announced, Citi also enhanced its 2026 TCE allocation methodology, which affected the TCE allocation for each segment as of the first quarter of 2026. For additional information, see Citi's First Quarter 2026 Earnings Results Presentation available on Citi's Investor Relations website. This earnings results presentation is not incorporated by reference into, and does not form any part of, this Form 10-Q.
+Non-GAAP Financial Measures
+Citi prepares its financial statements in accordance with U.S. generally accepted accounting principles (GAAP) and also presents certain non-GAAP financial measures (non-GAAP measures) that exclude certain items or otherwise include components that differ from the most directly comparable measures calculated in accordance with U.S. GAAP. These non-GAAP financial measures are not intended to be a substitute for GAAP financial measures and may not be defined or calculated the same way as non-GAAP measures with similar names used by other companies.
+Citi's non-GAAP measures in this Form 10-Q include the following:
+&#8226;All Other (managed basis), which excludes divestiture-related impacts
+&#8226;Banking and Corporate Lending revenues excluding gain (loss) on loan hedges
+&#8226;TCE, return on tangible common equity (RoTCE) and tangible book value per share (TBVPS)
+&#8226;Non-Markets net interest income (NII)
+&#8226;Non-Markets non-interest revenue (NIR)
+Citi's All Other (managed basis) results, which exclude divestiture-related impacts, represent as reported, or GAAP, financial results adjusted for items that are incurred and recognized, which are wholly and necessarily a consequence of actions taken to sell (including through a public offering), dispose of or wind down business activities associated with Citi's previously announced exit markets within All Other--Legacy Franchises.
+Citi's Chief Executive Officer, its chief operating decision maker, regularly reviews financial information for All Other on a managed basis. For additional information, see "All Other--Divestiture-Related Impacts (Reconciling Items)" below.
+4
+Citi believes All Other (managed basis) results are useful to investors, industry analysts and others in evaluating Citi's results of operations and comparing its operational performance between periods, by providing a meaningful depiction of the underlying fundamentals of period-to-period operating results; improved visibility into management decisions and their impacts on operational performance; and additional comparability to peer companies.
+Citi believes that Banking and Corporate Lending revenues excluding gain (loss) on loan hedges are useful to investors, industry analysts and others because the gain (loss) on loan hedges are independent of Banking and Corporate Lending's core operations and not indicative of the performance of the business operations. For more information on Banking and Corporate Lending revenues excluding gain (loss) on loan hedges, see "Banking" below.
+TCE, RoTCE and TBVPS are used by management, as well as investors, industry analysts and others, in assessing Citi's use of equity. Citi believes TCE and RoTCE are useful to investors, industry analysts and others by providing alternative measures of capital strength and performance. Citi believes TBVPS provides additional useful information about the level of tangible assets in relation to Citi's outstanding shares of common stock. For more information on TCE, RoTCE and TBVPS, see "Capital Resources--Tangible Common Equity, Book Value Per Share, Tangible Book Value Per Share and Return on Equity" below.
+Management uses non-Markets NII and non-Markets NIR to assess the performance of Citi's non-Markets lending, investing (including asset-liability management) and deposit-raising activities, apart from any volatility associated with such Markets' activities. Citi believes the use of this non-GAAP measure provides investors, industry analysts and others with an alternative measure to analyze the NII and NIR trends of Citi's lending, investing and deposit-raising activities, by providing a meaningful depiction of the underlying fundamentals of period-to-period operating results of those activities; improved visibility into management decisions and their impacts on operational performance; and additional comparability to peer companies. For more
+information on non-Markets NII, see "Executive Summary" and "Market Risk--Non-Markets Net Interest Income (NII)" below. For more information on non-Markets NIR, see "Executive Summary" below.
+Please see "Risk Factors" in Citi's 2025 Form 10-K for a discussion of material risks and uncertainties that could impact Citigroup's businesses, results of operations and financial condition.
+5
+Citigroup is managed pursuant to five reportable business segments (segments), also referred to as Citi's "five businesses": Services, Markets, Banking, Wealth and U.S. Consumer Cards. Activities not assigned to the segments are included in All Other. For additional information, see the results of operations for each of the segments and All Other within "Management's Discussion and Analysis of Financial Condition and Results of Operations" below.
+Note: Mexico is included in Latin America (LATAM) within International.
+(1)Fixed Income Markets consists of the Rates and Currencies sub-business and Spread Products and Other Fixed Income sub-business; Equity Markets consists of the equity derivatives, equity cash and prime services sub-businesses.
+(2)Investment Banking consists of the Debt Capital Markets (DCM), Equity Capital Markets (ECM) and Advisory sub-businesses.
+(3)USCC's unsecured consumer lending consists of General Purpose Credit Cards (GPCC), Private Label Credit Cards (PLCC) and Installment Lending products.
+(4)Mexico Consumer/SBMM operates primarily through Grupo Financiero Banamex, S.A. de C.V. (Banamex) and its consolidated subsidiaries.
+(5)Primarily consists of Korea, and Poland before its sale in the second quarter of 2026.
+(6)Within International, Citi is organized into six clusters: United Kingdom; Japan, Asia North and Australia (JANA); LATAM; Asia South; Europe; and Middle East, Africa and Russia (MEA) (as previously disclosed, on February 18, 2026, Citi completed the sale of AO Citibank in Russia--see Note 2). Although the chief operating decision maker (CODM) does not manage Citi's segments and All Other by cluster, Citi provides selected financial information (revenue and certain corporate credit metrics) below for these six clusters.
+6
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS
+EXECUTIVE SUMMARY
+Overview
+As described further throughout this Executive Summary, during the second quarter of 2026:
+&#8226;Citi and four of its five businesses achieved positive operating leverage. Citi's positive operating leverage was driven by revenue growth of 14% and disciplined expense management, with expenses up 5%.
+&#8226;Citi returned $5.0 billion to common shareholders in the form of share repurchases ($4.0 billion) under its 2026 $30 billion common stock repurchase program and dividends ($1.0 billion). For additional information, see "Unregistered Sales of Equity Securities, Repurchases of Equity Securities and Dividends" below.
+&#8226;Citi's Common Equity Tier 1 (CET1) Capital ratio under the Basel III Standardized Approach was 12.8% as of June 30, 2026, approximately 120 basis points above the regulatory requirement.
+&#8226;Citi announced its plans to increase its quarterly common dividend from $0.60 to $0.67 per share, subject to quarterly approval by Citi's Board of Directors. A quarterly dividend of $0.67 per share was declared on July 21, 2026.
+&#8226;Citi completed the acquisition of the additional American Airlines co-branded card portfolio.
+&#8226;Citi continued to make progress on its remaining divestitures, including (i) completing the sale of the Poland consumer banking business and (ii) closing an additional Banamex equity sale. For additional information, see "All Other--Managed Basis--Legacy Franchises (Managed Basis)" below and Note 2.
+Second Quarter of 2026 Results Summary
+The below comparisons are to the second quarter of 2025:
+Citigroup
+Citigroup reported net income of $5.8 billion, or $3.15 per share. This compared to net income of $4.0 billion, or $1.96 per share in the prior-year period.
+Net income increased 45% versus the prior-year period, driven by higher revenues and a lower provision for credit losses, partially offset by higher expenses.
+Citigroup revenues of $24.8 billion increased 14%, driven by growth in each of Citi's five interconnected businesses and Legacy Franchises (managed basis) in All Other, including the impact of FX translation, partially offset by a decline in Corporate/Other, also in All Other.
+Net interest income (NII) of $17.1 billion increased 13% versus the prior-year period. The increase in NII was driven by increases in Markets, Services, Wealth, USCC, Banking and Legacy Franchises (managed basis), partially offset by a decline in Corporate/Other. Non-Markets NII increased 6%, driven by growth in Services, Wealth, USCC, Banking and Legacy Franchises (managed basis), partially offset by a decline in Corporate/Other. Markets NII of $4.0 billion in the
+second quarter of 2026 compared to $2.9 billion in the prior-year period.
+Non-interest revenue (NIR) of $7.6 billion increased 18% versus the prior-year period. The increase in NIR was driven by increases in All Other (managed basis), Banking, Services and Wealth, partially offset by declines in USCC and Markets. Non-Markets NIR increased 39% from the second quarter of 2025, driven by growth in All Other (managed basis), Banking, Services and Wealth, partially offset by a decline in USCC. Markets NIR of $3.0 billion in the second quarter of 2026 compared to $3.2 billion in the prior-year period.
+Citigroup's average loans were $785 billion, up 10% versus the prior-year period, largely driven by loan growth in Markets, Services, Wealth and USCC. For additional information about Citi's average loans by business, including drivers and loan trends, see each business's results of operations and "Managing Global Risk--Credit Risk--Average Loans" below.
+Citigroup's average deposits were approximately $1.5 trillion, up 12% versus the prior-year period, driven by an increase in Services. For additional information about Citi's average deposits by business, including drivers and deposit trends, see each business's results of operations and "Liquidity Risk--Deposits" below.
+Expenses
+Citigroup's operating expenses of $14.2 billion increased 5% from the prior-year period, including the impact of FX translation, driven by:
+&#8226;higher compensation and benefits,
+&#8226;higher transactional and product servicing expenses, and
+&#8226;higher deposit insurance costs,
+&#8226;partially offset by lower professional services expenses.
+The increase in compensation and benefits expenses was driven by higher performance-related and other compensation and benefits expenses, and higher compensation associated with investments in the businesses, largely offset by productivity savings and lower transformation expenses.
+The increase in transactional and product servicing expenses was driven by higher volumes in Markets, particularly in Equity Markets, and higher customer engagement costs in USCC.
+The higher deposit insurance costs were driven by the absence of a benefit in the prior-year period and higher deposit volume.
+The decrease in professional services expenses was driven by lower transformation spend.
+Provisions
+Citi's total provisions for credit losses and for benefits and claims were $2.5 billion, reflecting net credit losses of $2.4 billion and a net allowance for credit losses (ACL) build of $118 million.
+7
+Net credit losses were up 8% from the prior-year period, driven by increases in Banking and Legacy Franchises (managed basis).
+The net ACL build was driven by portfolio growth and changes to certain macroeconomic variables, offset by net improvements in portfolio quality, including seasonal changes in USCC.
+Citi's total provisions for credit losses and for benefits and claims in the prior-year period were $2.9 billion, reflecting net credit losses of $2.2 billion and a net ACL build of $638 million, driven by transfer risk, portfolio growth and changes to certain macroeconomic variables, partially offset by changes in credit quality.
+For additional information on Citi's ACL and Citi's net credit losses, see each segment's and All Other's results of operations, "Credit Risk" and "Significant Accounting Policies and Significant Estimates--Allowance for Credit Losses" below.
+Capital
+Citigroup's Common Equity Tier 1 (CET1) Capital ratio was 12.8% as of June 30, 2026, compared to 13.5% as of June 30, 2025, based on the Basel III Standardized Approach for determining risk-weighted assets (RWA). The decrease was driven by common share repurchases, the payment of common and preferred dividends and an increase in RWA, largely offset by net income and net beneficial movements in Accumulated other comprehensive income (AOCI).
+For additional information on Citi's capital metrics and capital actions, see "Capital Resources" and "Unregistered Sales of Equity Securities, Repurchases of Equity Securities and Dividends" below.
+For information on the results of operations for the second quarter of 2026 for each segment and All Other, see "Services," "Markets," "Banking," "Wealth," "U.S. Consumer Cards (USCC)" and "All Other--Managed Basis" below.
+Macroeconomic and Other Risks and Uncertainties Various macroeconomic, geopolitical and regulatory factors continue to contribute to challenges and uncertainties in the U.S. and globally, including, but not limited to, elevated inflation; conflicts in the Middle East; changes in U.S. laws or policies; and changes in interest rates and monetary policies. These factors could result in volatility and disruptions in financial markets, as well as adversely affect economic growth and unemployment in the U.S. and other countries and jurisdictions. Such risks and uncertainties could also adversely impact Citi's clients, customers, businesses, funding costs, provisions and overall results of operations and financial condition during the remainder of 2026.
+For a further discussion of trends, uncertainties and risks that will or could impact Citi's segments and All Other, results of operations, capital and other financial condition during the remainder of 2026, see each segment's and All Other's results of operations, "Managing Global Risk" and "Forward-Looking Statements" below and "Citi's Multiyear Transformation" and "Risk Factors" in Citi's 2025 Form 10-K.
+8
+CITI'S MULTIYEAR TRANSFORMATION
+
+----- [line 874] -----
+Average loans | 2 | 4 | (45) | $ | 2 | $ | 4 | (48) | % |
+LHA--key indicators (in billions of dollars)
+EOP loans | $ | 1 | $ | 2 | (48) | % |
+31
+(1) Net income attributable to NCI represents the portion of net earnings of consolidated subsidiaries that is attributable to shareholders other than Citi. These amounts are deducted from All Other's Income from continuing operations above (and the total for all businesses from Citigroup's net income before attribution to noncontrolling interests) to arrive at All Other's Net income above (and in total for all businesses from Citigroup's net income). The increase in NCI in 2026 primarily relates to the Banamex equity sales completed in December 2025 and April 2026, resulting in a portion of Banamex's earnings being attributable to noncontrolling shareholders.
+NM Not meaningful
+2Q26 vs. 2Q25
+Net loss was $923 million, compared to a net loss of $552 million in the prior-year period.
+All Other (managed basis) revenues of $1.7 billion increased 1%, driven by higher revenues in Legacy Franchises (managed basis), offset by lower revenues in Corporate/Other.
+Legacy Franchises (managed basis) revenues of $2.1 billion increased 21%, driven by higher revenues in Mexico Consumer/SBMM (managed basis), partially offset by lower revenues in Asia Consumer (managed basis).
+Mexico Consumer/SBMM (managed basis) revenues of $2.0 billion increased 30%, driven by the impact of Mexican peso appreciation, higher loan balances in retail banking and cards, higher deposits in retail banking, higher fee revenues from insurance, retirement and cards businesses and episodic items.
+Asia Consumer (managed basis) revenues were $77 million, compared to $155 million in the prior-year period, driven by a continued reduction from closed exits and wind-downs.
+Corporate/Other revenues decreased to $(316) million, compared to $25 million in the prior-year period, driven by lower net interest income, largely offset by higher non-interest revenue. The lower net interest income included actions taken, such as those to reduce Citi's asset sensitivity due to a lower interest rate environment. The higher non-interest revenue was primarily driven by episodic activity.
+Expenses decreased 3%, driven by lower transformation expenses, lower severance costs and lower expenses related to closed exits and wind-downs. This decline was primarily offset by higher compensation and benefits, the impact of Mexican peso appreciation, higher deposit insurance costs driven by the absence of a benefit in the prior-year period, continued investments in technology and certain other items. For additional information on Citi's transformation, including related expenses, see "Citi's Multiyear Transformation" in Citi's 2025 Form 10-K.
+Provisions were $438 million in the current period, reflecting net credit losses of $366 million, and a net ACL build of $72 million. Net credit losses increased 43%, driven by higher volume and portfolio seasoning in Mexico Consumer. The net ACL build was primarily driven by higher volume. Provisions were $374 million in the prior-year period, reflecting net credit losses of $256 million, and a net ACL build of $118 million, largely driven by higher volume and transfer risk.
+For additional information on Citi's ACL, see "Significant Accounting Policies and Significant Estimates" below.
+For additional information on the consumer portion of All Other--Legacy Franchises, including the Mexico Consumer loan portfolios, see "Managing Global Risk--Credit Risk--Consumer Credit" below.
+For additional information about trends, uncertainties and risks related to future results of the businesses, see "Executive Summary" above, "Managing Global Risk--Other Risks--Country Risk" and "Forward-Looking Statements" below and "Risk Factors" in Citi's 2025 Form 10-K.
+YTD 2026 vs. YTD 2025
+Net loss was $1.4 billion, unchanged from the prior-year period.
+All Other (managed basis) revenues increased 8%, driven by higher revenues in Legacy Franchises (managed basis), largely offset by lower revenues in Corporate/Other.
+Legacy Franchises (managed basis) revenues increased 27%, driven by higher revenues in Mexico Consumer/SBMM (managed basis), partially offset by lower revenues in Asia Consumer (managed basis).
+Mexico Consumer/SBMM (managed basis) revenues increased 35%, driven by the impact of Mexican peso appreciation, higher loan balances and higher deposits in retail banking, higher fee revenues from cards, insurance and retirement businesses, a gain on sale from an investment and episodic items.
+Asia Consumer (managed basis) revenues decreased 37%, driven by the closed exits and wind-downs.
+Corporate/Other revenues decreased to $(795) million, compared to $(133) million in the prior-year period, driven by lower net interest income, partially offset by higher non-interest revenue. The lower net interest income included actions taken, such as those to reduce Citi's asset sensitivity due to a lower interest rate environment. The higher non-interest revenue was primarily driven by episodic items and gains on the sale of certain securities.
+Expenses decreased 3%, driven by lower transformation expenses, lower expenses related to closed exits and wind-downs and lower legal expenses. This decline was primarily offset by the impact of Mexican peso appreciation, continued investments in technology, higher severance costs and higher compensation and benefits.
+Provisions were $838 million, reflecting net credit losses of $737 million, and a net ACL build of $101 million. Net credit losses increased 44%, driven by higher volume and portfolio seasoning in Mexico Consumer. The net ACL build was driven by higher volume and changes in credit quality. Provisions were $733 million in the prior-year period, reflecting net credit losses of $512 million, and a net ACL build of $221 million, primarily driven by higher volume, uncertainty and deterioration in the macroeconomic outlook and transfer risk.
+32
+ALL OTHER--Divestiture-Related Impacts (Reconciling Items)
+The table below presents a reconciliation from All Other (U.S. GAAP) to All Other (managed basis). All Other (U.S. GAAP), less Reconciling Items, equals All Other (managed basis). The Reconciling Items are reflected on each relevant line item in Citi's Consolidated Statement of Income.
+All Other (managed basis) and Legacy Franchises (managed basis) results exclude divestiture-related impacts (see the "Reconciling Items" column in the table below) related to:
+&#8226;Grupo Financiero Banamex, S.A. de C.V. (Banamex), reported within All Other (U.S. GAAP), and
+&#8226;Citi's divestitures of its Asia Consumer businesses.
+Certain of the results of operations of All Other (managed basis) and Legacy Franchises (managed basis) are non-GAAP financial measures (see "Overview--Non-GAAP Financial Measures" above).
+Second Quarter |
+2026 | 2025 |
+In millions of dollars, except as otherwise noted | All Other
+(U.S. GAAP) | Reconciling Items(1)
+All Other
+(managed basis) | All Other
+(U.S. GAAP) | Reconciling Items(2)
+All Other
+(managed basis) |
+Net interest income | $ | 937 | $ | -- | $ | 937 | $ | 1,442 | $ | -- | $ | 1,442 |
+Non-interest revenue | 820 | 20 | 800 | 97 | (177) | 274 |
+Total revenues, net of interest expense | $ | 1,757 | $ | 20 | $ | 1,737 | $ | 1,539 | $ | (177) | $ | 1,716 |
+Total operating expenses | $ | 2,245 | $ | 25 | $ | 2,220 | $ | 2,314 | $ | 37 | $ | 2,277 |
+Net credit losses on loans | 364 | (2) | 366 | 261 | 5 | 256 |
+Credit reserve build (release) for loans | 61 | -- | 61 | 70 | -- | 70 |
+Provision for credit losses on unfunded lending commitments | (2) | -- | (2) | (6) | -- | (6) |
+Provisions for benefits and claims (PBC), other assets and HTM debt securities | 13 | -- | 13 | 54 | -- | 54 |
+Provisions (benefits) for credit losses and PBC | $ | 436 | $ | (2) | $ | 438 | $ | 379 | $ | 5 | $ | 374 |
+Income (loss) from continuing operations before taxes | $ | (924) | $ | (3) | $ | (921) | $ | (1,154) | $ | (219) | $ | (935) |
+Income taxes (benefits) | (161) | (1) | (160) | (401) | (39) | (362) |
+Income (loss) from continuing operations | $ | (763) | $ | (2) | $ | (761) | $ | (753) | $ | (180) | $ | (573) |
+Income (loss) from discontinued operations, net of taxes | -- | -- | -- | -- | -- | -- |
+NCI(3)
+162 | -- | 162 | (21) | -- | (21) |
+Net income (loss) | $ | (925) | $ | (2) | $ | (923) | $ | (732) | $ | (180) | $ | (552) |
+Six Months |
+2026 | 2025 |
+In millions of dollars, except as otherwise noted | All Other
+(U.S. GAAP) | Reconciling Items(4)
+All Other
+(managed basis) | All Other
+(U.S. GAAP) | Reconciling Items(5)
+All Other
+(managed basis) |
+Net interest income | $ | 1,940 | $ | -- | $ | 1,940 | $ | 2,726 | $ | -- | $ | 2,726 |
+Non-interest revenue | 1,512 | 33 | 1,479 | 276 | (177) | 453 |
+Total revenues, net of interest expense | $ | 3,452 | $ | 33 | $ | 3,419 | $ | 3,002 | $ | (177) | $ | 3,179 |
+Total operating expenses | $ | 4,420 | $ | 56 | $ | 4,364 | $ | 4,574 | $ | 71 | $ | 4,503 |
+Net credit losses on loans | 736 | (1) | 737 | 517 | 5 | 512 |
+Credit reserve build (release) for loans | 74 | -- | 74 | 132 | (11) | 143 |
+Provision for credit losses on unfunded lending commitments | (5) | -- | (5) | (7) | -- | (7) |
+Provisions for benefits and claims (PBC), other assets and HTM debt securities | 32 | -- | 32 | 85 | -- | 85 |
+Provisions (benefits) for credit losses and PBC | $ | 837 | $ | (1) | $ | 838 | $ | 727 | $ | (6) | $ | 733 |
+Income (loss) from continuing operations before taxes | $ | (1,805) | $ | (22) | $ | (1,783) | $ | (2,299) | $ | (242) | $ | (2,057) |
+Income taxes (benefits) | (642) | (8) | (634) | (692) | (47) | (645) |
+Income (loss) from continuing operations | $ | (1,163) | $ | (14) | $ | (1,149) | $ | (1,607) | $ | (195) | $ | (1,412) |
+Income (loss) from discontinued operations, net of taxes | (1) | -- | (1) | (1) | -- | (1) |
+NCI(3)
+267 | -- | 267 | (5) | -- | (5) |
+Net income (loss) | $ | (1,431) | $ | (14) | $ | (1,417) | $ | (1,603) | $ | (195) | $ | (1,408) |
+
+----- [line 2216] -----
+term | Outlook |
+Fitch Ratings (Fitch) | A | F1 | Positive | AA- | F1+ | Positive |
+Moody's Ratings (Moody's) | A3 | P-2 | Stable | Aa3 | P-1 | Stable |
+S&P Global Ratings (S&P) | BBB+ | A-2 | Stable | A+ | A-1 | Stable |
+Potential Impacts of Ratings Downgrades
+Ratings downgrades by Fitch, Moody's or S&P could negatively impact Citigroup's and/or Citibank's funding and liquidity due to reduced funding capacity, including derivative triggers, which could take the form of cash obligations and collateral requirements.
+For additional information on the impact of credit rating changes on Citi and its applicable subsidiaries, see "Risk Factors--Liquidity Risks" and "Liquidity Risk--Credit Ratings" in Citi's 2025 Form 10-K.
+Citigroup Inc. and Citibank--Potential Derivative Triggers
+As of June 30, 2026, Citi estimates that a hypothetical one-notch downgrade of the senior debt/long-term rating across all three major rating agencies could impact funding and liquidity due to derivative triggers by approximately $0.1 billion, unchanged from March 31, 2026, for Citigroup Inc., and $0.1 billion, unchanged from March 31, 2026, for Citibank. Other funding sources, such as secured financing transactions and other margin requirements, for which there are no explicit triggers, could also be adversely affected.
+In total, as of June 30, 2026, Citi estimates that a one-notch downgrade of Citigroup Inc. and Citibank across all three major rating agencies could result in increased aggregate cash obligations and collateral requirements of approximately $0.2 billion, unchanged from March 31, 2026. As detailed under "High-Quality Liquid Assets (HQLA)" above, Citigroup has various liquidity resources available to its bank and non-bank entities in part as a contingency for the potential events described above.
+Citibank--Additional Potential Impacts
+In addition to the above derivative triggers, Citi believes that a potential downgrade of Citibank's senior debt/long-term rating across any of the three major rating agencies could also have an adverse impact on the commercial paper/short-term rating of Citibank. Citibank has provided liquidity commitments to consolidated asset-backed commercial paper (ABCP) conduits, primarily in the form of asset purchase agreements. As of June 30, 2026, Citibank had liquidity commitments of approximately $11.8 billion to ABCP conduits (compared to $13.7 billion at March 31, 2026) (see Note 19).
+In addition to the above-referenced liquidity resources of certain Citibank entities, Citibank could reduce the funding and liquidity risk, if any, of the potential downgrades described above through mitigating actions, including repricing certain assets funded by the commercial paper conduits. In the event of the potential downgrades described above, Citi believes that certain corporate customers could reduce borrowing through these conduits, which would result in a reduced amount of ABCP issuance.
+70
+MARKET RISK
+Market risk arises from both Citi's trading and non-trading portfolios. For additional information on market risk and market risk management at Citi, see "Market Risk--Overview" and "Risk Factors" in Citi's 2025 Form 10-K.
+MARKET RISK OF NON-TRADING PORTFOLIOS
+Market risk from non-trading portfolios stems predominantly from the potential impact of changes in interest rates and foreign exchange rates on Citi's net interest income and Accumulated other comprehensive income (loss) (AOCI) from its investment securities portfolios. Market risk from non-trading portfolios also includes the potential impact of changes in foreign exchange rates on Citi's capital invested in foreign currencies.
+For interest rate risk purposes, Citi's non-trading portfolios are referred to as the Banking Book, and Citi uses multiple metrics to measure its Banking Book interest rate risk, including Interest Rate Exposure (IRE). For additional information, see "Market Risk--Market Risk of Non-Trading Portfolios--Banking Book Interest Rate Risk" in Citi's 2025 Form 10-K.
+Interest Rate Risk of Investment Portfolios--Impact on AOCI
+Citi measures the potential impacts of changes in interest rates on the value of its AOCI, which can in turn impact Citi's common equity and tangible common equity. This will impact Citi's CET1 and other regulatory capital ratios. Citi seeks to manage its exposure to changes in the market level of interest rates, while limiting the potential impact on its AOCI and regulatory capital position.
+AOCI at risk is managed as part of the Company-wide interest rate risk position. AOCI at risk considers potential changes in AOCI (and the corresponding impact on the CET1 Capital ratio) relative to Citi's capital generation capacity.
+Citi uses 100 basis point (bps) shocks in each scenario to reflect its net interest income sensitivity to unanticipated changes in market interest rates, as potential monetary policy decisions and changes in economic conditions may be reflected in current market-implied forward rates.
+The following table presents the 12-month estimated impact to Citi's net interest income, AOCI and the CET1 Capital ratio, each assuming an unanticipated parallel instantaneous 100 bps increase in interest rates:
+In millions of dollars, except as otherwise noted | Jun. 30, 2026 | Mar. 31, 2026 | Jun. 30, 2025 |
+Parallel interest rate shock +100 bps |
+Interest rate exposure(1)(2)
+U.S. dollar | $ | (342) | $ | (157) | $ | (313) |
+All other currencies | 1,576 | 1,354 | 1,578 |
+Total net interest income | $ | 1,234 | $ | 1,197 | $ | 1,265 |
+As a percentage of average interest-earning assets | 0.05 | % | 0.05 | % | 0.05 | % |
+Estimated initial negative impact to AOCI (after-tax)(2)
+$ | (3,046) | $ | (2,791) | $ | (1,881) |
+Estimated initial impact on CET1 Capital ratio (bps) from AOCI scenario
+(18) | (19) | (18) |
+(1)Excludes trading book and fair value option banking book portfolios and replaces them with the associated transfer pricing.
+(2)Includes the effect of changes in interest rates on AOCI related to investment securities, cash flow hedges and pension plans.
+As presented in the table above, Citi's balance sheet is asset sensitive (assets reprice faster than liabilities), resulting in higher net interest income in increasing interest rate scenarios. The estimated impact to Citi's net interest income in a 100 bps upward and downward rate shock scenario as of June 30, 2026 remained relatively stable year-over-year. At progressively higher interest rate levels, the marginal net interest income benefit is lower, as Citi assumes it will pass on a larger share of rate changes to depositors (i.e., higher betas), reducing Citi's IRE sensitivity. At current rate levels Citi assumes it will be unable to pass on a larger share of initial rate declines to depositors, increasing Citi's IRE sensitivity to a 100 bps downward shock. Currency-specific interest rate changes and balance sheet factors may drive quarter-to-quarter volatility in Citi's estimated IRE for a 100 bps upward rate shock.
+In a 100 bps upward rate shock scenario, Citi expects that the approximate $3 billion initial negative impact to AOCI could potentially be offset in shareholders' equity through the forecasted interest income and paydowns from Citi's investment portfolio over a period of approximately 17 months.
+71
+Scenario Analysis
+The following table presents the estimated impact to Citi's net interest income and AOCI under eight different interest rate scenarios for the U.S. dollar and all other currencies as of June 30, 2026. The 100 bps and 200 bps downward rate scenarios potentially may be impacted by the low level of interest rates in several countries and the assumption that market interest rates, as well as rates paid to depositors and charged to borrowers, do not fall below zero (i.e., the "flooring assumption"). The interest rate scenarios are also impacted by convexity related to mortgage products and deposit pricing.
+These scenarios include the following:
+&#8226;a parallel shift involving changes to both short-term and long-term rates by an equal amount
+&#8226;a steeper yield curve involving constant short-term rates and increasing long-term rates or constant long-term rates and decreasing short-term rates
+&#8226;a flatter yield curve involving increasing short-term rates and constant long-term rates or constant short-term rates and decreasing long-term rates
+In millions of dollars, except as otherwise noted | Parallel shift(1)
+Short-end flattener | Long-end steepener | Long-end flattener | Short-end steepener | Parallel shift | Parallel shift | Parallel shift |
+Overnight rate change (bps) | 100 | 100 | -- | -- | (100) | (100) | 200 | (200) |
+10-year rate change (bps) | 100 | -- | 100 | (100) | -- | (100) | 200 | (200) |
+Interest rate exposure |
+U.S. dollar | $ | (342) | $ | (441) | $ | 90 | $ | (183) | $ | (253) | $ | (441) | $ | (746) | $ | (813) |
+All other currencies(1)
+1,576 | 1,347 | 231 | (216) | (1,224) | (1,435) | 3,127 | (2,644) |
+Total | $ | 1,234 | $ | 906 | $ | 321 | $ | (399) | $ | (1,477) | $ | (1,876) | $ | 2,381 | $ | (3,457) |
+Estimated initial impact to AOCI (after-tax)(2)
+$ | (3,046) | $ | (2,226) | $ | (898) | $ | 314 | $ | 2,243 | $ | 2,581 | $ | (6,342) | $ | 4,286 |
+Note: Each scenario assumes that the rate change will occur instantaneously. Changes in interest rates for maturities between the overnight rate and the 10-year rate are interpolated. The interest rate exposure in the table above assumes no change in deposit size or mix from the baseline forecast included in the different interest rate scenarios presented. As a result, in higher interest rate scenarios, customer activity resulting in a shift from non-interest-bearing and low interest rate deposit products to higher-yielding deposits would reduce the expected benefit to net interest income. Conversely, in lower interest rate scenarios, customer activity resulting in a shift from higher-yielding deposits to non-interest-bearing and low interest rate deposit products would reduce the expected decrease to net interest income.
+(1)The "parallel shift" impact of $1,576 million consists of the following top five non-U.S. dollar currencies as of June 30, 2026, by absolute size: approximately $(0.3) billion from the euro, approximately $0.3 billion from the British pound sterling and $0.2 billion each from the Chinese yuan, Japanese yen and Swiss franc. The remaining balance is spread across more than 30 additional currencies.
+(2)Includes the effect of changes in interest rates on AOCI related to investment securities, cash flow hedges and pension plans.
+As presented in the table above, the estimated impact to Citi's net interest income is larger in the short end compared to the long end as Citi's Banking Book has relatively higher interest rate exposure to the short end of the yield curve. For the U.S. dollar, exposure to downward rate shocks is larger in magnitude than to upward rate shocks. This is because of the lower benefit to net interest income from Citi's deposit base at higher rate levels, as well as the prepayment effects on mortgage loans and mortgage-backed securities.
+The magnitude of the impact to AOCI is greater in the short end compared to the long end. This is because Citi's investment portfolio is more sensitive to shorter-term rates and pension liabilities are more sensitive at intermediate-term maturities.
+72
+Changes in Foreign Exchange Rates--Impacts on AOCI and Capital
+As of June 30, 2026, Citi estimates that a parallel instantaneous 5% appreciation of the U.S. dollar against all of the other currencies in which Citi has invested capital could reduce Citi's tangible common equity (TCE) by approximately $1.5 billion, or 1.0%, as a result of changes to Citi's CTA in AOCI, net of hedges. This reduction in the TCE would be primarily driven by depreciation of the euro, Mexican peso and Singapore dollar.
+This reduction in the TCE does not reflect any mitigating actions Citi may take, including ongoing management of its foreign currency translation exposure. TCE is used as a simplified metric to manage CET1 capital ratio volatility. Specifically, as currency movements change the value of Citi's net investments in foreign currency-denominated
+capital, these movements also change the value of Citi's RWA denominated in those same currencies. This, coupled with Citi's foreign currency hedging strategies, such as foreign currency borrowings, foreign currency forwards and other currency hedging instruments, lessens the impact of foreign currency movements on Citi's CET1 Capital ratio. Changes in these hedging strategies, as well as hedging costs, divestitures and tax impacts, can further affect the actual impact of changes in foreign exchange rates on Citi's capital compared to an unanticipated parallel shock, as described above.
+The effect of Citi's ongoing management strategies with respect to quarterly changes in foreign exchange rates (versus the U.S. dollar), and the quarterly impact of these changes on Citi's TCE and CET1 Capital ratio, are presented in the table below. See Note 17 for additional information on the changes in AOCI.
+For the quarter ended |
+In millions of dollars | Jun. 30, 2026 | Mar. 31, 2026 | Jun. 30, 2025 |
+Change in FX spot rate(1)
+0.3 | % | (1.2) | % | 5.2 | % |
+Change in TCE due to FX translation, net of hedges | $ | 1,947 | $ | 989 | $ | 1,490 |
+As a percentage of TCE | 1.2 | % | 0.6 | % | 0.9 | % |
+(1) FX spot rate change is a weighted average based on Citi's quarterly average GAAP capital exposure to foreign countries. A positive change in FX spot rate represents foreign currency appreciation versus U.S. dollar.
+73
+Interest Income/Expense and Net Interest Margin (NIM)
+Change |
+In millions of dollars, except as otherwise noted | 2Q26 | 1Q26 | 2Q25 | 2Q26 vs. 2Q25 |
+Interest income(1)
+$ | 37,690 | $ | 35,542 | $ | 35,887 | 5 | % |
+Interest expense(2)
+20,537 | 19,772 | 20,684 | (1) |
+Net interest income, taxable equivalent basis(1)
+$ | 17,153 | $ | 15,770 | $ | 15,203 | 13 | % |
+Interest income--average rate(3)
+5.58 | % | 5.55 | % | 5.93 | % | (35) | bps |
+Interest expense--average rate | 3.67 | 3.75 | 4.17 | (50) | bps |
+Net interest margin(3)(4)
+2.54 | 2.46 | 2.51 | 3 | bps |
+Interest rate benchmarks |
+Two-year U.S. Treasury note--average rate | 3.97 | % | 3.58 | % | 3.86 | % | 11 | bps |
+10-year U.S. Treasury note--average rate | 4.42 | 4.20 | 4.36 | 6 | bps |
+10-year vs. two-year spread | 45 | bps | 62 | bps | 50 | bps |
+(1)Interest income and Net interest income include the taxable equivalent gross-up adjustments (TEGU) primarily related to the tax-exempt bond portfolio and certain tax-advantaged loan programs of $28 million, $29 million and $28 million for the three months ended June 30, 2026, March 31, 2026 and June 30, 2025, respectively.
+(2)Interest expense associated with certain hybrid financial instruments, which are classified as Long-term debt and accounted for at fair value, is reported together with any changes in fair value as part of Principal transactions in the Consolidated Statement of Income and is therefore not reflected in Interest expense in the table above.
+(3)The average rate on interest income and NIM reflects TEGU. See footnote 1 above.
+(4)Citi's NIM is calculated by dividing net interest income (including TEGU) by average interest-earning assets.
+74
+Non-Markets Net Interest Income (NII)
+Change |
+In millions of dollars
+2Q26 | 1Q26 | 2Q25 | 2Q26 vs. 2Q25 |
+Total Citi net interest income (NII)--taxable equivalent basis(1) per above
+$ | 17,153 | $ | 15,770 | $ | 15,203 | 13 | % |
+Less: |
+Markets NII--taxable equivalent basis(1)
+4,030 | 2,826 | 2,852 | 41 |
+Total Citi non-Markets NII--taxable equivalent basis(1)
+$ | 13,123 | $ | 12,944 | $ | 12,351 | 6 | % |
+(1)Interest income and Net interest income include TEGU discussed in the table above.
+Citi's NII in the second quarter of 2026 was $17.1 billion on a reported basis, an increase of 13%, or $2.0 billion, from the prior-year period. The increase was due to a 41%, or $1.2 billion, increase in Markets NII and a 6%, or $0.8 billion, increase in non-Markets NII. As noted in the table above, on a taxable equivalent basis, Citi's NII was $17.2 billion in the second quarter of 2026.
+Citi's Markets business is primarily evaluated on a total revenue basis. See "Markets" above for additional information.
+The increase in non-Markets NII compared to the prior-year period was primarily driven by:
+&#8226;higher average deposit balances in Services;
+&#8226;higher average deposit balances and deposit spreads in Wealth;
+&#8226;higher interest-earning balances in USCC; and
+&#8226;higher loan volume and the impact of Mexican peso appreciation in All Other--Legacy Franchises
+&#8226;partially offset by:
+&#8226;lower mortgage spreads in Wealth, and
+&#8226;a lower benefit from cash and securities reinvestment in All Other--Corporate/Other, due to actions taken to reduce Citi's asset sensitivity due to a lower interest rate environment.
+Citi's net interest margin was 2.54% on a taxable equivalent basis in the second quarter of 2026, an increase of seven basis points from the prior quarter, largely driven by higher Markets NII, partially offset by changes in asset mix and deposit spreads.
+75
+Additional Interest Rate Details
+Average Balances and Interest Rates--Assets(1)(2)(3)
+Taxable Equivalent Basis
+Quarterly--Assets | Average balance | Interest income | % Average rate |
+In millions of dollars, except rates | 2Q26 | 1Q26 | 2Q25 | 2Q26 | 1Q26 | 2Q25 | 2Q26 | 1Q26 | 2Q25 |
+Deposits with banks(4)
+$ | 359,133 | $ | 344,971 | $ | 298,158 | $ | 3,375 | $ | 3,194 | $ | 3,043 | 3.77 | % | 3.75 | % | 4.09 | % |
+Securities borrowed and purchased under agreements to resell(5)
+In U.S. offices | $ | 230,437 | $ | 200,253 | $ | 195,488 | $ | 3,740 | $ | 3,796 | $ | 3,751 | 6.51 | % | 7.69 | % | 7.70 | % |
+In offices outside the U.S.(4)
+210,152 | 193,919 | 179,717 | 3,112 | 2,885 | 2,870 | 5.94 | 6.03 | 6.41 |
+Total | $ | 440,589 | $ | 394,172 | $ | 375,205 | $ | 6,852 | $ | 6,681 | $ | 6,621 | 6.24 | % | 6.87 | % | 7.08 | % |
+Trading account assets(6)(7)
+In U.S. offices | $ | 282,049 | $ | 272,510 | $ | 287,610 | $ | 2,991 | $ | 2,852 | $ | 3,105 | 4.25 | % | 4.24 | % | 4.33 | % |
+In offices outside the U.S.(4)
+277,688 | 262,606 | 219,267 | 3,121 | 2,045 | 2,716 | 4.51 | 3.16 | 4.97 |
+Total | $ | 559,737 | $ | 535,116 | $ | 506,877 | $ | 6,112 | $ | 4,897 | $ | 5,821 | 4.38 | % | 3.71 | % | 4.61 | % |
+Investments |
+In U.S. offices |
+Taxable | $ | 239,035 | $ | 228,084 | $ | 242,238 | $ | 1,651 | $ | 1,481 | $ | 1,581 | 2.77 | % | 2.63 | % | 2.62 | % |
+Exempt from U.S. income tax | 10,112 | 10,222 | 10,682 | 53 | 93 | 107 | 2.10 | 3.69 | 4.02 |
+In offices outside the U.S.(4)
+203,997 | 205,220 | 196,932 | 2,394 | 2,454 | 2,527 | 4.71 | 4.85 | 5.15 |
+Total | $ | 453,144 | $ | 443,526 | $ | 449,852 | $ | 4,098 | $ | 4,028 | $ | 4,215 | 3.63 | % | 3.68 | % | 3.76 | % |
+Consumer loans(8)
+In U.S. offices | $ | 327,633 | $ | 322,044 | $ | 314,545 | $ | 8,396 | $ | 8,254 | $ | 8,185 | 10.28 | % | 10.39 | % | 10.44 | % |
+In offices outside the U.S.(4)
+82,716 | 81,763 | 75,804 | 1,760 | 1,723 | 1,586 | 8.53 | 8.55 | 8.39 |
+Total | $ | 410,349 | $ | 403,807 | $ | 390,349 | $ | 10,156 | $ | 9,977 | $ | 9,771 | 9.93 | % | 10.02 | % | 10.04 | % |
+Corporate loans(8)
+In U.S. offices | $ | 184,986 | $ | 171,077 | $ | 150,979 | $ | 2,642 | $ | 2,468 | $ | 2,207 | 5.73 | % | 5.85 | % | 5.86 | % |
+In offices outside the U.S.(4)
+189,710 | 180,321 | 170,848 | 2,860 | 2,801 | 3,005 | 6.05 | 6.30 | 7.05 |
+Total | $ | 374,696 | $ | 351,398 | $ | 321,827 | $ | 5,502 | $ | 5,269 | $ | 5,212 | 5.89 | % | 6.08 | % | 6.50 | % |
+Total loans(8)
+In U.S. offices | $ | 512,619 | $ | 493,121 | $ | 465,524 | $ | 11,038 | $ | 10,722 | $ | 10,392 | 8.64 | % | 8.82 | % | 8.95 | % |
+In offices outside the U.S.(4)
+272,426 | 262,084 | 246,652 | 4,620 | 4,524 | 4,591 | 6.80 | 7.00 | 7.47 |
+Total | $ | 785,045 | $ | 755,205 | $ | 712,176 | $ | 15,658 | $ | 15,246 | $ | 14,983 | 8.00 | % | 8.19 | % | 8.44 | % |
+Other interest-earning assets(9)
+$ | 113,683 | $ | 123,549 | $ | 83,064 | $ | 1,595 | $ | 1,496 | $ | 1,204 | 5.63 | % | 4.91 | % | 5.81 | % |
+Total interest-earning assets | $ | 2,711,331 | $ | 2,596,539 | $ | 2,425,332 | $ | 37,690 | $ | 35,542 | $ | 35,887 | 5.58 | % | 5.55 | % | 5.93 | % |
+Non-interest-earning assets(6)
+$ | 224,670 | $ | 220,265 | $ | 222,473 |
+Total assets | $ | 2,936,001 | $ | 2,816,804 | $ | 2,647,805 |
+76
+Six Months--Assets
+Average balance | Interest income | % Average rate |
+Six Months | Six Months | Six Months | Six Months | Six Months | Six Months |
+In millions of dollars, except rates | 2026 | 2025 | 2026 | 2025 | 2026 | 2025 |
+Deposits with banks(4)
+$ | 352,052 | $ | 289,362 | $ | 6,569 | $ | 6,044 | 3.76 | % | 4.21 | % |
+Securities borrowed and purchased under agreements to resell(5)
+In U.S. offices | $ | 215,345 | $ | 199,761 | $ | 7,536 | $ | 7,343 | 7.06 | % | 7.41 | % |
+In offices outside the U.S.(4)
+202,036 | 168,912 | 5,997 | 5,569 | 5.99 | 6.65 |
+Total | $ | 417,381 | $ | 368,673 | $ | 13,533 | $ | 12,912 | 6.54 | % | 7.06 | % |
+
+----- [line 3229] -----
+In millions of dollars | 2026 |
+Net income attributable to Citigroup common shareholders | $ | 10,973 |
+Changes in Citigroup's equity for sale of 22.6% interest in Banamex
+1,529 |
+Changes from net income attributable to Citigroup common shareholders and changes in Citigroup's ownership interest | $ | 12,502 |
+102
+3. REPORTABLE BUSINESS SEGMENTS AND ALL OTHER
+The reportable business segments (segments) and All Other reflect how the CEO, who is the chief operating decision maker (CODM), manages the Company, including allocating resources and measuring performance.
+Citi is organized into five reportable business segments: Services, Markets, Banking, Wealth and U.S. Consumer Cards (USCC), with the remaining operations recorded in All Other, which includes activities not assigned to a specific segment, as well as discontinued operations. See segment details in Note 3 to the Consolidated Financial Statements in Citi's 2025 Form 10-K.
+Prior-period reportable operating segment and All Other results have been recast to reflect the following changes effective January 1, 2026:
+&#8226;Citi transferred its Retail Banking business from the former U.S. Personal Banking (USPB) to Wealth and integrated the remaining USPB businesses into a new U.S. Consumer Cards segment.
+&#8226;Citi eliminated the corporate lending revenue share arrangement by updating its TCE methodology among the Services, Markets and Banking segments to better align their capital usage associated with the shared economic benefits of corporate lending to clients across these segments.
+&#8226;Certain interest rate risk-management activities within Markets were moved to All Other--Corporate/Other, or between businesses within Markets.
+&#8226;Certain other immaterial reclassifications impacting the results of each business segment and All Other were made.
+Citi's consolidated results remain unchanged for all periods presented following the changes and reclassifications discussed above.
+Revenues and expenses directly associated with each segment or line of business are included in determining respective operating results. Other revenues and expenses that are attributable to a particular segment or All Other are generally allocated from Corporate/Other within All Other based on respective net revenues, non-interest expenses or other relevant measures.
+Revenues and expenses from transactions with other segments and All Other are treated as transactions with external parties for purposes of segment disclosures, while funding charges paid by segments and funding credits received by Corporate Treasury within All Other are included in net interest income. The Company includes intersegment eliminations from Corporate/Other within All Other to reconcile the segment results to Citi's consolidated results.
+The accounting policies of these segments and All Other are the same as those disclosed in Note 1 to the Consolidated Financial Statements in Citi's 2025 Form 10-K.
+103
+The following tables present certain information regarding the Company's continuing operations by reportable business segment and All Other on a managed basis that excludes divestiture-related impacts. The CODM uses Income (loss) from continuing operations as the performance measure, to evaluate the results of each reportable business segment and
+All Other by comparing to and monitoring against budget and prior-year results. This information is used to allocate resources to each of the segments and All Other and to make operational decisions when managing the Company, such as whether to reinvest profits or to return capital to shareholders through dividends and share repurchases.
+Three Months Ended June 30, |
+In millions of dollars, except end-of-period assets,
+average loans and average deposits in billions | Services | Markets | Banking |
+2026 | 2025 | 2026 | 2025 | 2026 | 2025 |
+Net interest income | $ | 4,291 | $ | 3,630 | $ | 4,002 | $ | 2,824 | $ | 560 | $ | 530 |
+Non-interest revenue | 2,091 | 1,800 | 3,005 | 3,156 | 1,362 | 904 |
+Total revenues, net of interest expense | $ | 6,382 | $ | 5,430 | $ | 7,007 | $ | 5,980 | $ | 1,922 | $ | 1,434 |
+Compensation expense(1)
+$ | 679 | $ | 641 | $ | 1,177 | $ | 992 | $ | 733 | $ | 695 |
+Non-compensation expense(2)
+2,124 | 2,038 | 2,607 | 2,516 | 479 | 442 |
+Total operating expense | $ | 2,803 | $ | 2,679 | $ | 3,784 | $ | 3,508 | $ | 1,212 | $ | 1,137 |
+Provisions for credit losses and for benefits and claims | $ | 58 | $ | 353 | $ | 109 | $ | 108 | $ | 242 | $ | 173 |
+Provision (benefits) for income taxes | 924 | 670 | 710 | 540 | 117 | 33 |
+Income (loss) from continuing operations | 2,597 | 1,728 | 2,404 | 1,824 | 351 | 91 |
+End-of-period assets (June 30, 2026 and December 31, 2025)
+$ | 645 | $ | 628 | $ | 1,363 | $ | 1,185 | $ | 145 | $ | 140 |
+Average loans | 103 | 94 | 176 | 136 | 88 | 84 |
+Average deposits | 1,017 | 857 | 20 | 18 | -- | -- |
+In millions of dollars, except end-of-period assets,
+average loans and average deposits in billions | Wealth | USCC |
+2026 | 2025 | 2026 | 2025 |
+Net interest income | $ | 2,155 | $ | 1,831 | $ | 5,180 | $ | 4,918 |
+Non-interest revenue | 1,022 | 983 | (659) | (447) |
+Total revenues, net of interest expense | $ | 3,177 | $ | 2,814 | $ | 4,521 | $ | 4,471 |
+Compensation expense(1)
+$ | 878 | $ | 834 | $ | 401 | $ | 322 |
+Non-compensation expense(2)
+1,499 | 1,479 | 1,393 | 1,304 |
+Total operating expense | $ | 2,377 | $ | 2,313 | $ | 1,794 | $ | 1,626 |
+Provisions for credit losses and for benefits and claims | $ | 59 | $ | 7 | $ | 1,618 | $ | 1,852 |
+Provision (benefits) for income taxes | 158 | 109 | 257 | 235 |
+Income (loss) from continuing operations | 583 | 385 | 852 | 758 |
+End-of-period assets (June 30, 2026 and December 31, 2025)
+$ | 321 | $ | 316 | $ | 182 | $ | 178 |
+Average loans | 206 | 197 | 177 | 168 |
+Average deposits | 415 | 398 | -- | -- |
+In millions of dollars, except end-of-period assets,
+average loans and average deposits in billions | All Other(3)
+Reconciling Items(3)
+Total Citi |
+2026 | 2025 | 2026 | 2025 | 2026 | 2025 |
+Net interest income | $ | 937 | $ | 1,442 | $ | -- | $ | -- | $ | 17,125 | $ | 15,175 |
+Non-interest revenue | 800 | 274 | 20 | (177) | 7,641 | 6,493 |
+Total revenues, net of interest expense | $ | 1,737 | $ | 1,716 | $ | 20 | $ | (177) | $ | 24,766 | $ | 21,668 |
+Total operating expense | $ | 2,220 | $ | 2,277 | $ | 25 | $ | 37 | $ | 14,215 | $ | 13,577 |
+Provisions for credit losses and for benefits and claims | $ | 438 | $ | 374 | $ | (2) | $ | 5 | $ | 2,522 | $ | 2,872 |
+Provision (benefits) for income taxes | (160) | (362) | (1) | (39) | 2,005 | 1,186 |
+Income (loss) from continuing operations | (761) | (573) | (2) | (180) | 6,024 | 4,033 |
+End-of-period assets (June 30, 2026 and December 31, 2025)
+$ | 239 | $ | 210 | $ | 2,895 | $ | 2,657 |
+
+----- [line 3455] -----
+$ | 1,257 | $ | 1,123 | $ | 2,380 | $ | 2,168 |
+(1) Custody fees are earned primarily by Services.
+(2) Fiduciary fees are earned primarily by Wealth and Legacy Franchises within All Other.
+(3) Administration and other fiduciary fees include $142 million and $134 million for the three months ended June 30, 2026 and 2025, and $273 million and $267 million for the six months ended June 30, 2026 and 2025, respectively, that are not accounted for under ASC 606, Revenue from Contracts with Customers. These generally include guarantee fees.
+108
+6. PRINCIPAL TRANSACTIONS
+The table below consists of realized and unrealized gains and losses presented in Principal transactions. Activities include revenues from fixed income, equities, credit and commodities products and foreign exchange transactions that are managed on a portfolio basis and characterized below based on the primary risk managed by each trading desk (as such, the trading desks can be periodically reorganized and thus the risk categories).
+Principal transactions include CVA (credit valuation adjustments) and FVA (funding valuation adjustments) on over-the-counter derivatives. These adjustments are discussed further in Note 21.
+For transactions that are denominated in a currency other than the functional currency, including transactions denominated in the local currencies of foreign operations that use the U.S. dollar as their functional currency, the effects of changes in exchange rates are included in Principal transactions, along with the related effects of any qualifying and economic hedges.
+Not included in the table below is the impact of net interest income related to trading activities, which is an integral part of the profitability of trading activities (see Note 4).
+Three Months Ended June 30, | Six Months Ended June 30, |
+In millions of dollars | 2026 | 2025 | 2026 | 2025 |
+Interest rate risks(1)
+$ | (137) | $ | 570 | $ | 343 | $ | 1,117 |
+Foreign exchange risks(2)
+1,795 | 1,518 | 3,613 | 3,054 |
+Equity risks(3)
+795 | 303 | 2,028 | 1,189 |
+Commodity and other risks(4)
+274 | 272 | 822 | 631 |
+Credit products and risks(5)
+(246) | (160) | (317) | 22 |
+Total | $ | 2,481 | $ | 2,503 | $ | 6,489 | $ | 6,013 |
+(1) Includes revenues from government securities, municipal securities, mortgage securities and other debt instruments. Also includes spot and forward trading of currencies and exchange-traded and over-the-counter (OTC) currency options, options on fixed income securities, interest rate swaps, currency swaps, swap options, caps and floors, financial futures, OTC options and forward contracts on fixed income securities.
+(2) Includes revenues from foreign exchange spot, forward, option and swap contracts, as well as foreign currency translation gains and losses.
+(3) Includes revenues from common, preferred and convertible preferred stock, convertible corporate debt, equity-linked notes and exchange-traded and OTC equity options and warrants.
+(4) Primarily includes revenues from energy products, metals and other commodities trades.
+(5) Includes revenues from corporate debt, secondary trading loans, mortgage securities, single name and index credit default swaps, and structured credit products.
+109
+7. INCENTIVE PLANS
+For information on Citi's incentive plans, see Note 7 to the Consolidated Financial Statements in Citi's 2025 Form 10-K.
+8. RETIREMENT BENEFITS
+For additional information on Citi's retirement benefits, see Note 8 to the Consolidated Financial Statements in Citi's 2025 Form 10-K.
+Citigroup remeasures its significant pension and postretirement benefit plans' obligations and assets by updating plan actuarial assumptions quarterly, when certain conditions are met to trigger interim remeasurement. No interim remeasurement occurred for the six months ended June 30, 2026 and 2025.
+Net Expense (Benefit)
+The following tables summarize the components of net expense (benefit) recognized in the Consolidated Statement of Income for the Company's pension and postretirement benefit plans. Service cost is reported in Compensation and benefits expenses and all other components of the net periodic benefit cost are reported in Other operating expenses in the Consolidated Statement of Income.
+Three Months Ended June 30, |
+Pension plans | Postretirement benefit plans |
+U.S. plans | Non-U.S. plans | U.S. plans | Non-U.S. plans |
+In millions of dollars | 2026 | 2025 | 2026 | 2025 | 2026 | 2025 | 2026 | 2025 |
+Service cost | $ | -- | $ | -- | $ | 31 | $ | 28 | $ | -- | $ | -- | $ | -- | $ | -- |
+Interest cost on benefit obligation | 112 | 119 | 106 | 106 | 3 | 3 | 37 | 29 |
+Expected return on assets | (147) | (151) | (113) | (94) | (3) | (2) | (28) | (18) |
+Amortization of unrecognized: |
+Prior service cost (benefit) | 1 | 1 | 2 | (1) | (1) | (3) | (1) | (1) |
+Net actuarial loss (gain) | 56 | 50 | 9 | 16 | (3) | (3) | 5 | 2 |
+Curtailment (gain)(1)
+-- | -- | (3) | -- | -- | -- | -- | -- |
+Total net expense (benefit) | $ | 22 | $ | 19 | $ | 32 | $ | 55 | $ | (4) | $ | (5) | $ | 13 | $ | 12 |
+Six Months Ended June 30, |
+Pension plans | Postretirement benefit plans |
+U.S. plans | Non-U.S. plans | U.S. plans | Non-U.S. plans |
+In millions of dollars | 2026 | 2025 | 2026 | 2025 | 2026 | 2025 | 2026 | 2025 |
+Service cost | $ | -- | $ | -- | $ | 63 | $ | 54 | $ | -- | $ | -- | $ | -- | $ | -- |
+Interest cost on benefit obligation | 221 | 237 | 221 | 206 | 6 | 7 | 74 | 57 |
+Expected return on assets | (291) | (301) | (224) | (182) | (5) | (5) | (55) | (35) |
+Amortization of unrecognized: |
+Prior service cost (benefit) | 1 | 1 | 2 | (2) | (4) | (5) | (3) | (3) |
+Net actuarial loss (gain) | 108 | 98 | 26 | 32 | (5) | (6) | 10 | 5 |
+Curtailment (gain)(1)
+-- | -- | (3) | -- | -- | -- | -- | -- |
+Total net expense (benefit) | $ | 39 | $ | 35 | $ | 85 | $ | 108 | $ | (8) | $ | (9) | $ | 26 | $ | 24 |
+(1) Curtailment relates to divestiture and other wind-down activities.
+Contributions
+The following table summarizes the Company's expected contributions for 2026 and the actual contributions made in 2025:
+Pension plans | Postretirement benefit plans |
+U.S. plans(1)
+Non-U.S. plans(2)
+U.S. plans | Non-U.S. plans |
+In millions of dollars | 2026 | 2025 | 2026 | 2025 | 2026 | 2025 | 2026 | 2025 |
+Company contributions(3) expected to be made during the year, and made during the prior year
+$ | 61 | $ | 55 | $ | 120 | $ | 363 | $ | 5 | $ | 19 | $ | 12 | $ | 208 |
+
+----- [line 5919] -----
+Gain (loss) on the hedged item in designated and qualifying fair value hedges |
+Interest rate hedges | $ | -- | $ | 362 | $ | -- | $ | 9 | $ | -- | $ | 965 | $ | -- | $ | 428 |
+Foreign exchange hedges | (158) | -- | (308) | -- | (31) | -- | (317) | -- |
+Commodity hedges | 563 | -- | 496 | -- | (80) | -- | 770 | -- |
+Total gain (loss) on the hedged item in designated and qualifying fair value hedges | $ | 405 | $ | 362 | $ | 188 | $ | 9 | $ | (111) | $ | 965 | $ | 453 | $ | 428 |
+Net gain (loss) on the hedging derivatives excluded from assessment of the effectiveness of fair value hedges |
+Interest rate hedges | $ | -- | $ | -- | $ | -- | $ | -- | $ | -- | $ | -- | $ | -- | $ | -- |
+Foreign exchange hedges(2)
+90 | -- | 94 | -- | 80 | -- | 121 | -- |
+Commodity hedges(3)
+71 | -- | 154 | -- | 155 | -- | 356 | -- |
+Total net gain (loss) on the hedging derivatives excluded from assessment of the effectiveness of fair value hedges | $ | 161 | $ | -- | $ | 248 | $ | -- | $ | 235 | $ | -- | $ | 477 | $ | -- |
+(1)Gain (loss) amounts for interest rate risk hedges are included in Interest income/Interest expense. The accrued interest income on fair value hedges is recorded in Net interest income and is excluded from this table. Amounts included both hedges of AFS securities and long-term debt on a net basis, which largely offset in the current period.
+(2)Amounts related to the forward points (i.e., the spot-forward difference) that are excluded from the assessment of hedge effectiveness and are generally reflected directly in earnings under the mark-to-market approach. Amounts related to cross-currency basis, which are recognized in AOCI, are not reflected in the table above. The amount of cross-currency basis included in AOCI was $2 million and $(2) million for the three months ended June 30, 2026 and 2025, respectively.
+(3)Amounts related to the forward points (i.e., the spot-forward difference) that are excluded from the assessment of hedge effectiveness and are generally reflected directly in earnings under the mark-to-market approach or recorded in AOCI under the amortization approach. The quarter ended June 30, 2026 includes a gain (loss) of approximately $71 million and less than $(1) million under the mark-to-market approach and amortization approach, respectively. The quarter ended June 30, 2025 includes a gain (loss) of approximately $139 million and $15 million under the mark-to-market approach and amortization approach, respectively.
+166
+Cumulative Basis Adjustment
+For additional information on Citi's cumulative basis adjustment, see Notes 1 and 24 to the Consolidated Financial Statements in Citi's 2025 Form 10-K.
+The table below presents the carrying amount of Citi's hedged assets and liabilities under qualifying fair value hedges at June 30, 2026 and December 31, 2025, along with the cumulative basis adjustments included in the carrying value of those hedged assets and liabilities that would reverse through earnings in future periods:
+Balance sheet line item in which
+hedged item is recorded (in millions of dollars)
+Carrying amount of hedged asset/ liability(1)
+Cumulative basis adjustment increasing (decreasing) the carrying amount |
+Active | De-designated |
+As of June 30, 2026 |
+AFS debt securities--specifically hedged(2)
+$ | 63,865 | $ | (301) | $ | 5 |
+AFS debt securities--portfolio-layer method(2)(3)
+53,050 | (89) | 239 |
+Consumer loans--portfolio-layer method(4)
+48,048 | (102) | -- |
+Corporate loans--portfolio-layer method(5)
+3,038 | (4) | (26) |
+Long-term debt | 151,514 | (1,535) | (2,753) |
+Short-term borrowings | 7,702 | (5) | -- |
+As of December 31, 2025 |
+AFS debt securities--specifically hedged(2)
+$ | 41,914 | $ | 177 | $ | 100 |
+AFS debt securities--portfolio-layer method(2)(3)
+35,528 | 133 | 132 |
+Consumer loans--portfolio-layer method(4)
+50,455 | 343 | -- |
+Corporate loans--portfolio-layer method(5)
+4,164 | 17 | (18) |
+Long-term debt | 162,666 | 72 | (2,978) |
+(1)Excludes physical commodities inventories with a carrying value of approximately $9.6 billion and $11.2 billion as of June 30, 2026 and December 31, 2025, respectively, which includes cumulative basis adjustments of approximately $0.1 billion in both periods, for active hedges.
+(2)Carrying amount represents the amortized cost basis of the hedged securities or portfolio layers.
+(3)The Company designated approximately $42.1 billion and $24.0 billion as the hedged amount in the portfolio-layer hedging relationship as of June 30, 2026 and December 31, 2025, respectively.
+(4) The Company designated approximately $27.0 billion and $26.0 billion as the hedged amount in the portfolio-layer hedging relationship as of June 30, 2026 and December 31, 2025, respectively.
+(5) The Company designated approximately $2.2 billion and $2.8 billion as the hedged amount in the portfolio-layer hedging relationship as of June 30, 2026 and December 31, 2025, respectively.
+167
+Cash Flow Hedges
+For additional information on Citi's cash flow hedges, see Notes 1 and 24 to the Consolidated Financial Statements in Citi's 2025 Form 10-K.
+The pretax change in AOCI from cash flow hedges is presented below:
+Three Months Ended June 30, | Six Months Ended June 30, |
+In millions of dollars | 2026 | 2025 | 2026 | 2025 |
+Amount of gain (loss) recognized in AOCI on derivatives
+Interest rate contracts | $ | (376) | $ | (80) | $ | (705) | $ | (261) |
+Foreign exchange contracts | 3 | -- | (33) | -- |
+Total gain (loss) recognized in AOCI
+$ | (373) | $ | (80) | $ | (738) | $ | (261) |
+Net interest income |
+Amount of gain (loss) reclassified from AOCI to earnings(1)
+Interest rate contracts | $ | (17) | $ | (168) | $ | (44) | $ | (357) |
+Foreign exchange contracts | (7) | -- | (15) | -- |
+Total gain (loss) reclassified from AOCI into earnings
+$ | (24) | $ | (168) | $ | (59) | $ | (357) |
+Net pretax change in cash flow hedges included within AOCI
+$ | (349) | $ | 88 | $ | (679) | $ | 96 |
+(1)All amounts reclassified into earnings for interest rate contracts are included in Interest income/Interest expense (Net interest income). For all other hedges, the amounts reclassified to earnings are included primarily in Other revenue and Net interest income in the Consolidated Statement of Income.
+The net gain (loss) associated with cash flow hedges expected to be reclassified from AOCI within 12 months of June 30, 2026 is approximately $(0.3) billion. The maximum length of time over which forecasted cash flows are hedged is 12 years.
+The after-tax impact of cash flow hedges on AOCI is presented in Note 17.

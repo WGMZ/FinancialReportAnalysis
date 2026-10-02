@@ -1,0 +1,436 @@
+# STT 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/93751/000009375126000397/stt-20260630.htm
+# full_doc_chars=427351
+
+
+----- [line 150] -----
+&#8226;We are subject to intense competition, which could negatively affect our profitability;
+&#8226;We are subject to significant pricing pressure and variability in our financial results and our AUC/A and AUM;
+&#8226;Our development and completion of new products and services, including State Street Alpha&#174; and those related to wealth servicing, alternative investment management or digital assets or incorporating artificial intelligence, may impose costs on us, involve dependencies on third parties and may expose us to increased risks;
+&#8226;Acquisitions, strategic alliances, joint ventures and divestitures, and the integration, retention and development of the benefits of these transactions, pose risks for our business; and
+&#8226;Competition for qualified members of our workforce is intense, and we may not be able
+State Street Corporation | 5
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS
+to attract and retain the highly skilled people we need to support our business.
+Financial Market Risks
+&#8226;We could be adversely affected by political, geopolitical, economic and market conditions, including, for example, as a result of liquidity or capital deficiencies (actual or perceived) by other financial institutions and related market and government actions, changes in U.S. trade or other policies or those policies of other nations, the ongoing conflicts in Ukraine and in the Middle East, major political shifts domestically or internationally (including the potential for retaliatory actions by governments, market participants or clients based on diverging perspectives or otherwise), actions taken by central banks in an attempt to address prevailing economic conditions, changes in monetary policy or periods of significant volatility in the markets for equity, fixed income and other asset classes globally or within specific markets;
+&#8226;Our investment securities portfolio, consolidated financial condition and consolidated results of operations could be adversely affected by changes in the financial markets, governmental action or monetary policy. For example, among other risks, changes in prevailing interest rates or market conditions have led, and were they to persist or occur in the future could further lead, to decreases in our NII or to portfolio management decisions resulting in reductions in our capital or liquidity ratios;
+&#8226;Our business activities expose us to interest rate risk;
+&#8226;We assume significant credit risk of counterparties, who may also have substantial financial dependencies on other financial institutions, and these credit exposures and concentrations could expose us to financial loss;
+&#8226;Our fee revenue represents a significant portion of our revenue and is subject to and may decline based on, among other factors, market and currency declines, investment activities and preferences of our clients and their business mix, as well as the timing of new business onboarding;
+&#8226;If we are unable to effectively manage our capital and liquidity, our financial condition, capital ratios, results of operations and business prospects could be adversely affected;
+&#8226;Our return of capital to shareholders through common share repurchases and common stock dividends may be variable and is subject to various business and financial factors and regulatory requirements and approvals of our Board of Directors (the Board);
+&#8226;We may need to raise additional capital or debt in the future, which may not be available to us or may only be available on unfavorable terms;
+&#8226;Our calculations of risk exposures, total RWA and capital ratios depend on data inputs, formulae, models, correlations and assumptions that are subject to change, which could materially impact our risk exposures, our total RWA and our capital ratios from period to period; and
+&#8226;If we experience a downgrade in our credit ratings, or an actual or perceived reduction in our financial strength, our borrowing and capital costs, liquidity and reputation could be adversely affected.
+Compliance and Regulatory Risks
+&#8226;Our business and capital-related activities, including common share repurchases, may be adversely affected by regulatory requirements and considerations, including capital, credit and liquidity;
+&#8226;We face extensive and changing government regulation and supervision in the U.S. and non-U.S. jurisdictions in which we operate, which may increase our costs and compliance risks and may affect our business activities and strategies;
+&#8226;Our businesses may be adversely affected by government enforcement and litigation;
+&#8226;Our businesses may be adversely affected by increased and conflicting political, regulatory and client scrutiny of investment management, stewardship and sustainable investment strategies and services offered;
+&#8226;Any misappropriation of the confidential information we possess could have an adverse impact on our business and could subject us to regulatory actions, litigation and other adverse effects;
+&#8226;Changes in accounting standards may adversely affect our consolidated results of operations and financial condition;
+&#8226;Changes in tax laws, rules or regulations, challenges to our tax positions and changes in the composition of our pre-tax earnings may increase our effective tax rate;
+State Street Corporation | 6
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS
+&#8226;We could face liabilities for withholding and other non-income taxes, including in connection with our services to clients, as a result of tax authority examinations; and
+&#8226;Our businesses may be negatively affected by adverse publicity or other reputational harm.
+Operational, Cyber and Technology Risks
+&#8226;Attacks or unauthorized access to our or our business partners' or clients' information technology systems or facilities, such as cyber-attacks or other disruptions to our or their operations, including attacks leveraging advanced or new artificial intelligence models that are continuously evolving and presenting heightened risks, could result in significant costs, reputational damage and impacts on our business activities;
+&#8226;Our business may be negatively affected by risks associated with strategic initiatives we are undertaking to enhance the effectiveness, including the adoption or integration of new technologies such as artificial intelligence, and efficiency of our operations and of our cybersecurity and technology infrastructure or by our failure to meet the related, resiliency or other expectations of our clients and regulators, or as a result of a cyber-attack or similar vulnerability in our or business partners' infrastructure;
+&#8226;Our risk management framework, models and processes may not be effective in identifying or mitigating risk and reducing the potential for related losses, and a failure or circumvention of our controls and procedures, or errors or delays in our operational and transaction processing, or those of third parties, could have an adverse effect on our business, financial condition, operating results and reputation;
+&#8226;Shifting and maintaining operational activities to non-U.S. jurisdictions, changing our operating model, and outsourcing to, or insourcing from, third parties expose us to increased operational risk, geopolitical risk and reputational harm and may not result in expected cost savings or operational improvements;
+&#8226;Long-term contracts and customizing service delivery for clients expose us to increased operational risk, pricing and performance risk;
+&#8226;The quantitative models we use to manage our business may contain errors that could adversely impact our business, financial condition, operating results and regulatory
+compliance, and lapses in disclosure controls and procedures or internal control over financial reporting could occur, any of which could result in material harm;
+&#8226;We may not be able to protect our intellectual property or may infringe upon the rights of third parties;
+&#8226;Our reputation and business prospects may be damaged if investors in the collective investment pools we sponsor or manage incur substantial losses in these investment pools or are restricted in redeeming their interests in these investment pools;
+&#8226;The impacts of global regulatory requirements and expectations, shifting client preferences, and disclosure requirements related to climate risks and sustainability standards could adversely affect us; and
+&#8226;We may incur losses or face negative impacts on our business as a result of unforeseen events, including terrorist attacks, geopolitical events, acute or chronic physical risk events, including natural disasters, pandemics, global conflicts, or a banking crisis, which may have a negative impact on our business and operations.
+Actual outcomes and results may differ materially from what is expressed in our forward-looking statements and from our historical financial results due to the factors discussed in this section and elsewhere in this Form 10-Q or disclosed in our other SEC filings. Forward-looking statements in this Form 10-Q should not be relied on as representing our expectations or assumptions as of any time subsequent to the time this Form 10-Q is filed with the SEC. We undertake no obligation to revise our forward-looking statements after the time they are made. The factors discussed herein are not intended to be a complete statement of all risks and uncertainties that may affect our businesses. We cannot anticipate all developments that may adversely affect our business or operations or our consolidated results of operations, financial condition or cash flows.
+Forward-looking statements should not be viewed as predictions and should not be the primary basis on which investors evaluate State Street. Any investor in State Street should consider all risks and uncertainties disclosed in our SEC filings, including our filings under the Securities Exchange Act of 1934, in particular our annual reports on Form 10-K, our quarterly reports on Form 10-Q and our current reports on Form 8-K, and our registration statements filed under the Securities Act of 1933, all of which are accessible on the SEC's website at www.sec.gov or
+State Street Corporation | 7
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS
+on the "Filings & reports" and "Fixed income" tabs of our website at investors.statestreet.com.
+FINANCIAL RESULTS AND HIGHLIGHTS
+Summary of Financial Results
+TABLE 1: OVERVIEW OF FINANCIAL RESULTS |
+Three Months Ended June 30, | % Change |
+(Dollars in millions, except per share amounts) | 2026 | 2025 |
+Total fee revenue | $ | 3,188 | $ | 2,719 | 17 | % |
+Net interest income | 860 | 729 | 18 |
+Total revenue | 4,048 | 3,448 | 17 |
+Provision for credit losses | -- | 30 | nm |
+Total expenses | 2,659 | 2,529 | 5 |
+Income before income tax expense | 1,389 | 889 | 56 |
+Income tax expense | 305 | 196 | 56 |
+Net income | $ | 1,084 | $ | 693 | 56 |
+Adjustments to net income: |
+Dividends on preferred stock(1)
+$ | (58) | $ | (63) | 8 |
+Net income available to common shareholders | $ | 1,026 | $ | 630 | 63 |
+Earnings per common share: |
+Basic | $ | 3.71 | $ | 2.20 | 69 |
+Diluted | 3.65 | 2.17 | 68 |
+Average common shares outstanding (in thousands): |
+
+----- [line 996] -----
+Additional information with respect to the allowance for credit losses is provided in Note 4 to the consolidated financial statements in this Form 10-Q.
+State Street Corporation | 24
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS
+Risk Management
+In the normal course of our business activities, we are exposed to a variety of risks, some that are inherent in the financial services industry, and others that are more specific to our business activities. Our risk management framework focuses on material risks, which include the following:
+&#8226;credit and counterparty risk;
+&#8226;liquidity risk, including funding and management;
+&#8226;operational risk;
+&#8226;information technology risk and cybersecurity;
+&#8226;resiliency risk;
+&#8226;market risk associated with our trading activities;
+&#8226;market risk associated with our non-trading activities, referred to as asset and liability management, consisting primarily of interest rate risk;
+&#8226;model risk;
+&#8226;strategic risk; and
+&#8226;reputational, compliance, fiduciary and business conduct risk.
+Many of these risks, as well as certain factors underlying each of them, could affect our businesses and our consolidated financial statements, and are discussed in detail in "Risk Factors" included under Item 1A, Risk Factors, in our 2025 Form 10-K.
+For additional information about our risk management, including our risk appetite framework and risk governance committee structure, refer to "Risk Management" included under Item 7, Management's Discussion and Analysis of Financial Condition and Results of Operations, in our 2025 Form 10-K.
+Credit and Counterparty Risk Management
+We define credit risk as the risk of financial loss if a counterparty, borrower or obligor, is either unable or unwilling to repay borrowings or settle contractual transactions in accordance with underlying terms. Credit risk may occur in our business activities through traditional lending such as loans and standby letters of credit; in our investment securities portfolio; in direct or indemnified agency trading activities, such as foreign exchange, principal securities lending and indemnified agency securities lending; in our treasury operations through deposit placements and other cash balances held with central banks or private sector institutions; and in our custody business through overdrafts. Credit risk is also incurred in our day-to-day settlement operations.
+Allowance for Credit Losses
+We record an allowance for credit losses related to certain on-balance sheet credit exposures, including our financial assets held at amortized cost, as well as certain off-balance sheet credit exposures, including unfunded commitments and letters of credit. Review and evaluation of the adequacy of the allowance for credit losses is ongoing throughout the year, but occurs at least quarterly, and is based, among other factors, on our evaluation of the level of risk in the portfolio and the estimated effects of our forecasts on our counterparties. We utilize multiple economic scenarios, consisting of a baseline, upside and downside scenarios, to develop our forecast of expected losses.
+In the second quarter of 2026, the allowance reflected a reserve release associated with the sales and repayments of commercial loans, which were largely offset by higher provisions for certain commercial real estate loans. The allowance is inherently subject to uncertainties, including those inherent in our model and economic assumptions, and management may use qualitative adjustments. If future data and forecasts deviate relative to the forecasts utilized to determine our allowance for credit losses as of June 30, 2026, or if credit risk migration is higher or lower than forecasted for reasons independent of the economic forecast, our allowance for credit losses will also change.
+Additional information about the allowance for credit losses is provided in Notes 3 and 4 to the consolidated financial statements in this Form 10-Q.
+For additional information about our credit and counterparty risk management framework, including our core policies and principles, structure and organization, credit ratings, risk parameter estimates, credit risk mitigation, credit limits, reporting, monitoring and controls, refer to "Credit and Counterparty Risk Management" included under Item 7, Management's Discussion and Analysis of Financial Condition and Results of Operations, in our 2025 Form 10-K.
+Liquidity Risk Management
+Our liquidity framework contemplates areas of potential risk to our liquidity based on our activities, size and other appropriate risk-related factors. In managing liquidity risk, we employ limits, maintain established metrics and early warning indicators and perform routine liquidity stress testing to identify potential liquidity needs. This process involves the evaluation of a combination of internal and external scenarios which assist us in measuring our liquidity position and in identifying potential increases in cash needs or decreases in available sources of cash, as well as the potential impairment of our ability to access the global capital markets.
+State Street Corporation | 25
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS
+We manage our liquidity on a global, consolidated basis as well as on a stand-alone basis at the Parent Company and at certain branches and subsidiaries of State Street Bank. State Street Bank generally derives its liquidity from its customer deposit base, capital markets, wholesale funding and funding sources limited to banks, such as the federal funds market and the Federal Reserve's discount window. The Parent Company is managed to a more conservative liquidity profile, reflecting narrower market access. Additionally, the Parent Company typically holds, or has direct access to, primarily through a support agreement with SSIF, a direct subsidiary of the Parent Company, enough cash and equivalents intended to meet its current debt maturities and other cash needs, as well as those projected over the next 12-month period. Refer to our SPOE Strategy as discussed in "Recovery and Resolution Planning" included under Item 1, Business, in our 2025 Form 10-K. Absent financial distress at the Parent Company, the liquid assets available at SSIF continue to be available to the Parent Company. As of June 30, 2026, we and State Street Bank had approximately $3.95 billion of senior notes outstanding that will mature in the next 12 months.
+As a G-SIB, our liquidity risk management activities are subject to heightened and evolving regulatory requirements, including interpretations of those requirements, under specific U.S. and international regulations and also resulting from published and unpublished guidance, supervisory activities, such as stress tests, resolution planning, examinations and other regulatory interactions. Satisfaction of these requirements could, in some cases, result in changes in the composition of our investment portfolio, reduced NII or NIM, a reduction in the level of certain business activities or modifications to the way in which we deliver our products and services. If we fail to meet regulatory requirements to the satisfaction of our regulators, we could receive negative regulatory stress test results, incur a resolution plan deficiency or determination of a non-credible resolution plan or otherwise receive an adverse regulatory finding. Failure to satisfy these regulatory requirements could have a materially adverse effect on our business, financial condition or results of operations.
+The U.S. LCR rule ("LCR rule") requires certain large U.S. banking organizations, such as us and our bank subsidiaries, to maintain an amount of HQLA that is sufficient to meet their estimated total net cash outflows over a prospective 30 calendar-day period of significant stress. The LCR is calculated by dividing HQLA by estimated net outflows over the stress period determined by standardized stress outflow and inflow rate assumptions prescribed in the LCR rule.
+For the quarters ended June 30, 2026 and December 31, 2025, our average daily LCR was 107% and 106%, respectively. The average HQLA, post-prescribed haircuts was $111.55 billion for the quarter ended June 30, 2026 compared to $100.34 billion for the quarter ended December 31, 2025, primarily due to an increase in client deposits relative to the prior period.
+In addition, the U.S. NSFR Disclosure Rule requires certain large U.S. banking organizations, such as us and our bank subsidiaries, to maintain minimum amounts of available stable funding to support their required stable funding over a one-year time horizon. The NSFR is calculated by dividing the amount of available stable funding by the amount of required stable funding as prescribed by the rule. The minimum NSFR requirement is 100%. As of June 30, 2026, our NSFR was above the 100% minimum NSFR requirement.
+State Street Bank is also subject to minimum LCR and NSFR requirements. As of June 30, 2026, both the LCR and NSFR for State Street Bank exceeded the minimum requirements.
+For additional information on our liquidity risk management, as well as liquidity metrics, refer to "Liquidity Risk Management" included under Item 7, Management's Discussion and Analysis of Financial Condition and Results of Operations, in our 2025 Form 10-K. For additional information on our liquidity ratios, including LCR and NSFR, refer to "Liquidity Coverage Ratio and Net Stable Funding Ratio" included under Item 1, Business, in our 2025 Form 10-K.
+Asset Liquidity
+Central to the management of our liquidity is asset liquidity, which primarily consists of cash and securities.
+We maintained average cash balances in excess of regulatory requirements governing deposits with the Federal Reserve, the ECB and other non-U.S. central banks of approximately $99.45 billion for the quarter ended June 30, 2026, compared to $91.35 billion for the quarter ended December 31, 2025. The higher levels of average cash balances with central banks is a result of an increase in client deposits.
+Securities in our asset liquidity include securities pledged without corresponding advances from the Federal Reserve Bank of Boston, the FHLB, and other non-U.S. central banks. State Street Bank is a member of the FHLB. These arrangements allow for advances of liquidity in varying terms against high-quality collateral, which helps facilitate asset and liability management.
+State Street Corporation | 26
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS
+Access to primary, intraday and contingent liquidity provided by these utilities is an important source of contingent liquidity with utilization subject to underlying conditions.
+In addition to the investment securities included in our asset liquidity, we have other unencumbered investment securities and certain loans that we can pledge as collateral to access these various facilities. These additional assets are available sources of liquidity, although not as rapidly deployed as those already included in our asset liquidity.
+The average fair value of total unencumbered securities was $86.87 billion for the quarter ended June 30, 2026, compared to $82.79 billion for the quarter ended December 31, 2025.
+Uses of Liquidity
+Significant uses of our liquidity could result from the following: withdrawals of client deposits; draw-downs by our custody clients of lines of credit; advances to clients to settle securities transactions; increases in our investment and loan portfolios; or other permitted purposes. Such circumstances would generally arise under stress conditions, such as a deterioration in credit ratings or significant changes in FX rates. A recurring use of our liquidity involves our deployment of HQLA from our investment portfolio to post collateral to financial institutions and central banks to support various business activities.
+We had unfunded commitments to extend credit with gross contractual amounts totaling $35.96 billion and $35.70 billion and standby letters of credit totaling $0.46 billion and $0.57 billion as of June 30, 2026 and December 31, 2025, respectively. These amounts do not reflect the value of any collateral. As of June 30, 2026, approximately 69% of our unfunded commitments to extend credit and 19% of our standby letters of credit expire within one year. Since many of our commitments are expected to expire or renew without being drawn upon, the gross contractual amounts do not necessarily represent our future cash requirements.
+Recovery and Resolution Planning
+Under Section 165(d) of the Dodd-Frank Act, we are required to submit a resolution plan on a biennial basis jointly to the Federal Reserve and the FDIC (the Agencies). The purpose of our resolution plan is to describe our preferred resolution strategy and to demonstrate that we have the resources and capabilities to execute on that strategy in the event of major financial distress. Through resolution planning, we seek to maintain our role as a key service provider within the financial system, while minimizing risk to the financial system.
+The Agencies' final rule from 2019 requires U.S. G-SIBs to file a full resolution plan and a targeted
+resolution plan on an alternating basis in the relevant submission years. We submitted our targeted 165(d) resolution plan timely by July 1, 2025. Our next 165(d) resolution plan submission to the Agencies is a full resolution plan due by July 1, 2027.
+State Street Bank is also required to submit to the FDIC a plan for resolution in the event of its failure, referred to as an IDI plan. The FDIC's rule on IDI plans was revised and became effective on October 1, 2024. In accordance with the revised rule and subsequent public guidance, we submitted our most recent IDI plan by July 1, 2026. Our next IDI plan submission is currently due by July 1, 2028, although such timing (and the timing for further IDI plan submissions) is subject to change as a result of a recently published notice of proposed rulemaking relating to IDI plan submissions.
+Additionally, we are required to submit a recovery plan periodically to the Federal Reserve. This plan includes strategies designed to respond to stress factors at an early stage and stabilize and maintain operational continuity and market confidence.
+For additional information about our recovery and resolution plan, refer to "Recovery and Resolution Planning" included under Item 1, Business, in our 2025 Form 10-K.
+Funding
+Deposits
+We provide products and services including custody, accounting, administration, daily pricing, FX services, cash management, financial asset management, securities finance and investment advisory services. As a provider of these products and services, we generate client deposits, which have generally provided a stable and low-cost source of funds. As a global custodian, clients place deposits with our entities in various currencies. As of both June 30, 2026 and December 31, 2025, approximately 70% of our average total deposit balances were denominated in U.S. dollars, 15% in EUR, 5% in GBP and 10% in all other currencies.
+Short-Term Funding
+Our on-balance sheet liquid assets are also an integral component of our liquidity management strategy. These assets provide liquidity through maturities of the assets, but more importantly, they provide us with the ability to raise funds by pledging the securities as collateral for borrowings or through outright sales. In addition, our access to the global capital markets gives us the ability to source incremental funding from wholesale investors through relatively low-cost channels to further support business growth. As discussed earlier under "Asset Liquidity," State Street Bank's membership in the
+State Street Corporation | 27
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS
+FHLB allows for advances of liquidity with varying terms against high-quality collateral. We had $3.50 billion of outstanding FHLB funding as of both June 30, 2026 and December 31, 2025. These outstanding borrowings have initial maturities of approximately 12 months and are recorded in other short-term borrowings in the consolidated statement of condition.
+Short-term secured funding also comes in the form of securities lent or sold under agreements to repurchase. These transactions are short-term in nature, generally overnight and are collateralized by high-quality investment securities. These balances were $0.40 billion and $0.84 billion as of June 30, 2026 and December 31, 2025, respectively.
+Long-Term Funding
+We have the ability to issue debt and equity securities under our current universal shelf registration statement to meet current commitments and business needs.
+On April 24, 2026, we issued $800 million aggregate principal amount of 4.558% fixed-to-floating rate senior notes due 2032, and $700 million aggregate principal amount of 5.094% fixed-to-floating rate senior notes due 2037.
+On July 23, 2026, State Street Bank issued $750 million aggregate principal amount of 4.701% fixed-rate senior notes due 2029, and $500 million aggregate principal amount of 5.217% fixed-rate senior notes due 2034.
+Agency Credit Ratings
+
+----- [line 1085] -----
+Volatility in the global equity and fixed income markets driven by recent policy developments and heightened geopolitical tensions (including changes in trade policy in the United States and other nations and the ongoing conflicts in Ukraine and in the Middle East) may result in stress on the operating environment, increase operational risk, and heighten information technology risk exposures, including cyber-threats. See also "Information Technology Risk Management" below.
+For additional information about our operational risk framework, refer to "Operational Risk Management" included under Item 7, Management's Discussion and Analysis of Financial Condition and Results of Operations, in our 2025 Form 10-K.
+Information Technology Risk Management
+We define information technology risk as the risk associated with the use, ownership, operation and adoption of information technology. Information
+State Street Corporation | 28
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS
+technology risk includes risks potentially triggered by non-compliance with regulatory obligations or expectations, information security or cyber incidents, internal control and process gaps, operational events and adoption of new business technologies.
+The rapid advancement and increasing accessibility of frontier artificial intelligence models amplifies cybersecurity risks by enabling more sophisticated cyber-attacks, accelerating the discovery and exploitation of vulnerabilities, facilitating the creation of increasingly convincing social engineering and fraud schemes, and introducing novel security threats that could adversely affect our operations, customers, counterparties, reputation, financial condition, and results of operations.
+For additional information about our information technology risk framework and associated risks, refer to "Information Technology Risk Management" included under Item 7, Management's Discussion and Analysis of Financial Condition and Results of Operations, in our 2025 Form 10-K, and "Operational, Cyber and Technology Risks" included under Item 1A, Risk Factors, in our 2025 Form 10-K - "Any failures of or damage to, attack on or unauthorized access to our information technology systems or facilities or disruptions to our continuous operations, including the systems, facilities or operations of third parties with which we do business, such as resulting from cyber-attacks, could result in significant costs, and reputational damage and impact our ability to conduct our business activities."
+Market Risk Management
+Market risk is the risk of loss that could result from broad market movements, such as changes in the general level of interest rates, credit spreads, foreign exchange rates or commodity prices. We are exposed to market risk in both our trading and certain of our non-trading, or asset and liability management, activities.
+Information about market risk associated with our trading activities is provided below under "Trading Activities." Information about the market risk associated with our non-trading activities, which consists primarily of interest rate risk, is provided below under "Asset and Liability Management Activities."
+Trading Activities
+In the conduct of our trading activities, we assume market risk, the level of which is a function of our overall risk appetite, business objectives and liquidity needs, our clients' requirements and market volatility and our execution against those factors.
+As part of our trading activities, we assume positions in the foreign exchange and interest rate
+markets by buying and selling cash instruments and entering into derivative instruments, including foreign exchange forward contracts, foreign exchange options and interest rate swaps, interest rate forward contracts and interest rate futures. As of June 30, 2026, the notional amount of these derivative contracts was $3.47 trillion, of which $3.38 trillion was composed of foreign exchange forward, swap and spot contracts. We seek to match positions closely with the objective of mitigating related currency and interest rate risk. All foreign exchange contracts are valued daily at current market rates.
+For additional information about the market risk associated with our trading activities, refer to "Market Risk Management" included under Item 7, Management's Discussion and Analysis of Financial Condition and Results of Operations, in our 2025 Form 10-K.
+Value-at-Risk and Stressed VaR
+We use a variety of risk measurement tools and methodologies, including VaR, which is an estimate of potential loss for a given period within a stated statistical confidence interval. We use a risk measurement methodology to measure trading-related VaR daily. We have adopted standards for measuring trading-related VaR, and we maintain regulatory capital for market risk associated with our trading activities in conformity with currently applicable bank regulatory market risk requirements. Our regulatory VaR-based measure is calculated based on historical volatilities of market risk factors during a two-year observation period calibrated to a one-tail, 99% confidence interval and a ten-business-day holding period.
+We calculate a stressed VaR-based measure using the same model we use to calculate VaR, but with model inputs calibrated to historical data from a range of continuous 12-month periods that reflect significant financial stress. The stressed VaR model is designed to identify the second-worst outcome occurring in the worst continuous one-year rolling period since July 2007. This stressed VaR meets the regulatory requirement as the rolling ten-day period with an outcome that is worse than 99% of other outcomes during that 12-month period of financial stress. For each portfolio, the stress period is determined algorithmically by seeking the one-year time horizon that produces the largest ten-business-day VaR from within the available historical data. Our historical dataset encompasses multiple periods of significant market stress, including major global financial disruptions and episodes of heightened volatility across foreign exchange, credit, equity, and debt markets. As the historical data set used to determine the stress period expands over time, future market stress events will be incorporated.
+State Street Corporation | 29
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS
+For additional information about our VaR measurement tools and methodologies, refer to "Value-at-Risk and Stressed VaR" included under Item 7, Management's Discussion and Analysis of Financial Condition and Results of Operations, in our 2025 Form 10-K.
+Stress Testing
+We have a corporate-wide stress testing program in place that incorporates techniques to measure the potential loss we could suffer in a hypothetical scenario of adverse economic and financial conditions. We also monitor concentrations of risk such as concentration by branch, risk component, and currency pairs. We conduct stress testing on a daily basis based on selected historical stress events that are relevant to our positions in order to estimate the potential impact to our current portfolio should similar market conditions recur, and we also perform stress testing as part of the Dodd-Frank Act Stress Test (DFAST) process. Stress testing is conducted, analyzed and reported at the corporate, trading desk, division and risk-factor level (for example, exchange risk, interest rate risk and volatility risk).
+Stress testing results and limits are actively monitored on a daily basis by Independent Risk Management (IRM) and reported to the Trading and Markets Risk Committee (TMRC). Limit breaches are addressed by IRM risk managers in conjunction with the business units, escalated as appropriate, and reviewed by the TMRC. In addition, we have established several action triggers that prompt review by management and the implementation of a remediation plan.
+Validation and Back-Testing
+We perform frequent back-testing to assess the accuracy of our VaR-based model in estimating loss at the stated confidence level. This back-testing involves the comparison of estimated VaR model outputs to daily, actual profit-and-loss (P&L) outcomes observed from daily market movements. We back-test our VaR model using "clean" P&L, which excludes non-trading revenue such as fees, commissions and NII, as well as estimated revenue from intraday trading.
+Our VaR definition of trading losses excludes items that are not specific to the price movement of the trading assets and liabilities themselves, such as fees, commissions, changes to reserves and gains or losses from intraday activity.
+We experienced one back-testing exception in the quarter ended June 30, 2026, compared to no back-testing exceptions in the quarters ended March 31, 2026 and June 30, 2025. At a 99% confidence interval, the statistical expectation for a VaR model is to witness one exception every hundred trading days (or two to three exceptions per year).
+The following tables present VaR and stressed VaR associated with our trading activities for covered positions held during the quarters ended June 30, 2026, March 31, 2026 and June 30, 2025, respectively, as measured by our VaR methodology. Diversification effect in the tables below represents the difference between total VaR and the sum of the VaRs for each trading activity. This effect arises because the risks present in our trading activities are not perfectly correlated.
+State Street Corporation | 30
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS
+TABLE 23: TEN-DAY VALUE-AT-RISK ASSOCIATED WITH TRADING ACTIVITIES FOR COVERED POSITIONS |
+Three Months Ended | As of June 30, 2026 | As of March 31, 2026 | As of June 30, 2025 |
+June 30, 2026 | March 31, 2026 | June 30, 2025 |
+(In thousands) | Avg.
+Max.
+Min.
+Avg.
+Max.
+Min.
+Avg.
+Max.
+Min.
+VaR
+VaR
+VaR
+State Street Markets | $ | 8,315 | $ | 15,092 | $ | 4,753 | $ | 6,632 | $ | 16,230 | $ | 4,298 | $ | 6,256 | $ | 9,700 | $ | 4,100 | $ | 7,547 | $ | 6,359 | $ | 4,100 |
+Global Treasury | 3,777 | 6,127 | 3,415 | 4,198 | 11,574 | 3,476 | 2,688 | 5,416 | 571 | 3,539 | 3,543 | 3,448 |
+Diversification | (2,901) | (5,080) | (2,499) | (2,787) | (10,131) | (3,198) | (2,247) | (5,387) | (101) | (3,201) | (2,809) | (2,577) |
+Total VaR | $ | 9,191 | $ | 16,139 | $ | 5,669 | $ | 8,043 | $ | 17,673 | $ | 4,576 | $ | 6,697 | $ | 9,729 | $ | 4,570 | $ | 7,885 | $ | 7,093 | $ | 4,971 |
+TABLE 24: TEN-DAY STRESSED VALUE-AT-RISK ASSOCIATED WITH TRADING ACTIVITIES FOR COVERED POSITIONS |
+Three Months Ended | As of June 30, 2026 | As of March 31, 2026 | As of June 30, 2025 |
+June 30, 2026 | March 31, 2026 | June 30, 2025 |
+(In thousands) | Avg.
+Max.
+Min.
+Avg.
+Max.
+Min.
+Avg.
+Max.
+Min.
+VaR
+VaR
+VaR
+State Street Markets | $ | 63,719 | $ | 81,151 | $ | 44,623 | $ | 49,344 | $ | 72,557 | $ | 28,139 | $ | 45,081 | $ | 94,077 | $ | 22,994 | $ | 63,811 | $ | 52,434 | $ | 38,163 |
+Global Treasury | 13,851 | 26,864 | 10,354 | 13,103 | 40,876 | 9,895 | 10,520 | 15,811 | 5,363 | 14,133 | 12,366 | 14,002 |
+Diversification | (12,773) | (24,754) | (10,825) | (12,076) | (41,824) | (11,333) | (9,857) | (12,500) | (7,081) | (1,722) | (14,241) | (11,261) |
+Total Stressed VaR | $ | 64,797 | $ | 83,261 | $ | 44,152 | $ | 50,371 | $ | 71,609 | $ | 26,701 | $ | 45,744 | $ | 97,388 | $ | 21,276 | $ | 76,222 | $ | 50,559 | $ | 40,904 |
+The three month average of our total stressed VaR-based measure was approximately $65 million for the quarter ended June 30, 2026, compared to an average of approximately $50 million for the quarter ended March 31, 2026 and $46 million for the quarter ended June 30, 2025. The increase in average total stressed VaR for the quarter ended June 30, 2026, compared to both of the quarters ended March 31, 2026 and June 30, 2025, was primarily attributed to interest rate risk, with a smaller variability observed in daily stressed VaR outcomes.
+The VaR-based measures as presented in the preceding tables are primarily a reflection of the overall level of market volatility and our appetite for taking market risk in our trading activities.
+We have in the past and may in the future modify and adjust our models and methodologies used to calculate VaR and stressed VaR, subject to regulatory review and approval, and any future modifications and adjustments may result in changes in our VaR-based and stressed VaR-based measures.
+The following tables present the VaR and stressed-VaR associated with our trading activities attributable to foreign exchange risk, interest rate risk and volatility risk as of June 30, 2026, March 31, 2026 and June 30, 2025, respectively. Diversification effect in the tables below represents the difference between total VaR and the sum of the VaRs for each trading activity. This effect arises because the risks present in our trading activities are not perfectly correlated.
+TABLE 25: TEN-DAY VaR ASSOCIATED WITH TRADING ACTIVITIES BY RISK FACTOR(1)
+June 30, 2026 | March 31, 2026 | June 30, 2025 |
+(In thousands)
+Foreign Exchange Risk
+Interest Rate Risk
+Volatility Risk | Foreign Exchange Risk
+Interest Rate Risk
+Volatility Risk | Foreign Exchange Risk | Interest Rate Risk | Volatility Risk |
+By component:
+State Street Markets | $ | 6,130 | $ | 6,727 | $ | 573 | $ | 6,182 | $ | 4,416 | $ | 395 | $ | 2,230 | $ | 4,689 | $ | 345 |
+Global Treasury
+3,261 | 1,308 | -- | 3,334 | 1,222 | -- | 3,346 | 870 | -- |
+Diversification
+(1,152) | (1,288) | -- | (2,221) | (1,343) | -- | (2,737) | (892) | -- |
+Total VaR
+$ | 8,239 | $ | 6,747 | $ | 573 | $ | 7,295 | $ | 4,295 | $ | 395 | $ | 2,839 | $ | 4,667 | $ | 345 |
+TABLE 26: TEN-DAY STRESSED VaR ASSOCIATED WITH TRADING ACTIVITIES BY RISK FACTOR(1)
+June 30, 2026 | March 31, 2026 | June 30, 2025 |
+(In thousands)
+Foreign Exchange Risk
+Interest Rate Risk
+Volatility Risk | Foreign Exchange Risk
+Interest Rate Risk
+Volatility Risk | Foreign Exchange Risk
+Interest Rate Risk
+Volatility Risk |
+By component:
+State Street Markets | $ | 10,597 | $ | 95,816 | $ | 1,218 | $ | 6,998 | $ | 62,783 | $ | 739 | $ | 5,425 | $ | 38,025 | $ | 706 |
+Global Treasury
+14,643 | 6,181 | -- | 12,780 | 3,593 | -- | 13,969 | 4,158 | -- |
+Diversification
+(10,784) | (8,754) | -- | (10,480) | (3,059) | -- | (7,068) | (3,789) | -- |
+Total Stressed VaR
+$ | 14,456 | $ | 93,243 | $ | 1,218 | $ | 9,298 | $ | 63,317 | $ | 739 | $ | 12,326 | $ | 38,394 | $ | 706 |
+(1) For purposes of risk attribution by component, foreign exchange refers only to the risk from market movements in period-end rates. Forwards, futures, options and swaps with maturities greater than period-end have embedded interest rate risk that is captured by the measures used for interest rate risk. Accordingly, the interest rate risk embedded in these foreign exchange instruments is included in the interest rate risk component.
+State Street Corporation | 31
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS
+Asset and Liability Management Activities
+The primary objective of asset and liability management is to provide sustainable NII under varying economic conditions, while protecting the economic value of the assets and liabilities carried on our consolidated statement of condition from the adverse effects of changes in interest rates. While many market factors affect the level of NII and the economic value of our assets and liabilities, one of the most significant factors is our exposure to movements in interest rates. Most of our NII is earned from the investment of client deposits generated by our businesses. We invest these client deposits in assets that conform generally to the liquidity characteristics of our balance sheet liabilities, as well as the currency composition of our significant non-U.S. dollar denominated client deposits.
+We quantify NII sensitivity using an earnings simulation model that includes our expectations for new business growth, changes in balance sheet mix and investment portfolio positioning. This measure compares our baseline view of NII over a 12-month horizon, based on our internal forecast of interest rates, to a wide range of rate shocks. Our baseline view of NII is updated on a regular basis. Table 27, Key Interest Rates for Baseline Forecasts, presents the spot and 12-month forward rates used in our baseline forecasts at June 30, 2026 and 2025. Our baseline rate forecast as of June 30, 2026 was broadly consistent with market expectations for global central bank rate actions at that point in time.
+TABLE 27: KEY INTEREST RATES FOR BASELINE FORECASTS |
+June 30, 2026 | June 30, 2025 |
+Fed Funds Target | ECB Target(1)
+10-Year Treasury | Fed Funds Target | ECB Target(1)
+10-Year Treasury |
+Spot rates | 3.75 | % | 2.25 | % | 4.47 | % | 4.50 | % | 2.00 | % | 4.23 | % |
+12-month forward rates | 3.75 | 2.50 | 4.61 | 3.75 | 1.75 | 4.53 |
+(1) European Central Bank deposit facility rate.
+In Table 28: Net Interest Income Sensitivity, we report the expected change in NII over the next 12 months from instantaneous 100 basis point shocks to various tenors on the yield curve relative to our baseline rate forecast, including the impacts from U.S. and non-U.S. rates. Each scenario assumes no management action is taken to mitigate the adverse effects of changes in interest rates on our financial performance. While investment securities balances and composition can fluctuate with the level of rates as prepayment assumptions change, for purposes of this analysis our deposit balances and mix are assumed to remain consistent with the baseline forecast. The results of these scenarios should not be extrapolated for other (e.g., more severe) shocks as the impact of interest rate shocks may not be linear. In lower rate scenarios, the full impact of the shock is realized for all currencies even if the result is negative interest rates.
+TABLE 28: NET INTEREST INCOME SENSITIVITY |
+June 30, 2026 | June 30, 2025 |
+(In millions) | U.S. Dollar | All Other Currencies | Total | U.S. Dollar | All Other Currencies | Total |
+Rate change: | Benefit (Exposure) | Benefit (Exposure) |
+Parallel shifts: |
++100 bps shock | $ | 78 | $ | 298 | $ | 376 | $ | 71 | $ | 267 | $ | 338 |
+-100 bps shock | (77) | (291) | (368) | (69) | (248) | (317) |
+Steeper yield curve: |
++100 bps shift in long-end rates(1)
+15 | 15 | 30 | 15 | 14 | 29 |
+-100 bps shift in short-end rates(1)
+(61) | (276) | (337) | (53) | (234) | (287) |
+Flatter yield curve: |
++100 bps shift in short-end rates(1)
+60 | 283 | 343 | 54 | 253 | 307 |
+-100 bps shift in long-end rates(1)
+(22) | (15) | (37) | (19) | (14) | (33) |
+(1) The short-end is 0-3 months. The long-end is 5 years and above. Interim term points are interpolated.
+Our overall balance sheet, including all currencies, continues to be asset sensitive with an NII benefit in higher rate scenarios and NII exposure in lower rate scenarios, primarily driven by our sensitivities on the short-end of the yield curve. Compared to June 30, 2025, our balance sheet's NII asset sensitivity has increased, primarily due to higher USD and non-USD client deposit balances and lower fixed-rate investment portfolio balances.
+For additional information about our Asset and Liability Management Activities, refer to Management's Discussion and Analysis of Financial Condition and Results of Operations, "Risk Management".
+State Street Corporation | 32
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS
+Model Risk Management
+The use of models is widespread throughout the financial services industry, with large and complex organizations relying on sophisticated models to support numerous aspects of their financial decision making. The models contemporaneously represent both a significant advancement in financial management and a source of risk. In large banking organizations like ours, model results influence business decisions, and model failure could have a harmful effect on our financial performance. As a result, the Model Risk Management Framework seeks to mitigate our model risk.
+For additional information about our model risk management framework, including our governance and model validation, refer to "Model Risk Management" under Item 7, Management's Discussion and Analysis of Financial Condition and Results of Operations, in our 2025 Form 10-K.
+Strategic Risk Management
+We define strategic risk as the risk to current or projected financial condition and resilience arising from adverse business decisions, poor implementation of business decisions or lack of responsiveness to changes in the industry and operating environments. Strategic risks are influenced by changes in the competitive environment; decline in market performance or changes in our business activities; as well as by the potential secondary impacts of reputational risks, not already captured as market, interest rate, credit, operational, model or liquidity risks. We incorporate strategic risk into our assessment of our business plans and risk and capital management processes. Management of strategic risk is an integral component of all aspects of our business.
+Strategic risk is managed with a long-term focus including through oversight of the strategic plan by executive management and the Board, as well as oversight for material transformation and change initiatives, including new business and product proposals. The potential impacts of strategic risk are difficult to quantify, but we assess these through the lens of historical earnings volatility, scenario analysis and stress-testing, and management judgment, among others. Management and control of strategic risks are generally the responsibility of the business units, with oversight from the control functions, as part of their overall strategic planning and internal risk management processes.
+Capital
+Managing our capital involves evaluating whether our actual and projected levels of capital are commensurate with our risk profile, are in compliance with all applicable regulatory requirements and are
+sufficient to provide us with the financial flexibility to undertake future strategic business initiatives. We assess capital adequacy based on relevant regulatory capital requirements, as well as our own internal capital goals, targets and other relevant metrics.
+Our designation as a G-SIB is based on a number of factors, as prescribed by banking regulators, and requires us to maintain an additional capital surcharge above the minimum capital ratios set forth in the Basel III final rule. As discussed below, following our adoption of the modified eSLR standards on January 1, 2026, we are subject to a 0.5% SLR buffer at both the holding company and at State Street Bank, in addition to the required minimum of 3.0% under the Basel III final rule. If we fail to exceed any regulatory buffer or surcharge, we will be subject to increased restrictions (depending upon the extent of the shortfall) regarding capital distributions and discretionary executive bonus payments.
+Not all of our competitors have similarly been designated as systemically important nor are all of them subject to the same degree of regulation as a bank or financial holding company, and therefore some of our competitors may not be subject to the same capital, liquidity and other regulatory requirements.
+For additional information about our capital, refer to "Capital" under Item 7, Management's Discussion and Analysis of Financial Condition and Results of Operations, in our 2025 Form 10-K.
+Regulatory Capital
+We and State Street Bank are subject to the U.S. Basel III framework. We are also subject to the final market risk capital rule issued by the U.S. Agencies.
+The Basel III rule provides two frameworks for monitoring capital adequacy: the "standardized approach" and the "advanced approaches", applicable to advanced approaches banking organizations, like us. The standardized approach prescribes standardized calculations for credit risk RWA, including specified risk weights for on and certain off-balance sheet exposures. The advanced approaches consist of the Advanced Internal Ratings-Based Approach used for the calculation of credit risk RWA, and the Advanced Measurement Approach used for the calculation of operational risk RWA.
+As required by the Dodd-Frank Act enacted in 2010, we and State Street Bank, as advanced approaches banking organizations, are subject to a "capital floor," also referred to as the Collins Amendment, in the assessment of our regulatory capital adequacy, such that our risk-based capital ratios for regulatory assessment purposes are the lower of each ratio calculated under the advanced
+State Street Corporation | 33
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS
+approaches and the standardized approach. Under the advanced approaches, we and State Street Bank are subject to a 2.5% CCB requirement, plus any applicable countercyclical capital buffer requirement, which is currently set at 0%. Under the standardized approach, State Street Bank is subject to the same CCB and countercyclical capital buffer requirements, but for State Street, the 2.5% CCB requirement is replaced by the SCB requirement according to the SCB final rule issued in 2020. In addition, State Street is subject to a G-SIB surcharge.
+The SCB replaced, under the standardized approach, the CCB with a buffer calculated as the difference between the institution's starting and lowest projected CET1 ratios under the DFAST severely adverse scenario plus planned common stock dividend payments (as a percentage of RWA) from the fourth through seventh quarter of the DFAST planning horizon. The SCB requirement can be no less than 2.5% of RWA. Breaching the SCB or other regulatory buffer or surcharge will limit a banking organization's ability to make capital distributions and discretionary bonus payments to executive officers.
+Our SCB requirement remains at 2.5% for the period from October 1, 2025, through September 30, 2026, based on the results of the 2025 supervisory stress test. Additionally, in February 2026 the Federal Reserve Board voted to maintain the current SCB requirements until September 30, 2027.
+Our current G-SIB surcharge is 1.0% and based upon calculations using data as of December 31, 2025, our surcharge will remain at 1.0% through December 31, 2027.
+Our minimum risk-based capital ratios as of January 1, 2026 include a CCB of 2.5% and a SCB of 2.5% for the advanced approaches and standardized approach, respectively, a G-SIB surcharge of 1.0%, and a countercyclical buffer of 0.0%. This results in minimum risk-based ratios of 8.0% for the common equity tier 1 (CET1) capital ratio, 9.5% for the tier 1 capital ratio, and 11.5% for the total capital ratio.
+To maintain the status of the Parent Company as a financial holding company, we and our IDI subsidiaries are required, among other requirements, to be "well capitalized" as defined by Regulation Y and Regulation H.
+The market risk capital rule requires us to use internal models to calculate daily measures of VaR, which reflect general market risk for certain of our trading positions defined by the rule as "covered positions," as well as stressed-VaR measures to supplement the VaR measures. The rule also requires a public disclosure composed of qualitative and quantitative information about the market risk associated with our trading activities and our related VaR and stressed-VaR measures. The qualitative and
+quantitative information required by the rule is provided under "Market Risk Management" included in this Management's Discussion and Analysis.
+In April 2025, the Federal Reserve issued a proposed rule to reduce volatility in the SCB requirement, primarily through the averaging of the decline in a firm's CET1 capital over a two-year horizon (current and prior year). The proposal would also extend the annual effective date of each firm's SCB requirement by one quarter, from October 1 to January 1. The proposal was intended to be effective as of the 2025 stress testing cycle, but has yet to be finalized. We do not expect the proposal to materially impact our SCB requirement, which is currently at the 2.5% floor.
+On November 25, 2025, the U.S. Agencies jointly adopted a final rule (eSLR Final Rule) amending the calibration of the eSLR for U.S. G-SIBs and their IDI subsidiaries. The final rule was effective April 1, 2026, with the option for firms to adopt the modified standards early, effective January 1, 2026. We adopted the modified standards effective January 1, 2026. The final rule replaces the prior eSLR buffer of 2% at the holding company and 3% at State Street Bank (for State Street Bank to be considered "well capitalized"), with an eSLR buffer for both bank holding companies and IDI subsidiaries calibrated at 50% of a G-SIB's Method 1 capital surcharge, with the buffer for IDI subsidiaries capped at 1% (and no longer part of the definition of "well capitalized"). Conforming changes were also made to the TLAC and LTD requirements.
+The eSLR Final Rule has not materially impacted our total leverage-based capital, which already benefits from the custody bank exemption for central bank placements in the SLR denominator pursuant to Section 402 of the Economic Growth Act (January 2020). Changes to the TLAC and LTD requirement have limited implications for us, and are not expected to change our management of TLAC or LTD.
+State Street Corporation | 34
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS
+In March 2026, the U.S. Agencies issued two proposed rules to revise the U.S. regulatory capital framework for large banks. The first proposed rule would, among other things, remove the existing standardized and advanced approaches methodologies and replace them with a single expanded risk-based approach that includes new standardized calculations for credit risk, operational risk, market risk, and credit valuation adjustment risk (ERBA Proposal). The second proposed rule would, among other things, recalibrate the coefficients in the Method 2 G-SIB surcharge to reflect the economy and other recent changes in the financial system, adjust the weighting of the short-term wholesale funding systemic indicator, and "reduce cliff effects" of the G-SIB surcharge by replacing the existing 0.5% capital increments with increments of 0.1% (G-SIB Surcharge Proposal). The comment period for each proposal ended on June 18, 2026. Based on our preliminary assessment, we currently expect the proposed changes to be beneficial to our overall RWA; however, any estimate of the potential impact of the ERBA Proposal and the G-SIB Surcharge Proposal is subject to uncertainty, as actual results may differ materially from our preliminary estimates and by potential changes to each Proposal, when adopted in final form. In addition, anticipated results may be affected by a range of factors, including business performance, future capital actions, the results of future supervisory stress tests and supervisory interpretations (including changes in interpretations). No timeline for final implementation has been disclosed.
+For additional information about our regulatory capital, refer to "Regulatory Capital" included under Item 7, Management's Discussion and Analysis of Financial Condition and Results of Operations, in our 2025 Form 10-K.
+The following table presents the regulatory capital structure and related regulatory capital ratios for us and State Street Bank as of the dates indicated. We are subject to the more stringent of the risk-based capital ratios calculated under the standardized approach and those calculated under the advanced approaches in the assessment of our capital adequacy under applicable bank regulatory standards.
+State Street Corporation | 35
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS
+TABLE 29: REGULATORY CAPITAL STRUCTURE AND RELATED REGULATORY CAPITAL RATIOS |
+State Street Corporation | State Street Bank |
+(Dollars in millions) | Basel III Advanced Approaches June 30, 2026 | Basel III Standardized Approach June 30, 2026 | Basel III Advanced Approaches December 31, 2025 | Basel III Standardized Approach December 31, 2025 | Basel III Advanced Approaches June 30, 2026 | Basel III Standardized Approach June 30, 2026 | Basel III Advanced Approaches December 31, 2025 | Basel III Standardized Approach December 31, 2025 |
+Common shareholders' equity: |
+Common stock and related surplus | $ | 11,214 | $ | 11,214 | $ | 11,209 | $ | 11,209 | $ | 13,333 | $ | 13,333 | $ | 13,333 | $ | 13,333 |
+Retained earnings | 32,660 | 32,660 | 31,392 | 31,392 | 16,773 | 16,773 | 16,401 | 16,401 |
+Accumulated other comprehensive income (loss) | (1,178) | (1,178) | (1,043) | (1,043) | (934) | (934) | (815) | (815) |
+Treasury stock, at cost | (17,987) | (17,987) | (17,276) | (17,276) | -- | -- | -- | -- |
+Total | 24,709 | 24,709 | 24,282 | 24,282 | 29,172 | 29,172 | 28,919 | 28,919 |
+Regulatory capital adjustments: |
+Goodwill and other intangible assets, net of associated deferred tax liabilities | (8,764) | (8,764) | (8,921) | (8,921) | (8,168) | (8,168) | (8,342) | (8,342) |
+Other adjustments(1)
+(520) | (520) | (549) | (549) | (381) | (381) | (419) | (419) |
+Common equity tier 1 capital | 15,425 | 15,425 | 14,812 | 14,812 | 20,623 | 20,623 | 20,158 | 20,158 |
+Preferred stock | 3,559 | 3,559 | 3,559 | 3,559 | -- | -- | -- | -- |
+Tier 1 capital | 18,984 | 18,984 | 18,371 | 18,371 | 20,623 | 20,623 | 20,158 | 20,158 |
+
+----- [line 3325] -----
+FX | Foreign exchange | USD | U.S. Dollar |
+GAAP | Generally accepted accounting principles | VaR | Value-at-Risk |
+GBP | British Pound Sterling |
+(1) As defined by the applicable U.S. regulations.
+State Street Corporation | 85
+GLOSSARY |
+Asset-backed securities: A financial security backed by collateralized assets, other than real estate or mortgage backed securities.
+Assets under custody and/or administration: Assets that we hold directly or indirectly on behalf of clients under a safekeeping or custody arrangement or for which we provide administrative services for clients. To the extent that we provide more than one AUC/A service (including back and middle office services) for a client's assets, the value of the asset is only counted once in the total amount of AUC/A.
+Assets under management: The total market value of client assets for which we provide investment management strategy services, advisory services and/or distribution services generating management fees based on a percentage of the assets' market values. These client assets are not included on our balance sheet. Assets under management include managed assets lost but not liquidated. Lost business occurs from time to time and it is difficult to predict the timing of client behavior in transitioning these assets as the timing can vary significantly.
+Certificates of deposit (CD): A savings certificate with a fixed maturity date, specified fixed interest rate and can be issued in any denomination aside from minimum investment requirements. A CD restricts access to the funds until the maturity date of the investment.
+Collateralized loan obligations: A loan or security backed by a pool of debt, primarily senior secured leveraged loans. Collateralized loan obligations are similar to collateralized mortgage obligations, except for the different type of underlying loan. With a collateralized loan obligation, the investor receives scheduled loan or debt payments from the underlying loans, assuming most of the risk in the event borrowers default, but is offered greater diversity and the potential for higher-than-average returns.
+Commercial real estate (CRE): Property intended to generate profit from capital gains or rental income. CRE loans are term loans secured by commercial and multifamily properties. We seek CRE loans with strong competitive positions in major domestic markets, stable cash flows, modest leverage and experienced institutional ownership.
+Deposit beta: A measure of how much of an interest rate increase is expected to be passed on to client interest-bearing accounts, on average.
+Doubtful: Doubtful loans meet the same definition of substandard loans (i.e., well-defined weaknesses that jeopardize repayment with the possibility that we will sustain some loss) with the added characteristic that the weaknesses make collection or liquidation in full highly questionable and improbable.
+Economic value of equity: A measure designed to estimate the fair value of assets, liabilities and off-balance sheet instruments based on a discounted cash flow model.
+Exchange-Traded Fund: A type of exchange-traded investment product that offers investors a way to pool their money in a fund that makes investments in stocks, bonds, or other assets and, in return, to receive an interest in that investment pool. ETF shares are traded on a national stock exchange and at market prices that may or may not be the same as the net asset value.
+Exposure-at-default: A measure used in the calculation of regulatory capital under Basel III final rule. It can be defined as the expected amount of loss a bank may be exposed to upon default of an obligor.
+Fee operating leverage: Represents the difference between the percentage change in total fee revenue and the percentage change in total expenses, in each case relative to the same period of the prior year.
+Global systemically important bank: A financial institution whose distress or disorderly failure, because of its size, complexity and systemic interconnectedness, would cause significant disruption to the wider financial system and economic activity, which will be subject to additional capital requirements.
+Held-to-maturity investment securities: We classify investments in debt securities as held-to-maturity only if we have the positive intent and ability to hold those securities to maturity. Investments in debt securities classified as held-to-maturity are measured subsequently at amortized cost in the statement of financial position.
+High-quality liquid assets: Cash or assets that can be converted into cash at little or no loss of value in private markets and are considered unencumbered.
+Investment grade: A rating of loans to counterparties with strong credit quality and low expected credit risk and probability of default. It applies to counterparties with a strong capacity to support the timely repayment of any financial commitment.
+Liquidity coverage ratio: The ratio of high-quality liquid assets divided by expected total net cash outflows over a 30-day stress period. A Basel III framework requirement for banks and bank holding companies to measure liquidity, it is designed to ensure that certain banking institutions, including us, maintain a minimum amount of unencumbered HQLA sufficient to withstand the net cash outflow under a hypothetical standardized acute liquidity stress scenario for a 30-day stress period.
+Net asset value: The amount of net assets attributable to each share/unit of the fund at a specific date or time.
+Net stable funding ratio: The ratio of the amount of available stable funding relative to the amount of required stable funding. This ratio should be equal to at least 100% on an ongoing basis.
+Operating leverage: Represents the difference between the percentage change in total revenue and the percentage change in total expenses, in each case relative to the same period of the prior year.
+Probability of default: A measure of the likelihood that a credit obligor will enter into default status.
+Qualified financial contracts: Securities contracts, commodity contracts, forward contracts, repurchase agreements, swap agreements and any other contract determined by the FDIC to be a qualified financial contract.
+Risk-weighted assets: A measurement used to quantify risk inherent in our on and off-balance sheet assets by adjusting the asset value for risk. RWA is used in the calculation of our risk-based capital ratios.
+Software and data revenue: Includes SaaS, maintenance and support revenue, FIX, brokerage, and value-add services.
+Special mention: Loans that consist of counterparties with potential weaknesses that, if uncorrected, may result in deterioration of repayment prospects.
+Sub-investment grade (previously referred to as Speculative): Loans that consist of counterparties that face ongoing uncertainties or exposure to business, financial, or economic downturns. However, these counterparties may have financial flexibility or access to financial alternatives, which allow for financial commitments to be met.
+Substandard: Loans that consist of counterparties with well-defined weakness that jeopardizes repayment with the possibility we will sustain some loss.
+Supplementary leverage ratio: The ratio of our tier 1 capital to our total leverage exposure, which measures our capital adequacy relative to our on and off-balance sheet assets.
+Total loss-absorbing capacity: The sum of our tier 1 regulatory capital plus eligible external long-term debt issued by us.
+Value-at-Risk: Statistical model used to measure the potential loss in value of a portfolio that could occur in normal market conditions, over a defined holding period, within a certain confidence level.
+Variable interest entity: An entity that: (1) lacks enough equity investment at risk to permit the entity to finance its activities without additional financial support from other parties; (2) has equity owners that lack the right to make significant decisions affecting the entity's operations; and/or (3) has equity owners that do not have an obligation to absorb or the right to receive the entity's losses or return.
+State Street Corporation | 86
+PART II. OTHER INFORMATION
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+On January 19, 2024, we announced a common share repurchase program, approved by the Board and superseding all prior programs, authorizing the purchase of up to $5.0 billion of our common stock beginning in the first quarter of 2024. We repurchased $400 million of our common stock in the second quarter of 2026 under our 2024 share repurchase authorization.
+The following table presents the activity under our common share repurchase program for each of the months in the quarter ended June 30, 2026.
+(Dollars in millions except per share amounts; shares in thousands) | Total number of shares purchased | Average price paid per share | Total number of shares purchased as part of publicly announced program | Approximate dollar value of shares that may yet be purchased under publicly announced program |
+Period: |
+April 1 - April 30, 2026 | 266 | $ | 151.98 | 266 | $ | 2,060 |
+May 1 - May 31, 2026 | 962 | 153.71 | 962 | 1,912 |
+June 1 - June 30, 2026 | 1,278 | 165.68 | 1,278 | 1,700 |
+Total | 2,506 | $ | 159.63 | 2,506 | $ | 1,700 |
+Stock purchases under our common share repurchase program may be made using various types of transactions, including open market purchases, accelerated share repurchases or other transactions off the market, and may be made under Rule 10b5-1 trading programs. The timing and amount of any stock purchases and the type of transaction may not be ratable over the duration of the program, may vary from reporting period to reporting period and will depend on several factors, including our capital position and our financial performance, investment opportunities, market conditions, the nature and timing of implementation of revisions to the Basel III framework and the amount of common stock issued as part of employee compensation programs. The common share repurchase program does not have specific price targets and may be suspended at any time.
+ITEM 5. OTHER INFORMATION
+Securities Trading Plans of Directors and Executive Officers
+A significant portion of the compensation of our executive officers is delivered in the form of deferred equity awards, including deferred stock and performance-based restricted stock unit awards. This compensation design is intended to align executive compensation with the performance experienced by our shareholders. Following the delivery of shares of our common stock under those equity awards, once any applicable service-, time- or performance-based vesting standards have been satisfied, our executive officers from time to time engage in the open-market sale of some of those shares. Our executive officers may also engage from time to time in other transactions involving our securities.
+Transactions in our securities by our executive officers are required to be made in accordance with our Securities Trading Policy, which, among other things, requires that the transactions be in accordance with applicable U.S. federal securities laws that prohibit trading while in possession of material nonpublic information. Rule 10b5-1 under the Exchange Act provides an affirmative defense that enables prearranged transactions in securities in a manner that avoids concerns about initiating transactions at a future date while possibly in possession of material nonpublic information. Our Securities Trading Policy permits our executive officers to enter into trading plans designed to comply with Rule 10b5-1.
+During the second quarter of 2026, none of our executive officers or directors adopted or terminated a Rule 10b5-1 trading plan or adopted or terminated a non-Rule 10b5-1 trading arrangement (as defined in Item 408(c) of Regulation S-K).
+State Street Corporation | 87
+ITEM 6. EXHIBITS
+Exhibit No. | Exhibit Description |
+Note: None of the instruments defining the rights of holders of State Street's outstanding long-term debt are in respect of indebtedness in excess of 10% of the total assets of State Street and its subsidiaries on a consolidated basis. State Street hereby agrees to furnish to the SEC upon request a copy of any other instrument with respect to long-term debt of State Street and its subsidiaries. |
+10.1&#8224;
+Employment Letter Agreement entered into with Moulay Mostapha Tahiri dated May 18, 2026
+15
+Acknowledgment Letter of Ernst & Young LLP, Independent Registered Public Accounting Firm
+31.1
+Rule 13a-14(a)/15d-14(a) Certification of Chairman, Chief Executive Officer and President
+31.2
+Rule 13a-14(a)/15d-14(a) Certification of Executive Vice President and Chief Financial Officer
+32
+Section 1350 Certifications
+101.INS | The instance document does not appear in the interactive data file because its XBRL tags are embedded within the inline XBRL document |
+* | 101.SCH | Inline XBRL Taxonomy Extension Schema Document |
+* | 101.CAL | Inline XBRL Taxonomy Calculation Linkbase Document |
+* | 101.DEF | Inline XBRL Taxonomy Extension Definition Linkbase Document |
+* | 101.LAB | Inline XBRL Taxonomy Label Linkbase Document |
+* | 101.PRE | Inline XBRL Taxonomy Presentation Linkbase Document |

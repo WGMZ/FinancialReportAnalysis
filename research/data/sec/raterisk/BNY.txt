@@ -1,0 +1,574 @@
+# BNY 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/1390777/000139077726000086/bk-20260630.htm
+# full_doc_chars=506949
+
+
+----- [line 63] -----
+Review of business segments
+11
+Critical accounting estimates
+20
+Consolidated balance sheet review
+20
+Liquidity and dividends
+29
+Capital
+33
+Trading activities and risk management
+37
+Asset/liability management
+39
+Supplemental information - Explanation of GAAP and Non-GAAP financial measures
+41
+Recent accounting and regulatory developments
+44
+Website information
+45
+Item 1. Financial Statements: |
+Consolidated Income Statement (unaudited)
+46
+Consolidated Comprehensive Income Statement (unaudited)
+47
+Consolidated Balance Sheet (unaudited)
+48
+Consolidated Statement of Cash Flows (unaudited)
+49
+Consolidated Statement of Changes in Equity (unaudited)
+50
+Page |
+Notes to Consolidated Financial Statements: |
+Note 1--Basis of presentation
+51
+Note 2--Investment securities
+51
+Note 3--Loans and asset quality
+55
+Note 4--Goodwill and intangible assets
+61
+Note 5--Other assets
+63
+Note 6--Contract revenue
+64
+Note 7--Net interest income
+66
+Note 8--Employee benefit plans
+67
+Note 9--Variable interest entities
+67
+Note 10--Preferred stock
+68
+Note 11--Other comprehensive income (loss)
+70
+Note 12--Fair value measurement
+71
+Note 13--Fair value option
+76
+Note 14--Derivative instruments
+76
+Note 15--Commitments and contingent liabilities
+83
+Note 16--Business segments
+89
+Note 17--Supplemental information to the Consolidated Statement of Cash Flows
+92
+Item 4. Controls and Procedures
+93
+Forward-looking Statements
+94
+Part II - Other Information |
+
+----- [line 1070] -----
+Interest-bearing deposits with the Federal Reserve and other central banks | 139,400 | 116,009 | 89,954 | 99,426 | 93,898 | 92,769 |
+Interest-bearing deposits with banks | 12,276 | 10,397 | 12,657 | 11,199 | 12,355 | 10,644 |
+Federal funds sold and securities purchased under resale agreements | 48,937 | 44,892 | 45,056 | 39,522 | 43,958 | 40,340 |
+Total available funds | $ | 208,096 | $ | 176,409 | $ | 153,791 | $ | 155,189 | $ | 156,186 | $ | 148,636 |
+Total available funds as a percentage of total assets | 40 | % | 37 | % | 33 | % | 35 | % | 34 | % | 35 | % |
+Total available funds were $208.1 billion at June 30, 2026, compared with $176.4 billion at Dec. 31, 2025. The increase was primarily due to higher interest-bearing deposits with the Federal Reserve and other central banks.
+Average non-core sources of funds, such as federal funds purchased and securities sold under repurchase agreements, trading liabilities, commercial paper and other borrowed funds, were $28.7 billion for the first six months of 2026, compared with $22.2 billion for the first six months of 2025. The increase primarily reflects higher federal funds purchased and securities sold under repurchase agreements.
+Average interest-bearing domestic deposits were $159.0 billion for the first six months of 2026, compared with $145.3 billion for the first six months of 2025. Average interest-bearing foreign deposits, primarily from our European-based businesses included in the Securities Services and Market and Wealth Services segments, were $102.3 billion for the first six months of 2026, compared with $97.3 billion for the first six months of 2025. The changes primarily reflect client activity.
+Average payables to customers and broker-dealers were $17.8 billion for the first six months of 2026
+and $15.3 billion for the first six months of 2025. Payables to customers and broker-dealers are driven by customer trading activity and market volatility.
+Average long-term debt was $31.8 billion for the first six months of 2026 and $31.5 billion for the first six months of 2025.
+Average noninterest-bearing deposits increased to $54.9 billion for the first six months of 2026 from $48.9 billion for the first six months of 2025, primarily reflecting client activity.
+A significant reduction of client activity in our Securities Services and Market and Wealth Services business segments would reduce our access to deposits. See "Asset/liability management" for additional factors that could impact our deposit balances.
+Sources of liquidity
+The Parent's major sources of liquidity are access to the debt and equity markets, dividends from its subsidiaries, and cash on hand and cash otherwise made available in business-as-usual circumstances to the Parent through a committed credit facility with our intermediate holding company ("IHC").
+30 BNY
+Our ability to access the capital markets on favorable terms, or at all, is partially dependent on our credit ratings, which are as follows:
+Credit ratings at June 30, 2026
+Moody's | S&P | Fitch | Morningstar
+DBRS |
+Parent: |
+Long-term senior debt | Aa3 | A | AA- | AA |
+Subordinated debt | A2 | A- | A | AA (low) |
+Preferred stock | Baa1 | BBB | BBB+ | A |
+Outlook - Parent | Stable | Stable | Stable | Stable |
+The Bank of New York Mellon: |
+Long-term senior debt | Aa2 | AA- | AA+ | AA (high) |
+Subordinated debt | NR | A | NR | NR |
+Long-term deposits | Aa1 | AA- | AA+ | AA (high) |
+Short-term deposits | P-1 | A-1+ | F1+ | R-1 (high) |
+Commercial paper | P-1 | A-1+ | F1+ | R-1 (high) |
+BNY Mellon, N.A.: |
+Long-term senior debt | Aa2 | (a) | AA- | AA+ | (a) | AA (high) |
+Long-term deposits | Aa1 | AA- | AA+ | AA (high) |
+Short-term deposits | P-1 | A-1+ | F1+ | R-1 (high) |
+Outlook - Banks | Stable | Stable | Stable | Stable |
+(a) Represents senior debt issuer default rating.
+NR - Not rated.
+Long-term debt totaled $30.4 billion at June 30, 2026 and $31.9 billion at Dec. 31, 2025. Maturities and redemptions of $4.2 billion and a decrease in the fair value of hedged long-term debt were partially offset by issuances of $3.1 billion. Long-term debt of $1.3 billion will mature in the remainder of 2026.
+In June 2026, the Parent redeemed all outstanding shares of its Series H Noncumulative Perpetual Preferred Stock.
+In July 2026, the Parent issued 500,000 depositary shares, each representing a 1/100th interest in a share of the Parent's Series N Noncumulative Perpetual Preferred Stock. Dividends will accrue at an annual rate of 6.150% to, but excluding, Sept. 20, 2031, and then at a floating rate equal to the five-year Treasury rate plus 1.868%. Holders of the Series N preferred stock are entitled to receive dividends, if declared by the Parent's Board of Directors, on March 20, June 20, September 20 and December 20 of each year, commencing Dec. 20, 2026.
+The Bank of New York Mellon may issue notes and certificates of deposit ("CDs"). At June 30, 2026 and Dec. 31, 2025, $1.3 billion and $2.5 billion of notes were outstanding, respectively. At June 30, 2026 and Dec. 31, 2025, $3.5 billion and $4.9 billion, respectively, of CDs were outstanding.
+The Bank of New York Mellon also issues commercial paper that matures within 397 days from the date of issue and is not redeemable prior to maturity or subject to voluntary prepayment. Commercial paper outstanding was $4.8 billion and $2.0 billion at June 30, 2026 and Dec. 31, 2025, respectively. The average commercial paper outstanding was $1.9 billion for both the first six months of 2026 and the first six months of 2025.
+Restrictions on our ability to obtain funds from our subsidiaries are discussed in more detail in "Supervision and Regulation - Capital Planning and Stress Testing - Payment of Dividends, Stock Repurchases and Other Capital Distributions" and in Note 18 of the Notes to Consolidated Financial Statements, both in our 2025 Annual Report. At June 30, 2026, nonbank subsidiaries of the Parent had liquid assets of approximately $4.4 billion.
+Pershing LLC has one uncommitted line of credit in place for funding purposes that is guaranteed by the Parent for $300 million. There were no borrowings under this line in the second quarter of 2026. Pershing Limited, an indirect UK-based subsidiary of BNY, has one line of credit amounting to $150 million, and Pershing Securities Limited, whose parent is Pershing Limited, has one line of credit amounting to $100 million. Both of these lines are
+BNY 31
+guaranteed by the Parent. Average borrowings across these lines were less than $1 million in the second quarter of 2026.
+The double leverage ratio is the ratio of our equity investment in subsidiaries divided by our consolidated Parent company equity, which includes our noncumulative perpetual preferred stock. In short, the double leverage ratio measures the extent to which equity in subsidiaries is financed by Parent company debt. As the double leverage ratio increases, this can reflect greater demands on a company's cash flows in order to service interest payments and debt maturities. BNY's double leverage ratio is managed in a range considering the high level of unencumbered available liquid assets held in its principal subsidiaries (such as central bank deposit placements and government securities), the Company's cash generating fee-based business model, with fee revenue representing 71% of total revenue in the second quarter of 2026, and the dividend capacity of our banking subsidiaries. Our double leverage ratio was 117.7% at June 30, 2026 and 118.6% at Dec. 31, 2025, and was within the range targeted by management.
+Uses of funds
+The Parent's major uses of funds are repurchases of common stock, payment of dividends, principal and interest payments on its borrowings, acquisitions and additional investments in its subsidiaries.
+In May 2026, a quarterly dividend of $0.53 per common share was paid to common shareholders. Our common stock dividend payout ratio was 22% for the second quarter of 2026.
+In July 2026, our Board of Directors approved a 19% increase in the quarterly cash dividend on our common stock, from $0.53 to $0.63 per share. The increased quarterly cash dividend is expected to be paid on Aug. 7, 2026.
+In the second quarter of 2026, we repurchased 8.0 million common shares at an average price of $137.62 per common share, for a total cost of $1.1 billion.
+Liquidity coverage ratio ("LCR")
+U.S. regulators have established an LCR that requires certain banking organizations, including BNY, to
+maintain a minimum amount of unencumbered high-quality liquid assets ("HQLA") sufficient to withstand the net cash outflow under a hypothetical standardized acute liquidity stress scenario for a 30-day time horizon.
+The following table presents BNY's consolidated HQLA, and the average HQLA and average LCR.
+Consolidated HQLA and LCR | June 30, 2026 | March 31, 2026 |
+(dollars in billions) |
+Cash (a)
+$ | 138 | $ | 169 |
+Securities (b)
+113 | 115 |
+Total consolidated HQLA (c)
+$ | 251 | $ | 284 |
+Total consolidated HQLA - average (c)
+$ | 198 | $ | 212 |
+Average consolidated LCR | 111 | % | 111 | % |
+(a) Primarily includes cash on deposit with central banks.
+(b) Primarily includes securities of U.S. government-sponsored enterprises, the U.S. Treasury, sovereigns and U.S. agencies.
+(c) Consolidated HQLA presented before adjustments. After haircuts and the impact of trapped liquidity, consolidated HQLA totaled $186 billion at June 30, 2026 and $223 billion at March 31, 2026, and averaged $142 billion for the second quarter of 2026 and $150 billion for the first quarter of 2026.
+BNY and each of our affected domestic bank subsidiaries were compliant with the U.S. LCR requirements of at least 100% throughout the second quarter of 2026.
+Net stable funding ratio ("NSFR")
+The NSFR is a liquidity requirement applicable to large U.S. banking organizations, including BNY. The NSFR is expressed as a ratio of the available stable funding to the required stable funding amount over a one-year horizon. Our average consolidated NSFR was 130% for the second quarter of 2026 and 131% for the first quarter of 2026.
+BNY and each of our affected domestic bank subsidiaries were compliant with the NSFR requirement of at least 100% throughout the second quarter of 2026.
+Statement of cash flows
+The following summarizes the activity reflected on the consolidated statement of cash flows. While this information may be helpful to highlight certain macro trends and business strategies, the cash flow analysis may not be as relevant when analyzing changes in our net earnings and net assets. We believe that, in
+32 BNY
+addition to the traditional cash flow analysis, the discussion related to liquidity and dividends and asset/liability management herein may provide more useful context in evaluating our liquidity position and related activity.
+Net cash used for operating activities was $551 million in the six months ended June 30, 2026, compared with net cash provided by operating activities of $2.6 billion in the six months ended June 30, 2025. In the six months ended June 30, 2026, cash flows used for operating activities primarily resulted from changes in trading assets and liabilities and changes in accruals and other, net, partially offset by earnings. In the six months ended June 30, 2025, cash flows provided by operating activities primarily resulted from earnings and changes in trading assets and liabilities, partially offset by changes in accruals and other, net.
+Net cash used for investing activities was $45.5 billion in the six months ended June 30, 2026, compared with $54.6 billion in the six months ended
+June 30, 2025. In the six months ended June 30, 2026, net cash used for investing activities primarily resulted from changes in interest-bearing deposits with the Federal Reserve and other central banks, loans and investment securities. In the six months ended June 30, 2025, net cash used for investing activities primarily resulted from changes in interest-bearing deposits with the Federal Reserve and other central banks, investment securities and federal funds sold and securities purchased under resale agreements.
+Net cash provided by financing activities was $49.5 billion in the six months ended June 30, 2026, compared with $54.4 billion in the six months ended June 30, 2025. In the six months ended June 30, 2026, net cash provided by financing activities primarily resulted from changes in deposits and changes in federal funds purchased and securities sold under repurchase agreements. In the six months ended June 30, 2025, net cash provided by financing activities primarily resulted from changes in deposits.
+Capital
+Capital data | June 30, 2026 | Dec. 31, 2025 |
+(dollars in millions, except per share amounts; common shares in thousands) |
+BNY shareholders' equity to total assets ratio | 8.5 | % | 9.4 | % |
+BNY common shareholders' equity to total assets ratio | 7.6 | % | 8.4 | % |
+Total BNY shareholders' equity | $ | 44,664 | $ | 44,313 |
+Total BNY common shareholders' equity | $ | 39,910 | $ | 39,477 |
+BNY tangible common shareholders' equity - Non-GAAP (a)
+$ | 22,263 | $ | 21,777 |
+Book value per common share | $ | 58.82 | $ | 57.36 |
+Tangible book value per common share - Non-GAAP (a)
+$ | 32.81 | $ | 31.64 |
+Closing stock price per common share | $ | 144.61 | $ | 116.09 |
+Market capitalization | $ | 98,118 | $ | 79,897 |
+Common shares outstanding | 678,504 | 688,236 |
+Quarterly: |
+Cash dividends per common share | $ | 0.53 | $ | 0.53 |
+Common dividend payout ratio | 22 | % | 26 | % |
+Common dividend yield (annualized)
+1.5 | % | 1.8 | % |
+(a) See "Supplemental information - Explanation of GAAP and Non-GAAP financial measures" beginning on page 41 for a reconciliation of GAAP to Non-GAAP measures.
+The Bank of New York Mellon Corporation total shareholders' equity was $44.7 billion at June 30, 2026 and $44.3 billion at Dec. 31, 2025. The increase primarily reflects capital generated through earnings, partially offset by capital returned through common stock repurchases and dividends.
+In April 2024, we announced a share repurchase authorization providing for the repurchase of $6.0
+billion of common shares. At March 31, 2026, the maximum amount yet to be purchased under this authorization was $814 million. In April 2026, we announced a new share repurchase authorization providing for the repurchase of $10.0 billion of common shares in addition to any remaining capacity under the existing April 2024 authorization. In the first six months of 2026, we repurchased 16.3 million
+BNY 33
+common shares at an average price of $128.20 per common share for a total cost of $2.1 billion.
+The unrealized loss (after-tax) on our available-for-sale securities portfolio, net of hedges, included in accumulated other comprehensive income was $532 million at June 30, 2026, compared with $241 million at Dec. 31, 2025. The increase in the net unrealized loss, including the impact of hedges, primarily reflects the impact of higher interest rates.
+In June 2026, the Parent redeemed all outstanding shares of its Series H preferred stock.
+In March 2026, the Parent issued 500,000 depositary shares, each representing a 1/100th interest in a share of the Parent's Series M Noncumulative Perpetual Preferred Stock. Holders of the Series M preferred stock are entitled to receive dividends, if declared by the Parent's Board of Directors, on March 20, June 20, September 20 and December 20 of each year, commencing June 20, 2026. See Note 10 of the Notes to Consolidated Financial Statements for additional information on the Parent's preferred stock.
+In July 2026, the Parent issued 500,000 depositary shares, each representing a 1/100th interest in a share of the Parent's Series N Noncumulative Perpetual Preferred Stock. Holders of the Series N preferred stock are entitled to receive dividends, if declared by the Parent's Board of Directors, on March 20, June 20, September 20 and December 20 of each year, commencing Dec. 20, 2026.
+Capital adequacy
+Regulators establish certain levels of capital for bank holding companies ("BHCs") and banks, including BNY and our bank subsidiaries, in accordance with established quantitative measurements. For the Parent to maintain its status as a financial holding company, our U.S. bank subsidiaries and BNY must, among other things, qualify as "well capitalized." As of June 30, 2026 and Dec. 31, 2025, BNY and our U.S. bank subsidiaries were "well capitalized."
+Failure to satisfy regulatory standards, including "well capitalized" status or capital adequacy rules more generally, could result in limitations on our activities and adversely affect our financial condition. See the discussion of these matters in "Supervision and Regulation - Regulated Entities of BNY and Ancillary Regulatory Requirements" and "Risk Factors - Capital and Liquidity Risk - Failure to satisfy regulatory standards, including "well capitalized" and "well managed" status or capital adequacy and liquidity rules more generally, could result in limitations on our activities and adversely affect our business and financial condition," both of which are in our 2025 Annual Report.
+The U.S. banking agencies' capital rules are based on the framework adopted by the Basel Committee on Banking Supervision ("BCBS"), as amended from time to time. For additional information on these capital requirements, see "Supervision and Regulation" in our 2025 Annual Report.
+34 BNY
+The table below presents our consolidated and largest bank subsidiary regulatory capital ratios.
+Consolidated and largest bank subsidiary regulatory capital ratios
+June 30, 2026 | Dec. 31, 2025 |
+Well capitalized | Minimum required | Capital
+ratios | Capital
+ratios |
+(a) |
+Consolidated regulatory capital ratios: (b)
+Advanced Approaches: |
+CET1 ratio | N/A | (c) | 8.5 | % | 12.4 | % | 13.0 | % |
+Tier 1 capital ratio | 6 | % | 10 | 15.1 | 16.0 |
+Total capital ratio | 10 | 12 | 15.8 | 16.7 |
+Standardized Approach: |
+CET1 ratio | N/A | (c) | 8.5 | % | 11.0 | % | 11.9 | % |
+Tier 1 capital ratio | 6 | % | 10 | 13.4 | 14.6 |
+Total capital ratio | 10 | 12 | 14.2 | 15.4 |
+Tier 1 leverage ratio | N/A | (c) | 4 | 5.9 | 6.0 |
+SLR (d)
+N/A | (c) | 3.5 | 6.3 | 6.7 |
+The Bank of New York Mellon regulatory capital ratios: (b)(e)
+
+----- [line 1394] -----
+Foreign exchange | 3.1 | 1.7 | 5.2 |
+Equity | 0.2 | -- | 1.6 |
+Credit | 1.4 | 0.9 | 2.4 |
+Diversification | (5.6) | N/M | N/M |
+Overall portfolio | 2.1 | 1.3 | 4.5 |
+(a) VaR exposure does not include the impact of the Company's consolidated investment management funds and seed capital investments.
+N/M - Because the minimum and maximum may occur on different days for different risk components, it is not meaningful to compute a minimum and maximum portfolio diversification effect.
+The interest rate component of VaR represents instruments whose values are predominantly driven by interest rate levels. These instruments include, but are not limited to, U.S. Treasury securities, swaps, swaptions, forward rate agreements, exchange-traded futures and options, and other interest rate derivative products.
+The foreign exchange component of VaR represents instruments whose values predominantly vary with the level or volatility of currency exchange rates or interest rates. These instruments include, but are not limited to, currency balances, spot and forward transactions, currency options and other currency derivative products.
+The equity component of VaR consists of instruments that represent an ownership interest in the form of domestic and foreign common stock or other equity-linked instruments. These instruments include, but are not limited to, common stock, exchange-traded funds, preferred stock, listed equity options (puts and calls), OTC equity options, equity total return swaps, equity index futures and other equity derivative products.
+The credit component of VaR represents instruments whose values are predominantly driven by credit spread levels, i.e., idiosyncratic default risk. These instruments include, but are not limited to, single issuer credit default swaps, and securities with exposures from corporate and municipal credit spreads.
+The diversification component of VaR is the risk reduction benefit that occurs when combining portfolios and offsetting positions, and from the correlated behavior of risk factor movements.
+During the second quarter of 2026, interest rate risk generated 47% of average gross VaR, foreign exchange risk generated 50% of average gross VaR, credit risk generated 3% of average gross VaR and equity risk generated less than 1% of average gross VaR. During the second quarter of 2026, our daily trading loss did not exceed our calculated VaR amount of the overall portfolio.
+The following table of total daily trading revenue or loss illustrates the number of trading days in which our trading revenue or loss fell within particular ranges during the past five quarters. The shift in the number of trading days when trading revenue was
+38 BNY
+more than $5 million and between $2.5 and $5.0 million decreased compared with the first quarter of 2026 primarily reflecting lower results on seed capital hedges.
+Distribution of trading revenue (loss) (a)
+Quarter ended |
+(dollars in millions) | June 30, 2026 | March 31, 2026 | Dec. 31, 2025 | Sept. 30, 2025 | June 30, 2025 |
+Revenue range: | Number of days |
+Less than $(2.5) | -- | -- | -- | -- | 1 |
+$(2.5) - $0 | -- | 1 | -- | 2 | 2 |
+$0 - $2.5 | 10 | 6 | 16 | 15 | 10 |
+$2.5 - $5.0 | 30 | 22 | 32 | 31 | 28 |
+More than $5.0 | 23 | 32 | 16 | 16 | 22 |
+(a) Trading revenue (loss) includes realized and unrealized gains and losses primarily related to spot and forward foreign exchange transactions, derivatives and securities trades for our customers and excludes any associated commissions, underwriting fees and net interest income.
+Trading assets include debt and equity instruments and derivative assets, primarily foreign exchange and interest rate contracts, not designated as hedging instruments. Trading assets were $16.8 billion at June 30, 2026 and $14.3 billion at Dec. 31, 2025.
+Trading liabilities include debt and equity instruments and derivative liabilities, primarily foreign exchange and interest rate contracts, not designated as hedging instruments. Trading liabilities were $5.3 billion at June 30, 2026 and $6.1 billion at Dec. 31, 2025.
+Under our fair value methodology for derivative contracts, an initial "risk-neutral" valuation is performed on each position assuming time discounting based on a AA credit curve. In addition, we consider credit risk in arriving at the fair value of our derivatives.
+We reflect external credit ratings as well as observable credit default swap spreads for both ourselves and our counterparties when measuring the fair value of our derivative positions. Accordingly, the valuation of our derivative positions is sensitive to the current changes in our own credit spreads, as well as those of our counterparties.
+At June 30, 2026, our OTC derivative assets, including those in hedging relationships, of $3.5 billion included a credit valuation adjustment ("CVA") deduction of $6 million. Our OTC derivative liabilities, including those in hedging relationships, of $2.7 billion included a debit valuation adjustment ("DVA") of $6 million related
+to our own credit spread. Net of hedges, the CVA increased by $1 million and the DVA increased by $2 million in the second quarter of 2026, which decreased investment and other revenue - other trading revenue by $1 million. The net impact of the CVA and DVA, net of hedges, decreased investment and other revenue - other trading revenue by less than $1 million in the second quarter of 2025.
+The table below summarizes our exposure, net of collateral related to our derivative counterparties, as determined on an internal risk management basis. Significant changes in counterparty credit ratings could alter the level of credit risk faced by BNY.
+Foreign exchange and other trading counterparty risk-rating profile
+June 30, 2026 | Dec. 31, 2025 |
+(dollars in millions) | Exposure, net of collateral | Percentage of exposure, net of collateral | Exposure, net of collateral | Percentage of exposure, net of collateral |
+Investment grade | $ | 2,885 | 98 | % | $ | 1,078 | 95 | % |
+Non-investment grade | 64 | 2 | % | 62 | 5 | % |
+Total | $ | 2,949 | 100 | % | $ | 1,140 | 100 | % |
+Asset/liability management
+Our diversified business activities include processing securities, accepting deposits, investing in securities, lending, raising money as needed to fund assets and other transactions. The market risks from these activities include interest rate risk and foreign exchange risk. Our primary market risk is exposure to movements in U.S. dollar interest rates and certain foreign currency interest rates. We actively manage interest rate sensitivity and use earnings simulation and discounted cash flow models to identify interest rate exposures.
+An earnings simulation model is the primary tool used to assess changes in pre-tax net interest income between a baseline scenario and hypothetical interest rate scenarios. Interest rate sensitivity is quantified by calculating the change in pre-tax net interest income between the scenarios over a 12-month measurement period.
+The baseline scenario incorporates the market's forward rate expectations and management's assumptions regarding client deposit rates, credit spreads, changes in the prepayment behavior of loans and securities and the impact of derivative financial
+BNY 39
+instruments used for interest rate risk management purposes as of each respective quarter-end. These assumptions have been developed through a combination of historical analysis and future expected pricing behavior and are inherently uncertain. Actual results may differ materially from projected results due to timing, magnitude and frequency of interest rate changes, and changes in market conditions and management's strategies, among other factors. Client deposit levels and mix are key assumptions impacting net interest income in the baseline as well as the hypothetical interest rate scenarios. The earnings simulation model assumes static deposit levels and mix, and it also assumes that no management actions will be taken to mitigate the effects of interest rate changes. Typically, the baseline scenario uses the average deposit balances of the quarter.
+In the table below, we use the earnings simulation model to assess the impact of various hypothetical interest rate scenarios compared to the baseline scenario. In each of the scenarios, all currencies' interest rates are instantaneously shifted higher or lower at the start of the forecast. Long-term interest rates are defined as all tenors equal to or greater than three years and short-term interest rates are defined as all tenors equal to or less than three months. Interim term points are interpolated where applicable. The impact of interest rate shifts may not be linear. The results of this earnings simulation should therefore not be extrapolated for more severe interest rate scenarios than those presented in the table below.
+The following table shows net interest income sensitivity for BNY.
+Estimated changes in net interest income
+(in millions)
+June 30, 2026 | March 31, 2026 | June 30, 2025 |
+Up 200 bps rate shock vs. baseline
+$ | (110) | $ | 7 | $ | 106 |
+Up 100 bps rate shock vs. baseline
+(16) | 46 | 94 |
+Long-term up 100 bps, short-term unchanged
+113 | 107 | 98 |
+Short-term up 100 bps, long-term unchanged
+(129) | (61) | (4) |
+Long-term down 100 bps, short-term unchanged
+(119) | (115) | (103) |
+Short-term down 100 bps, long-term unchanged
+38 | (13) | (79) |
+Down 100 bps rate shock vs. baseline
+(81) | (128) | (182) |
+Down 200 bps rate shock vs. baseline
+(247) | (333) | (419) |
+At June 30, 2026, the impacts of a 100 and 200 basis points upward or downward shift in rates on net interest income compared with March 31, 2026 and June 30, 2025, are more balanced overall, reflecting changes in balance sheet composition and interest rate positioning.
+While the net interest income sensitivity scenario calculations assume static deposit balances to facilitate consistent period-over-period comparisons, net interest income is impacted by changes in deposit balances and interest rate trajectory. Noninterest-bearing deposits are particularly sensitive to changes in short-term rates.
+To illustrate the net interest income sensitivity to noninterest-bearing deposits, we estimate that a $5 billion instantaneous reduction/increase in U.S. dollar-denominated noninterest-bearing deposits would reduce/increase the net interest income sensitivity results in the up 100 basis point rate shock scenario in the table above by approximately $250 million, and in the down 100 basis point rate shock scenario by approximately $150 million. The impact would be smaller if the reduction/increase was assumed to be a mixture of interest-bearing and noninterest-bearing deposits.
+Additionally, during periods of low short-term interest rates, money market mutual fund fees and other similar fees are typically waived to protect investors from negative returns.
+For a discussion of factors impacting the growth or contraction of deposits, see "Risk Factors - Capital and Liquidity Risk - Our business, financial condition and results of operations could be adversely affected if we do not effectively manage our liquidity" in our 2025 Annual Report.
+40 BNY
+Supplemental information - Explanation of GAAP and Non-GAAP financial measures
+BNY has included in this Form 10-Q certain Non-GAAP financial measures on a tangible basis as a supplement to GAAP information, which exclude goodwill and intangible assets, net of deferred tax liabilities. We believe that the return on tangible common shareholders' equity - Non-GAAP is additional useful information for investors because it presents a measure of those assets that can generate income, and the tangible book value per common share - Non-GAAP is additional useful information because it presents the level of tangible assets in relation to shares of common stock outstanding.
+BNY has included revenue measures, excluding notable items, including a disposal gain. Expense measures, excluding notable items, including severance expense, litigation reserves and the FDIC special assessment are also presented. Litigation reserves represent accruals for loss contingencies that are both probable and reasonably estimable, but exclude standard business-related legal fees. Income
+before taxes, net income applicable to common shareholders of The Bank of New York Mellon Corporation, diluted earnings per share, return on common shareholders' equity, return on tangible common shareholders' equity and pre-tax operating margin, excluding the notable items mentioned above, are also provided. These measures are provided to permit investors to view the financial measures on a basis consistent with how management views the businesses.
+The presentation of the growth rates of investment management and performance fees on a constant currency basis permits investors to assess the significance of changes in foreign currency exchange rates. Growth rates on a constant currency basis were determined by applying the current period foreign currency exchange rates to the prior period revenue. We believe that this presentation, as a supplement to GAAP information, gives investors a clearer picture of the related revenue results without the variability caused by fluctuations in foreign currency exchange rates.
+Reconciliation of Non-GAAP measures, excluding notable items | % |
+(dollars in millions, except per share amounts) | 2Q26 | 2Q25 | change |
+Total revenue - GAAP | $ | 5,698 | $ | 5,028 | 13 | % |
+Total noninterest expense - GAAP | $ | 3,439 | $ | 3,206 | 7 | % |
+Less: Severance expense (a)
+6 | 34 |
+Litigation reserves (a)
+2 | (16) |
+FDIC special assessment (a)
+-- | (6) |
+Adjusted total noninterest expense - Non-GAAP | $ | 3,431 | $ | 3,194 | 7 | % |
+Net income applicable to common shareholders of The Bank of New York Mellon
+Corporation - GAAP
+$ | 1,696 | $ | 1,391 | 22 | % |
+Less: Severance expense (a)
+(5) | (27) |
+Litigation reserves (a)
+(2) | 16 |
+FDIC special assessment (a)
+-- | 5 |
+Adjusted net income applicable to common shareholders of The Bank of New York Mellon Corporation - Non-GAAP | $ | 1,703 | $ | 1,397 | 22 | % |
+Diluted earnings per common share - GAAP | $ | 2.45 | $ | 1.93 | 27 | % |
+Less: Severance expense (a)
+(0.01) | (0.04) |
+Litigation reserves (a)
+-- | 0.02 |
+FDIC special assessment (a)
+-- | 0.01 |
+Total diluted earnings per common share impact of notable items | (0.01) | (0.01) |
+Adjusted diluted earnings per common share - Non-GAAP | $ | 2.46 | $ | 1.94 | 27 | % |
+(a) Severance expense is reflected in staff expense, litigation reserves in other expense, and FDIC special assessment in bank assessment charges, respectively.
+BNY 41
+The following table presents the reconciliation of the pre-tax operating margin.
+Pre-tax operating margin reconciliation |
+(dollars in millions) | 2Q26 | 1Q26 | 2Q25 | YTD26 | YTD25 |
+Income before taxes - GAAP | $ | 2,267 | $ | 2,016 | $ | 1,839 | $ | 4,283 | $ | 3,361 |
+Impact of notable items (a)
+(8) | (14) | (12) | (22) | (12) |
+Adjusted income before taxes, excluding notable items - Non-GAAP | $ | 2,275 | $ | 2,030 | $ | 1,851 | $ | 4,305 | $ | 3,373 |
+Total revenue - GAAP | $ | 5,698 | $ | 5,409 | $ | 5,028 | $ | 11,107 | $ | 9,820 |
+Impact of notable items (a)
+-- | -- | -- | -- | 40 |
+Adjusted total revenue, excluding notable items - Non-GAAP | $ | 5,698 | $ | 5,409 | $ | 5,028 | $ | 11,107 | $ | 9,780 |
+Pre-tax operating margin - GAAP (b)
+39.8 | % | 37.3 | % | 36.6 | % | 38.6 | % | 34.2 | % |
+Adjusted pre-tax operating margin - Non-GAAP (b)
+39.9 | % | 37.5 | % | 36.8 | % | 38.8 | % | 34.5 | % |
+(a) See page 41 for details of notable items and line items impacted. Notable items in the first quarter of 2026 include severance expense, litigation reserves and an adjustment for the FDIC special assessment. Notable items in the first six months of 2025 include a disposal gain (reflected in investment and other revenue), severance expense, litigation reserves and adjustments for the FDIC special assessment.
+(b) Income before taxes divided by total revenue.
+The following table presents the reconciliation of the return on common shareholders' equity and tangible common shareholders' equity.
+Return on common shareholders' equity and tangible common shareholders' equity reconciliation | 2Q26 | 1Q26 | 2Q25 | YTD26 | YTD25 |
+
+----- [line 3073] -----
+(in millions) |
+Assets of consolidated investment management funds: |
+Trading assets | $ | 1,091 | $ | 841 |
+Other assets | 45 | 23 |
+Total assets of consolidated investment management funds | $ | 1,136 | $ | 864 |
+Liabilities of consolidated investment management funds: |
+Other liabilities | $ | 27 | $ | 1 |
+Total liabilities of consolidated investment management funds | $ | 27 | $ | 1 |
+The assets and liabilities of the consolidated investment management funds are included in other assets and other liabilities, respectively, on the consolidated balance sheet. We value the assets and liabilities of consolidated investment management funds using quoted prices for identical assets or liabilities in active markets or observable inputs such as quoted prices for similar assets or liabilities. Quoted prices for either identical or similar assets or liabilities in inactive markets may also be used. Accordingly, fair value best reflects the interests BNY holds in the economic performance of the consolidated investment management funds. Changes in the fair value of the assets and liabilities are recorded as income (loss) from consolidated investment management funds, which is included in investment and other revenue on the consolidated income statement.
+We elected the fair value option on subordinated notes associated with certain equity investments. The fair value of these subordinated notes was $18 million at June 30, 2026 and $9 million at Dec. 31, 2025, and are included in other assets on the consolidated balance sheet. The subordinated notes were valued
+using observable market inputs and included in Level 2 of the valuation hierarchy.
+Note 14-Derivative instruments
+We use derivatives to manage exposure to market risk, including interest rate risk, equity price risk and foreign currency risk, as well as credit risk. Our trading activities are focused on acting as a market-maker for our customers and facilitating customer trades in compliance with the Volcker Rule.
+The notional amounts for derivative financial instruments express the dollar volume of the transactions; however, credit risk is much smaller. We perform credit reviews and enter into netting agreements and collateral arrangements to minimize the credit risk of derivative financial instruments. We enter into offsetting positions to reduce exposure to foreign currency, interest rate and equity price risk.
+Use of derivative financial instruments involves reliance on counterparties. Failure of a counterparty to honor its obligation under a derivative contract is a risk we assume whenever we engage in a derivative contract. There were no counterparty default losses recorded in the second quarter of 2026.
+Hedging derivatives
+We utilize interest rate swap agreements, including forward starting swaps, to manage our exposure to interest rate fluctuations. We enter into fair value hedges as an interest rate risk management strategy to reduce fair value variability by converting certain fixed rate interest payments associated with available-for-sale securities, loans and long-term debt to floating interest rates. We also utilize interest rate swaps and forward exchange contracts as cash flow hedges to manage our exposure to interest rate and foreign exchange rate changes. In designating interest rate swaps as hedges, we utilize both partial-term and full-term hedge strategies. In addition, the Company utilizes portfolio layer method hedge strategies to manage interest rate risk of certain closed portfolios of fixed rate securities and loans. Throughout the period of a portfolio layer method hedge, basis adjustments are maintained at the portfolio level and are only allocated to individual assets in certain circumstances. These include instances in which the hedged portfolio amount falls below the designated hedged layer notional amount, or in instances of voluntary de-designation.
+76 BNY
+Notes to Consolidated Financial Statements (continued)
+The available-for-sale securities hedged consist of U.S. Treasury, U.S. government agency, agency and non-agency commercial MBS, agency and non-agency RMBS, non-U.S. government and foreign covered bonds. At June 30, 2026, $59.8 billion designated par value of available-for-sale securities were hedged with interest rate swaps designated as fair value hedges that had notional values of $59.6 billion.
+At June 30, 2026, $1.4 billion of interest rate swaps were designated as portfolio layer method fair value hedges of loans against a closed portfolio of fixed rate loans of $2.8 billion, essentially converting $1.4 billion of fixed rate loans to floating rates.
+The Company also utilizes interest rate swaps as a cash flow hedge to convert floating interest receipts to a fixed rate. At June 30, 2026, $2.6 billion of interest rate swaps, with terms of less than three years, were designated as cash flow hedges of loans and securities. For qualifying cash flow hedges, changes in the derivative fair value are recorded in OCI and then transferred to earnings in the period in which the hedged forecasted transaction impacts earnings. In the second quarter of 2026 and second quarter of 2025, the Company did not experience any hedged forecasted transactions that failed to occur. Over the next 12 months, we expect that $10 million of net after-tax losses in OCI will be reclassified to net interest income associated with cash flow hedges.
+At June 30, 2026, $29.2 billion par value of long-term debt was hedged with interest rate swaps designated
+as fair value hedges that had notional values of $29.2 billion.
+In addition, we utilize forward foreign exchange contracts as hedges to mitigate foreign exchange exposures. We use forward foreign exchange contracts as cash flow hedges to convert certain forecasted non-U.S. dollar revenue and expenses into U.S. dollars. We use forward foreign exchange contracts as cash flow hedges to hedge our foreign exchange exposure to currencies such as the Indian rupee, euro, Polish zloty, British pound, Singapore dollar and Hong Kong dollar used in revenue and expense transactions for entities that have the U.S. dollar as their functional currency. As of June 30, 2026, the hedged forecasted foreign currency transactions and designated forward foreign exchange contract hedges were $771 million (notional), with a net pre-tax loss of $9 million recorded in accumulated OCI. Over the next 12 months, a loss of $9 million will be reclassified into earnings.
+Forward foreign exchange contracts are also used to hedge the value of our net investments in foreign subsidiaries. The derivatives employed are designated as hedges of changes in the value of our foreign investments due to exchange rates. The change in fair market value of these forward foreign exchange contracts is reported within foreign currency translation adjustments in shareholders' equity, net of tax. At June 30, 2026, forward foreign exchange contracts with notional amounts totaling $11.5 billion were designated as net investment hedges.
+The following table presents the pre-tax gains (losses) related to our fair value hedging activities recognized in the consolidated income statement.
+Income statement impact of fair value hedges |
+(in millions) | Location of gains (losses) | 2Q26 | 2Q25 | YTD26 | YTD25 |
+Interest rate fair value hedges of available-for-sale securities |
+Derivative | Interest income | $ | 222 | $ | (249) | $ | 440 | $ | (647) |
+Hedged item | Interest income | (221) | 249 | (439) | 647 |
+Interest rate fair value hedges of long-term debt |
+Derivative | Interest expense | (212) | 275 | (354) | 686 |
+Hedged item | Interest expense | 212 | (275) | 354 | (686) |
+Interest rate fair value hedges of loans |
+Derivative | Interest income | 1 | 2 | (4) | (9) |
+Hedged item | Interest income | (1) | (2) | 4 | 9 |
+Gain (loss) recognized in the consolidated income statement due to fair value hedging relationships | $ | 1 | $ | -- | $ | 1 | $ | -- |
+BNY 77
+Notes to Consolidated Financial Statements (continued)
+The following table presents the pre-tax impact of hedging derivatives used in net investment and cash flow hedging relationships.
+Impact of derivative instruments used in net investment and cash flow hedging relationships |
+(in millions) | Gain (loss) recognized in accumulated OCI | Location of gain or (loss) reclassified from accumulated OCI into income | Gain (loss) reclassified from accumulated OCI into income |
+2Q26 | 2Q25 | YTD26 | YTD25 | 2Q26 | 2Q25 | YTD26 | YTD25 |
+Net investment hedges |
+FX contracts | $ | 90 | $ | (735) | $ | 312 | $ | (1,111) | Investment and other revenue | $ | -- | $ | -- | $ | -- | $ | 21 |
+Cash flow hedges |
+FX contracts | $ | 6 | $ | (7) | $ | (10) | $ | (6) | Staff expense and investment and other revenue | $ | (12) | $ | (1) | $ | (17) | $ | (4) |
+Interest rate contracts | (9) | -- | (24) | -- | Net interest income | 1 | -- | -- | -- |
+Total | $ | (3) | $ | (7) | $ | (34) | $ | (6) | $ | (11) | $ | (1) | $ | (17) | $ | (4) |
+The following table presents information on the hedged items in fair value hedging relationships.
+Hedged items in fair value hedging relationships | Carrying amount of hedged
+asset or liability | Hedge accounting basis adjustment increase (decrease) (a)
+(in millions) | June 30, 2026 | Dec. 31, 2025 | June 30, 2026 | Dec. 31, 2025 |
+Available-for-sale securities (b)
+$ | 55,743 | $ | 46,420 | $ | (1,280) | $ | (910) |
+Loans (c)
+$ | 2,811 | $ | 2,939 | $ | (5) | $ | (9) |
+Long-term debt | $ | 28,522 | $ | 28,375 | $ | (617) | $ | (264) |
+(a) Includes $244 million and $332 million of basis adjustment decreases on discontinued hedges associated with available-for-sale securities at June 30, 2026 and Dec. 31, 2025, respectively, and $11 million and $10 million of basis adjustment increases on discontinued hedges associated with long-term debt at June 30, 2026 and Dec. 31, 2025, respectively.
+(b) At June 30, 2026 and Dec. 31, 2025, the amortized cost of the available-for-sale securities included in closed portfolios subject to portfolio layer method hedging was $17.4 billion and $15.1 billion, respectively, of which the notional amount hedged was $11.9 billion and $8.9 billion, respectively. The cumulative basis adjustments for active hedging relationships associated with such hedges as of June 30, 2026 and Dec. 31, 2025 were a decrease of $156 million and an increase of $1 million, respectively.
+(c) At June 30, 2026 and Dec. 31, 2025, loans included in closed portfolios subject to portfolio layer method hedging were $2.8 billion and $2.9 billion, respectively, of which $1.4 billion and $1.4 billion, respectively, was designated as hedged. The cumulative basis adjustments for active hedging relationships associated with such hedges as of June 30, 2026 and Dec. 31, 2025 were a decrease of $5 million and $9 million, respectively.
+78 BNY
+Notes to Consolidated Financial Statements (continued)
+The following table summarizes the notional amount and carrying values of our total derivatives portfolio.
+Impact of derivative instruments on the balance sheet | Notional value | Asset derivatives
+fair value | Liability derivatives
+fair value |
+June 30, 2026 | Dec. 31, 2025 | June 30, 2026 | Dec. 31, 2025 | June 30, 2026 | Dec. 31, 2025 |
+(in millions) |
+Derivatives designated as hedging instruments: (a)(b)
+Interest rate contracts | $ | 92,667 | $ | 74,525 | $ | 311 | $ | 305 | $ | 24 | $ | -- |
+Foreign exchange contracts | 12,288 | 11,817 | 261 | 53 | 26 | 81 |
+Total derivatives designated as hedging instruments | $ | 572 | $ | 358 | $ | 50 | $ | 81 |
+Derivatives not designated as hedging instruments: (b)(c)
+
+----- [line 3304] -----
+Securities lending: |
+U.S. Treasury | $ | 2,092 | $ | -- | $ | -- | $ | -- | $ | 2,092 | $ | 754 | $ | -- | $ | -- | $ | -- | $ | 754 |
+Corporate bonds | 988 | -- | -- | -- | 988 | 783 | -- | -- | -- | 783 |
+Agency RMBS | -- | -- | -- | -- | -- | 102 | -- | -- | -- | 102 |
+U.S. government agencies | -- | -- | -- | -- | -- | 2 | -- | -- | -- | 2 |
+Equity securities | 19,007 | -- | -- | -- | 19,007 | 11,199 | -- | -- | -- | 11,199 |
+Total | $ | 22,087 | $ | -- | $ | -- | $ | -- | $ | 22,087 | $ | 12,840 | $ | -- | $ | -- | $ | -- | $ | 12,840 |
+Total secured borrowings | $ | 293,041 | $ | 1,125 | $ | 4,149 | $ | 4,930 | $ | 303,245 | $ | 272,390 | $ | 1,496 | $ | 4,151 | $ | 4,155 | $ | 282,192 |
+BNY's repurchase agreements and securities lending transactions primarily encounter risk associated with liquidity. We are required to pledge collateral based on predetermined terms within the agreements. If we were to experience a decline in the fair value of the collateral pledged for these transactions, we could be required to provide additional collateral to the counterparty, therefore decreasing the amount of assets available for other liquidity needs that may arise. BNY also offers tri-party collateral agency services in the tri-party repo market where we are exposed to credit risk. In order to mitigate this risk, we require dealers to fully secure intraday credit.
+Note 15-Commitments and contingent liabilities
+Off-balance sheet arrangements
+In the normal course of business, various commitments and contingent liabilities are outstanding that are not reflected in the accompanying consolidated balance sheets.
+Our significant trading and off-balance sheet risks are securities, foreign currency and interest rate risk management products, commercial lending commitments, letters of credit and securities lending indemnifications. We assume these risks to reduce interest rate and foreign currency risks, to provide customers with the ability to meet credit and liquidity needs and to hedge foreign currency and interest rate risks. These items involve, to varying degrees, credit, foreign currency and interest rate risks not recognized on the balance sheet. Our off-balance sheet risks are managed and monitored in manners similar to those used for on-balance sheet risks.
+BNY 83
+Notes to Consolidated Financial Statements (continued)
+The following table presents a summary of our off-balance sheet credit risks.
+Off-balance sheet credit risks | June 30, 2026 | Dec. 31, 2025 |
+(in millions) |
+Lending commitments | $ | 48,815 | $ | 49,433 |
+Standby letters of credit ("SBLC") (a)
+1,477 | 1,659 |
+Commercial letters of credit | 91 | 78 |
+Securities lending
+indemnifications (b)(c)
+717,187 | 666,395 |
+(a)Net of participations totaling $111 million at June 30, 2026 and $111 million at Dec. 31, 2025.
+(b)Excludes the indemnification for securities for which BNY acts as an agent on behalf of CIBC Mellon clients, which totaled $71 billion at June 30, 2026 and $74 billion at Dec. 31, 2025.
+(c)Includes cash collateral, invested in indemnified repurchase agreements, held by us as securities lending agent of $74 billion at June 30, 2026 and $65 billion at Dec. 31, 2025.
+The total potential loss on undrawn lending commitments, standby and commercial letters of credit and securities lending indemnifications is equal to the total notional amount if drawn upon, which does not consider the value of any collateral.
+Since many of the lending commitments are expected to expire without being drawn upon, the total amount does not necessarily represent future cash requirements. A summary of lending commitment maturities is as follows: $26.4 billion in less than one year, $21.4 billion in one to five years and $990 million in over five years.
+SBLCs principally support obligations of corporate clients and were collateralized with cash and securities of $217 million at June 30, 2026 and $212 million at Dec. 31, 2025. At June 30, 2026, $1.0 billion of the SBLCs will expire within one year, $431 million in one to five years and none in over five years.
+We must recognize, at the inception of an SBLC and foreign and other guarantees, a liability for the fair value of the obligation undertaken in issuing the guarantee. The fair value of the liability, which was recorded with a corresponding asset in other assets, was estimated as the present value of contractual customer fees. The estimated liability for losses related to SBLCs and foreign and other guarantees, if any, is included in the allowance for lending-related commitments.
+Payment/performance risk of SBLCs is monitored using both historical performance and internal ratings
+criteria. BNY's historical experience is that SBLCs typically expire without being funded. SBLCs below investment grade are monitored closely for payment/performance risk. The table below shows SBLCs by investment grade:
+Standby letters of credit | June 30, 2026 | Dec. 31, 2025 |
+Investment grade | 79 | % | 78 | % |
+Non-investment grade | 21 | % | 22 | % |
+A commercial letter of credit is normally a short-term instrument used to finance a commercial contract for the shipment of goods from a seller to a buyer. Although the commercial letter of credit is contingent upon the satisfaction of specified conditions, it represents a credit exposure if the buyer defaults on the underlying transaction. As a result, the total contractual amounts do not necessarily represent future cash requirements. Commercial letters of credit totaled $91 million at June 30, 2026 and $78 million at Dec. 31, 2025.
+We expect many of the lending commitments and letters of credit to expire without the need to advance any cash. The revenue associated with guarantees frequently depends on the credit rating of the obligor and the structure of the transaction, including collateral, if any. The allowance for lending-related commitments was $90 million at June 30, 2026 and $74 million at Dec. 31, 2025.
+A securities lending transaction is a fully collateralized transaction in which the owner of a security agrees to lend the security (typically through an agent, in our case, The Bank of New York Mellon) to a borrower, usually a broker-dealer or bank, on an open, overnight or term basis, under the terms of a prearranged contract.
+We typically lend securities with indemnification against borrower default. We generally require the borrower to provide collateral with a minimum value of 102% of the fair value of the securities borrowed, which is monitored on a daily basis, thus reducing credit risk. Market risk can also arise in securities lending transactions. These risks are controlled through policies limiting the level of risk that can be undertaken. Securities lending transactions are generally entered into only with highly rated counterparties. Securities lending indemnifications were secured by collateral of $761 billion at June 30, 2026 and $706 billion at Dec. 31, 2025.
+84 BNY
+Notes to Consolidated Financial Statements (continued)
+CIBC Mellon, a joint venture between BNY and the Canadian Imperial Bank of Commerce ("CIBC"), engages in securities lending activities. BNY and CIBC severally indemnify securities lenders against specific types of borrower default. Previously, BNY, CIBC and CIBC Mellon jointly and severally indemnified securities lenders against specific types of borrower default. At June 30, 2026 and Dec. 31, 2025, $71 billion and $74 billion, respectively, of borrowings at CIBC Mellon, for which BNY acts as agent on behalf of CIBC Mellon clients, were secured by collateral of $76 billion and $78 billion, respectively. If, upon a default, a borrower's collateral was not sufficient to cover its related obligations, certain losses related to the indemnification could be covered by the indemnitors.
+Unsettled repurchase and reverse repurchase agreements
+In the normal course of business, we enter into repurchase agreements and reverse repurchase agreements that settle at a future date. In repurchase agreements, BNY receives cash from and provides securities as collateral to a counterparty at settlement. In reverse repurchase agreements, BNY advances cash to and receives securities as collateral from the counterparty at settlement. These transactions are recorded on the consolidated balance sheet on the settlement date. At June 30, 2026, we had no unsettled repurchase agreements and $88.9 billion of unsettled reverse repurchase agreements. At Dec. 31, 2025, we had no unsettled repurchase agreements and $71.9 billion of unsettled reverse repurchase agreements.
+Industry concentrations
+We have significant industry concentrations related to credit exposure at June 30, 2026. The tables below present our credit exposure in the financial institutions and commercial portfolios.
+Financial institutions
+portfolio exposure
+(in billions)
+June 30, 2026 |
+Loans | Unfunded
+commitments | Total exposure |
+Securities industry | $ | 4.1 | $ | 12.7 | $ | 16.8 |
+Banks | 8.6 | 1.9 | 10.5 |
+Asset managers | 1.9 | 8.3 | 10.2 |
+Insurance | -- | 4.3 | 4.3 |
+Government | -- | 0.8 | 0.8 |
+Other | 0.7 | 1.0 | 1.7 |
+Total | $ | 15.3 | $ | 29.0 | $ | 44.3 |
+Commercial portfolio
+exposure
+(in billions)
+June 30, 2026 |
+Loans | Unfunded
+commitments | Total exposure |
+Manufacturing | $ | 0.8 | $ | 4.4 | $ | 5.2 |
+Services and other | 0.9 | 3.8 | 4.7 |
+Energy and utilities | 0.1 | 4.4 | 4.5 |
+Media and telecom | -- | 0.8 | 0.8 |
+Total | $ | 1.8 | $ | 13.4 | $ | 15.2 |
+
+----- [line 3526] -----
+Residual interest received from sale of investment | 36 | -- |
+Excise tax on share repurchases | 13 | 11 |
+Amortization of preferred stock discount | 6 | -- |
+92 BNY
+Item 4. Controls and Procedures |
+Disclosure controls and procedures
+Our management, including the Chief Executive Officer and Chief Financial Officer, with participation by the members of the Disclosure Committee, has responsibility for ensuring that there is an adequate and effective process for establishing, maintaining, and evaluating disclosure controls and procedures that are designed to ensure that information required to be disclosed by us in our SEC reports is timely recorded, processed, summarized and reported and that information required to be disclosed by BNY is accumulated and communicated to BNY's management to allow timely decisions regarding the required disclosure. In addition, our ethics hotline can also be used by employees and others for the anonymous communication of concerns about financial controls or reporting matters. There are inherent limitations to the effectiveness of any system of disclosure controls and procedures, including the possibility of human error and the circumvention or overriding of the controls and procedures. Accordingly, even effective disclosure controls and procedures can only provide reasonable assurance of achieving their control objectives.
+As of the end of the period covered by this report, an evaluation was carried out under the supervision and with the participation of our management, including the Chief Executive Officer and Chief Financial Officer, of the effectiveness of our disclosure controls and procedures as defined in Rule 13a-15(e) under the Securities Exchange Act of 1934, as amended (the "Exchange Act"). Based on that evaluation, the Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures were effective.
+Changes in internal control over financial reporting
+In the ordinary course of business, we may routinely modify, upgrade or enhance our internal controls and procedures for financial reporting. There have not been any changes in our internal control over financial reporting as defined in Rule 13a-15(f) of the Exchange Act during the second quarter of 2026 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+BNY 93
+Forward-looking Statements
+Some statements in this Quarterly Report are forward-looking. These include statements about the usefulness of Non-GAAP measures, the future results of BNY, our businesses, financial, liquidity and capital condition, results of operations, capital plans including dividends and repurchases, liquidity, risk and capital management and processes, human capital management (including related ambitions, objectives, aims and goals), strategic priorities and initiatives, innovation in products and services, artificial intelligence, acquisitions, related integration and divestiture activity, transition to a platforms operating model, efficiency savings, estimates (including those regarding expenses, interest rate and net interest income sensitivities, losses inherent in our credit portfolios and capital ratios), intentions (including those regarding our capital returns and expenses, including our investments in technology and pension expense), outlook (including those regarding our performance results, revenue, expenses, impacts of currency fluctuations, operating leverage, pre-tax margin, capital ratios and effective tax rate) and expectations (including those regarding products, nonperforming assets, legal proceedings and other contingencies, impacts of trends on our businesses, regulatory, technology, market, economic or accounting developments and the impacts of such developments on our businesses).
+In this report, any other report, any press release or any written or oral statement that BNY or its executives may make, words, such as "estimate," "forecast," "project," "anticipate," "likely," "target," "expect," "intend," "continue," "seek," "believe," "plan," "goal," "could," "should," "would," "may," "might," "will," "strategy," "synergies," "opportunities," "trends," "momentum," "ambition," "aspiration," "objective," "aim," "future," "potentially," "outlook" and words of similar meaning, may signify forward-looking statements.
+These forward-looking statements, and other forward-looking statements contained in other public disclosures of BNY, are not guarantees of future results or occurrences, are inherently uncertain and are based upon current beliefs and expectations of future events, many of which are, by their nature, difficult to predict, outside of our control and subject to change. By identifying these statements in this manner, we are alerting investors to the possibility that our actual results may differ, possibly materially, from the anticipated results expressed or implied in these forward-looking statements as a result of a
+number of important factors, including those factors described in "Risk Factors" in our 2025 Annual Report, such as:
+&#8226;errors or delays in our operational and transaction processing, or those of third parties, may materially adversely affect our business, financial condition, results of operations and reputation;
+&#8226;a communications or technology disruption or failure within our infrastructure or the infrastructure of third parties that results in a loss of information, delays our ability to access information or impacts our ability to provide services to our clients may materially adversely affect our business, financial condition and results of operations;
+&#8226;a cybersecurity incident directed at us or a third party could result in the theft, loss, disclosure, use or alteration of information, unauthorized or loss of access to information, or system or network failures. The increasing sophistication of cyber threats, including those enhanced by artificial intelligence and emerging technologies, including quantum computing, could challenge the effectiveness of our cybersecurity measures, governance and controls, remediation efforts and resiliency. For example, recent advancements in artificial intelligence have enhanced the capability of threat actors to identify and potentially exploit previously unidentified cybersecurity vulnerabilities, while developments in new computing technologies, such as quantum computing, that vastly increase the speed and computing power available may introduce cryptography risks, including vulnerabilities in encryption and other protective measures, both of which could increase the likelihood or severity of cybersecurity incidents. Any such incident could adversely impact our ability to conduct our businesses, damage our reputation and cause losses;
+&#8226;the development, deployment and use of artificial intelligence present risks and challenges that may materially adversely impact our business and threaten the viability of our company. A failure to swiftly, strategically and pervasively adopt appropriate artificial intelligence solutions, including agents and digital employees, develop the relevant skillsets and capabilities throughout our platforms or realize the expected benefits from such technologies could result in significant competitive disadvantages, including reduced
+94 BNY
+Forward-looking Statements (continued)
+growth opportunities and adverse impacts on our long-term business performance;
+&#8226;our risk management framework, policies and processes may not be effective in identifying or mitigating risk and reducing the potential for losses and any inadequacy or lapse in our risk management framework, policies and processes could expose us to unexpected losses that could materially adversely affect our results of operations and financial condition;
+&#8226;limitations of the models we use to measure, monitor and manage risk could lead to unexpected losses and adverse business impacts;
+&#8226;we are subject to extensive government rulemaking, policies, regulation and supervision that impact our operations. Changes to and introduction of new rules and regulations have compelled, and in the future may compel, us to change how we manage our businesses, which could have a material adverse effect on our business, financial condition and results of operations;
+&#8226;regulatory or enforcement actions or litigation could materially adversely affect our results of operations or harm our businesses or reputation;
+&#8226;our business may be adversely affected if we are unable to attract, retain, develop and motivate employees;
+&#8226;a failure or circumvention of our controls, policies and procedures could have a material adverse effect on our business, financial condition, results of operations and reputation;
+&#8226;weakness and volatility in financial markets and the economy generally may materially adversely affect our business, financial condition and results of operations;
+&#8226;we are dependent on fee-based business for a substantial majority of our revenue and our fee-based revenues could be adversely affected by slowing market activity, weak financial markets, underperformance and/or negative trends in savings rates or in investment preferences;
+&#8226;levels of and changes in interest rates have impacted, and will in the future continue to impact, our profitability and capital levels, at times adversely;
+&#8226;we have experienced, and may continue to experience, unrealized or realized losses on
+securities related to volatile and illiquid market conditions, reducing our capital levels and/or earnings;
+&#8226;the failure or perceived weakness of any of our significant clients or counterparties, many of whom are major financial institutions or sovereign entities, and our assumption of credit, counterparty and concentration risk, could expose us to credit losses and adversely affect our business;
+&#8226;we could incur losses if our allowance for credit losses, including loan and lending-related commitment reserves, is inadequate or if our expectations of future economic conditions deteriorate;
+&#8226;our business, financial condition and results of operations could be adversely affected if we do not effectively manage our liquidity;
+&#8226;failure to satisfy regulatory standards, including "well capitalized" and "well managed" status or capital adequacy and liquidity rules more generally, could result in limitations on our activities and adversely affect our business and financial condition;
+&#8226;the Parent is a non-operating holding company and, as a result, is dependent on dividends from its subsidiaries and extensions of credit from the IHC to meet its obligations, including with respect to its securities, and to provide funds for share repurchases, payment of income taxes and payment of dividends to its stockholders;
+&#8226;our ability to return capital to shareholders is subject to the discretion of our Board of Directors and may be limited by U.S. banking laws and regulations, including those governing capital and capital planning, applicable provisions of Delaware law and our failure to pay full and timely dividends on our preferred stock;
+&#8226;any material reduction in our credit ratings or the credit ratings of our principal bank subsidiaries, The Bank of New York Mellon, BNY Mellon, N.A. or The Bank of New York Mellon SA/NV, could increase the cost of funding and borrowing to us and our rated subsidiaries and have a material adverse effect on our business, financial condition and results of operations and on the value of the securities we issue;
+&#8226;the application of our Title I preferred resolution strategy or resolution under the Title II orderly
+BNY 95
+Forward-looking Statements (continued)
+liquidation authority could adversely affect the Parent's liquidity and financial condition and the Parent's security holders;
+&#8226;new lines of business, new products and services or transformational or strategic project initiatives subject us to new or additional risks, and the failure to implement these initiatives could affect our results of operations;
+&#8226;our strategic transactions present risks and uncertainties and could have an adverse effect on our business, financial condition and results of operations;
+&#8226;we may not realize some or all of the expected benefits of our transition to a platforms operating model;
+&#8226;we are subject to competition in all aspects of our business, which could negatively affect our ability to maintain or increase our profitability;
+&#8226;our businesses may be negatively affected by adverse events, publicity, government scrutiny or other reputational harm;
+&#8226;impacts from geopolitical events, acts of terrorism, war, extreme weather and other natural disasters, pandemics and other similar events may have a negative impact on our business and operations;
+&#8226;differing expectations for sustainability-related initiatives across client segments and local
+markets could adversely affect our business, affect client activity levels, subject us to additional regulatory requirements and damage our reputation;
+&#8226;tax law changes or challenges to our tax positions with respect to historical transactions may adversely affect our net income, effective tax rate and our overall results of operations and financial condition; and
+&#8226;changes in accounting standards governing the preparation of our financial statements and future events could have a material impact on our reported financial condition, results of operations, cash flows and other financial data.
+Investors should not place undue reliance on any forward-looking statement and should consider all risk factors discussed in the 2025 Annual Report and any subsequent reports filed with the SEC by BNY pursuant to the Exchange Act. All forward-looking statements speak only as of the date on which such statements are made, and BNY undertakes no obligation to update any statement to reflect events or circumstances after the date on which such forward-looking statement is made or to reflect the occurrence of unanticipated events. The contents of BNY's website or any other website referenced herein are not part of this report.
+96 BNY
+Part II - Other Information
+Item 1. Legal Proceedings.
+The information required by this Item is set forth in the "Legal proceedings" section in Note 15 of the Notes to Consolidated Financial Statements, which portion is incorporated herein by reference in response to this item.
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.
+(c) The following table discloses repurchases of our common stock made in the second quarter of 2026. All of the Company's preferred stock outstanding has preference over the Company's common stock with respect to the payment of dividends.
+Issuer purchases of equity securities
+Share repurchases - second quarter of 2026
+Total shares
+repurchased as
+part of a publicly
+announced plan
+or program | Maximum approximate dollar value of shares that may yet be purchased under the publicly announced plans or programs at June 30, 2026
+(dollars in millions, except per share amounts; common shares in thousands) | Total shares
+repurchased | Average price
+per share |

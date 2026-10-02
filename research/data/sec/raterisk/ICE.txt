@@ -1,0 +1,78 @@
+# ICE 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/1571949/000157194926000011/ice-20260630.htm
+# full_doc_chars=265765
+
+
+----- [line 1811] -----
+Less: Section 31 fees, net | (286) | (93) |
+Adjusted free cash flow | $ | 2,600 | $ | 2,023 |
+For additional information on these items, refer to our consolidated financial statements included in this Quarterly Report and "--Liquidity and Capital Resources" above.
+Off-Balance Sheet Arrangements
+As described in Note 11 to our consolidated financial statements, which are included elsewhere in this Quarterly Report, certain clearing house collateral is reported off-balance sheet. We do not have any relationships with unconsolidated entities or financial partnerships, often referred to as structured finance or special purpose entities.
+Contractual Obligations and Commercial Commitments
+During the six months ended June 30, 2026, there were no significant changes to our contractual obligations and commercial commitments from those disclosed in the section "Management's Discussion and Analysis of Financial Condition and Results of Operations" in our 2025 Form 10-K.
+New and Recently Adopted Accounting Pronouncements
+During the six months ended June 30, 2026, there were no significant changes to the new and recently adopted accounting pronouncements applicable to us from those disclosed in Note 2 of our 2025 Form 10-K.
+Critical Accounting Policies
+During the six months ended June 30, 2026, there were no significant changes to our critical accounting policies and estimates from those disclosed in the section "Management's Discussion and Analysis of Financial Condition and Results of Operations" in our 2025 Form 10-K.
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+As a result of our operating and financing activities, we are exposed to market risks such as interest rate risk, foreign currency exchange rate risk and credit risk. We have implemented policies and procedures designed to measure, manage, monitor and report risk exposures, which are regularly reviewed by the appropriate management and supervisory bodies. There have been no material changes to the Company's exposure to market risks from those disclosed in Part II, Item 7A, "Quantitative and Qualitative Disclosures About Market Risk" in our 2025 Form 10-K.
+ITEM 4. CONTROLS AND PROCEDURES
+(a) Evaluation of Disclosure Controls and Procedures. As of the end of the period covered by this report, an evaluation was carried out by our management, with the participation of our Chief Executive Officer and Chief Financial Officer, of the effectiveness of our disclosure controls and procedures (as defined in Rule 13a-15(e) under the Securities Exchange Act of 1934). Based upon that evaluation, our Chief Executive Officer and Chief Financial Officer concluded that these disclosure controls and procedures were effective as of the end of the period covered by this report.
+(b) Changes in Internal Controls over Financial Reporting. There were no changes to our internal controls over financial reporting during the six months ended June 30, 2026 that have materially affected, or are reasonably likely to materially affect, our internal controls over financial reporting.
+66
+PART II. Other Information
+ITEM 1. LEGAL PROCEEDINGS
+See Note 12 to the consolidated financial statements and related notes, which is incorporated by reference herein.
+ITEM 1(A). RISK FACTORS
+During the six months ended June 30, 2026, there were no significant new risk factors from those disclosed in Part I, Item 1A, "Risk Factors" in our 2025 Form 10-K. In addition to the other information set forth in this Quarterly Report, including the information in the "--Regulation" section of Item 2 - Management's Discussion and Analysis of Financial Condition and Results of Operations, you should carefully consider the factors discussed under "Risk Factors" and the regulation discussion under "Business--Regulation" in our 2025 Form 10-K. These risks could materially and adversely affect our business, financial condition and results of operations. The risks and uncertainties in our 2025 Form 10-K are not the only ones facing us. Additional risks and uncertainties not presently known to us, or that we currently believe to be immaterial, may also adversely affect our business.
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+Stock Repurchases
+The table below sets forth the information with respect to purchases made by or on behalf of ICE or any "affiliated purchaser" (as defined in Rule 10b-18(a)(3) under the Exchange Act) of our common stock during the six months ended June 30, 2026, reported on a settlement date basis.
+Period
+(2026)
+Total number of shares purchased
+(in thousands)
+Average price
+paid per share (1)
+Amount of repurchases (1)
+(in millions)
+Total number of shares purchased as part of publicly announced plans or programs
+(in thousands)
+Approximate dollar value of shares that may yet be purchased under the plans or programs (2)(5)
+(in millions)
+January 1 - January 31 | 685 | $168.90 | $115 | 685 | $2,891 |
+February 1 - February 28 | 1,981 | 155.77 | 309 | 1,981 | 2,583 |
+March 1 - March 31 | 794 | 160.04 | 127 | 794 | 2,456 |
+First quarter total(3)
+3,460 | $159.35 | $551 | 3,460 | $2,456 |
+April 1 - April 30 | 746 | $160.95 | $120 | 746 | $2,336 |
+May 1 - May 31 | 738 | 154.33 | 114 | 738 | 2,222 |
+June 1 - June 30 | 2,929 | 142.39 | 417 | 2,929 | 1,805 |
+Second quarter total(4)
+4,413 | $147.52 | $651 | 4,413 | $1,805 |
+(1) Excludes the 1% excise tax on share repurchases. |
+(2) Approximate dollar value that may yet be purchased is based on the trade date basis principal amount of shares repurchased and excludes commissions and the 1% excise tax on share repurchases. |
+(3) Includes 1.3 million shares purchased on the open market at a cost of $200 million and 2.2 million shares purchased under our Rule 10b5-1 trading plan at a cost of $351 million.
+(4) Includes 2.1 million shares purchased on the open market at a cost of $300 million and 2.3 million shares purchased under our Rule 10b5-1 trading plan at a cost of $351 million.
+(5) In July 2026, our Board approved an increase in the aggregate amount authorized for repurchases under the current program to $4.0 billion, effective July 1, 2026. |
+Refer to Note 9 to our consolidated financial statements and related notes, which are included elsewhere in this Quarterly Report, for details on our stock repurchase program.
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+None.
+ITEM 4. MINE SAFETY DISCLOSURES
+Not applicable.
+67
+ITEM 5. OTHER INFORMATION
+(a) On May 11, 2026, Martha A. Tirinnanzi, one of our directors, adopted a trading plan for the sale of shares of ICE common stock, which is intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) under the Exchange Act. The plan expires on the earlier of (i) December 31, 2026 or (ii) upon the completion of the sale of the maximum number of shares under the plan. The aggregate number of shares to be sold under the plan is 7 plus an undetermined number of shares to be sold resulting from the vesting of time-based restricted stock units.
+(b) On May 29, 2026, A. Warren Gardiner, our Chief Financial Officer, adopted a trading plan for the sale of shares of ICE common stock, which is intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) under the Exchange Act. The plan expires on the earlier of (i) December 31, 2027 or (ii) upon the completion of the sale of the maximum number of shares under the plan. The aggregate number of shares to be sold under the plan is an undetermined number of shares to be sold resulting from the vesting of performance-based restricted stock units less the amount of shares that will be withheld to satisfy the payment of Mr. Gardiner's tax withholding obligations.
+(c) On June 3, 2026, James W. Namkung, our Chief Accounting Officer, adopted a trading plan for the sale of shares of ICE common stock, which is intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) under the Exchange Act. The plan expires on the earlier of (i) December 31, 2027 or (ii) upon the completion of the sale of the maximum number of shares under the plan. The aggregate number of shares to be sold under the plan is 11,430 shares plus an undetermined number of shares to be sold resulting from the vesting of performance-based restricted stock units less the amount of shares that will be withheld to satisfy the payment of Mr. Namkung's tax withholding obligations.
+Certain of our officers or directors have made elections to participate in, and are participating in, our dividend reinvestment plan and employee stock purchase plan and have made, and may from time to time make, elections to have shares withheld to cover withholding taxes or pay the exercise price of options, which may be designed to satisfy the affirmative defense conditions of Rule 10b5-1 under the Exchange Act or may constitute non-Rule 10b5-1 trading arrangements (as defined in Item 408(c) of Regulation S-K).
+68
+ITEM 6. EXHIBITS
+Exhibit Number | Description of Document |
+3.1 | -- | Seventh Amended and Restated Certificate of Incorporation of Intercontinental Exchange, Inc., effective August 20, 2025 (incorporated by reference to Exhibit 3.1 to Intercontinental Exchange, Inc.'s Current Report on Form 8-K filed with the SEC on August 20, 2025, File No. 001-36198).
+3.2 | -- | Ninth Amended and Restated Bylaws of Intercontinental Exchange, Inc., effective August 22, 2022 (incorporated by reference to Exhibit 3.2 to Intercontinental Exchange, Inc.'s Current Report on Form 8-K filed with the SEC on August 22, 2022, File No. 001-36198).
+31.1* | -- | Rule 13a-14(a)/15d-14(a) Certification of Chief Executive Officer.
+31.2* | -- | Rule 13a-14(a)/15d-14(a) Certification of Chief Financial Officer.
+32.1** | -- | Section 1350 Certification of Chief Executive Officer.
+32.2** | -- | Section 1350 Certification of Chief Financial Officer.

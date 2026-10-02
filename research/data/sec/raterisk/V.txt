@@ -1,0 +1,5 @@
+# V 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/1403161/000140316126000104/v-20260630.htm
+# full_doc_chars=138938
+
+

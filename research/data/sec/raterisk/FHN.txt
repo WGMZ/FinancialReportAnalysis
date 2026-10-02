@@ -1,0 +1,537 @@
+# FHN 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/36966/000003696626000155/fhn-20260630.htm
+# full_doc_chars=437026
+
+
+----- [line 88] -----
+Signatures
+111
+GLOSSARY |
+Table of Contents
+Glossary
+The following is a list of common acronyms and terms used throughout this report:
+ACL | Allowance for credit losses |
+ADR | Average daily revenue |
+AFS | Available for sale |
+AIR | Accrued interest receivable |
+ALCO | Asset/Liability Committee |
+ALLL | Allowance for loan and lease losses |
+ALM | Asset/liability management |
+AOCI | Accumulated other comprehensive income |
+ASC | FASB Accounting Standards Codification |
+Associate | Person employed by FHN |
+ASU | Accounting Standards Update |
+Bank | First Horizon Bank |
+C&I | Commercial, financial, and industrial loan portfolio |
+CECL | Current expected credit loss |
+CME | Chicago Mercantile Exchange |
+CMO | Collateralized mortgage obligations |
+CODM | Chief Operating Decision Maker
+Company | First Horizon Corporation |
+Corporation | First Horizon Corporation |
+CRE | Commercial real estate |
+DTA | Deferred tax asset |
+DTL | Deferred tax liability |
+EAD | Exposure at default |
+EPS | Earnings per share |
+Fannie Mae | Federal National Mortgage Association |
+FASB | Financial Accounting Standards Board |
+FDIC | Federal Deposit Insurance Corporation |
+Federal Reserve | Federal Reserve Board |
+Fed | Federal Reserve Board |
+FHA | Federal Housing Administration |
+FHLB | Federal Home Loan Bank |
+FHN | First Horizon Corporation |
+FHNF | FHN Financial; FHN's fixed income division |
+FICO | Fair Isaac Corporation |
+First Horizon | First Horizon Corporation |
+FRB | Federal Reserve Bank or the Federal Reserve Board |
+Freddie Mac | Federal Home Loan Mortgage Corporation |
+FTE | Fully taxable equivalent |
+FTP | Funds transfer pricing |
+FTRESC | FT Real Estate Securities Company, Inc. |
+GAAP | Generally accepted accounting principles (U.S.) |
+GHG | Greenhouse gas |
+GNMA | Government National Mortgage Association or Ginnie Mae |
+GSE | Government sponsored enterprises, in this report references Fannie Mae and Freddie Mac |
+HELOC | Home equity line of credit |
+HFS | Held for sale |
+HTM | Held to maturity |
+IBKC | IBERIABANK Corporation |
+IBKC merger | FHN's merger of equals with IBKC that closed July 2020 |
+ISDA | International Swap and Derivatives Association |
+LGD | Loss given default |
+LIBOR | London Interbank Offered Rate |
+LIHTC | Low Income Housing Tax Credit |
+LLC | Limited liability company |
+LMC | Loans to mortgage companies |
+LOCOM | Lower of cost or market |
+LTV | Loan-to-value |
+MBS | Mortgage-backed securities |
+MD&A | Management's Discussion and Analysis of Financial Condition and Results of Operations |
+NAICS | North American Industry Classification System |
+NII | Net interest income |
+NIM | Net interest margin |
+NM | Not meaningful |
+NMTC | New Market Tax Credit |
+NPA | Nonperforming asset |
+NPL | Nonperforming loan |
+
+----- [line 1633] -----
+PART I, ITEM 1. FINANCIAL STATEMENTS |
+Table of Contents
+NOTE 14--DERIVATIVES |
+Note 14--Derivatives
+In the normal course of business, FHN utilizes various financial instruments (including derivative contracts and credit-related agreements) through its fixed income and risk management operations, as part of its risk management strategy and as a means to meet clients' needs. Derivative instruments are subject to credit and market risks in excess of the amount recorded on the balance sheet as required by GAAP. The contractual or notional amounts of these financial instruments do not necessarily represent the amount of credit or market risk. However, they can be used to measure the extent of involvement in various types of financial instruments. Controls and monitoring procedures for these instruments have been established and are routinely reevaluated. The ALCO controls, coordinates, and monitors the usage and effectiveness of these financial instruments.
+Credit risk represents the potential loss that may occur if a party to a transaction fails to perform according to the terms of the contract. The measure of credit exposure is the replacement cost of contracts with a positive fair value. FHN manages credit risk by entering into financial instrument transactions through national exchanges, primary dealers or approved counterparties, and by using mutual margining and master netting agreements whenever possible to limit potential exposure. FHN also maintains collateral posting requirements with certain counterparties to limit credit risk. Daily margin posted or received with central clearinghouses is considered a legal settlement of the related derivative contracts which results in a net presentation for each contract in the Consolidated Balance Sheets. Treatment of daily margin as a settlement has no effect on hedge accounting or gains/losses for the applicable derivative contracts. On June 30, 2026 and December 31, 2025, respectively, FHN had $312 million and $243 million of cash receivables and $17 million and $20 million of cash payables related to collateral posting under master netting arrangements, inclusive of collateral posted related to contracts with adjustable collateral posting thresholds and over-collateralized positions, with derivative counterparties. With exchange-traded contracts, the credit risk is limited to the clearinghouse used. For non-exchange traded instruments, credit risk may occur when there is a gain in the fair value of the financial instrument and the counterparty fails to perform according to the terms of the contract and/or when the collateral proves to be of insufficient value. See additional discussion regarding master netting agreements and collateral posting requirements later in this note under the heading "Master Netting and Similar Agreements."
+Market risk represents the potential loss due to the decrease in the value of a financial instrument caused primarily by changes in interest rates or the prices of debt instruments. FHN manages market risk by establishing and
+monitoring limits on the types and degree of risk that may be undertaken. FHN continually measures this risk through the use of models that measure value-at-risk and earnings-at-risk.
+Derivative Instruments
+FHN enters into various derivative contracts both to facilitate client transactions and as a risk management tool. Where contracts have been created for clients, FHN enters into upstream transactions with dealers to offset its risk exposure. Contracts with dealers that require central clearing are novated to a clearing agent who becomes FHN's counterparty. Derivatives are also used as a risk management tool to hedge FHN's exposure to changes in interest rates or other defined market risks.
+Forward contracts are over-the-counter contracts where two parties agree to purchase and sell a specific quantity of a financial instrument at a specified price, with delivery or settlement at a specified date. Futures contracts are exchange-traded contracts where two parties agree to purchase and sell a specific quantity of a financial instrument at a specified price, with delivery or settlement at a specified date. Interest rate option contracts give the purchaser the right, but not the obligation, to buy or sell a specified quantity of a financial instrument, at a specified price, during a specified period of time. Caps and floors are options that are linked to a notional principal amount and an underlying indexed interest rate. Interest rate swaps involve the exchange of interest payments at specified intervals between two parties without the exchange of any underlying principal. Swaptions are options on interest rate swaps that give the purchaser the right, but not the obligation, to enter into an interest rate swap agreement during a specified period of time.
+Trading Activities
+FHNF trades U.S. Treasury, U.S. Agency, government-guaranteed loan, mortgage-backed, corporate and municipal fixed income securities, and other securities for distribution to clients. When these securities settle on a delayed basis, they are considered forward contracts. FHNF also enters into interest rate contracts, including caps, swaps, and floors, for its clients. In addition, FHNF enters into futures and option contracts to economically hedge interest rate risk associated with a portion of its securities inventory. These transactions are measured at fair value, with changes in fair value recognized in noninterest income. Related assets and liabilities are recorded on the Consolidated Balance Sheets as derivative assets and derivative liabilities within other assets and other liabilities. The FHNF Risk Committee and the Credit Risk Management Committee collaborate to mitigate credit risk related to these transactions. Credit risk is controlled through credit approvals, risk control limits, and ongoing monitoring procedures. Total trading
+46
+2Q26 FORM 10-Q REPORT |
+PART I, ITEM 1. FINANCIAL STATEMENTS |
+Table of Contents
+NOTE 14--DERIVATIVES |
+revenues were $37 million and $34 million for the three months ended June 30, 2026 and 2025, and $83 million and $70 million for the six months ended June 30, 2026 and 2025, respectively. Trading revenues are inclusive of both derivative and non-derivative financial instruments and are included in fixed income on the Consolidated Statements of Income.
+The following table summarizes derivatives associated with FHNF's trading activities as of June 30, 2026 and December 31, 2025.
+DERIVATIVES ASSOCIATED WITH TRADING |
+June 30, 2026 |
+(Dollars in millions) | Notional | Assets | Liabilities |
+Customer interest rate contracts | $ | 4,117 | $ | 6 | $ | 121 |
+Offsetting upstream interest rate contracts | 4,306 | 86 | 6 |
+Forwards and futures purchased | 2,445 | 5 | 2 |
+Forwards and futures sold | 2,430 | 2 | 5 |
+December 31, 2025 |
+(Dollars in millions) | Notional | Assets | Liabilities |
+Customer interest rate contracts | $ | 4,301 | $ | 22 | $ | 104 |
+Offsetting upstream interest rate contracts | 4,446 | 70 | 22 |
+Forwards and futures purchased | 1,937 | 7 | -- |
+Forwards and futures sold | 2,210 | -- | 8 |
+Interest Rate Risk Management
+FHN's ALCO focuses on managing market risk by controlling and limiting earnings volatility attributable to changes in interest rates. Interest rate risk exists to the extent that interest-earning assets and interest-bearing liabilities have different maturity or repricing characteristics. FHN uses derivatives, primarily swaps, that are designed to moderate the impact on earnings as interest rates change. Interest paid or received for swaps utilized by FHN to hedge the fair value of long-term debt is recognized as an adjustment of the interest expense of the liabilities whose risk is being managed. FHN's interest rate risk management policy is to use derivatives to hedge
+interest rate risk or market value of assets or liabilities, not to speculate. In addition, FHN has entered into certain interest rate swaps and caps as a part of a product offering to commercial clients that includes customer derivatives paired with upstream offsetting market instruments that, when completed, are designed to mitigate interest rate risk. These contracts do not qualify for hedge accounting and are measured at fair value with gains or losses included in current earnings in noninterest expense on the Consolidated Statements of Income.
+The following table summarizes FHN's derivatives associated with interest rate risk management activities as of June 30, 2026 and December 31, 2025.
+DERIVATIVES ASSOCIATED WITH INTEREST RATE RISK MANAGEMENT |
+June 30, 2026 |
+(Dollars in millions) | Notional | Assets | Liabilities |
+Customer Interest Rate Contracts Hedging
+Hedging Instruments and Hedged Items:
+Customer interest rate contracts | $ | 8,277 | $ | 13 | $ | 215 |
+Offsetting upstream interest rate contracts | 8,277 | 214 | 13 |
+47
+2Q26 FORM 10-Q REPORT |
+PART I, ITEM 1. FINANCIAL STATEMENTS |
+Table of Contents
+NOTE 14--DERIVATIVES |
+December 31, 2025 |
+(Dollars in millions) | Notional | Assets | Liabilities |
+Customer Interest Rate Contracts Hedging |
+Hedging Instruments and Hedged Items:
+Customer interest rate contracts | $ | 7,851 | $ | 43 | $ | 185 |
+Offsetting upstream interest rate contracts | 8,151 | 184 | 43 |
+The following table summarizes gains (losses) on FHN's derivatives associated with interest rate risk management activities for the three and six months ended June 30, 2026 and 2025.
+DERIVATIVE GAINS (LOSSES) ASSOCIATED WITH INTEREST RATE RISK MANAGEMENT |
+Three Months Ended
+June 30, | Six Months Ended
+June 30, |
+2026 | 2025 | 2026 | 2025 |
+(Dollars in millions) | Gains (Losses) | Gains (Losses) | Gains (Losses) | Gains (Losses) |
+Customer Interest Rate Contracts Hedging |
+Hedging Instruments and Hedged Items: |
+Customer interest rate contracts (a) | $ | (40) | $ | 64 | $ | (61) | $ | 175 |
+Offsetting upstream interest rate contracts (a) | 40 | (64) | 61 | (175) |
+(a)Gains (losses) included in other expense within the Consolidated Statements of Income.
+Cash Flow Hedges
+In 2022, FHN entered into interest rate contracts (floors and swaps) which have been designated as cash flow hedges. These hedges reference 1-Month Term SOFR and FHN made certain elections under ASU 2020-04 to facilitate qualification for hedge accounting during the time that hedged items transitioned away from 1-Month LIBOR.
+In a cash flow hedge, the entire change in the fair value of the interest rate derivatives included in the assessment of
+hedge effectiveness is initially recorded in OCI and is subsequently reclassified from OCI to current period earnings (interest income or interest expense) in the same period that the hedged item affects earnings.
+The following tables summarize FHN's derivative activities associated with cash flow hedges as of June 30, 2026 and December 31, 2025.
+DERIVATIVES ASSOCIATED WITH CASH FLOW HEDGES |
+June 30, 2026 |
+(Dollars in millions) | Notional | Assets | Liabilities |
+Cash Flow Hedges
+Hedging Instruments:
+Interest rate contracts | $ | 5,000 | $ | 2 | $ | 48 |
+Hedged Items: |
+Variability in cash flows related to debt instruments (primarily loans) | N/A | $ | 5,000 | N/A |
+48
+2Q26 FORM 10-Q REPORT |
+PART I, ITEM 1. FINANCIAL STATEMENTS |
+Table of Contents
+NOTE 14--DERIVATIVES |
+December 31, 2025 |
+(Dollars in millions) | Notional | Assets | Liabilities |
+Cash Flow Hedges |
+Hedging Instruments:
+Interest rate contracts | $ | 5,000 | $ | -- | $ | 14 |
+Hedged Items: |
+Variability in cash flows related to debt instruments (primarily loans) | N/A | $ | 5,000 | N/A |
+The following table summarizes gains (losses) on FHN's derivatives associated with cash flow hedges for the three and six months ended June 30, 2026 and 2025.
+DERIVATIVE GAINS (LOSSES) ASSOCIATED WITH CASH FLOW HEDGES |
+Three Months Ended
+June 30, | Six Months Ended
+June 30, |
+2026 | 2025 | 2026 | 2025 |
+(Dollars in millions) | Gains (Losses) | Gains (Losses) | Gains (Losses) | Gains (Losses) |
+Cash Flow Hedges |
+Hedging Instruments: |
+Interest rate contracts (a) | $ | (9) | $ | 21 | $ | (24) | $ | 57 |
+Gain (loss) recognized in other comprehensive income (loss) | (13) | 7 | (30) | 25 |
+Gain (loss) reclassified from AOCI into interest income | 6 | 9 | 13 | 18 |
+(a)Approximately $27 million of pre-tax losses are expected to be reclassified into earnings in the next twelve months.
+Other Derivatives
+FHN has mortgage banking operations that include the origination and sale of loans into the secondary market. As part of the origination of loans, FHN enters into interest rate lock commitments with borrowers. Additionally, FHN
+enters into forward sales contracts with buyers for delivery of loans at a future date. Both of these contracts qualify as freestanding derivatives and are recognized at fair value through earnings. The notional and fair values of these contracts are presented in the table below.
+DERIVATIVES ASSOCIATED WITH MORTGAGE BANKING HEDGES |
+June 30, 2026 |
+(Dollars in millions) | Notional | Assets | Liabilities |
+Mortgage Banking Hedges |
+Option contracts written | $ | 112 | $ | 1 | $ | -- |
+Forward contracts written | 120 | -- | -- |
+December 31, 2025 |
+(Dollars in millions) | Notional | Assets | Liabilities |
+
+----- [line 1756] -----
+NOTE 14--DERIVATIVES |
+The following table summarizes gains (losses) on FHN's derivatives associated with mortgage banking activities for the three and six months ended June 30, 2026 and 2025.
+DERIVATIVE GAINS (LOSSES) ASSOCIATED WITH MORTGAGE BANKING HEDGES |
+Three Months Ended
+June 30, | Six Months Ended
+June 30, |
+2026 | 2025 | 2026 | 2025 |
+(Dollars in millions) | Gains (Losses) | Gains (Losses) | Gains (Losses) | Gains (Losses) |
+Mortgage Banking Hedges |
+Option contracts written | $ | (1) | $ | -- | $ | (2) | $ | (1) |
+Forward contracts written | -- | -- | 1 | (2) |
+In conjunction with pre-2020 sales of Visa Class B shares, FHN entered into derivative transactions whereby FHN will make or receive cash payments whenever the conversion ratio of the Visa Class B shares into Visa Class A shares is adjusted. As of June 30, 2026 and December 31, 2025, the derivative liabilities associated with the sales of Visa Class B shares were $21 million and $25 million, respectively. FHN recognized $5 million in derivative valuation adjustments related to prior sales of Visa Class B shares for the three and six months ended June 30, 2026 and $25 million for the year ended December 31, 2025. See Note 16 - Fair Value of Assets and Liabilities for discussion of the valuation inputs and processes for these Visa-related derivatives.
+FHN utilizes cross-currency swaps and cross-currency interest rate swaps to economically hedge its exposure to foreign currency risk and interest rate risk associated with non-U.S. dollar denominated loans. As of June 30, 2026 and December 31, 2025, these loans were valued at $23 million and $19 million, respectively. The balance sheet amount and the gains/losses associated with these derivatives were not significant.
+Related to its loan participation/syndication activities, FHN enters into risk participation agreements, under which it assumes exposure for, or receives indemnification for, borrowers' performance on underlying interest rate derivative contracts. FHN's counterparties in these contracts are other lending institutions involved in the loan participation/syndication arrangements for which the underlying interest rate derivative contract is intended to hedge interest rate risk for the borrower. FHN will make (other institution is the lead bank) or receive (FHN is the lead bank) payments for risk participations if the borrower defaults on its obligation to perform under the terms of its interest rate derivative agreement with the lead bank in the participation.
+As of June 30, 2026 and December 31, 2025, the notional values of FHN's risk participations were $326 million and $184 million of derivative assets and $1.1 billion and $1.0 billion of derivative liabilities, respectively. The notional value for risk participation/syndication agreements is consistent with the percentage of
+participation in the lending arrangement. FHN's maximum exposure or benefit in the risk participation agreements is contingent on the fair value of the underlying interest rate derivative contracts for which the borrower is in a liability position at the time of default. FHN monitors the credit risk associated with the borrowers to which the risk participations relate through the same credit risk assessment process utilized for establishing credit loss estimates for its loan portfolio. These credit risk estimates are included in the determination of fair value for the risk participations. Assuming all underlying third-party customers referenced in the swap contracts defaulted at June 30, 2026 and December 31, 2025, the exposure from these agreements would not be material based on the fair value of the underlying swaps.
+Master Netting and Similar Agreements
+FHN uses master netting agreements, mutual margining agreements and collateral posting requirements to minimize credit risk on derivative contracts. Master netting and similar agreements are used when counterparties have multiple derivatives contracts that allow for a "right of setoff," meaning that a counterparty may net offsetting positions and collateral with the same counterparty under the contract to determine a net receivable or payable. The following discussion provides an overview of these arrangements which may vary due to the derivative type and market in which a derivative transaction is executed.
+Interest rate derivatives are subject to agreements consistent with standard agreement forms of the ISDA. Currently, all interest rate derivative contracts are entered into as over-the-counter transactions and collateral posting requirements are based on the net asset or liability position with each respective counterparty. For contracts that require central clearing, novation to a counterparty with access to a clearinghouse occurs and initial margin is posted.
+Cash margin received (posted) that is considered settlements for the derivative contracts is included in the respective derivative asset (liability) value. Cash margin that is considered collateral received (posted) for interest
+50
+2Q26 FORM 10-Q REPORT |
+PART I, ITEM 1. FINANCIAL STATEMENTS |
+Table of Contents
+NOTE 14--DERIVATIVES |
+rate derivatives is recognized as a liability (asset) on FHN's Consolidated Balance Sheets.
+Interest rate derivatives with clients that are smaller financial institutions typically require posting of collateral by the counterparty to FHN. This collateral is subject to a threshold with daily adjustments based upon changes in the level or fair value of the derivative position. Positions and related collateral can be netted in the event of default. Collateral pledged by a counterparty is typically cash or securities. The securities pledged as collateral are not recognized within FHN's Consolidated Balance Sheets. Interest rate derivatives associated with lending arrangements share the collateral with the related loan(s). The derivative and loan positions may be netted in the event of default. For disclosure purposes, the entire collateral amount is allocated to the loan.
+Interest rate derivatives with larger financial institutions typically contain provisions whereby the collateral posting thresholds under the agreements adjust based on the credit ratings of both counterparties. If the credit rating of FHN and/or First Horizon Bank is lowered, FHN could be required to post additional collateral with the counterparties. Conversely, if the credit rating of FHN and/or First Horizon Bank is increased, FHN could have collateral released and be required to post less collateral in the future. Also, if a counterparty's credit ratings were to decrease, FHN and/or First Horizon Bank could require the posting of additional collateral; whereas if a counterparty's credit ratings were to increase, the counterparty could require the release of excess collateral. Collateral for these arrangements is adjusted daily based on changes in the net fair value position with each counterparty.
+The net fair value, determined by individual counterparty, of all derivative instruments with adjustable collateral posting thresholds was $3 million of assets and $118 million of liabilities on June 30, 2026, and $10 million of assets and $92 million of liabilities on December 31, 2025. As of June 30, 2026 and December 31, 2025, FHN had received collateral of $52 million and $68 million and
+posted collateral of $69 million and $52 million, respectively, in the normal course of business related to these agreements.
+Certain agreements also contain accelerated termination provisions, inclusive of the right of offset, if a counterparty's credit rating falls below a specified level. If a counterparty's debt rating (including FHN's and First Horizon Bank's) were to fall below these minimums, these provisions would be triggered, and the counterparties could terminate the agreements and require immediate settlement of all derivative contracts under the agreements. The net fair value, determined by individual counterparty, of all interest rate derivative instruments with credit-risk-related contingent accelerated termination provisions was $3 million of assets and $118 million of liabilities on June 30, 2026, and $11 million of assets and $92 million of liabilities on December 31, 2025. As of June 30, 2026 and December 31, 2025, FHN had received collateral of $52 million and $68 million and posted collateral of $69 million and $52 million, respectively, in the normal course of business related to these contracts.
+FHNF buys and sells various types of securities for its clients. When these securities settle on a delayed basis, they are considered forward contracts. For futures and options, FHN transacts through a third party, and the transactions are subject to margin and collateral maintenance requirements. In the event of default, open positions can be offset along with the associated collateral.
+For this disclosure, FHN considers the impact of master netting and other similar agreements which allow FHN to settle all contracts with a single counterparty on a net basis and to offset the net derivative asset or liability position with the related securities and cash collateral. The application of the collateral cannot reduce the net derivative asset or liability position below zero, and therefore any excess collateral is not reflected in the following tables.
+51
+2Q26 FORM 10-Q REPORT |
+PART I, ITEM 1. FINANCIAL STATEMENTS |
+Table of Contents
+NOTE 14--DERIVATIVES |
+The following table provides details of derivative assets and collateral received as presented on the Consolidated Balance Sheets as of June 30, 2026 and December 31, 2025.
+DERIVATIVE ASSETS & COLLATERAL RECEIVED |
+Gross amounts not offset in the Balance Sheets |
+(Dollars in millions) | Gross amounts
+of recognized
+assets | Gross amounts
+offset in the
+Balance Sheets | Net amounts of
+assets presented
+in the Balance Sheets (a) | Derivative
+liabilities
+available for
+offset | Collateral
+received | Net amount |
+Derivative assets: |
+June 30, 2026 |
+Interest rate derivative contracts | $ | 321 | $ | -- | $ | 321 | $ | (63) | $ | (242) | $ | 16 |
+Forward contracts | 7 | -- | 7 | (3) | (1) | 3 |
+$ | 328 | $ | -- | $ | 328 | $ | (66) | $ | (243) | $ | 19 |
+December 31, 2025 |
+Interest rate derivative contracts | $ | 320 | $ | -- | $ | 320 | $ | (79) | $ | (209) | $ | 32 |
+Forward contracts | 7 | -- | 7 | (4) | (1) | 2 |
+$ | 327 | $ | -- | $ | 327 | $ | (83) | $ | (210) | $ | 34 |
+(a)Included in other assets on the Consolidated Balance Sheets. As of both June 30, 2026 and December 31, 2025, less than $1 million of derivative assets has been excluded from these tables because they are generally not subject to master netting or similar agreements.
+The following table provides details of derivative liabilities and collateral pledged as presented on the Consolidated Balance Sheets as of June 30, 2026 and December 31, 2025.
+DERIVATIVE LIABILITIES & COLLATERAL PLEDGED |
+Gross amounts not offset
+in the Balance Sheets |
+(Dollars in millions) | Gross amounts
+of recognized
+liabilities | Gross amounts
+offset in the
+Balance Sheets | Net amounts of
+liabilities presented
+in the Balance Sheets (a) | Derivative
+
+----- [line 3094] -----
+As part of FHN's ongoing risk management practices, FHN attempts to work with borrowers when appropriate to extend or modify loan terms to better align with their current ability to repay. Modifications to loans are made in accordance with internal policies and guidelines which conform to regulatory guidance. Each occurrence is unique to the borrower and is evaluated separately. See Note 1 - Basis of Presentation and Accounting Policies, Note 3 - Loans and Leases, and Note 4 - Allowance for Credit Losses to the Consolidated Financial Statements in Part I, Item 1 of this report for further discussion regarding troubled loan modifications.
+Commercial Loan Modifications
+As part of FHN's credit risk management governance processes, the Special Assets Department ("SAD") is responsible for managing most commercial relationships with borrowers whose financial condition has deteriorated to such an extent that the credits are individually reviewed for expected credit losses, classified as substandard or worse, placed on nonaccrual status, foreclosed or in process of foreclosure, or in active or contemplated litigation. SAD has the authority and responsibility to enter into workout and/or rehabilitation agreements with troubled commercial borrowers in order to mitigate and/or minimize the amount of credit losses recognized from these problem assets. While every circumstance is different, SAD will generally use forbearance agreements (generally 6-12 months) as an element of commercial loan workouts, which might include reduced interest rates, reduced payments, release of a guarantor, term extensions, or entering into short sale agreements. Principal forgiveness may be granted in specific workout circumstances.
+The individual expected credit loss assessments completed on commercial loans may be used in evaluating the appropriateness of qualitative adjustments to quantitatively modeled loss expectations for loans that are not considered collateral dependent. If a loan is considered collateral dependent, it is individually evaluated based on data specific to the borrower and related collateral, if any. Such estimates may be based on
+current loss forecasts, an evaluation of the fair value of the collateral, or, in certain circumstances, the present value of expected cash flows discounted at the loan's effective interest rate.
+The fair value of collateral is generally based on appraisals periodically updated, recent sales of foreclosed properties and/or relevant property specific market information, less estimated costs to sell, if applicable. Commercial loans are typically secured by real estate, business equipment, inventories, and other types of collateral. Each assessment considers any modified terms and is comprehensive to ensure appropriate assessment of expected credit losses.
+Consumer Loan Modifications
+FHN does not currently participate in any of the loan modification programs sponsored by the U.S. government for its portfolio loans, but does generally structure modified consumer loans using the parameters of the former Home Affordable Modification Program.
+Within the HELOC and permanent mortgage installment loans in the consumer portfolio segment, troubled loans are typically modified by reducing the interest rate (in increments of 25 basis points to a minimum of 3%) and a possible maturity date extension of up to 30 years to reach an affordable housing expense-to-income ratio.
+Within the credit card class of the consumer portfolio segment, troubled loans are typically modified through either a short-term credit card hardship program or a longer-term credit card workout program. In the credit card hardship program, borrowers may be granted rate and payment reductions for 6 months to 1 year. In the credit card workout program, clients are granted a rate reduction to 0% and term extensions for up to 5 years to pay off the remaining balance.
+Consumer loans may also be modified through court-imposed principal reductions in bankruptcy proceedings, which FHN is required to honor unless a borrower reaffirms the related debt.
+Investment Securities
+FHN's investment securities portfolio consists principally of debt securities available for sale. FHN maintains a securities portfolio consisting primarily of bank-eligible GSE and GNMA issued mortgage-backed securities and collateralized mortgage obligations. The securities portfolio provides a source of income and liquidity and is an important tool used to balance the interest rate risk of the loan and deposit portfolios. The securities portfolio is periodically evaluated in light of established ALM objectives, changing market conditions that could affect the profitability of the portfolio, the regulatory
+environment, and the level of interest rate risk to which FHN is exposed. These evaluations may result in steps taken to adjust the overall balance sheet positioning.
+Investment securities were $9.1 billion as of June 30, 2026 compared to $9.4 billion as of December 31, 2025, representing 11% of total assets for both periods. See Note 2 - Investment Securities to the Consolidated Financial Statements in Part I, Item 1 of this Report for more information about the securities portfolio.
+92
+2Q26 FORM 10-Q REPORT |
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION & ANALYSIS (MD&A) |
+Table of Contents
+Deposits
+The following table summarizes deposits by type and insured status as of June 30, 2026 and December 31, 2025.
+Table I.2.16
+DEPOSITS
+June 30, 2026 | December 31, 2025 |
+(Dollars in millions) | Amount | Percent of total | Amount | Percent of total | Change | Percent |
+Deposits by type: |
+Savings | $ | 25,552 | 38 | % | $ | 26,010 | 39 | % | $ | (458) | (2) | % |
+Time deposits | 10,018 | 15 | 6,485 | 10 | 3,533 | 54 |
+Other interest-bearing deposits | 16,508 | 24 | 19,158 | 28 | (2,650) | (14) |
+Total interest-bearing deposits | 52,078 | 77 | 51,653 | 77 | 425 | 1 |
+Noninterest-bearing deposits | 15,994 | 23 | 15,823 | 23 | 171 | 1 |
+Total deposits | $ | 68,072 | 100 | % | $ | 67,476 | 100 | % | $ | 596 | 1 | % |
+Deposits by insured status: |
+Insured | $ | 40,328 | 59 | % | $ | 39,422 | 58 | % | $ | 906 | 2 | % |
+Uninsured and uncollateralized | 22,686 | 33 | 22,817 | 34 | (131) | (1) |
+Uninsured and collateralized | 5,058 | 8 | 5,237 | 8 | (179) | (3) |
+Total uninsured | 27,744 | 41 | 28,054 | 42 | (310) | (1) |
+Total deposits | $ | 68,072 | 100 | % | $ | 67,476 | 100 | % | $ | 596 | 1 | % |
+Total deposits increased 1% to $68.1 billion as of June 30, 2026 compared to $67.5 billion as of December 31, 2025, as interest-bearing deposits increased $425 million and noninterest-bearing deposits increased $171 million. The increase in time deposits was partially offset by a decline in other interest-bearing deposits, as brokered deposit balances fluctuated between money market deposits and time deposits. Total brokered deposits increased to $7.8 billion as of June 30, 2026, compared to $6.0 billion as of December 31, 2025.
+FHN continues to maintain a well-diversified and stable funding mix across its footprint and specialty lines of
+business. At June 30, 2026, commercial deposits were $41.1 billion, or 60% of total deposits, and consumer deposits were $27.0 billion, or 40% of total deposits. At December 31, 2025, commercial deposits were $39.4 billion, or 58% of total deposits, and consumer deposits were $28.1 billion, or 42% of total deposits.
+See Tables I.2.2 and I.2.3 - Average Balances, Net Interest Income and Yields/Rates in this report for information on average deposits, including average rates paid.
+Short-Term Borrowings
+Short-term borrowings include federal funds purchased, securities sold under agreements to repurchase, trading liabilities, and other short-term borrowings. Total short-term borrowings decreased to $3.5 billion as of June 30, 2026 compared to $3.9 billion as of December 31, 2025. Federal funds purchased and securities sold under agreements to repurchase decreased $852 million and trading liabilities decreased $74 million, while FHLB borrowings increased $550 million.
+Short-term borrowings balances fluctuate largely based on the level of FHLB borrowing as a result of loan demand, deposit levels, and balance sheet funding strategies.
+Trading liabilities fluctuate based on various factors, including levels of trading securities and hedging strategies. The amount of federal funds purchased fluctuates depending on the amount of excess funding of FHN's correspondent bank customers. Balances of securities sold under agreements to repurchase fluctuate based on cost attractiveness relative to FHLB borrowing levels and the ability to pledge securities toward such transactions.
+Term Borrowings
+Term borrowings include senior and subordinated borrowings with original maturities greater than one year.
+Total term borrowings were $1.3 billion as of both June 30, 2026 and December 31, 2025.
+93
+2Q26 FORM 10-Q REPORT |
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION & ANALYSIS (MD&A) |
+Table of Contents
+Capital
+Management's objectives are to provide capital sufficient to cover the risks inherent in FHN's businesses, to maintain excess capital to well-capitalized standards, and to ensure ready access to the capital markets.
+Total equity was $9.5 billion and $9.1 billion at June 30, 2026 and December 31, 2025, respectively. Significant changes included net income of $541 million and $392 million from the Series H preferred stock issuance, offset by $356 million in common stock repurchases, $183
+million in common and preferred dividends, $57 million from the Series C preferred stock redemption, and a $36 million decrease in AOCI.
+The following tables provide a reconciliation of shareholders' equity from the Consolidated Balance Sheets to Common Equity Tier 1, Tier 1, and Total Regulatory Capital, as well as certain selected capital ratios.
+Table I.2.17
+REGULATORY CAPITAL DATA
+(Dollars in millions) | June 30, 2026 | December 31, 2025 |
+FHN shareholders' equity | $ | 9,168 | $ | 8,847 |
+FHN non-cumulative perpetual preferred stock | (682) | (349) |
+Common equity tier 1 before regulatory adjustments | $ | 8,486 | $ | 8,498 |
+Regulatory adjustments: |
+Disallowed goodwill and other intangibles | $ | (1,532) | $ | (1,548) |
+Net unrealized (gains) losses on securities available for sale | 535 | 512 |
+Net unrealized (gains) losses on pension and other postretirement plans | 252 | 256 |
+Net unrealized (gains) losses on cash flow hedges | 59 | 42 |
+Common equity tier 1 | $ | 7,800 | $ | 7,760 |
+FHN non-cumulative perpetual preferred stock | 682 | 349 |
+Qualifying noncontrolling interest-- First Horizon Bank preferred stock | 295 | 295 |
+Tier 1 capital | $ | 8,777 | $ | 8,404 |
+
+----- [line 3284] -----
+December 31, 2025 |
+(Dollars in millions) | Mean | High | Low |
+1-day |
+VaR | $ | 2 | $ | 3 | $ | 1 | $ | 2 |
+SVaR | 7 | 9 | 6 | 7 |
+10-day |
+VaR | 6 | 8 | 3 | 7 |
+SVaR | 37 | 47 | 28 | 37 |
+97
+2Q26 FORM 10-Q REPORT |
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION & ANALYSIS (MD&A) |
+Table of Contents
+FHN's overall VaR measure includes both interest rate risk and credit spread risk. Separate measures of these component risks are as follows.
+Table I.2.22
+SCHEDULE OF RISKS INCLUDED IN VaR
+As of
+June 30, 2026 | As of
+June 30, 2025 | As of
+December 31, 2025 |
+(Dollars in millions) | 1-day | 10-day | 1-day | 10-day | 1-day | 10-day |
+Interest rate risk | $ | 1 | $ | 3 | $ | 1 | $ | 2 | $ | 1 | $ | 2 |
+Credit spread risk | -- | 1 | -- | 1 | -- | 1 |
+The potential risk of loss reflected by FHN's VaR measures assumes the trading securities inventory is static. Because FHN Financial procures fixed income securities for purposes of distribution to clients, its trading securities inventory turns over regularly. Additionally, FHNF traders actively manage the trading securities inventory continuously throughout each trading day. Accordingly, FHNF's trading securities inventory is highly dynamic, rather than static. As a result, it would be rare for FHNF to incur a negative revenue day in its fixed income activities at the levels indicated by its VaR measures.
+In addition to being used in FHN's daily market risk management process, the VaR and SVaR measures are used by FHN in computing its regulatory market risk capital requirements in accordance with the market risk capital rules. For additional information regarding FHN's capital adequacy refer to the Capital section of this MD&A.
+FHN also performs stress tests on its trading securities portfolio to calculate the potential loss under various assumed market scenarios. Key assumed stresses used in those tests are:
+Down 25 bps - assumes an instantaneous downward move in interest rates of 25 basis points at all points on the interest rate yield curve.
+Up 25 bps - assumes an instantaneous upward move in interest rates of 25 basis points at all points on the interest rate yield curve.
+Curve flattening - assumes an instantaneous flattening of the interest rate yield curve through an increase in short-term rates and a decrease in long-term rates. The 2-year point on the Treasury yield curve is assumed to increase 15 basis points and the 10-year point on the Treasury yield curve is assumed to decrease 15 basis points. Shifts in other points on the yield curve are predicted based on their correlation to the 2-year and 10-year points.
+Curve steepening - assumes an instantaneous steepening of the interest rate yield curve through a decrease in short-term rates and an increase in long-term rates. The 2-year point on the Treasury yield curve is assumed to decrease 15 basis points and the 10-year point on the Treasury yield curve is assumed to increase
+15 basis points. Shifts in other points on the yield curve are predicted based on their correlation to the 2-year and 10-year points.
+Credit spread widening - assumes an instantaneous increase in credit spreads (the difference between yields on Treasury securities and non-Treasury securities) of 25 basis points.
+Model Validation
+Trading risk management personnel within FHN have primary responsibility for model risk management with respect to the model used by FHN to compute its VaR measures and perform stress testing on the trading inventory. Among other procedures, these personnel monitor model results and perform periodic backtesting as part of an ongoing process of validating the accuracy of the model. Backtesting compares the previous day's VaR measurement to a regulatory-prescribed calculation of daily trading profit/loss in the trading inventory. During the three and six months ended June 30, 2026, and the year ended December 31, 2025, there were no days in which the regulatory-prescribed calculation reflected a loss in the trading inventory that exceeded the corresponding daily VaR measurement, resulting in zero backtesting exceptions. Model risk management activities are subject to annual review by FHN's Model Validation Group, an independent assurance group charged with oversight responsibility for FHN's model risk management.
+98
+2Q26 FORM 10-Q REPORT |
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION & ANALYSIS (MD&A) |
+Table of Contents
+Interest Rate Risk Management
+Net Interest Income Simulation Analysis
+The information provided in this section, including the discussion regarding the outcomes of simulation analysis and rate shock analysis, is forward-looking. Actual results, if the assumed scenarios were to occur, could differ because of interest rate movements, the ability of management to execute its business plans, and other factors, including those presented in the Forward-Looking Statements section of this report.
+Management uses a simulation model to measure interest rate risk and to formulate strategies to improve balance sheet positioning, earnings, or both, within FHN's interest rate risk, liquidity, and capital guidelines. Interest rate exposure is measured by forecasting 12 months of NII under various interest rate scenarios and comparing the percentage change in NII for each scenario to a base case scenario where interest rates remain unchanged.
+Assumptions are made regarding future balance sheet composition, interest rate movements, and loan and deposit pricing. In addition, assumptions are made about the magnitude of asset prepayments and earlier than anticipated deposit withdrawals. The results of these scenarios help FHN develop strategies for managing exposure to interest rate risk. While management believes the assumptions used and scenarios selected in its simulations are reasonable, simulation modeling provides only an estimate, not a precise calculation, of exposure to any given change in interest rates.
+Based on a static balance sheet as of June 30, 2026, NII exposures over the next 12 months, assuming rate shocks of plus/minus 100 basis points and plus/minus 200 basis points, are estimated to have variances as shown in Table I.2.23.
+Table I.2.23
+INTEREST RATE SENSITIVITY
+Shifts in Interest Rates
+(in bps) | % Change in Projected
+Net Interest Income |
+-200 | (6.7)% |
+-100 | (3.3)% |
++100 | 2.9% |
++200 | 5.4% |
+A steepening yield curve scenario, where long-term rates increase by 50 basis points and short-term rates are static, results in a favorable NII variance of 0.4%. A flattening yield curve scenario, where long-term rates decrease by 50 basis points and short-term rates are static, results in an unfavorable NII variance of 0.4%. These hypothetical scenarios are used to create a risk measurement framework and do not necessarily represent management's current view of future interest rates or market developments.
+Use of Derivatives to Manage Interest Rate Risk
+FHN engages in balance sheet hedging activity, principally for asset and liability management purposes. Cash flow hedges are executed to modify interest rate characteristics of designated commercial loans in order to reduce the impact of changes in future cash flows due to market interest rate changes. The following table presents all swap and floor positions that are utilized for purposes of managing exposures to the variability of interest rates.
+Table I.2.24
+INTEREST RATE DERIVATIVES DESIGNATED AS CASH FLOW HEDGES
+June 30, 2026 |
+(Dollars in millions) | Notional Value | Fair Value | Weighted-Average Maturity (in years) | Weighted Average Fixed Rate (swaps)/Strike Rate (floors) |
+Receive fixed SOFR swaps - Loans | $ | 2,000 | $ | (48) | 2.0 | 2.78 | % |
+Floors | 3,000 | 2 | 1.9 | 1.88 | % |
+Total | $ | 5,000 | $ | (46) |
+December 31, 2025 |
+(Dollars in millions) | Notional Value | Fair Value | Weighted-Average Maturity (in years) | Weighted Average Fixed Rate (swaps)/Strike Rate (floors) |
+Receive fixed SOFR swaps - Loans | $ | 2,000 | $ | (29) | 2.5 | 2.78 | % |
+Floors | 3,000 | 15 | 2.4 | 1.88 | % |
+Total | $ | 5,000 | $ | (14) |
+99
+2Q26 FORM 10-Q REPORT |
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION & ANALYSIS (MD&A) |
+Table of Contents
+Liquidity Risk Management
+Among other things, ALCO is responsible for liquidity management: the funding of assets with liabilities of appropriate duration, while mitigating the risk of unexpected cash needs. ALCO and the Board of Directors have adopted a Liquidity Policy with the objective of ensuring that FHN meets its cash and collateral obligations promptly, in a cost-effective manner, and with the highest degree of reliability. The maintenance of adequate levels of asset and liability liquidity should provide FHN with the ability to meet both expected and unexpected cash and collateral needs. Key liquidity ratios, asset liquidity levels, and the amount available from funding sources are reported to ALCO on a regular basis. FHN's Liquidity Policy establishes liquidity limits that are deemed appropriate for FHN's risk profile.
+In accordance with the Liquidity Policy, ALCO manages FHN's exposure to liquidity risk through forecasts of its liquidity position and funding needs. Base liquidity forecasts are reviewed by ALCO and are updated as financial conditions dictate. In addition to the baseline liquidity reports, stress testing of assumptions and funds availability is periodically conducted. FHN maintains a contingency funding plan that may be executed should unexpected difficulties arise in accessing funding that affects FHN, the industry, or both. As of June 30, 2026, available liquidity sources included cash, incremental borrowing capacity at the FHLB, access to Federal Reserve Bank borrowings through the discount window, and unencumbered securities. Additional sources of liquidity included dealer and commercial customer repurchase agreements, access to Federal Funds markets, brokered deposits, loan sales, and syndications. The table below details FHN's sources of available liquidity at June 30, 2026.
+Table I.2.25
+AVAILABLE LIQUIDITY
+as of June 30, 2026
+(Dollars in millions) | Total
+Capacity | Outstanding Borrowings | Available Liquidity |
+Cash on deposit with FRB (a) | $ | 1,060 | $ | -- | $ | 1,060 |
+FHLB | 9,128 | 600 | 8,528 |
+Discount Window | 22,216 | -- | 22,216 |
+Unencumbered securities (b) | 1,647 | -- | 1,647 |
+Total available liquidity
+$ | 33,451 |
+(a)Included in interest-bearing deposits with banks on the Consolidated Balance Sheets.
+(b)Subject to market haircuts on collateral.
+Generally, a primary source of funding for a bank is core deposits from the bank's client base. The period-end
+loans-to-deposits ratio was 96% as of June 30, 2026 and 95% as of December 31, 2025.
+FHN may also use unsecured short-term borrowings as a source of liquidity. Federal funds purchased from correspondent bank clients are considered to be substantially more stable than funds purchased in the national broker markets for federal funds due to the long, historical, and reciprocal nature of banking services provided by FHN to these correspondent banks. The remainder of FHN's wholesale short-term borrowings consists of securities sold under agreements to repurchase transactions accounted for as secured borrowings with business clients or broker-dealer counterparties.
+Both FHN and First Horizon Bank have the ability to generate liquidity by issuing senior or subordinated unsecured debt, preferred equity, and common equity, subject to market conditions and compliance with applicable regulatory requirements. As of June 30, 2026, FHN had outstanding $946 million in senior and subordinated unsecured debt. During first quarter 2026, FHN issued $400 million of Series H Non-Cumulative Perpetual Preferred Stock. FHN redeemed all outstanding shares of its Series C Non-Cumulative Perpetual Preferred Stock, effective May 1, 2026. As a result, FHN had $682 million in non-cumulative perpetual preferred stock outstanding as of June 30, 2026. Refer to Note 7 -- Preferred Stock in the Consolidated Financial Statements in Part I, Item 1 of this report for additional information. As of June 30, 2026, First Horizon Bank and subsidiaries had outstanding preferred shares of $295 million, which are reflected as noncontrolling interest on the Consolidated Balance Sheets.
+Parent company liquidity is primarily provided by cash flows stemming from dividends and interest payments collected from subsidiaries. These sources of cash represent the primary sources of funds to pay cash dividends to shareholders and principal and interest to debt holders of FHN. Applying the dividend restrictions imposed under applicable federal and state rules, the Bank's total amount available for dividends was $345 million as of July 1, 2026.
+First Horizon Bank declared and paid common dividends to the parent company in the amount of $50 million in first quarter 2026, $270 million in second quarter 2026, and $240 million in third quarter 2026. Total common dividends of $1.0 billion were declared and paid to the parent company in 2025. First Horizon Bank declared and paid preferred dividends in first and second quarter 2026 and in each quarter of 2025. Additionally, First Horizon Bank declared preferred dividends in third quarter 2026, payable in October 2026.
+Payment of a dividend to shareholders of FHN is dependent on several factors which are considered by the Board. These factors include FHN's current and
+100
+2Q26 FORM 10-Q REPORT |
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION & ANALYSIS (MD&A) |
+Table of Contents
+prospective capital, liquidity, and other needs, applicable regulatory restrictions (including capital conservation buffer requirements) and availability of funds to FHN through a dividend from First Horizon Bank. Additionally, banking regulators generally require insured banks and bank holding companies to pay cash dividends only out of current operating earnings. Consequently, the decision of whether FHN will pay future dividends and the amount of dividends will be affected by current operating results.
+FHN paid a cash dividend of $0.17 per common share on July 1, 2026. FHN paid cash dividends of $1,625 per Series E preferred share, $1,175 per Series F preferred share, and $2,212.50 per Series H preferred share on July 10, 2026. In addition, in July 2026, the Board approved cash dividends per share in the following amounts:
+Table I.2.26
+CASH DIVIDENDS
+APPROVED BUT NOT PAID
+Dividend/Share | Record Date | Payment Date |
+Common Stock | $ | 0.17 | 09/11/2026 | 10/01/2026 |
+Preferred Stock |
+Series E | $ | 1,625.00 | 09/28/2026 | 10/13/2026 |
+Series F | $ | 1,175.00 | 09/28/2026 | 10/13/2026 |
+Series H | $ | 1,687.50 | 09/28/2026 | 10/13/2026 |
+Off-Balance Sheet Arrangements
+In the normal course of business, FHN is a party to a number of activities that contain credit, market and operational risk that are not reflected in whole or in part in the consolidated financial statements. Such activities include traditional off-balance sheet credit-related financial instruments. FHN enters into commitments to extend credit to borrowers, including loan commitments, lines of credit, standby letters of credit, and commercial letters of credit. Many of the commitments are expected to expire unused or be only partially used; therefore, the total amount of commitments does not necessarily represent future cash requirements. Based on its available liquidity and available borrowing capacity, FHN anticipates it will continue to have sufficient funds to meet its current commitments.
+Market Uncertainties and Prospective Trends
+FHN's future results could be affected both positively and negatively by several known trends. Key among those are changes in the U.S. and global economy and outlook, government actions affecting interest rates, and government actions and proposals which could have positive or negative impacts on the economy at large or on certain businesses, industries, or sectors, including changes in fiscal policy and changes in trade policy, such as the imposition of tariffs and related retaliatory responses. Additional risks relate to geopolitical instability
+
+----- [line 3538] -----
+(H)/(F) Return on average common equity (GAAP) | 12.33 | 11.14 | 12.30 | 10.72 |
+(H)/(G) Return on average tangible common equity (Non-GAAP) | 15.21 | 13.85 | 15.17 | 13.33 |
+(B)/(I) Book value per common share (GAAP) | $ | 17.91 | $ | 16.78 | $ | 17.91 | $ | 16.78 |
+(C)/(I) Tangible book value per common share (Non-GAAP) | $ | 14.53 | $ | 13.57 | $ | 14.53 | $ | 13.57 |
+(a) Included in total equity on the Consolidated Balance Sheets.
+(b) Includes goodwill and other intangible assets, net of amortization.
+106
+2Q26 FORM 10-Q REPORT |
+PART I, ITEM 3. DISCLOSURES ABOUT MARKET RISK AND ITEM 4. CONTROLS & PROCEDURES
+Table of Contents
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+The information called for by this item is contained in
+(a) Management's Discussion and Analysis of Financial Condition and Results of Operations included as Item 2 of Part I of this report, including in particular the section entitled "Risk Management" beginning on page 97 of this report and the subsections entitled "Market Risk Management" beginning on page 97 and "Interest Rate Risk Management" beginning on page 99 of this report, and
+(b) Note 14 to the Consolidated Financial Statements appearing on pages 46-52 of this report, all of which materials are incorporated herein by reference.
+For additional information concerning market risk and our management of it, refer to: Management's Discussion and Analysis of Financial Condition and Results of Operations appearing in Item 7 of FHN's Annual Report on Form 10-K for the year ended December 31, 2025, including in particular the section entitled "Risk Management" beginning on page 67 of that report and the subsections entitled "Market Risk Management" beginning on page 68 and "Interest Rate Risk Management" beginning on page 70 of that report; and Note 21 to the Consolidated Financial Statements appearing on pages 160-166 of Item 8 of that report.
+Item 4. Controls and Procedures
+(a)Evaluation of Disclosure Controls and Procedures. Our management, with the participation of our Chief Executive Officer and Chief Financial Officer, has evaluated the effectiveness of our disclosure controls and procedures (as defined in Exchange Act Rule 13a-15(e)) as of the end of the period covered by this quarterly report. Based on that evaluation, the Chief Executive Officer and the Chief Financial Officer have concluded that our disclosure controls and procedures
+were effective as of the end of the period covered by this report.
+(b)Changes in Internal Control over Financial Reporting. There have not been any changes in our internal control over financial reporting during the second fiscal quarter that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+107
+2Q26 FORM 10-Q REPORT |
+PART II--OTHER INFORMATION, ITEMS 1. THROUGH 5. |
+Table of Contents
+PART II. OTHER INFORMATION
+Item 1. Legal Proceedings
+The "Contingencies" section of Note 10 to the Consolidated Financial Statements beginning on page 33 of this report is incorporated into this Item by reference.
+Item 1A. Risk Factors
+Material changes from risk factor disclosures in FHN's Annual Report on Form 10-K for the year ended December 31, 2025:
+Not applicable.
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+(a) Unregistered Equity Securities Sold
+Not applicable
+(b) Use of Proceeds If Rule 463 is Applicable
+Not applicable
+(c) Equity Repurchases
+The "Common Stock Purchase Program" section including tables I.2.19 and I.2.20 and explanatory discussions
+included in Item 2 of Part I of this report under the heading "Management's Discussion and Analysis of Financial Condition and Results of Operations," beginning on page 95 of this report, is incorporated herein by reference.
+Items 3. and 4.
+Not applicable
+108
+2Q26 FORM 10-Q REPORT |
+PART II--OTHER INFORMATION, ITEMS 1. THROUGH 5. |
+Table of Contents
+Item 5. Other Information
+(a) Previously Unreported 8-K Disclosures
+Not applicable
+(b) Change in Nomination Procedures
+Not applicable
+(c) Trading Arrangement Disclosures
+During the second quarter of 2026, the following directors or executive officers (those officers who are required to file stock ownership reports on SEC Forms 3, 4, and 5) adopted, modified, or terminated the Rule 10b5-1 trading arrangements and the non-Rule 10b5-1 trading arrangements shown in Table II.5c below.
+Unless otherwise explicitly indicated in a footnote to the Table, each arrangement marked in the Table as "10b5-1" under the "Arrangement Type" column is intended by its maker, as reported to FHN, to satisfy the affirmative defense requirements of SEC Rule 10b5-1(c).
+If "Not applicable" appears in the Table, then for the second quarter of 2026 no director or executive officer of FHN adopted, modified, or terminated any Rule 10b5-1 trading arrangement or any non-Rule 10b5-1 trading arrangement.
+Table II.5c
+TRADING ARRANGEMENTS CREATED, MODIFIED, OR TERMINATED MOST RECENT QUARTER
+Arrangement Type | Type of Action Taken During Quarter | Date Action Taken | Duration or Expiration Date | Total Shares to be |
+Name & Title | 10b5-1 | non-10b5-1 | Bought | Sold |
+Not applicable |
+Item 6. Exhibits
+(a)Exhibits
+In the Exhibit Table: the "Filed Here" column denotes each exhibit which is filed or furnished (as applicable) with this report; the "Mngt. Exh." column denotes each exhibit that represents a management contract or compensatory plan or arrangement required to be identified as such; and the "Furnished" column denotes each exhibit that is "furnished" pursuant to 18 U.S.C. Section 1350 or otherwise, and is not "filed" as part of this report or as a separate disclosure document.
+In many agreements filed as exhibits, each party makes representations and warranties to other parties. Those representations and warranties are made only to and for the benefit of those other parties in the context of a business contract. Exceptions to such representations and warranties may be partially or fully waived by such parties, or not enforced by such parties, in their discretion. No such representation or warranty may be relied upon by any other person for any purpose.
+10-Q EXHIBIT TABLE
+Exh. No. | Description of Exhibit to this Report | Filed Here | Mngt. Exh. | Furnished
+Incorporated by Reference to |
+Form | Exh. No. | Filing Date |
+3.1 | Amended and Restated Charter of First Horizon Corporation [2024]
+8-K | 3.1 | 7/24/2024 |
+3.2
+Articles of Amendment to the Amended and Restated Charter, of the Company, related to the Series H Preferred Stock
+8-K
+3.1
+3/12/2026 |
+3.3
+Bylaws of First Horizon Corporation, as amended and restated effective July 27, 2026

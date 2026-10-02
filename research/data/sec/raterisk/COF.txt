@@ -1,0 +1,514 @@
+# COF 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/927628/000092762826000089/cof-20260630.htm
+# full_doc_chars=613078
+
+
+----- [line 221] -----
+25 | Net Charge-Offs (Recoveries)
+47
+26 | Allowance for Credit Losses and Reserve for Unfunded Lending Commitments Activity
+49
+27 | Liquidity Reserves
+51
+28 | Deposits Composition and Average Deposits Interest Rates
+53
+29 | Long-Term Debt Funding Activities
+54
+30 | Senior Unsecured Long-Term Debt Credit Ratings
+55
+31 | Interest Rate Sensitivity Analysis
+58
+Supplemental Table:
+A | Reconciliation of Non-GAAP Measures
+63
+3
+Capital One Financial Corporation (COF) |
+Table of Contents
+PART I--FINANCIAL INFORMATION
+Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations ("MD&A")
+This discussion contains forward-looking statements that are based upon management's current expectations and are subject to significant uncertainties and changes in circumstances. Please review "Forward-Looking Statements" for more information on the forward-looking statements in this Quarterly Report on Form 10-Q ("this Report"). All statements that address operating performance, events or developments that we expect or anticipate will occur in the future are forward-looking statements. Our actual results may differ materially from those included in these forward-looking statements due to a variety of factors including, but not limited to, those described in "Part I--Item 1A. Risk Factors" in our 2025 Annual Report on Form 10-K ("2025 Form 10-K") and "Part II--Item 1A. Risk Factors" in this Report. Unless otherwise specified, references to notes to our consolidated financial statements refer to the notes to our consolidated financial statements as of June 30, 2026 included in this Report.
+Management monitors a variety of key indicators to evaluate our business results and financial condition. The following MD&A is provided as a supplement to, and should be read in conjunction with, our consolidated financial statements and related notes in this Report and the more detailed information contained in our 2025 Form 10-K.
+INTRODUCTION
+Capital One Financial Corporation, a Delaware corporation established in 1994 and headquartered in McLean, Virginia, is a diversified financial services holding company with banking and non-banking subsidiaries. Capital One Financial Corporation and its subsidiaries (the "Company" or "Capital One") operate as a global payments provider and diversified financial institution, delivering a broad array of financial products and services to consumers, small businesses and commercial clients through digital channels, branch locations, caf&#233;s and other distribution channels.
+Capital One Financial Corporation's principal operating subsidiary was Capital One, National Association ("CONA"). On May 18, 2025 (the "Closing Date"), Discover Financial Services ("Discover") merged into Capital One and Discover Bank merged into CONA. See "Part II--Item 8. Financial Statements and Supplementary Data--Note 2--Business Combinations and Discontinued Operations" in our 2025 Form 10-K for additional information. The Company is hereafter collectively referred to as "we," "us" or "our." CONA is referred to as the "Bank."
+We offer credit cards, debit cards, bank lending, treasury management and depository services, auto loans, and other consumer lending products in markets across the United States ("U.S."). We service banking customer accounts through digital channels and our network of branch locations, caf&#233;s, call centers and automated teller machines ("ATMs"). Additionally, through the acquisition of Discover, we acquired new products, including personal loans as well as the Discover Network, the PULSE Network and Diners Club (collectively, the "Global Payment Network").
+We also offer credit card products and certain other services outside of the U.S. principally through Capital One (Europe) plc ("COEP"), an indirect subsidiary of CONA organized and located in the United Kingdom ("U.K."), and through a branch of CONA in Canada. Both COEP and our Canadian branch of CONA have the authority to provide credit card loans. In addition, we offer Global Payment Network services globally.
+Our consolidated total net revenues are derived primarily from lending to consumer and commercial customers net of funding costs associated with our deposits, long-term debt and other borrowings. We also earn non-interest income which primarily consists of discount and interchange income, net of reward expenses, and service charges and other customer-related fees. Our expenses primarily consist of the provision for credit losses, operating expenses, marketing expenses and income taxes.
+Our principal operations are organized for management reporting purposes into three major business segments, which are defined primarily based on the products and services provided or the types of customers served: Credit Card, Consumer Banking and Commercial Banking. The operations of acquired businesses have been integrated into or managed as a part of our existing business segments. Certain activities that are not part of a business segment are included in the Other category, such as the management of our corporate investment portfolio and asset/liability positions performed by our centralized Corporate Treasury group and any residual tax expense or benefit beyond what is assessed to our business segments in order to arrive at the consolidated effective tax rate. The Other category also includes unallocated corporate expenses that do not directly support
+4
+Capital One Financial Corporation (COF) |
+Table of Contents
+the operations of the business segments or for which the business segments are not considered financially accountable in evaluating their performance, such as certain restructuring charges and Discover integration expenses.
+&#8226;Credit Card: Consists of our domestic consumer card lending, personal loans, domestic small business card lending, corporate card lending and international card businesses in the U.K. and Canada.
+&#8226;Consumer Banking: Consists of our deposit gathering and lending activities for consumers and small businesses, national auto lending and services offered by the Global Payment Network.
+&#8226;Commercial Banking: Consists of our lending, deposit gathering, capital markets and treasury management services to commercial real estate and commercial and industrial customers. Our customers typically include companies with annual revenues between $20 million and $2 billion.
+Business Developments
+We regularly explore and evaluate opportunities to acquire financial products and services as well as financial assets, including credit card and other loan portfolios, and enter into strategic partnerships as part of our growth strategy. We also explore opportunities to acquire technology companies and related assets to improve our information technology infrastructure and to deliver on our digital strategy. We may issue equity or debt to fund our acquisitions. In addition, we regularly consider the potential disposition of certain of our assets, branches, partnership agreements or lines of business.
+Discover Acquisition
+On February 19, 2024, the Company entered into an agreement and plan of merger (the "Merger Agreement"), by and among Capital One, Discover, a Delaware corporation and Vega Merger Sub, Inc., a Delaware corporation and a direct, wholly owned subsidiary of the Company ("Merger Sub"). On May 18, 2025, the Company closed the acquisition of Discover, pursuant to which (i) Merger Sub merged with and into Discover, with Discover as the surviving entity in the merger (the "Merger"); (ii) immediately following the Merger, Discover, as the surviving entity, merged with and into Capital One, with Capital One as the surviving entity in the second-step merger (the "Second Step Merger"); and (iii) immediately following the Second Step Merger, Discover Bank, a Delaware-chartered and wholly owned subsidiary of Discover, merged with and into CONA, with CONA as the surviving entity in the merger (the "CONA Bank Merger," and collectively with the Merger and Second Step Merger, the "Transaction" or "Discover acquisition").
+For additional information on the Transaction, see "Part II--Item 8. Financial Statements and Supplementary Data--Note 2--Business Combinations and Discontinued Operations" in our 2025 Form 10-K.
+Brex Acquisition
+On April 7, 2026, the Company completed its previously announced acquisition of Brex Inc., a Delaware corporation ("Brex" and such acquisition, the "Brex acquisition"), pursuant to the terms of an Agreement and Plan of Merger and Reorganization, dated as of January 22, 2026 with Brex and certain other parties thereto. Brex offers businesses solutions to issue corporate cards, automate expense management and make secure, real-time payments. The Brex acquisition enhances the Company's offerings in the business payments marketplace. The total consideration paid to Brex shareholders for the acquisition was approximately $4.5 billion and included $2.6 billion of cash consideration and 10.6 million shares of common stock, par value $0.01 per share, of the Company with a fair value of $1.9 billion. The consideration is also subject to customary post-closing adjustments. Immediately following the completion of the Brex acquisition, the Company paid off Brex's outstanding debt of $1.1 billion.
+5
+Capital One Financial Corporation (COF) |
+Table of Contents
+SELECTED FINANCIAL DATA
+The following table presents selected consolidated financial data and performance from our results of operations for the second quarter and first six months of 2026 and 2025 and selected comparative balance sheet data as of June 30, 2026 and December 31, 2025. We also provide selected key metrics we use in evaluating our performance, including certain metrics that are computed using non-GAAP measures. We consider these metrics to be key financial measures that management uses in assessing our operating performance, capital adequacy and the level of returns generated. We believe these non-GAAP metrics provide useful insight to investors and users of our financial information as they provide an alternate measurement of our performance and assist in assessing our capital adequacy and the level of return generated. These non-GAAP measures should not be viewed as a substitute for reported results determined in accordance with generally accepted accounting principles in the U.S. ("U.S. GAAP"), nor are they necessarily comparable to non-GAAP measures that may be presented by other companies.
+Table 1: Consolidated Financial Highlights
+Three Months Ended June 30, | Six Months Ended June 30, |
+(Dollars in millions, except per share data and as noted) | 2026 | 2025 | Change | 2026 | 2025 | Change
+Income statement |
+Net interest income | $ | 12,374 | $ | 9,995 | 24% | $ | 24,519 | $ | 18,008 | 36% |
+Non-interest income | 3,476 | 2,497 | 39 | 6,562 | 4,484 | 46 |
+Total net revenue | 15,850 | 12,492 | 27 | 31,081 | 22,492 | 38 |
+Provision for credit losses | 2,989 | 11,430 | (74) | 7,057 | 13,799 | (49) |
+Non-interest expense: |
+Marketing | 1,661 | 1,345 | 23 | 3,158 | 2,547 | 24 |
+Operating expense | 7,382 | 5,646 | 31 | 14,349 | 10,346 | 39 |
+Total non-interest expense | 9,043 | 6,991 | 29 | 17,507 | 12,893 | 36 |
+Income (loss) from continuing operations before income taxes | 3,818 | (5,929) | ** | 6,517 | (4,200) | ** |
+Income tax provision (benefit) | 798 | (1,666) | ** | 1,316 | (1,341) | ** |
+Income (loss) from continuing operations, net of tax | 3,020 | (4,263) | ** | 5,201 | (2,859) | ** |
+Income (loss) from discontinued operations, net of tax
+-- | (14) | ** | (7) | (14) | (50) |
+Net income (loss) | 3,020 | (4,277) | ** | 5,194 | (2,873) | ** |
+Dividends and undistributed earnings allocated to participating securities | (28) | (4) | ** | (48) | (9) | ** |
+Preferred stock dividends | (57) | (65) | (12) | (130) | (122) | 7 |
+Discount on redeemed preferred stock
+-- | 6 | ** | -- | 6 | ** |
+
+----- [line 534] -----
+__________
+(1)Average yield is calculated based on annualized interest income for the period divided by average loans during the period. Average yield is calculated using whole dollar values for average balances and interest income/expense.
+(2)Past due fees, net of reversals, included in interest income totaled approximately $677 million and $1.3 billion in the second quarter and first six months of 2026, respectively, and $634 million and $1.2 billion in the second quarter and first six months of 2025, respectively.
+(3)Some of our commercial investments generate tax-exempt income, tax credits or other tax benefits. Accordingly, we present our Commercial Banking revenue and yields on a taxable-equivalent basis, calculated using a blended federal and state statutory tax rate, with offsetting reductions to the Other category. Taxable-equivalent adjustments included in the interest income and yield computations for our commercial loans totaled approximately $20 million and $40 million in the second quarter and first six months of 2026, respectively, and $20 million and $40 million in the second quarter and first six months of 2025, respectively, with corresponding reductions to the Other category.
+(4)Interest income/expense in the Other category represents the impact of hedge accounting on our loan portfolios and the offsetting reduction of the taxable-equivalent adjustments of our commercial loans as described above.
+(5)Includes amounts related to entities that provide capital to low-income and rural communities of $2.4 billion and $2.3 billion in the second quarter and first six months of 2026, respectively, and $2.2 billion and $2.1 billion in the second quarter and first six months of 2025, respectively. Related interest expense was $9 million and $17 million for the second quarter and first six months of 2026, respectively, and $8 million and $15 million for the second quarter and first six months of 2025, respectively.
+** Not meaningful.
+12
+Capital One Financial Corporation (COF) |
+Table of Contents
+Net interest income increased by $2.4 billion to $12.4 billion in the second quarter of 2026 compared to the second quarter of 2025 and increased by $6.5 billion to $24.5 billion in the first six months of 2026 compared to the first six months of 2025 primarily driven by higher average credit card loan balances, largely due to the addition of Discover.
+Net interest margin increased by 39 bps to 8.01% in the second quarter of 2026 compared to the second quarter of 2025 and increased by 65 bps to 7.94% in the first six months of 2026 compared to the first six months of 2025 primarily driven by higher average credit card loan balances, largely due to the addition of Discover.
+Our total company cumulative interest-bearing deposit beta increased to 37% as of June 30, 2026, from 23% as of December 31, 2025. We define cumulative deposit beta as the ratio of changes in the average rate paid on our average interest-bearing deposits to changes in the upper bound of the federal funds rate during the falling interest rate cycle.
+Table 3 displays the change in our net interest income between periods and the extent to which the variance is attributable to:
+&#8226;Changes in the volume of our interest-earning assets and interest-bearing liabilities; or
+&#8226;Changes in the interest rates related to these assets and liabilities.
+Table 3: Rate/Volume Analysis of Net Interest Income(1)
+Three Months Ended June 30, | Six Months Ended June 30, |
+2026 vs. 2025 | 2026 vs. 2025 |
+(Dollars in millions) | Total Variance | Volume | Rate | Total Variance | Volume | Rate |
+Interest income: |
+Loans: |
+Credit card | $ | 2,263 | $ | 2,646 | $ | (383) | $ | 6,648 | $ | 7,555 | $ | (907) |
+Consumer banking | 260 | 202 | 58 | 507 | 370 | 137 |
+Commercial banking(2)
+(113) | 34 | (147) | (217) | 64 | (281) |
+Other(3)
+52 | -- | 52 | 102 | -- | 102 |
+Total loans, including loans held for sale | 2,462 | 2,882 | (420) | 7,040 | 7,989 | (949) |
+Investment securities | 66 | 54 | 12 | 128 | 97 | 31 |
+Cash equivalents and other interest-earning assets | 29 | 130 | (101) | 202 | 361 | (159) |
+Total interest income | 2,557 | 3,066 | (509) | 7,370 | 8,447 | (1,077) |
+Interest expense: |
+Interest-bearing deposits | 218 | 517 | (299) | 890 | 1,366 | (476) |
+Securitized debt obligations | (47) | (33) | (14) | (82) | (49) | (33) |
+Senior and subordinated notes | -- | 66 | (66) | 27 | 172 | (145) |
+Other borrowings and liabilities | 7 | 5 | 2 | 24 | 15 | 9 |
+Total interest expense | 178 | 555 | (377) | 859 | 1,504 | (645) |
+Net interest income | $ | 2,379 | $ | 2,511 | $ | (132) | $ | 6,511 | $ | 6,943 | $ | (432) |
+__________
+(1)We calculate the change in interest income and interest expense separately for each item. The portion of interest income or interest expense attributable to both volume and rate is allocated proportionately when the calculation results in a positive value. When the portion of interest income or interest expense attributable to both volume and rate results in a negative value, the total amount is allocated to volume or rate, depending on which amount is positive. The portion of interest income or interest expense attributable to both volume and rate is calculated using rounded dollars in millions for average balances and interest income/expense.
+(2)Some of our commercial investments generate tax-exempt income, tax credits or other tax benefits. Accordingly, we present our Commercial Banking revenue and yields on a taxable-equivalent basis, calculated using a blended federal and state statutory tax rate, with offsetting reductions to the Other category.
+(3)Interest income/expense in the Other category represents the impact of hedge accounting on our loan portfolios and the offsetting reduction of the taxable-equivalent adjustments of our commercial loans as described above.
+13
+Capital One Financial Corporation (COF) |
+Table of Contents
+Non-Interest Income
+Table 4 displays the components of non-interest income for the second quarter and first six months of 2026 and 2025.
+Table 4: Non-Interest Income
+Three Months Ended June 30, | Six Months Ended June 30, |
+(Dollars in millions) | 2026 | 2025 | 2026 | 2025 |
+Discount and interchange fees, net
+$ | 2,256 | $ | 1,478 | $ | 4,220 | $ | 2,701 |
+Service charges and other customer-related fees | 808 | 658 | 1,617 | 1,167 |
+Other(1)(2)
+412 | 361 | 725 | 616 |
+Total non-interest income | $ | 3,476 | $ | 2,497 | $ | 6,562 | $ | 4,484 |
+__________
+(1)Primarily consists of revenue from Capital One Shopping, treasury income and auto industry services.
+(2)Includes gains of $94 million and $76 million on deferred compensation plan investments in the second quarter and first six months of 2026, respectively, and gains of $57 million and $41 million on deferred compensation plan investments in the second quarter and first six months of 2025, respectively. These amounts have corresponding offsets in non-interest expense.
+Non-interest income increased by $979 million to $3.5 billion in the second quarter of 2026 compared to the second quarter of 2025 and increased by $2.1 billion to $6.6 billion in the first six months of 2026 compared to the first six months of 2025 primarily driven by growth in our credit card loan portfolio, including the addition of Discover, as well as impacts from the reissuance of legacy Capital One customer debit cards onto the Global Payment Network.
+Provision for Credit Losses
+Our provision for credit losses in each period is driven by net charge-offs, changes to the allowance for credit losses and changes to the reserve for unfunded lending commitments. Our provision for credit losses decreased by $8.4 billion to $3.0 billion in the second quarter of 2026 and decreased by $6.7 billion to $7.1 billion in the first six months of 2026 primarily driven by the absence of the initial allowance for credit losses for loans acquired in the Discover acquisition.
+We provide additional information on the provision for credit losses and changes in the allowance for credit losses within "Credit Risk Profile" and "Part I--Item 1. Financial Statements--Note 5--Allowance for Credit Losses and Reserve for Unfunded Lending Commitments." For information on the allowance methodology, see "Part II--Item 8. Financial Statements and Supplementary Data--Note 1--Summary of Significant Accounting Policies" in our 2025 Form 10-K.
+14
+Capital One Financial Corporation (COF) |
+Table of Contents
+Non-Interest Expense
+Table 5 displays the components of non-interest expense for the second quarter and first six months of 2026 and 2025.
+Table 5: Non-Interest Expense
+Three Months Ended June 30, | Six Months Ended June 30, |
+(Dollars in millions) | 2026 | 2025 | 2026 | 2025 |
+
+----- [line 998] -----
+&#8226;Non-Interest Income: Non-interest income decreased by $70 million to $265 million in the second quarter of 2026 and decreased by $54 million to $593 million in the first six months of 2026 primarily driven by the reclassification of the legacy corporate card product to Domestic Card and lower revenue earned on certain capital markets services.
+&#8226;Provision for Credit Losses: Provision for credit losses remained substantially flat at $71 million in the second quarter of 2026 compared to the second quarter of 2025 and at $209 million in the first six months of 2026 compared to the first six months of 2025.
+&#8226;Non-Interest Expense: Non-interest expense decreased by $27 million to $462 million in the second quarter of 2026 and decreased by $15 million to $960 million in the first six months of 2026 primarily driven by the reclassification of the legacy corporate card product to Domestic Card.
+Loans Held for Investment:
+&#8226;Period-end loans held for investment increased by $2.0 billion to $91.3 billion as of June 30, 2026 from December 31, 2025 primarily due to growth across our loan portfolio.
+&#8226;Average loans held for investment increased by $2.5 billion to $90.9 billion in the second quarter of 2026 compared to the second quarter of 2025 and increased by $2.3 billion to $90.2 billion in the first six months of 2026 compared to the first six months of 2025 primarily due to growth across our loan portfolio.
+Deposits:
+&#8226;Period-end deposits remained substantially flat at $30.8 billion as of June 30, 2026 from December 31, 2025.
+Net Charge-Off and Nonperforming Metrics:
+&#8226;The net charge-off rate increased by 20 bps to 0.53% in the second quarter of 2026 and increased by 19 bps to 0.41% in the first six months of 2026.
+&#8226;The nonperforming loan rate decreased by 4 bps to 1.32% as of June 30, 2026 compared to December 31, 2025.
+Other Category
+Other includes unallocated amounts related to our centralized Corporate Treasury group activities, such as management of our corporate investment securities portfolio, asset/liability management and oversight of our funds transfer pricing process. Other also includes:
+&#8226;unallocated corporate revenue and expenses that do not directly support the operations of the business segments or for which the business segments are not considered financially accountable in evaluating their performance, such as certain restructuring charges and Discover integration expenses;
+&#8226;residual tax expense or benefit to arrive at the consolidated effective tax rate that is not assessed to our primary business segments; and
+&#8226;foreign exchange rate fluctuations on foreign currency-denominated balances. As a result of our derivative management activities, we believe our net exposure to foreign exchange risk is minimal.
+28
+Capital One Financial Corporation (COF) |
+Table of Contents
+Table 12 summarizes the financial results of our Other category for the periods indicated.
+Table 12: Other Category Results
+Three Months Ended June 30, | Six Months Ended June 30, |
+(Dollars in millions) | 2026 | 2025 | Change | 2026 | 2025 | Change
+Selected income statement data: |
+Net interest income (loss) | $ | 106 | $ | (62) | ** | $ | 205 | $ | (218) | ** |
+Non-interest loss | (80) | (34) | 135% | (158) | (53) | 198% |
+Total net revenue (loss)(1)
+26 | (96) | ** | 47 | (271) | ** |
+Provision (benefit) for credit losses | -- | (1) | ** | -- | (1) | ** |
+Non-interest expense | 362 | 342 | 6 | 829 | 539 | 54 |
+Loss from continuing operations before income taxes | (336) | (437) | (23) | (782) | (809) | (3) |
+Income tax benefit | (220) | (361) | (39) | (474) | (537) | (12) |
+Loss from continuing operations, net of tax | $ | (116) | $ | (76) | 53% | $ | (308) | $ | (272) | 13% |
+__________
+(1)Some of our commercial investments generate tax-exempt income, tax credits or other tax benefits. Accordingly, we present our Commercial Banking revenue and yields on a taxable-equivalent basis, calculated using a blended federal and state statutory tax rate, with offsetting reductions to the Other category.
+** Not meaningful.
+Loss from continuing operations, net of tax increased by $40 million to a loss of $116 million in the second quarter of 2026 compared to the second quarter of 2025 primarily driven by the absence of a tax benefit due to a State of California law change in the second quarter of 2025, partially offset by higher treasury income. Loss from continuing operations, net of tax increased by $36 million to a loss of $308 million in the first six months of 2026 compared to the first six months of 2025 primarily driven by higher Discover integration expenses, partially offset by higher treasury income.
+Discover integration expenses remained substantially flat at $298 million in the second quarter of 2026 compared to the second quarter of 2025. Discover integration expenses increased by $304 million to $713 million in the first six months of 2026 compared to the first six months of 2025 primarily driven by higher salaries and associate benefits, which are included within operating expense in our consolidated statements of income and within the Other category for business segment results. Since the announcement of the Transaction in the first quarter of 2024, we have incurred $2.1 billion of Discover integration expenses as of June 30, 2026.
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+The preparation of financial statements in accordance with U.S. GAAP requires management to make a number of judgments, estimates and assumptions that affect the amount of assets, liabilities, income and expenses on the consolidated financial statements. Understanding our accounting policies and the extent to which we use management judgment and estimates in applying these policies is integral to understanding our financial statements. We provide a summary of our significant accounting policies under "Part II--Item 8. Financial Statements and Supplementary Data--Note 1--Summary of Significant Accounting Policies" in our 2025 Form 10-K.
+We have identified the following accounting estimates as critical because they require significant judgments and assumptions about highly complex and inherently uncertain matters and the use of reasonably different estimates and assumptions could have a material impact on our results of operations or financial condition. Our critical accounting policies and estimates are as follows:
+&#8226;Loan loss reserves
+&#8226;Goodwill
+&#8226;Fair value
+&#8226;Customer rewards reserve
+29
+Capital One Financial Corporation (COF) |
+Table of Contents
+We evaluate our critical accounting estimates and judgments on an ongoing basis and update them as necessary, based on changing conditions.
+There have been no changes to our critical accounting policies and estimates described in our 2025 Form 10-K under "Part II--Item 7. MD&A--Critical Accounting Policies and Estimates."
+ACCOUNTING CHANGES AND DEVELOPMENTS
+Accounting Standards Issued but Not Adopted as of June 30, 2026
+Standard | Guidance | Adoption Timing and
+Financial Statement Impacts |
+Disaggregation of Income Statement Expenses
+Accounting Standards Update ("ASU") No. 2024-03, Income Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses
+Issued November 2024
+Requires entities to separately disclose specific disaggregated expense categories on an annual and interim basis as well as disclose selling expenses on an annual basis. | Effective beginning with our annual period ending on December 31, 2027, with early adoption permitted. Prospective and retrospective applications are permitted.
+We are still assessing the extent of the impacts of adoption to our disclosures. |
+Internal-Use Software
+ASU No. 2025-06, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Targeted Improvements to the Accounting for Internal-Use Software
+Issued September 2025
+Requires entities to capitalize costs associated with internal-use software based on a new methodology, which focuses on management's authorization and commitment to funding the project and the probability that the software will be completed and used to perform the function intended. | Effective beginning with our interim period ending on March 31, 2028, with early adoption permitted. Prospective, retrospective and modified transition applications are each permitted.
+We are still assessing the extent of the impacts of adoption to our consolidated financial statements. |
+Purchased Seasoned Loans
+ASU No. 2025-08, Financial Instruments - Credit Losses (Topic 326): Purchased Loans
+Issued November 2025
+Expands the population of acquired financial assets subject to the gross-up approach in Topic 326, which requires an entity to record an initial allowance for credit losses through an adjustment to the asset's amortized cost basis rather than through a current-period provision for credit losses. The expanded population includes loan receivables, excluding credit cards, acquired without credit deterioration that are deemed "seasoned," as defined by the update. | Effective beginning with our interim period ending on March 31, 2027, with early adoption permitted. Prospective application is required.
+We are still assessing the extent of the impacts of adoption to our consolidated financial statements. |
+Hedge Accounting Improvements
+ASU No. 2025-09, Derivatives and Hedging (Topic 815): Hedge Accounting Improvements
+Issued November 2025
+
+----- [line 1749] -----
+Fitch | A- | A | A- | A |
+As of July 22, 2026, Moody's Investors Service ("Moody's") has our credit ratings on a stable outlook, Standard & Poor's ("S&P") has our credit ratings on a positive outlook. On May 12, 2026, Fitch Ratings ("Fitch") put our ratings on review for possible downgrade.
+Funding Uses and Commitments
+In the normal course of business, we enter into various contractual obligations that may require future cash payments that affect our short-term and long-term liquidity and capital resource needs. Our future contractual cash outflows primarily relate to deposits, borrowings, operating leases and other contractual obligations. Other contractual obligations include lending commitments, leases, purchase obligations and other contractual arrangements. The actual timing and amounts of future cash payments may vary over time due to a number of factors, such as early debt redemptions and changes in deposit balances.
+As of June 30, 2026 and December 31, 2025, our total unfunded lending commitments were $762.5 billion and $729.6 billion, respectively, consisting of credit card lines, loan commitments to customers of both our Commercial Banking and Consumer Banking businesses, as well as standby and commercial letters of credit. We generally manage the potential risk of unfunded lending commitments by limiting the total amount of arrangements, monitoring the size and maturity structure of these portfolios and applying the same credit standards for all of our credit activities. For additional information, refer to "Part I--Item 1. Financial Statements--Note 14--Commitments, Contingencies, Guarantees and Others" in this Report.
+Our primary involvement with leases is in the capacity as a lessee where we lease premises to support our business. The majority of our leases are operating leases of office space, retail bank branches and caf&#233;s. Our operating leases expire at various dates through 2071, although some have extension or termination options, and we assess the likelihood of exercising such options. If it is reasonably certain that we will exercise the options, then we include the impact in the measurement of our right-of-use assets and lease liabilities. As of June 30, 2026 and December 31, 2025, we had $1.4 billion and $1.5 billion in aggregate operating lease obligations, respectively. We provide more information on our lease activity in "Part II--Item 8. Financial Statements and Supplementary Data--Note 8--Premises, Equipment and Leases" in our 2025 Form 10-K.
+We have enforceable and legally binding purchase obligations for goods and services such as data management, media and other software and third-party services. As of June 30, 2026 and December 31, 2025, we had $4.0 billion and $3.8 billion, respectively, in aggregate purchase obligations.
+We also enter into various contractual arrangements that may require future cash payments, including short-term obligations such as trade payables, commitments to fund certain equity investments, obligations for pension and post-retirement benefit plans, and representation and warranty reserves. These arrangements are discussed in more detail in "Part I--Item 1. Financial Statements--Note 6--Variable Interest Entities and Securitizations," and "Part I--Item 1. Financial Statements--Note 14--Commitments, Contingencies, Guarantees and Others" in this Report and "Part II--Item 8. Financial Statements and Supplementary Data--Note 15--Employee Benefit Plans" in our 2025 Form 10-K.
+55
+Capital One Financial Corporation (COF) |
+Table of Contents
+MARKET RISK PROFILE
+Our primary market risk exposures include interest rate risk, foreign exchange risk and commodity pricing risk. We are exposed to market risk primarily from the following operations and activities:
+&#8226;Traditional banking activities of deposit gathering and lending;
+&#8226;Asset/liability management activities including the management of investment securities, short-term and long-term borrowings and derivatives;
+&#8226;Foreign operations within our Credit Card and Consumer Banking businesses; and
+&#8226;Customer accommodation activities within our Commercial Banking business.
+We have enterprise-wide risk management policies and limits, approved by our Board of Directors, which govern our market risk management activities. Our objective is to manage our exposure to market risk in accordance with these policies and limits based on prevailing market conditions and long-term expectations. We provide additional information below about our primary sources of market risk, our market risk management strategies and the measures that we use to evaluate these exposures.
+Interest Rate Risk
+Interest rate risk represents exposure to financial instruments whose values vary with the level or volatility of interest rates. We are exposed to interest rate risk primarily from the differences in the timing between the maturities or repricing of assets and liabilities. We manage our interest rate risk primarily by entering into interest rate swaps and other derivative instruments, which could include caps, floors, options, futures and forward contracts.
+We use various industry standard market risk measurement techniques and analyses to measure, assess and manage the impact of changes in interest rates on our net interest income and our economic value of equity and changes in foreign exchange rates on our non-dollar-denominated funding and non-dollar equity investments in foreign operations.
+Net Interest Income Sensitivity
+Our net interest income sensitivity measure estimates the impact of hypothetical instantaneous movements in interest rates relative to our baseline interest rate forecast on our projected 12-month net interest income. Net interest income sensitivity metrics are derived using the following key assumptions:
+&#8226;As of June 30, 2026, our metrics assume a market implied baseline interest rate projection for the upper limit of the Federal Funds Target Rate of 4.25% and 4.00% at December 31, 2026 and 2027, respectively.
+&#8226;In addition to our existing assets, liabilities and derivative positions, we incorporate expected future business growth assumptions. These assumptions include loan and deposit growth, pricing, plans for projected changes in our funding mix and our securities and cash position from our internal corporate outlook that is used in our financial planning process.
+&#8226;The analysis assumes this forecast of expected future business growth remains unchanged between the baseline rate forecast and rate shock scenarios, including no changes to our interest rate risk management activities like securities and hedging actions.
+&#8226;We incorporate the dynamic nature of deposit repricing, which includes pricing lags and changes in deposit beta and mix as interest rates change, and the prepayment sensitivity of our mortgage securities to the level of interest rates. In our models, deposit betas and mortgage security prepayments vary dynamically based on the level of interest rates and by product type. In the contexts used in this section, "beta" refers to the change in deposit rate paid relative to the change in the federal funds rate.
+&#8226;In instances where an interest rate scenario would result in a rate less than 0%, we assume a rate of 0% for that scenario. This assumption applies only to jurisdictions that do not have a practice of employing negative policy rates. In jurisdictions that have negative policy rates, we do not floor interest rates at 0%.
+56
+Capital One Financial Corporation (COF) |
+Table of Contents
+At the current level of interest rates, our projected 12-month net interest income is expected to remain largely unchanged in higher rate scenarios and decrease in lower rate scenarios. The decrease in lower rate scenarios is driven by lower interest income from our assets, including floating rate credit card and commercial loans, being partially offset by lower interest expense from our deposits and other liabilities, net of our interest rate hedges. The most significant driver in the decrease of our combined 12-month net interest income sensitivity as compared to December 31, 2025, was higher projected interest rates. As we incorporate the dynamic nature of deposit repricing, higher interest rates result in an increase in projected deposit betas under higher and lower rate scenarios.
+Economic Value of Equity Sensitivity
+Our economic value of equity sensitivity measure estimates the impact of hypothetical instantaneous movements in interest rates on the net present value of our assets and liabilities, including derivative exposures. Economic value of equity sensitivity metrics are derived using the following key assumptions:
+&#8226;As of June 30, 2026, our metrics assume a market implied baseline interest rate projection for the upper limit of the Federal Funds Target Rate of 4.25% and 4.00% at December 31, 2026 and 2027, respectively.
+&#8226;The analysis includes only existing assets, liabilities and derivative positions and does not incorporate business growth assumptions or projected balance sheet changes.
+&#8226;Similar to our net interest income sensitivity measure, we incorporate the dynamic nature of deposit repricing and attrition, which includes pricing lags and changes in deposit beta as interest rates change and the prepayment sensitivity of our mortgage securities to the level of interest rates. In our models, deposit betas and mortgage security prepayments vary dynamically based on the level of interest rates and by product type.
+&#8226;Balance attrition assumptions for loans, including credit card, personal, auto and commercial loans, remain unchanged between the baseline interest rate forecast and interest rate shock scenarios as the majority of these loans are floating rate or shorter duration fixed rate loans and hence paydowns have a low sensitivity to the level of interest rates.
+&#8226;For assets and liabilities with embedded optionality, such as mortgage securities and deposit balances, we utilize Monte Carlo simulations to assess economic value with industry-standard term structure modeling of interest rates.
+&#8226;Our calculations of net present value apply appropriate spreads over the benchmark yield curve for select assets and liabilities to capture the inherent risks (including credit risk) to discount expected interest and principal cash flows.
+&#8226;In instances where an interest rate scenario would result in a rate less than 0%, we assume a rate of 0% for that scenario. This assumption applies only to jurisdictions that do not have a practice of employing negative policy rates. In jurisdictions that have negative policy rates, we do not floor interest rates at 0%.
+Our current economic value of equity sensitivity profile demonstrates that our economic value of equity decreases in higher interest rate scenarios and increases in lower interest rate scenarios. The decrease in higher rate scenarios is due to the decline in the projected value of our fixed rate assets being only partially offset by corresponding movements in the projected value of our deposits and other liabilities. The pace of economic value of equity decrease is larger for the +200 bps scenario as our deposits are assumed to reprice more rapidly in higher interest rate environments. The most significant driver in the increase of our combined economic value of equity sensitivity as compared to December 31, 2025 was higher projected interest rates.
+57
+Capital One Financial Corporation (COF) |
+Table of Contents
+Table 31 shows the estimated percentage impact on our projected baseline net interest income and our current economic value of equity calculated under the methodology described above as of June 30, 2026 and December 31, 2025.
+Table 31: Interest Rate Sensitivity Analysis
+June 30, 2026 | December 31, 2025 |
+Estimated impact on projected baseline net interest income: |
++200 bps | -- | % | 1.0 | % |
++100 bps | 0.1 | 0.6 |
++50 bps | 0.1 | 0.3 |
+-50 bps | (0.1) | (0.3) |
+-100 bps | (0.1) | (0.7) |
+-200 bps | (1.1) | (2.7) |
+Estimated impact on economic value of equity: |
++200 bps | (6.0) | (4.5) |
++100 bps | (2.8) | (2.0) |
++50 bps | (1.3) | (0.9) |
+-50 bps | 1.2 | 0.7 |
+-100 bps | 2.3 | 1.2 |
+-200 bps | 3.6 | 1.1 |
+In addition to these industry standard measures, we also consider the potential impact of alternative interest rate scenarios, such as larger rate shocks, higher than +/- 200 bps, as well as steepening and flattening yield curve scenarios in our internal interest rate risk management decisions. We also regularly review the sensitivity of our interest rate risk metrics to changes in our key modeling assumptions, such as our loan and deposit balance forecasts, mortgage prepayments and deposit repricing.
+Limitations of Market Risk Measures
+The interest rate risk models that we use in deriving these measures incorporate contractual information, internally developed assumptions and proprietary modeling methodologies, which project borrower and depositor behavior patterns in certain interest rate environments. Other market inputs, such as interest rates, market prices and interest rate volatility, are also critical components of our interest rate risk measures. We regularly evaluate, update and enhance these assumptions, models and analytical tools as we believe appropriate to reflect our best assessment of the market environment and the expected behavior patterns of our existing assets and liabilities.
+There are inherent limitations in any methodology used to estimate the exposure to changes in market interest rates. The sensitivity analysis described above contemplates only certain movements in interest rates and is performed at a particular point in time based on our existing balance sheet and, in some cases, expected future business growth and funding mix assumptions. The strategic actions that management may take to manage our balance sheet may differ significantly from our projections, which could cause our actual earnings and economic value of equity sensitivities to differ substantially from the above sensitivity analysis.
+For further information on our interest rate exposures, see "Part I--Item 1. Financial Statements--Note 9--Derivative Instruments and Hedging Activities."
+58
+Capital One Financial Corporation (COF) |
+Table of Contents
+Foreign Exchange Risk
+Foreign exchange risk represents exposure to changes in the values of current holdings and future cash flows denominated in other currencies. We are exposed to foreign exchange risk primarily from the intercompany funding denominated in pound sterling ("GBP") and the Canadian dollar ("CAD") that we provide to our businesses in the U.K. and Canada and net equity investments in those businesses. We are also exposed to foreign exchange risk due to changes in the dollar-denominated value of future earnings and cash flows from our foreign operations and from our Euro ("EUR")-denominated borrowing.
+Our non-dollar denominated intercompany funding and EUR-denominated borrowing expose our earnings to foreign exchange transaction risk. We manage these transaction risks by using forward foreign currency derivatives and cross-currency swaps to hedge our exposures. We measure our foreign exchange transaction risk exposures by applying a 1% U.S. dollar appreciation shock against the value of the non-dollar denominated intercompany funding and EUR-denominated borrowing and their related hedges, which shows the impact to our earnings from foreign exchange risk. Our nominal intercompany funding outstanding with interest accrued was 1.7 billion GBP and 1.5 billion GBP as of June 30, 2026 and December 31, 2025, respectively, and 953 million CAD and 1.1 billion CAD as of June 30, 2026 and December 31, 2025, respectively. Our nominal EUR-denominated borrowing outstanding with interest accrued was 500 million EUR and 505 million EUR as of June 30, 2026 and December 31, 2025, respectively.
+Certain non-dollar equity investments in foreign operations expose our balance sheet and capital ratios to translation risk in AOCI. We manage our translation risk by entering into foreign currency derivatives designated as net investment hedges. We measure these exposures by applying a 30% U.S. dollar appreciation shock, which we believe approximates a significant adverse shock over a one-year time horizon, against the value of the equity invested in our foreign operations net of related net investment hedges where applicable. Our primary exposure is to our U.K. and Canadian operations and the gross equity amounts were 2.4 billion GBP and 2.3 billion GBP as of June 30, 2026 and December 31, 2025, respectively, and 2.9 billion CAD and 2.8 billion CAD as of June 30, 2026 and December 31, 2025, respectively. Additionally, we have immaterial foreign translation exposure to a small number of other currencies.
+As a result of our derivative management activities, we believe our net exposure to foreign exchange risk is minimal. For more information, see "Item 1. Financial Statements--Note 9--Derivative Instruments and Hedging Activities" and "Item 1. Financial Statements--Note 10--Stockholders' Equity."
+Risk Related to Customer Accommodation Derivatives
+We offer interest rate, commodity and foreign currency derivatives as an accommodation to our customers within our Commercial Banking business. We offset the majority of the market risk of these customer accommodation derivatives by entering into offsetting derivatives transactions with other counterparties. We use value-at-risk ("VaR") as the primary method to measure the market risk in our customer accommodation derivative activities on a daily basis. VaR is a statistical risk measure used to estimate the potential loss from movements observed in the recent market environment. We employ a historical simulation approach using the most recent 500 business days and use a 99% confidence level and a holding period of one business day. As a result of offsetting our customer exposures with other counterparties, we believe that our net exposure to market risk in our customer accommodation derivatives is minimal. For further information on our risk related to customer accommodation derivatives, see "Item 1. Financial Statements--Note 9--Derivative Instruments and Hedging Activities."
+59
+Capital One Financial Corporation (COF) |
+Table of Contents
+SUPERVISION AND REGULATION
+We provide information on our Supervision and Regulation in our 2025 Form 10-K under "Part I--Item 1. Business--Supervision and Regulation" and in our Q1 2026 Form 10-Q under "Part I--Item 2. MD&A--Supervision and Regulation."
+60
+Capital One Financial Corporation (COF) |
+Table of Contents
+FORWARD-LOOKING STATEMENTS
+From time to time, we have made and will make forward-looking statements, including those that discuss, among other things: strategies, goals, outlook or other non-historical matters; projections, revenues, income, returns, expenses, assets, liabilities, capital and liquidity measures, capital allocation plans, accruals for claims in litigation and for other claims against us; earnings per share, efficiency ratio, operating efficiency ratio or other financial measures for us; future financial and operating results; our plans, objectives, expectations and intentions; and the assumptions that underlie these matters.
+To the extent that any such information is forward-looking, it is intended to fit within the safe harbor for forward-looking information provided by the Private Securities Litigation Reform Act of 1995.
+Forward-looking statements often use words such as "will," "anticipate," "target," "expect," "think," "estimate," "intend," "plan," "goal," "believe," "forecast," "outlook" or other words of similar meaning. Any forward-looking statements made by us or on our behalf speak only as of the date they are made or as of the date indicated, and we do not undertake any obligation to update forward-looking statements as a result of new information, future events or otherwise. For additional information on factors that could materially influence forward-looking statements included in this Report, see the risk factors set forth under "Part I--Item 1A. Risk Factors" in our 2025 Form 10-K. You should carefully consider the factors discussed below, and in our Risk Factors or other disclosures, in evaluating these forward-looking statements.
+Numerous factors could cause our actual results to differ materially from those described in such forward-looking statements, including, among other things:
+&#8226;risks related to the integration of the Transaction, including our ability to successfully integrate our businesses, incur substantial expenses related to the Transaction and to the integration of Discover, and the expenses may be greater than anticipated due to factors, some or all of which may be outside our control; our ability to realize all of the anticipated benefits of the Transaction, or those benefits may take longer to realize than expected due to factors that may be outside our control; the integration of Discover may have an adverse effect on our business and results of operations due to the diversion of a substantial portion of the time and attention of our management team; potential employee attrition; and other factors that may affect our future results;
+&#8226;changes and instability in the macroeconomic environment, resulting from factors that include, but are not limited to, monetary, fiscal and trade policy actions such as tariffs, geopolitical conflicts or instability, such as the war in Ukraine, the ongoing conflict in the Middle East and the political instability in Venezuela, labor shortages, government shutdowns, inflation and deflation, changes in energy costs, potential recessions, technology-driven disruption of certain industries, adverse developments impacting the U.S. or global banking industry, including a deterioration in private credit markets and potential spread to other credit markets, changing immigration policies, lower demand for credit, changes in deposit practices and payment patterns;
+&#8226;fluctuations in interest rates;
+&#8226;our ability to maintain adequate sources of funding and liquidity to operate our business;
+&#8226;increases in credit losses and delinquencies and the impact of incorrectly estimated expected losses, which could result in inadequate reserves;
+&#8226;our ability to maintain adequate capital or liquidity levels or to comply with revised capital or liquidity requirements, which could have a negative impact on our financial results and our ability to return capital to our stockholders;
+&#8226;limitations on our ability to receive dividends from our subsidiaries;
+&#8226;a downgrade in our credit ratings;
+&#8226;our ability to develop, operate and adapt our operational, technology and organizational infrastructure suitable for the nature of our business;
+&#8226;increased costs, reductions in revenue, reputational damage, legal exposure and business disruptions that can result from a cyber-attack or other security incident on us or third parties (including their supply chains) with which we conduct business, including an incident that results in the theft, loss, manipulation or misuse of information, or the disabling of systems and access to information critical to business operations;
+61
+Capital One Financial Corporation (COF) |
+Table of Contents
+&#8226;the use, reliability and accuracy of the models, AI, and data on which we rely;
+&#8226;our ability to manage risks of internal and external fraud;
+&#8226;compliance with new and existing domestic and foreign laws, regulations and regulatory expectations, which may change over time including as a result of the political and policy goals of elected and appointed officials;
+&#8226;compliance with applicable laws and regulations related to privacy, data protection and data security, in addition to compliance with our own privacy policies and contractual obligations to third parties;
+&#8226;developments, changes or actions relating to any litigation, governmental investigation or regulatory enforcement action or matter involving us;
+&#8226;our response to competitive pressures;
+&#8226;the amount and rate of deposit growth and changes in deposit costs;
+&#8226;our ability to execute on our strategic initiatives and operational plans;
+&#8226;change in market preference towards other operators of payment networks and alternative payment providers;
+&#8226;our ability to create and maintain a strong base of network licensees and achieving meaningful global card acceptance;
+&#8226;legislation, regulation and merchants' efforts to reduce the fees (including the interchange component) charged by credit and debit card networks and acquirers to facilitate card transactions;
+&#8226;the number of large merchants that accept cards on our recently acquired Discover Network or PULSE Network;
+&#8226;defaults or risks from bankruptcies, liquidations, restructurings, consolidations and outages by our network participants;
+&#8226;our ability to invest successfully in and introduce digital and other technological developments across all our businesses;
+&#8226;our success in integrating acquired businesses and loan portfolios, and our ability to realize anticipated benefits from announced transactions and strategic partnerships;
+&#8226;changes in the reputation of, or expectations regarding, us or the financial services industry with respect to practices, products, services or financial condition;
+&#8226;our ability to protect our intellectual property rights;
+&#8226;the success of our marketing efforts in attracting and retaining customers;
+&#8226;our risk management strategies;
+&#8226;our ability to attract, develop, retain and motivate key senior leaders and skilled employees;
+&#8226;our ability to manage risks from catastrophic events;
+&#8226;climate change manifesting as physical or transition risks;
+
+----- [line 1971] -----
+Exchange Act: The Securities Exchange Act of 1934, as amended.
+eXtensible Business Reporting Language ("XBRL"): A language for the electronic communication of business and financial data.
+Federal Banking Agencies: The Federal Reserve, Office of the Comptroller of the Currency and Federal Deposit Insurance Corporation.
+Federal Deposit Insurance Corporation ("FDIC"): An independent U.S. governmental agency that administers the Deposit Insurance Fund.
+Federal Reserve: The Board of Governors of the Federal Reserve System.
+FICO score: A measure of consumer credit risk provided by credit bureaus, typically produced from statistical modeling software created by FICO (formerly known as "Fair Isaac Corporation") utilizing data collected by the credit bureaus.
+Financial difficulty modification ("FDM"): An FDM is deemed to occur when a loan modification is made to a borrower experiencing financial difficulty in the form of principal forgiveness, an interest rate reduction, an other-than-insignificant payment delay, a term extension, or a combination of these modifications in the current reporting period.
+Foreign exchange contracts: Contracts that provide for the future receipt or delivery of foreign currency at previously agreed-upon terms.
+Framework: The Capital One enterprise-wide risk management framework.
+Global Payment Network: The Discover Network, PULSE Network and Diners Club, collectively.
+GSE or Agency: A government-sponsored enterprise or agency is a financial services corporation created by the U.S. Congress. Examples of U.S. government agencies include the Federal National Mortgage Association ("Fannie Mae"), Federal Home Loan Mortgage Corporation ("Freddie Mac"), Government National Mortgage Association ("Ginnie Mae") and the Federal Home Loan Bank ("FHLB").
+Globally Systematically Important Bank Surcharge ("G-SIB Surcharge"): The capital buffer imposed on U.S. banking organizations designated as global systematically important banks ("G-SIBs") under the Federal Reserve's capital framework. The surcharge increases a G-SIB's minimum Common Equity Tier 1 ("CET1") capital requirement based on its systematic risk score, which considers factors such as size, interconnectedness, complexity, cross-jurisdictional activity, and sustainability.
+Interest rate sensitivity: The exposure to interest rate movements.
+Interest rate swaps: Contracts in which a series of interest rate flows in a single currency are exchanged over a prescribed period. Interest rate swaps are the most common type of derivative contract that we use in our asset/liability management activities.
+66
+Capital One Financial Corporation (COF) |
+Table of Contents
+Investment grade: Represents a Moody's long-term rating of Baa3 or better; and/or an S&P long-term rating of BBB- or better; and/or a Fitch long-term rating of BBB- or better; or if unrated, an equivalent rating using our internal risk ratings. Instruments that fall below these levels are considered to be non-investment grade.
+Investor Entities: Entities that invest in community development entities ("CDEs") that provide debt financing to businesses and non-profit entities in low-income and rural communities.
+LCR Rule: The final rules published by the Basel Committee and as implemented by the Federal Banking Agencies in 2014 for the Basel III Liquidity Coverage Ratio ("LCR") in the U.S. The LCR is calculated by dividing the amount of an institution's high-quality, unencumbered liquid assets by its estimated net cash outflow, as defined and calculated in accordance with the LCR Rule.
+Leverage ratio: Tier 1 capital divided by average assets after certain adjustments, as defined by regulators.
+Liquidity risk: The risk that the Company will not be able to meet its future financial obligations as they come due, or invest in future asset growth because of an inability to obtain funds at a reasonable price within a reasonable time.
+Loss severity: Loss given default.
+Managed presentation: A non-GAAP presentation of business segment results derived from our internal management accounting and reporting process, which employs various allocation methodologies, including funds transfer pricing, to assign certain balance sheet assets, deposits and other liabilities and their related revenues and expenses directly or indirectly attributable to each business segment. The results of our individual businesses reflect the manner in which management evaluates performance and makes decisions about funding our operations and allocating resources and are intended to reflect each segment as if it were a stand-alone business.
+Market risk: The risk that an institution's earnings or the economic value of equity could be adversely impacted by changes in interest rates, foreign exchange rates or other market factors.
+Master netting agreement: An agreement between two counterparties that have multiple contracts with each other that provides for the net settlement of all contracts through a single payment in the event of default or termination of any one contract.
+Merger: The merger of Merger Sub with and into Discover, with Discover as the surviving entity, pursuant to the Merger Agreement.
+Merger Agreement: Agreement and Plan of Merger, dated as of February 19, 2024, by and among Discover, Capital One and Merger Sub.
+Merger Sub: Vega Merger Sub, Inc.
+Mortgage servicing rights ("MSRs"): The right to service a mortgage loan when the underlying loan is sold or securitized. Servicing includes collections of principal, interest and escrow payments from borrowers and accounting for and remitting principal and interest payments to investors.
+Net charge-off rate: Represents (annualized) net charge-offs divided by average loans held for investment for the period. Negative net charge-offs and related rates are captioned as net recoveries.
+Net interest margin: Represents (annualized) net interest income divided by average interest-earning assets for the period.
+Nonperforming loans: Generally include loans that have been placed on nonaccrual status. We do not report loans classified as held for sale as nonperforming.
+NSFR Rule: The final rules published by the Basel Committee and as issued by the Federal Banking Agencies in October 2020 implementing the Basel III Net Stable Funding Ratio ("NSFR") in the U.S. The NSFR measures the stability of our funding profile and requires us to maintain minimum amounts of stable funding to support our assets, commitments and derivatives exposures over a one-year period.
+67
+Capital One Financial Corporation (COF) |
+Table of Contents
+Public Fund Deposits: Deposits that are derived from a variety of political subdivisions such as school districts and municipalities.
+PULSE Network: The network which operates an electronic funds transfer network, providing financial institutions issuing debit cards on the PULSE Network with access to ATMs domestically and internationally, as well as merchant acceptance throughout the U.S. for debit card transactions.
+Purchase volume: Consists of purchase transactions, net of returns, for the period, and excludes cash advance and balance transfer transactions.
+Rating agency: An independent agency that assesses the credit quality and likelihood of default of an issue or issuer and assigns a rating to that issue or issuer.
+Repurchase agreement: An instrument used to raise short-term funds whereby securities are sold with an agreement for the seller to buy back the securities at a later date.
+Restructuring charges: Charges associated with the realignment of resources supporting various businesses, primarily consisting of severance and related benefits pursuant to our ongoing benefit programs and impairment of certain assets related to the business locations and/or activities being exited.
+Risk-weighted assets: On- and off-balance sheet assets that are assigned to one of several broad risk categories and weighted by factors representing their risk and potential for default.
+Second Step Merger: The merger of Discover with and into Capital One, with Capital One as the surviving entity.
+Securitized debt obligations: A type of asset-backed security and structured credit product constructed from a portfolio of fixed-income assets.
+Stress capital buffer requirement: A component of our standardized approach capital conservation buffer, which is recalibrated annually based on the results of our supervisory stress tests.
+Stress Capital Buffer Rule: The final rule issued by the Federal Reserve in March 2020 to implement the stress capital buffer requirement.
+Stress Testing Transparency Proposal: The Federal Reserve's October 2025 proposal for the Federal Reserve to annually publish comprehensive documentation on the stress test models, invite public comment on any material changes to those models, and annually publish the stress test scenarios for comment.
+Subprime: For purposes of lending in our Credit Card business, we generally consider FICO scores of 660 or below, or other equivalent risk scores, to be subprime. For purposes of auto lending in our Consumer Banking business, we generally consider FICO scores of 620 or below to be subprime.
+Tangible common equity ("TCE"): A non-GAAP financial measure calculated as common equity less goodwill and other intangible assets, inclusive of any related deferred tax liabilities.
+This Report: Quarterly Report on Form 10-Q for the period ended June 30, 2026.
+Transaction or Discover acquisition: On May 18, 2025, we completed the acquisition of Discover in an all-stock transaction as outlined in the Merger Agreement dated February 19, 2024.
+Unfunded lending commitments: Legally binding agreements to provide a defined level of financing until a specified future date.
+U.S. GAAP: Generally accepted accounting principles in the U.S. Accounting rules and conventions defining acceptable practices in preparing financial statements in the U.S.
+Variable interest entity ("VIE"): An entity that, by design, either (i) lacks sufficient equity to permit the entity to finance its activities without additional subordinated financial support from other parties; or (ii) has equity investors that do not have (a) the ability to make significant decisions relating to the entity's operations through voting rights, (b) the obligation to absorb the expected losses, and/or (c) the right to receive the residual returns of the entity.
+68
+Capital One Financial Corporation (COF) |
+Table of Contents
+Acronyms
+ABS: Asset-backed securities
+AOCI: Accumulated other comprehensive income
+ASU: Accounting Standards Update
+ATM: Automated teller machine
+BHC: Bank holding company
+bps: Basis points
+CAD: Canadian dollar
+CCP: Central Counterparty Clearinghouse, or Central Clearinghouse
+CDE: Community development entities
+CEO: Chief Executive Officer
+CET1: Common equity Tier 1 capital
+CFO: Chief Financial Officer
+CFPB: Consumer Financial Protection Bureau
+CMBS: Commercial mortgage-backed securities
+CME: Chicago Mercantile Exchange
+CODM: Chief Operating Decision Maker
+COEP: Capital One (Europe) plc
+COF: Capital One Financial Corporation
+COMET: Capital One Multi-asset Execution Trust
+CONA: Capital One, National Association
+COPAR: Capital One Prime Auto Receivables Trusts
+CVA: Credit valuation adjustment
+DCENT: Discover Card Execution Note Trust
+DCF: Discounted cash flow
+
+----- [line 3463] -----
+5.55 | 20 | 22 |
+Total other long-term borrowings | $ | 555 | $ | 1,059 |
+Total long-term debt | $ | 44,677 | $ | 49,913 |
+Total short-term borrowings and long-term debt | $ | 45,371 | $ | 51,000 |
+__________
+(1)Some customers have time deposits in excess of the federal deposit insurance limit, making a portion of the deposit uninsured. As of June 30, 2026, the total time deposit amount with some portion in excess of the insured amount was $17.7 billion and the portion of total time deposits estimated to be uninsured was $13.1 billion. As of December 31, 2025, the total time deposit amount with some portion in excess of the insured amount was $17.4 billion and the portion of total time deposits estimated to be uninsured was $12.9 billion.
+(2)Includes $531 million and $544 million of Euro ("EUR")-denominated unsecured notes as of June 30, 2026 and December 31, 2025, respectively.
+114
+Capital One Financial Corporation (COF) |
+Table of Contents
+NOTE 9--DERIVATIVE INSTRUMENTS AND HEDGING ACTIVITIES
+Use of Derivatives and Accounting for Derivatives
+We regularly enter into derivative transactions to support our overall risk management activities. Our primary market risks stem from the impact on our earnings and economic value of equity due to changes in interest rates and, to a lesser extent, changes in foreign exchange rates. We manage our interest rate sensitivity by employing several techniques, which include changing the duration and repricing characteristics of various assets and liabilities by using interest rate derivatives. We also use foreign currency derivatives to limit our earnings and capital exposures to foreign exchange risk by hedging certain exposures denominated in foreign currencies. We use derivative instruments such as interest rate and foreign currency swaps, options, futures and forward contracts to manage our interest rate and foreign exchange risks. We designate these risk management derivatives as either qualifying accounting hedges or free-standing derivatives. Qualifying accounting hedges are further designated as fair value hedges, cash flow hedges or net investment hedges. Free-standing derivatives are economic hedges that do not qualify for hedge accounting.
+We offer interest rate, commodity, foreign currency derivatives and other contracts as an accommodation to our customers within our Commercial Banking business. We enter into these derivatives with our customers primarily to help them manage their interest rate risks, hedge their energy and other commodities exposures, and manage foreign currency fluctuations. We offset the substantial majority of the market risk exposure of our customer accommodation derivatives through derivative transactions with other counterparties.
+See below for additional information on our use of derivatives and how we account for them:
+&#8226;Fair Value Hedges: We designate derivatives as fair value hedges when they are used to manage our exposure to changes in the fair value of certain financial assets and liabilities, which fluctuate in value as a result of movements in interest rates. Changes in the fair value of derivatives designated as fair value hedges are presented in the same line item in our consolidated statements of income as the earnings effect of the hedged items. We enter into receive-fixed, pay-float interest rate swaps to hedge changes in the fair value of outstanding fixed rate debt and deposits due to fluctuations in market interest rates. We also enter into pay-fixed, receive-float interest rate swaps to hedge changes in the fair value of fixed rate investment securities.
+&#8226;Cash Flow Hedges: We designate derivatives as cash flow hedges when they are used to manage our exposure to variability in cash flows related to forecasted transactions. Changes in the fair value of derivatives designated as cash flow hedges are recorded as a component of AOCI. Those amounts are reclassified into earnings in the same period during which the hedged forecasted transactions impact earnings and presented in the same line item in our consolidated statements of income as the earnings effect of the hedged items. We enter into receive-fixed, pay-float interest rate swaps and interest rate floors to modify the interest rate characteristics of designated credit card and commercial loans from floating to fixed in order to reduce the impact of changes in forecasted future cash flows due to fluctuations in market interest rates. We also enter into foreign currency forward contracts to hedge our exposure to variability in cash flows related to intercompany borrowings denominated in foreign currencies.
+&#8226;Net Investment Hedges: We use net investment hedges to manage the foreign currency exposure related to our net investments in foreign operations that have functional currencies other than the U.S. dollar. Changes in the fair value of net investment hedges are recorded in the translation adjustment component of AOCI, offsetting the translation gain or loss from those foreign operations. We execute net investment hedges using foreign currency forward contracts to hedge the translation exposure of the net investment in our foreign operations under the forward method.
+&#8226;Free-Standing Derivatives: Our free-standing derivatives primarily consist of our customer accommodation derivatives and other economic hedges. The customer accommodation derivatives and the related offsetting contracts are mainly interest rate, commodity and foreign currency contracts. The other free-standing derivatives are primarily used to economically hedge the risk of changes in the fair value of our commercial mortgage loan origination and purchase commitments as well as other interests held. Changes in the fair value of free-standing derivatives are recorded in earnings as a component of other non-interest income.
+115
+Capital One Financial Corporation (COF) |
+Table of Contents
+Derivatives Counterparty Credit Risk
+Counterparty Types
+Derivative instruments contain an element of credit risk that stems from the potential failure of a counterparty to perform according to the terms of the contract, including making payments due upon maturity of certain derivative instruments. We execute our derivative contracts primarily in over-the-counter ("OTC") markets. We also execute interest rate and commodity futures in the exchange-traded derivative markets. Our OTC derivatives consist of both trades cleared through central counterparty clearinghouses ("CCPs") and uncleared bilateral contracts. The Chicago Mercantile Exchange ("CME"), the Intercontinental Exchange ("ICE") and the LCH Group ("LCH") are our CCPs for our centrally cleared contracts. In our uncleared bilateral contracts, we enter into agreements directly with our derivative counterparties.
+Counterparty Credit Risk Management
+We manage the counterparty credit risk associated with derivative instruments by entering into legally enforceable master netting agreements, where applicable, and exchanging collateral with our counterparties, typically in the form of cash or high-quality liquid securities. We exchange collateral in two primary forms: variation margin, which accounts for changes in market value due to daily market movements, and initial margin, which offsets the potential future exposure of a derivative. We exchange variation margin and initial margin on bilateral derivatives in scope for uncleared margin rules.
+The amount of collateral exchanged for variation margin is dependent upon the fair value of the derivative instruments as well as the fair value of the pledged collateral and will vary over time as market variables change. The amount of the initial margin exchanged is dependent upon (1) the calculation of initial margin exposure, as prescribed by (a) the U.S. prudential regulators' margin rules for uncleared derivatives or (b) the CCPs for cleared derivatives and (2) the fair value of the pledged collateral; it will vary over time as market variables change. When valuing collateral, an estimate of the variation in price and liquidity over time is subtracted in the form of a "haircut" to discount the value of the collateral pledged. Our exposure to derivative counterparty credit risk, at any point in time, is equal to the amount reported as a derivative asset on our consolidated balance sheets. The fair value of our derivatives is adjusted on an aggregate basis to take into consideration the effects of legally enforceable master netting agreements and any associated collateral received or pledged. See Table 9.3 for our net exposure associated with derivatives.
+The terms under which we collateralize our exposures differ between cleared exposures and uncleared bilateral exposures.
+&#8226;CCPs: We clear eligible OTC derivatives with CCPs as part of our regulatory requirements. We also clear exchange-traded instruments, like futures, with CCPs. Futures commission merchants ("FCMs") serve as the intermediary between CCPs and us. CCPs require that we post initial and variation margin through our FCMs to mitigate the risk of non-payment or default. Initial margin is required by CCPs as collateral against potential losses on our exchange-traded and cleared derivative contracts and variation margin is exchanged on a daily basis to account for mark-to-market changes in those derivative contracts. For CME, ICE and LCH cleared OTC derivatives, variation margin cash payments are required to be characterized as settlements. Our FCM agreements governing these derivative transactions include provisions that may require us to post additional collateral under certain circumstances.
+&#8226;Bilateral Counterparties: We enter into master netting agreements and collateral agreements with bilateral derivative counterparties, where applicable, to mitigate the risk of default. These bilateral agreements typically provide the right to offset exposure with the same counterparty and require the party in a net liability position to post collateral. Agreements with certain bilateral counterparties require both parties to maintain collateral in the event the fair values of uncleared derivatives exceed established exposure thresholds. Certain of these bilateral agreements include provisions requiring that our debt maintain a credit rating of investment grade or above by each of the major credit rating agencies. In the event of a downgrade of our debt credit rating below investment grade, some of our counterparties would have the right to terminate their derivative contract and close out existing positions.
+116
+Capital One Financial Corporation (COF) |
+Table of Contents
+Credit Risk Valuation Adjustments
+We record counterparty credit valuation adjustments ("CVAs") on our derivative assets to reflect the credit quality of our counterparties. We consider collateral and legally enforceable master netting agreements that mitigate our credit exposure to each counterparty in determining CVAs, which may be adjusted due to changes in the fair values of the derivative contracts, collateral, and creditworthiness of the counterparty. We also record debit valuation adjustments to adjust the fair values of our derivative liabilities to reflect the impact of our own credit quality.
+Balance Sheet Presentation
+The following table summarizes the notional amounts and fair values of our derivative instruments as of June 30, 2026 and December 31, 2025, which are segregated by derivatives that are designated as accounting hedges and those that are not, and are further segregated by type of contract within those two categories. The total derivative assets and liabilities are adjusted on an aggregate basis to take into consideration the effects of legally enforceable master netting agreements and any associated cash collateral received or pledged. Derivative assets and liabilities are included in other assets and other liabilities, respectively, on our consolidated balance sheets, and their related gains or losses are included in operating activities as changes in other assets and other liabilities in the consolidated statements of cash flows.
+Table 9.1: Derivative Assets and Liabilities at Fair Value
+June 30, 2026 | December 31, 2025 |
+Notional or Contractual Amount | Derivative(1)
+Notional or Contractual Amount | Derivative(1)
+(Dollars in millions) | Assets | Liabilities | Assets | Liabilities |
+Derivatives designated as accounting hedges: |
+Interest rate contracts: |
+Fair value hedges | $ | 57,369 | $ | 31 | $ | 115 | $ | 60,580 | $ | 13 | $ | 52 |
+Cash flow hedges | 136,801 | 90 | 195 | 131,250 | 145 | 86 |
+Total interest rate contracts | 194,170 | 121 | 310 | 191,830 | 158 | 138 |
+Foreign exchange contracts: |
+Fair value hedges | 571 | -- | 40 | 587 | -- | 22 |
+Cash flow hedges | 2,938 | 46 | -- | 2,737 | -- | 35 |
+Net investment hedges | 5,526 | 104 | -- | 5,526 | 18 | 82 |
+Total foreign exchange contracts | 9,035 | 150 | 40 | 8,850 | 18 | 139 |
+Total derivatives designated as accounting hedges | 203,205 | 271 | 350 | 200,680 | 176 | 277 |
+Derivatives not designated as accounting hedges: |
+Customer accommodation: |
+Interest rate contracts | 142,623 | 626 | 722 | 132,966 | 672 | 678 |
+Commodity contracts | 48,354 | 1,417 | 1,386 | 40,298 | 1,231 | 1,096 |
+Foreign exchange and other contracts | 5,689 | 57 | 44 | 6,390 | 57 | 56 |
+Total customer accommodation | 196,666 | 2,100 | 2,152 | 179,654 | 1,960 | 1,830 |
+Other interest rate exposures(2)
+1,633 | 17 | 10 | 1,909 | 17 | 11 |
+Other contracts | 3,486 | 55 | 11 | 3,467 | 48 | 11 |
+Total derivatives not designated as accounting hedges | 201,785 | 2,172 | 2,173 | 185,030 | 2,025 | 1,852 |
+Total derivatives | $ | 404,990 | $ | 2,443 | $ | 2,523 | $ | 385,710 | $ | 2,201 | $ | 2,129 |
+Less: netting adjustment(3)
+(518) | (300) | (408) | (501) |
+Total derivative assets/liabilities | $ | 1,925 | $ | 2,223 | $ | 1,793 | $ | 1,628 |
+__________
+(1)Does not reflect $3 million and $5 million recognized as a net valuation allowance on derivative assets and liabilities for non-performance risk as of June 30, 2026 and December 31, 2025, respectively. This net valuation allowance is included as part of other assets and other liabilities on the consolidated balance sheets, and is offset through non-interest income in the consolidated statements of income.
+(2)Other interest rate exposures include commercial mortgage-related derivatives and interest rate swaps.
+117
+Capital One Financial Corporation (COF) |

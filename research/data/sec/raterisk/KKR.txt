@@ -1,0 +1,415 @@
+# KKR 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/1404912/000140491226000027/kkr-20260630.htm
+# full_doc_chars=842342
+
+
+----- [line 3657] -----
+December 31, 2025, respectively.
+The capital stock of one of Global Atlantic's equity method investments has been pledged as collateral security for the
+due payment and performance of the debt obligations of the investee. Global Atlantic's investment subject to this pledge had
+a carrying value of $837.7 million and $873.6 million as of June 30, 2026, and December 31, 2025, respectively.
+Insurance - Statutory Deposits
+As of June 30, 2026, and December 31, 2025, the carrying value of the assets on deposit with various state and U.S.
+governmental authorities were $142.3 million and $145.1 million, respectively.
+8. DERIVATIVES
+Asset Management and Strategic Holdings
+KKR and certain of its consolidated funds have entered into derivative transactions as part of the overall risk management
+for their investment strategies. These derivative contracts are not designated as hedging instruments for accounting
+purposes. Such contracts may include forward, swap, and option contracts related to foreign currencies and interest rates to
+manage foreign exchange risk and interest rate risk arising from certain assets and liabilities. All derivatives are recognized in
+Other Assets or Accrued Expenses and Other Liabilities and are presented on a gross basis in the consolidated statements of
+financial condition and measured at fair value with changes in fair value recorded in Net Gains (Losses) from Investment
+Activities in the accompanying consolidated statements of operations. KKR's derivative financial instruments contain credit
+risk to the extent that its counterparties may be unable to meet the terms of the agreements. KKR attempts to reduce this risk
+by limiting its counterparties to major financial institutions with strong credit ratings.
+Insurance
+Global Atlantic holds derivative instruments that are primarily used in its hedge program. Global Atlantic has established
+a hedge program that seeks to mitigate economic impacts primarily from interest rate and equity price movements, while
+taking into consideration accounting and capital impacts.
+Global Atlantic hedges interest rate and equity market risks associated with its insurance liabilities, including fixed-
+indexed annuities, indexed universal life policies, variable annuity policies, and variable universal life policies, among others.
+For fixed-indexed annuities and indexed universal life policies, Global Atlantic generally seeks to use static hedges to offset
+the exposure primarily created by changes in its embedded derivative balances. Global Atlantic generally purchases options
+which replicate the crediting rate strategies, often in the form of call spreads. Call spreads are the purchase of a call option
+matched by the sale of a different call option. For variable annuities and variable universal life policies, Global Atlantic
+generally seeks to dynamically hedge its exposure to changes in the value of the guarantee it provides to policyholders. Doing
+35
+Table of Contents
+so requires the active trading of several financial instruments to respond to changes in market conditions. In addition, Global
+Atlantic enters into inflation swaps to manage inflation risk associated with inflation-indexed preneed policies.
+In the context of specific reinsurance transactions in the institutional channel or acquisitions, Global Atlantic may also
+enter into hedges which are designed to limit short-term market risks to the economic value of the target assets. From time to
+time, Global Atlantic also enters into hedges designed to mitigate interest rate and credit risk in investment income, interest
+expense, and fair value of assets and liabilities. In addition, Global Atlantic enters into currency swaps and forwards to
+manage any foreign exchange rate risks that may arise from investments and policy liabilities denominated in foreign
+currencies.
+Global Atlantic attempts to mitigate the risk of loss due to ineffectiveness under these derivative investments through a
+regular monitoring process which evaluates the program's effectiveness. Global Atlantic monitors its derivative activities by
+reviewing portfolio activities and risk levels. Global Atlantic also oversees all derivative transactions to ensure that the types
+of transactions entered into and the results obtained from those transactions are consistent with both Global Atlantic's risk
+management strategy and its policies and procedures.
+The restricted cash which was held in connection with open derivative transactions with exchange brokers was $41.6
+million and $49.9 million as of June 30, 2026, and December 31, 2025, respectively.
+Global Atlantic also has embedded derivatives related to reinsurance contracts that are accounted for on a modified
+coinsurance and funds withheld basis. An embedded derivative exists because the arrangement exposes the reinsurer to
+third-party credit risk. These embedded derivatives are included in funds withheld receivable and payable at interest in the
+consolidated statements of financial condition.
+Credit Risk
+Global Atlantic may be exposed to credit-related losses in the event of nonperformance by its counterparties to
+derivatives. Generally, the current credit exposure of Global Atlantic's derivatives is limited to the positive fair value of
+derivatives less any collateral received from the counterparty.
+Global Atlantic manages the credit risk on its derivatives by entering into derivative transactions with highly rated
+financial institutions and other creditworthy counterparties and, where feasible, by trading through central clearing
+counterparties. Global Atlantic further manages its credit risk on derivatives via the use of master netting agreements, which
+require the daily posting of collateral by the party in a liability position. Counterparty credit exposure and collateral values are
+monitored regularly and measured against counterparty exposure limits. The provisions of derivative transactions may allow
+for the termination and settlement of a transaction if there is a downgrade to Global Atlantic's financial strength ratings
+below a specified level.
+36
+Table of Contents
+The fair value and notional value of the derivative assets and liabilities were as follows:
+As of June 30, 2026
+A
+s
+o
+f
+Notional
+Value
+Derivative
+
+----- [line 3885] -----
+derivative contracts related to changes in the spot-forward difference are excluded from the assessment of hedge
+effectiveness and are deferred in AOCI and recognized in earnings using a systematic and rational method over the life of the
+foreign exchange derivative contracts. The amortized cost of the AFS fixed maturity securities in qualifying foreign exchange
+fair value hedges was $5.3 billion and $3.7 billion as of June 30, 2026, and December 31, 2025, respectively.
+Global Atlantic has designated foreign exchange swaps to hedge the foreign currency risk associated with certain policy
+liabilities in fair value hedges. Changes in the fair value of the hedged policy liabilities due to changes in spot exchange rates
+are recognized in earnings and are offset by the earnings impact of the spot changes of the foreign exchange swaps, both of
+which are recognized within net policy benefits and claims. The effectiveness of these hedges is assessed using the spot
+method. Changes in the fair value of the foreign exchange swaps related to changes in the spot-forward difference are
+excluded from the assessment of hedge effectiveness and are deferred in AOCI and recognized in earnings using a systematic
+and rational method over the life of the foreign exchange swaps. The carrying value of the policy liabilities in qualifying foreign
+exchange fair value hedges was $100 million and nil as of June 30, 2026, and December 31, 2025, respectively.
+Global Atlantic has designated interest rate swaps to hedge the interest rate risk associated with certain debt and policy
+liabilities. These fair value hedges generally qualify for the shortcut method of assessing hedge effectiveness. The following
+table presents the financial statement classification, carrying amount, and cumulative fair value hedging adjustments for
+qualifying hedged debt and policy liabilities:
+As of June 30, 2026
+As of December 31, 2025
+Carrying Amount of
+Hedged Liabilities
+Cumulative Amount of
+Fair Value Hedging
+Adjustments Included in
+the Carrying Amount of
+Hedged Liabilities(1)
+Carrying Amount of
+Hedged Liabilities
+Cumulative Amount of
+Fair Value Hedging
+Adjustments Included in
+the Carrying Amount of
+Hedged Liabilities(1)
+Debt
+$3,520,252
+$(176,118)
+$3,572,318
+$(123,471)
+Policy Liabilities
+4,556,855
+(129,265)
+3,647,117
+(99,239)
+(1)Includes $137.2 million and $154.6 million of hedging adjustments on discontinued hedging relationships as of June 30, 2026, and December 31, 2025,
+respectively.
+Cash Flow Hedges
+Global Atlantic has designated bond forwards to hedge the interest rate risk associated with the planned purchase of AFS
+fixed maturity securities in cash flow hedges. These arrangements are hedging purchases through December 2036, and are
+expected to affect earnings until 2057. Regression analysis is used to assess the effectiveness of these hedges.
+As of June 30, 2026, and December 31, 2025, there was a cumulative gain (loss) of $(158.3) million and $(213.9) million,
+respectively, on the currently designated bond forwards recorded in accumulated other comprehensive income (loss).
+Amounts deferred in accumulated other comprehensive income (loss) are reclassified to net investment income following the
+qualifying purchases of AFS securities, as an adjustment to the yield earned over the life of the purchased securities, using the
+effective interest method.
+Global Atlantic has designated interest rate swaps to hedge the interest rate risk associated with floating rate
+investments, including AFS fixed maturity securities and commercial mortgage loans. Regression analysis is used to assess the
+effectiveness of these hedges.
+As of June 30, 2026, and December 31, 2025, there was a cumulative gain (loss) of $(51.5) million and $(22.3) million on
+the currently designated interest rate swaps recorded in accumulated other comprehensive income (loss), respectively.
+38
+Table of Contents
+Amounts deferred in accumulated other comprehensive gain (loss) are reclassified to net investment income in the same
+period during which the hedged investments affect earnings.
+Global Atlantic has designated foreign exchange swaps to hedge the foreign exchange risk associated with certain policy
+liabilities in cash flow hedges. The critical terms of the swaps match those of the hedged liabilities, such that the respective
+hedging relationship is expected to be perfectly effective (pursuant to ASC 815-20-25-84).
+As of June 30, 2026, there was a cumulative gain (loss) of $13.6 million on the currently designated foreign exchange
+swaps recorded in accumulated other comprehensive loss. Amounts deferred in accumulated other comprehensive loss are
+reclassified to net policy benefits and claims in the same period during which the hedged policy liabilities affect earnings due
+to changes in spot foreign exchange rates. The amount reclassified from accumulated other comprehensive loss for the swap
+designated in the hedge comprises changes in its fair value due to changes in spot exchange rates and an allocated portion of
+its initial spot-forward difference.
+For all cash flow hedges, Global Atlantic estimates that the amount of gains/losses in accumulated other comprehensive
+income (loss) to be reclassified into earnings in the next 12 months will not be material.
+Net Investment Hedges
+Global Atlantic has designated cross currency swaps to hedge the foreign currency risk associated with certain foreign
+currency-denominated equity method investments in net investment hedges. The effectiveness of these hedges is assessed
+based on changes in spot rates.
+Changes in the fair value of the swaps are recognized in other comprehensive income, consistent with the translation
+adjustment for the hedged investment. The component comprising the difference between forward rates and spot rates is
+amortized to net investment income over the life of the swaps. As of June 30, 2026, and December 31, 2025, the cumulative
+foreign currency translation gain (loss) recorded in accumulated other comprehensive income related to net investment
+hedges was $(8.5) million and $(14.1) million, respectively.
+Derivative Results
+The following table presents the financial statement classification and amount of gains (losses) recognized on derivative
+instruments and related hedged items, where applicable. None of the Asset Management and Strategic Holdings derivatives
+are designated as hedge accounting instruments. The table below includes only derivatives held by Global Atlantic.
+39
+Table of Contents
+Three Months Ended June 30, 2026
+Net
+Investment-
+Related Gains
+(Losses)
+Net
+Investment
+Income
+Net Policy
+Benefits and
+Claims
+Interest
+Expense
+Change in
+AOCI
+Derivatives Designated as Hedge Accounting Instruments:
+Fair Value Hedges
+Gains (Losses) on Derivatives Designated as Hedge Instruments:
+Interest Rate Contracts
+$--
+$--
+$(36,645)
+$(45,720)
+$--
+Foreign Currency Contracts
+
+----- [line 10428] -----
+Six Months Ended June 30,
+2026
+2025
+Payout Annuities
+$1,228,435
+$1,208,885
+Other
+494,949
+398,142
+Total Products
+$1,723,384
+$1,607,027
+The following table reflects the weighted-average duration and weighted-average interest rates of the future policy
+benefit liability as of June 30, 2026, and December 31, 2025:
+As of June 30, 2026
+Payout Annuities
+Other
+Weighted-Average Interest Rates, Original Discount Rate
+4.34%
+5.26%
+Weighted-Average Interest Rates, Current Discount Rate
+5.43%
+5.36%
+Weighted-Average Liability Duration (Years, Current Rates)
+8.30
+8.90
+As of December 31, 2025
+Payout Annuities
+Other
+Weighted-Average Interest Rates, Original Discount Rate
+4.22%
+5.25%
+Weighted-Average Interest Rates, Current Discount Rate
+5.19%
+5.11%
+Weighted-Average Liability Duration (Years, Current Rates)
+8.30
+9.10
+The following reflects the undiscounted ending balance of expected future gross premiums and expected future benefits
+and payments for traditional and limited-payment contracts, as of June 30, 2026, and December 31, 2025:
+As of June 30, 2026
+Payout Annuities
+Other
+Expected Future Benefit Payments, Undiscounted
+$40,125,205
+$16,281,119
+Expected Future Benefit Payments, Discounted (Original Discount Rate)
+25,640,929
+9,431,429
+Expected Future Benefit Payments, Discounted (Current Discount Rate)
+22,985,592
+9,286,932
+Expected Future Gross Premiums, Undiscounted
+--
+2,363,133
+Expected Future Gross Premiums, Discounted (Original Discount Rate)
+--
+1,895,374
+Expected Future Gross Premiums, Discounted (Current Discount Rate)
+--
+1,855,749
+As of December 31, 2025
+Payout Annuities
+Other
+Expected Future Benefit Payments, Undiscounted
+$38,989,687
+$16,462,284
+Expected Future Benefit Payments, Discounted (Original Discount Rate)
+25,126,080
+9,466,765
+Expected Future Benefit Payments, Discounted (Current Discount Rate)
+22,763,350
+
+----- [line 10555] -----
+$6,022,092
+The additional liability for annuitization, death, or other insurance benefits relates primarily to secondary guarantees on
+certain interest-sensitive life products, and preneed insurance.
+The following reflects the amount of gross assessments recognized for the additional liability for annuitization, death, or
+other insurance benefits in the consolidated statements of operations for the six months ended June 30, 2026 and 2025:
+Gross Assessments
+Six Months Ended June 30,
+2026
+2025
+Total Amount Recognized Within Revenue in the Consolidated Statements of Operations
+$380,646
+$292,533
+The following reflects the weighted average duration and weighted average interest rate for the additional liability for
+annuitization, death, or other insurance benefits as of June 30, 2026, and December 31, 2025:
+As of
+June 30, 2026
+December 31, 2025
+Weighted-Average Interest, Current Discount Rate
+3.31%
+3.30%
+Weighted-Average Liability Duration (Years)
+23.95
+24.79
+Market Risk Benefits
+The following table presents the balances of, and changes in, market risk benefits:
+Six Months Ended
+June 30, 2026
+June 30, 2025
+Fixed-Indexed
+Annuity
+Variable- and
+Other
+Annuities
+Total
+Fixed-Indexed
+Annuity
+Variable- and
+Other
+Annuities
+Total
+Balance as of Beginning of Period
+$1,140,823
+$207,954
+$1,348,777
+$815,981
+$183,936
+$999,917
+Balance as of Beginning of Period, Before
+Impact of Changes in Instrument-Specific
+Credit Risk
+$1,009,066
+$169,131
+$1,178,197
+$716,544
+$150,107
+$866,651
+Issuances
+67,816
+10
+67,826
+50,174
+89
+50,263
+Interest
+23,931
+4,523
+28,454
+19,667
+4,472
+24,139
+Attributed Fees Collected
+66,023
+
+----- [line 11935] -----
+facilities, and syndications in KKR's Capital Markets business line. As of June 30, 2026, these capital markets commitments
+amounted to $0.6 billion. Whether these amounts are actually funded, in whole or in part, depends on the contractual terms
+of such capital markets commitments, including the satisfaction or waiver of any conditions to closing or funding. KKR's capital
+markets business has arrangements with third parties, which are expected to reduce KKR's risk under certain circumstances
+when underwriting certain debt transactions. As a result, our unfunded capital markets commitments as of June 30, 2026,
+have been reduced to reflect the amount expected to be funded by such third parties. As of June 30, 2026, KKR's capital
+markets business line has entered into such arrangements representing a total notional amount of $5.0 billion.
+Global Atlantic has commitments to purchase or fund investments of $6.1 billion as of June 30, 2026. These commitments
+include those related to mortgage loans, other lending facilities, and real assets. For those commitments that represent a
+contractual obligation to extend credit, Global Atlantic has recorded a liability of $24.7 million for current expected credit
+losses as of June 30, 2026.
+In addition, Global Atlantic has entered into agreements to purchase loans. Global Atlantic's obligations under these
+agreements are subject to change, curtailment, and cancellation based on various provisions including repricing mechanics,
+due diligence reviews, and performance or pool quality, among other factors.
+Global Atlantic has certain contingent funding obligations related to development-stage renewable energy projects in the
+amount of $322.2 million as of June 30, 2026, with expiration dates occurring between March 2027 and September 2027. For
+accounting purposes, these contingent funding obligations are considered guarantees of the obligations of the development-
+stage renewable energy projects.
+Non-cancelable Operating Leases
+KKR's non-cancelable operating leases consist of leases of office space around the world. There are no material rent
+holidays, contingent rent, rent concessions, or leasehold improvement incentives associated with any of these property
+leases. In addition to base rentals, certain lease agreements are subject to escalation provisions and rent expense is
+recognized on a straight&#8209;line basis over the term of the lease agreement. Global Atlantic also enters into land leases for its
+consolidated investments in renewable energy.
+Contingent Repayment Guarantees
+The partnership documents governing KKR's carry-paying investment funds and vehicles generally include a "clawback"
+provision that, if triggered, may give rise to a contingent obligation requiring the general partner to return amounts to the
+fund for distribution to the fund investors at the end of the life of the fund. Under a clawback obligation, upon the liquidation
+of a fund, the general partner is required to return, typically on an after-tax basis, previously distributed carry to the extent
+that, due to the diminished performance of later investments, the aggregate amount of carry distributions received by the
+general partner during the term of the fund exceed the amount to which the general partner was ultimately entitled,
+including the effects of any performance thresholds. KKR has guaranteed its general partners' clawback obligations.
+As of June 30, 2026, approximately $180 million of carried interest was subject to this clawback obligation, assuming that
+all applicable carry-paying investment funds were liquidated at their June 30, 2026 fair values. Although KKR would be
+required to remit the entire amount to fund investors that are entitled to receive the clawback payment, KKR would be
+entitled to seek reimbursement of approximately $79 million of that amount from Associates Holdings, which is not a KKR
+subsidiary. As of June 30, 2026, Associates Holdings had access to cash reserves sufficient to reimburse the full $79 million
+that would be due to KKR. If the investments in all carry-paying funds were to be liquidated at zero value, a possibility that
+management views to be remote, the clawback obligation would have been approximately $5.1 billion as of June 30, 2026.
+KKR will acquire control of Associates Holdings when KKR acquires its general partner upon the closing of the transactions
+contemplated to occur on the Sunset Date (as defined in Note 1 "Organization"), which will occur not later than December 31,
+2026.
+Carried interest is recognized in the consolidated statements of operations based on the contractual conditions set forth
+in the agreements governing the fund as if the fund were terminated and liquidated at the reporting date and the fund's
+investments were realized at the then estimated fair values. Amounts earned pursuant to carried interest are earned by the
+general partner of those funds to the extent that cumulative investment returns are positive and where applicable, preferred
+return thresholds have been met. If these investment amounts earned decrease or turn negative in subsequent periods,
+recognized carried interest will be reversed and to the extent that the aggregate amount of carry distributions received by the
+96
+Table of Contents
+general partner during the term of the fund exceed the amount to which the general partner was ultimately entitled, and a
+clawback obligation would be recorded. For funds that are consolidated, this clawback obligation, if any, is reflected as an
+increase in noncontrolling interests in the consolidated statements of financial condition. For funds that are not consolidated,
+this clawback obligation, if any, is reflected as a reduction of KKR's investment balance as this is where carried interest is
+initially recorded.
+Indemnifications and Other Guarantees
+KKR may incur contingent liabilities for claims that may be made against it in the future. KKR enters into contracts that
+contain a variety of representations, warranties and covenants, including indemnifications. KKR and certain of KKR's
+consolidated investment funds have provided, and are expected to continue to provide, certain credit support, such as
+indemnities and guarantees relating to a variety of matters, including (i) guarantees of KKR's corporate debt obligations and
+other capital obligations, (ii) non-recourse carve-out guarantees for fraud, willful misconduct and other wrongful acts,
+including in connection with the financing of KKR's corporate real estate, (iii) in connection with certain investment vehicles
+sponsored or managed by KKR, and (iv) certain other guarantees arising from the investment activities of KKR and its
+investment vehicles.
+The types of credit support provided by KKR include providing guarantees or other credit support:
+i.in connection with its subsidiaries' funding obligations to certain investment vehicles that KKR manages or
+sponsors,
+ii.in connection with repayment and funding obligations to third-party lenders on behalf of certain employees,
+excluding its executive officers, in connection with their personal investments in KKR investment funds and a
+levered multi-asset investment vehicle, and
+iii.in connection with certain of investment vehicles' obligations to fund or otherwise be liable for a portion of
+their investment losses, including the obligation to provide these investment vehicles with liquidity upon

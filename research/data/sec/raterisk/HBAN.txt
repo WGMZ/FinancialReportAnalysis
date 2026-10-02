@@ -1,0 +1,727 @@
+# HBAN 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/49196/000004919626000066/hban-20260630.htm
+# full_doc_chars=412090
+
+
+----- [line 190] -----
+Glossary of Acronyms and Terms
+The following listing provides a comprehensive reference of common acronyms and terms used throughout the
+document:
+ACL
+Allowance for Credit Losses
+NAICS
+North American Industry Classification System
+AFS
+Available-for-Sale
+NALs
+Nonaccrual Loans
+ALCO
+Asset-Liability Management Committee
+NCO
+Net Charge-off
+ALLL
+Allowance for Loan and Lease Losses
+NII
+Net Interest Income
+AOCI
+Accumulated Other Comprehensive Income (Loss)
+NIM
+Net Interest Margin
+ASC
+Accounting Standards Codification
+NPAs
+Nonperforming Assets
+ASU
+Accounting Standards Update
+OCC
+Office of the Comptroller of the Currency
+AULC
+Allowance for Unfunded Lending Commitments
+OCI
+Other Comprehensive Income (Loss)
+Basel III
+Refers to the final rule issued by the FRB and OCC
+and published in the Federal Register on October 11,
+2013
+OLEM
+Other Loans Especially Mentioned
+Board
+Board of Directors
+PCD
+Purchased Credit Deteriorated
+C&I
+Commercial and Industrial
+ROC
+Risk Oversight Committee
+Cadence
+Cadence Bank
+RV
+Recreational Vehicle
+CCAR
+Comprehensive Capital Analysis and Review
+SBA
+Small Business Administration
+CDI
+Core Deposit Intangible
+SCB
+Stress Capital Buffer
+CDS
+Credit Default Swap
+SEC
+Securities and Exchange Commission
+CET1
+Common Equity Tier 1
+SOFR
+Secured Overnight Financing Rate
+CFPB
+Bureau of Consumer Financial Protection
+SPE
+
+----- [line 272] -----
+Collateralized Mortgage Obligations
+U.S. Treasury
+U.S. Department of the Treasury
+CRE
+Commercial Real Estate
+Veritex
+Veritex Holdings, Inc.
+EOP
+End of Period
+VIE
+Variable Interest Entity
+EVE
+Economic Value of Equity
+XBRL
+eXtensible Business Reporting Language
+FDIC
+Federal Deposit Insurance Corporation
+Fed Fund
+The targeted rate by the Federal Reserve to secure
+overnight funding
+Federal Reserve
+Board of Governors of the Federal Reserve System
+FFIEC
+Federal Financial Institutions Examination Council
+FHLB
+Federal Home Loan Bank
+FOMC
+Federal Open Market Committee
+FRB
+Federal Reserve Bank
+FTE
+Fully-Taxable Equivalent
+FTP
+Funds Transfer Pricing
+FVO
+Fair Value Option
+GAAP
+Generally Accepted Accounting Principles in the
+United States of America
+GDP
+Gross Domestic Product
+HTM
+Held-to-Maturity
+IRS
+Internal Revenue Service
+Janney
+Janney Montgomery Scott LLC
+LIHTC
+Low Income Housing Tax Credit
+MBS
+Mortgage-Backed Securities
+MD&A
+Management's Discussion and Analysis of Financial
+Condition and Results of Operations
+MSR
+Mortgage Servicing Right
+4 Huntington Bancshares Incorporated
+Table of Contents
+PART I. FINANCIAL INFORMATION
+When we refer to "we," "our," "us," "Huntington," and "the Company" in this Quarterly Report on Form 10-Q
+(this "report"), we mean Huntington Bancshares Incorporated and our consolidated subsidiaries, unless the context
+indicates that we refer only to the parent company, Huntington Bancshares Incorporated. When we refer to the
+"Bank" in this report, we mean our only bank subsidiary, The Huntington National Bank, and its subsidiaries.
+Item 2: Management's Discussion and Analysis of Financial Condition and Results of Operations
+INTRODUCTION
+We are a multi-state diversified regional bank holding company organized under Maryland law in 1966 and
+headquartered in Columbus, Ohio. Through the Bank, we are committed to making people's lives better, helping
+businesses thrive, and strengthening the communities we serve, and we have been servicing the financial needs of
+our customers since 1866. Through our subsidiaries, we provide full-service commercial and consumer deposit,
+lending, and other banking and financial services. These include, but are not limited to, payments, mortgage
+banking, direct and indirect consumer financing, investment banking, capital markets, advisory, equipment
+financing, distribution finance, investment management, trust, brokerage, insurance, and other financial products
+
+----- [line 2665] -----
+NCOs were $230 million, or 0.25% of average total loans and leases on an annualized basis, in the six-month
+period ended June 30, 2026, an increase of $78 million compared to $152 million, or 0.23% of average total loans
+and leases on an annualized basis, in the six-month period ended June 30, 2025. The increase reflects a $47 million
+increase in commercial NCOs to $122 million, and a $31 million increase in consumer NCOs to $108 million, in the
+six-month period ended June 30, 2026. As a percentage of average loans and leases, annualized NCOs for
+commercial loans and leases were 0.21% for the first six-month period of 2026, compared to 0.20% in the year-ago
+period, while annualized consumer loan NCOs were 0.32% in the first six-month period of 2026, compared to 0.27%
+in the year-ago period.
+Market Risk
+Market risk refers to potential losses arising from changes in interest rates, credit spreads, foreign exchange
+rates, equity prices, and commodity prices, including the correlation among these factors and their volatility. When
+the value of an instrument is tied to such external factors, the holder faces market risk. We are exposed primarily to
+interest rate risk as a result of offering a wide array of financial products to our customers, and secondarily to price
+risk from trading securities, securities owned by our broker-dealer subsidiaries, foreign exchange positions, equity
+investments, and investments in securities backed by mortgage loans.
+We measure market risk exposure via financial simulation models that provide management with insights on the
+potential impact to net interest income and other key metrics as a result of changes in market interest rates. Models
+are used to simulate cash flows and accrual characteristics of the balance sheet based on assumptions regarding the
+slope or shape of the yield curve, the direction and volatility of interest rates, and the changing composition and
+characteristics of the balance sheet resulting from strategic objectives and customer behavior. Our models
+incorporate market-based assumptions that include the impact of changing interest rates on prepayment rates of
+assets and runoff rates of deposits. The models also include our projections of the future volume and pricing of
+various business lines.
+In measuring the financial risks associated with interest rate sensitivity in our balance sheet, we compare a set of
+alternative interest rate scenarios to the results of a base case scenario derived using market forward rates. The
+market forward rates reflect the general market consensus regarding the future level and slope of the yield curve
+across a range of tenor points. The standard set of interest rate scenarios includes two types: "shock" scenarios,
+which are immediate parallel rate shifts, and "ramp" scenarios, where the parallel shift is applied gradually over the
+first 12 months of the forecast on a pro-rata basis. In both shock and ramp scenarios with falling rates, we presume
+that market rates will not go below 0%. The scenarios include all executed interest rate risk hedging activities.
+Forward-starting hedges are included to the extent that they have been transacted and that they start within the
+measurement horizon.
+A key driver of our interest rate risk profile is our assumption of interest-bearing deposit repricing sensitivity to
+changes in interest rates, otherwise known as deposit beta. In addition, our interest expense is impacted by the
+composition of both interest-bearing and noninterest-bearing deposits in relation to our total deposits. Accordingly,
+we consider the impacts from both interest-bearing and noninterest-bearing deposits on our total deposit beta.
+Following the start of the current falling rate cycle, which began in the third quarter of 2024, our cumulative total
+deposit beta (total cost of deposits) through the second quarter of 2026 was 30%.
+We use two approaches to model interest rate risk: net interest income at risk (NII at Risk) and economic value
+of equity at risk modeling sensitivity analysis (EVE at Risk).
+NII at Risk is used by management to measure the risk and impact to earnings over the next 12 months, using a
+wide range of interest rate scenarios, including instantaneous and gradual, as well as parallel and non-parallel,
+changes in interest rates. The NII at Risk results included in the table below present select gradual "ramp" -200, -100,
++100 and +200 basis point parallel shift scenarios, implied by the forward yield curve over the next 12 months.
+2026 2Q Form 10-Q 23
+Table of Contents
+Table 16 - Net Interest Income at Risk
+At June 30, 2026
+At December 31, 2025
+Federal Funds Rate
+Federal Funds Rate
+Basis point change scenario
+Starting Point
+Month 12 (1)
+NII at Risk (%)
+Starting Point
+Month 12 (1)
+NII at Risk (%)
++200
+3.75%
+6.00%
+2.8%
+3.75%
+5.25%
+2.5%
++100
+3.75
+5.00
+1.4
+3.75
+4.25
+0.9
+Base
+3.75
+4.00
+--
+3.75
+3.25
+--
+-100
+3.75
+3.00
+-1.0
+3.75
+2.25
+-0.6
+-200
+3.75
+2.00
+-1.8
+3.75
+1.25
+-1.9
+(1)Represents the federal funds rate in month 12 given a gradual, parallel "ramp" relative to the base implied forward scenario.
+The NII at Risk shows that the balance sheet is asset-sensitive at both June 30, 2026, and December 31, 2025.
+The primary drivers to the change in sensitivity from December 31, 2025 include current and projected balance
+sheet composition, including impacts from the Cadence acquisition, over the simulation horizon and market rates.
+EVE at Risk is used by management to measure the impact of interest rate changes on the net present value of
+assets and liabilities, including derivative exposures, using a wide range of scenarios. The EVE results included in the
+table below present select immediate -200, -100, +100 and +200 basis point parallel "shock" scenarios from the yield
+curve term points at the specific point in time that EVE sensitivity is measured.
+Table 17 - Economic Value of Equity at Risk
+Economic Value of Equity at Risk (%)
+Basis point change scenario
+-200
+-100
++100
++200
+At June 30, 2026
+-2.0%
+0.6%
+-2.4%
+-6.3%
+At December 31, 2025
+0.3
+1.7
+-3.5
+-8.3
+The change in sensitivity from December 31, 2025 was driven primarily by market rates and changes to actual
+balance sheet composition, in part due to impacts from the Cadence acquisition.
+Use of Derivatives to Manage Interest Rate Risk
+An integral component of our interest rate risk management strategy is the use of derivative instruments to
+minimize significant fluctuations in earnings caused by changes in market interest rates. A variety of derivative
+financial instruments, principally interest rate swaps, swaptions, floors, forward contracts, and forward-starting
+interest rate swaps, are used in asset and liability management activities to protect against the risk of adverse price
+or interest rate movements. These instruments provide flexibility in adjusting Huntington's sensitivity to changes in
+interest rates without exposure to loss of principal and higher funding requirements.
+Table 18 shows all swap and floor positions that are utilized for purposes of managing our exposures to the
+variability of interest rates. The interest rate variability may impact either the fair value of the assets and liabilities or
+the cash flows attributable to net interest margin. These positions are used to protect the fair value of assets and
+liabilities by converting the contractual interest rate on a specified amount of assets and liabilities (i.e., notional
+amounts) to another interest rate index. The positions are also used to hedge the variability in cash flows
+attributable to the contractually specified interest rate by converting the variable-rate index into a fixed rate. The
+volume, maturity, and mix of derivative positions change frequently as we adjust our broader interest rate risk
+management objectives and the balance sheet positions to be hedged. For further information, including the
+notional amount and fair values of these derivatives, refer to Note 15 - "Derivative Financial Instruments" of the
+Notes to Unaudited Consolidated Financial Statements.
+24 Huntington Bancshares Incorporated
+Table of Contents
+The following presents additional information about the interest rate swaps and floors used in Huntington's
+asset and liability management activities.
+Table 18 - Information on Asset Liability Management Instruments
+Weighted-
+Average
+Maturity (years)
+Weighted-
+Average
+Fixed Rate
+(dollar amounts in millions)
+Notional
+Value
+Fair Value
+At June 30, 2026
+Asset conversion swaps
+Securities (1):
+Pay Fixed - Receive SOFR
+$1,500
+7.73
+$149
+2.14%
+Pay Fixed - Receive SOFR - forward-starting (2)
+4,122
+12.08
+73
+3.81
+Loans:
+Receive Fixed - Pay SOFR
+16,025
+1.75
+(151)
+3.22
+Receive Fixed - Pay SOFR - forward-starting (3)
+4,600
+3.58
+(71)
+3.37
+Liability conversion swaps
+Receive Fixed - Pay SOFR
+10,099
+2.61
+(136)
+3.45
+Receive Fixed - Pay SOFR - forward-starting (3)
+2,300
+3.82
+(43)
+3.38
+Purchased floor spreads (4)
+Purchased Floor Spread - SOFR
+4,950
+2.91
+34
+2.65 / 3.75
+Basis swaps (5)
+Pay SOFR - Receive Fed Fund (economic hedges)
+27
+4.33
+--
+3.65
+Pay Fed Fund - Receive SOFR (economic hedges)
+1
+
+----- [line 3069] -----
+billion at December 31, 2025. The increase from year end was primarily due to a $1.9 billion increase in short-term
+borrowings, primarily comprised of short-term FHLB advances, and a $1.5 billion increase in long-term debt driven
+by $1.8 billion of senior and subordinated debt issuances, partially offset by maturities and repayments.
+2026 2Q Form 10-Q 27
+Table of Contents
+Cash and Cash Equivalents and Investment Securities
+Cash and cash equivalents were $15.6 billion and $13.5 billion at June 30, 2026 and December 31, 2025,
+respectively. The $2.1 billion increase in cash and cash equivalents was largely due to higher branch cash on hand
+and float balances at the end of the 2026 second quarter to support customer activity in conjunction with the
+Cadence systems and branch conversions, as well as higher interest-earning deposits held at the FRB as part of
+prudent liquidity risk management to support our strong liquidity position.
+Our investment securities portfolio is evaluated under established ALCO objectives. Changing market conditions
+could affect the profitability of the portfolio, as well as the level of interest rate risk exposure.
+Total investment securities, comprised of AFS and HTM securities, were $49.6 billion at June 30, 2026, compared
+to $41.4 billion at December 31, 2025. The $8.2 billion increase in investment securities, compared to December 31,
+2025, was largely driven by $9.0 billion of investment securities acquired in the Cadence transaction. At June 30,
+2026, the duration of the investment securities portfolio, net of hedging, was 3.2 years. Securities are pledged to
+secure borrowing capacity with the FHLB and the FRB, discussed further in the Bank Liquidity and Sources of Funding
+section below.
+Bank Liquidity and Sources of Funding
+Our primary source of funding for the Bank is customer deposits. At June 30, 2026, customer deposits funded
+76% of total assets (114% of total loans and leases). To the extent we are unable to obtain sufficient liquidity
+through customer deposits, cash and cash equivalents, and investment securities, we may meet our liquidity needs
+through wholesale funding and asset securitization or sale. Additionally, the Bank may also access funding through
+intercompany notes or parent company deposits placed at the Bank.
+The Bank maintains borrowing capacity at both the FHLB and the FRB secured by pledged loans and securities.
+While the Bank does not consider borrowing capacity at the FRB a primary source of funding, it could be used as a
+potential source of liquidity in a stressed environment or during a market disruption. The amount of available
+contingent borrowing capacity may fluctuate based on the level of borrowings outstanding and level of assets
+pledged.
+A summary of the Bank's selected contingent liquidity sources is presented in the following table.
+Table 20 - Selected Contingent Liquidity Sources
+(dollar amounts in millions)
+At June 30, 2026
+At December 31, 2025
+Unused secured borrowing capacity:
+FRB
+$80,905
+$71,296
+FHLB
+22,789
+16,212
+Unpledged investment securities (at market value)
+11,675
+11,743
+Interest-earning deposits held at FRB
+12,269
+11,712
+Selected contingent liquidity sources
+$127,638
+$110,963
+As of June 30, 2026, we believe the Bank has sufficient liquidity and capital resources to meet its cash flow
+obligations over the next 12 months and for the foreseeable future.
+Parent Company Liquidity
+The parent company's primary financial obligations consist of dividends to shareholders, debt service, income
+taxes, operating expenses, funding of nonbank subsidiaries, repurchases of our stock, and acquisitions. The parent
+company obtains funding to meet obligations from dividends and interest received from the Bank, interest and
+dividends received from direct subsidiaries, net taxes collected from subsidiaries included in the federal consolidated
+tax return, fees for services provided to subsidiaries, and the issuance of debt and equity instruments.
+The parent company had cash and cash equivalents of $4.1 billion and $3.6 billion at June 30, 2026 and
+December 31, 2025, respectively.
+28 Huntington Bancshares Incorporated
+Table of Contents
+On July 22, 2026, our Board of Directors declared a quarterly cash dividend on our common stock of $0.155 per
+common share, payable on October 1, 2026 to shareholders of record on September 17, 2026. Additionally, on
+July 22, 2026, our Board of Directors declared quarterly dividends on our Series B, F, G, H, J, and K preferred stock,
+payable on October 15, 2026 to shareholders of record on October 1, 2026, and a quarterly dividend on our Series L
+preferred stock, payable on November 20, 2026 to shareholders of record on November 5, 2026. On June 24, 2026,
+our Board of Directors declared a quarterly dividend on our Series I preferred stock, payable on September 1, 2026
+to shareholders of record on August 15, 2026. Current quarterly dividend declarations are expected to total
+approximately $354 million.
+During the first six months of 2026, the Bank paid common dividends to the parent company of $550 million.
+
+----- [line 3405] -----
+to customers. Results of operations for the business segments reflect these fee-sharing allocations.
+Expense Allocation
+The management process that develops the business segment reporting utilizes various estimates and allocation
+methodologies to measure the performance of the business segments. Expenses are allocated to business segments
+using a two-phase approach. The first phase consists of measuring and assigning unit costs (activity-based costs) to
+activities related to product origination and servicing. These activity-based costs are then extended, based on
+volumes, with the resulting amount allocated to business segments that own the related products. The second
+phase consists of the allocation of overhead costs to the business segments from Treasury / Other. We utilize a full-
+allocation methodology, where all Treasury / Other expenses, except reported acquisition-related expenses, if any,
+and a small amount of other residual unallocated expenses, are allocated to the business segments.
+Funds Transfer Pricing (FTP)
+We use an active and centralized FTP methodology to attribute appropriate net interest income to the business
+segments. The intent of the FTP methodology is to transfer interest rate risk from the business segments by
+providing modeled duration funding of assets and liabilities. The result is to centralize the financial impact,
+management, and reporting of interest rate risk in the Treasury / Other function where it can be centrally monitored
+and managed. The Treasury / Other function charges (credits) an internal cost of funds for assets held in (or pays for
+funding provided by) each business segment. The FTP rate is based on prevailing market interest rates for
+comparable duration assets (or liabilities). The primary components of the FTP rate include a base (market) rate, a
+liquidity premium, contingent liquidity and collateral charges, and option cost.
+2026 2Q Form 10-Q 33
+Table of Contents
+Net Income (Loss) by Business Segment
+Net income (loss) by business segment is presented in the following table.
+Table 23 - Net Income (Loss) by Business Segment
+Six Months Ended
+(dollar amounts in millions)
+June 30, 2026
+June 30, 2025
+Consumer & Regional Banking
+$1,010
+$616
+Commercial Banking
+708
+552
+Treasury / Other
+(468)
+(105)
+Net income attributable to Huntington
+$1,250
+$1,063
+Consumer & Regional Banking
+Table 24 - Key Performance Indicators for Consumer & Regional Banking
+Six Months Ended
+Change
+(dollar amounts in millions)
+June 30, 2026
+June 30, 2025
+Amount
+Percent
+Net interest income
+$2,823
+$1,957
+$866
+44%
+Provision for credit losses
+164
+185
+(21)
+(11)
+Net interest income after provision for credit losses
+2,659
+1,772
+887
+50
+Noninterest income
+844
+666
+178
+27
+Noninterest expense:
+Direct personnel costs
+789
+599
+190
+
+----- [line 3664] -----
+in average deposits. The increases in loans and leases and deposits were driven by the impact of the Cadence and
+Veritex acquisitions, as well as organic growth. The provision for credit losses increased $92 million primarily due to
+loan and lease growth. Noninterest income increased $188 million, or 55%, primarily due to the contributions of
+Cadence and Veritex, and an additional increase in capital markets and advisory fees, which included the impact of
+three strategic business units acquired from Janney in January 2026. Customer deposit and loan fees, payment and
+cash management, and leasing revenue were also higher. Noninterest expense increased $235 million, or 38%,
+primarily driven by higher personnel expense related to the recent acquisitions and higher allocated overhead.
+Treasury / Other
+The Treasury / Other function includes revenue and expense related to assets, liabilities, derivatives (including
+mark-to-market of interest rate swaps, as applicable), and equity not directly assigned or allocated to one of the
+business segments. Assets include investment securities and bank-owned life insurance.
+Net interest income includes the impact of administering our investment securities portfolios, the net impact of
+derivatives used to hedge interest rate sensitivity, and the financial impact associated with our FTP methodology, as
+described above. Noninterest income includes miscellaneous fee income not allocated to other business segments,
+such as bank-owned life insurance income and securities and trading asset gains or losses. Noninterest expense
+includes certain corporate administrative expenses, acquisition-related expenses, if any, and other miscellaneous
+expenses not allocated to other business segments. The provision for income taxes for the business segments is
+calculated at a statutory 21% tax rate, although our overall effective tax rate is lower.
+2026 2Q Form 10-Q 35
+Table of Contents
+Table 26 - Key Performance Indicators for Treasury / Other
+Six Months Ended
+Change
+(dollar amounts in millions)
+June 30, 2026
+June 30, 2025
+Amount
+Percent
+Net interest loss
+$(239)
+$(90)
+$(149)
+(166)%
+Noninterest income
+96
+(40)
+136
+340
+Noninterest expense:
+Direct personnel costs
+820
+506
+314
+62
+Other noninterest expense, including corporate allocations
+(316)
+(436)
+120
+28
+Total noninterest expense
+504
+70
+434
+620
+Loss before income taxes
+(648)
+(200)
+(448)
+(224)
+Benefit for income taxes
+(180)
+(95)
+(85)
+(89)
+Net loss attributable to Huntington
+$(468)
+$(105)
+$(363)
+(346)%
+Number of employees (average full-time equivalent)
+9,113
+6,726
+
+----- [line 10640] -----
+28
+28,278
+Long-term debt
+10,599
+--
+--
+10,599
+Total notional value
+$15,746
+$28,250
+$28
+$44,024
+These derivative financial instruments were entered into for the purpose of managing the interest rate risk of
+assets and liabilities. Net amounts receivable or payable on contracts hedging either interest-earning assets or
+interest-bearing liabilities were accrued as an adjustment to either interest income or interest expense. Adjustments
+to interest income were also recorded for the amounts related to the amortization of premiums for floors that were
+not included in the measurement of hedge effectiveness, as well as the amounts related to terminated hedges
+reclassified from AOCI. The net amounts resulted in decreases to net interest income of $18 million and $7 million
+for the three-month periods ended June 30, 2026, and 2025, respectively, and decreases to net income of $33
+million and $25 million for the six-month periods ended June 30, 2026, and 2025, respectively.
+Fair Value Hedges
+The changes in fair value of the fair value hedges are recorded through earnings and offset against changes in
+the fair value of the hedged item.
+Huntington has designated $5.6 billion of interest rate swaps as fair value hedges of fixed-rate investment
+securities using the portfolio layer method. This approach allows the Company to designate as the hedged item a
+stated amount of the assets that are not expected to be affected by prepayments, defaults, or other factors affecting
+the timing and amount of cash flows. The fair value portfolio level basis adjustment on our hedged MBS portfolio
+has not been attributed to the individual AFS securities in our Unaudited Consolidated Balance Sheets.
+The following table presents the change in fair value for derivatives designated as fair value hedges as well as
+the offsetting change in fair value on the hedged item.
+Three Months Ended
+Six Months Ended
+(dollar amounts in millions)
+June 30, 2026
+June 30, 2025
+June 30, 2026
+June 30, 2025
+Interest rate contracts
+Change in fair value of interest rate swaps hedging investment securities (1)
+$5
+$(140)
+$27
+$(262)
+Change in fair value of hedged investment securities (1)
+(9)
+138
+(27)
+261
+Change in fair value of interest rate swaps hedging long-term debt (2)
+(33)
+72
+(103)
+215
+Change in fair value of hedged long-term debt (2)
+33
+(72)
+104
+(215)
+(1)Recognized in Interest income--available-for-sale securities--taxable in the Unaudited Consolidated Statements of Income.
+(2)Recognized in Interest expense--long-term debt in the Unaudited Consolidated Statements of Income.
+2026 2Q Form 10-Q 86
+Table of Contents
+The following amounts were recorded on the balance sheet related to cumulative basis adjustments for fair
+value hedges.
+Amortized Cost
+Cumulative Amount of Fair Value Hedging
+Adjustment To Hedged Items
+(dollar amounts in millions)
+At June 30, 2026
+At December 31, 2025
+At June 30, 2026
+At December 31, 2025
+
+----- [line 11077] -----
+21,659
+Commercial real estate
+6,409
+4,036
+Standby letters of credit and guarantees on industrial revenue bonds
+1,488
+895
+Commitments to extend credit generally have fixed expiration dates, are variable-rate, and contain clauses that
+permit Huntington to terminate or otherwise renegotiate the contracts in the event of a significant deterioration in
+the customer's credit quality. These arrangements normally require the payment of a fee by the customer, the
+pricing of which is based on prevailing market conditions, credit quality, probability of funding, and other relevant
+factors. Since many of these commitments are expected to expire without being drawn upon, the contract amounts
+are not necessarily indicative of future cash requirements. The interest rate risk arising from these financial
+instruments is insignificant as a result of their predominantly short-term, variable-rate nature. Certain commitments
+to extend credit are secured by collateral, including residential and commercial real estate, inventory, receivables,
+cash and securities, and other business assets.
+Standby letters-of-credit and guarantees on industrial revenue bonds are conditional commitments issued to
+guarantee the performance of a customer to a third-party. These conditional commitments are primarily issued to
+support public and private borrowing arrangements, including commercial paper, bond financing, and similar
+transactions and mature within two years. Since the conditions under which Huntington is required to fund these
+conditional commitments may not materialize, the cash requirements are expected to be less than the total
+outstanding commitments. The carrying amount of deferred revenue associated with these conditional
+commitments was $34 million and $31 million at June 30, 2026 and December 31, 2025, respectively.
+2026 2Q Form 10-Q 91
+Table of Contents
+Other Guarantees
+Huntington provides guarantees to certain third-party investors in connection with the sale of syndicated
+affordable housing tax credits. These guarantees are generally in the form of make-whole provisions that are
+triggered if the underlying performance of LIHTC properties result in a shortfall to the third-party investors and
+remain in effect until the final associated tax credits are realized. The maximum amount guaranteed by the Company
+under these arrangements total approximately $405 million and $366 million at June 30, 2026 and December 31,
+2025, respectively, and represents the guaranteed portion in these transactions where the make-whole provisions
+have not yet expired. As of June 30, 2026, the Company did not expect to be subject to any make-whole provisions
+under these guarantees.
+Litigation and Regulatory Matters
+In the ordinary course of business, Huntington is, or may be a defendant in, or party to pending and threatened
+legal and regulatory actions and proceedings.
+In view of the inherent difficulty of predicting the outcome of such matters, particularly where the claimants
+seek very large or indeterminate damages or where the matters present novel legal theories or involve a large
+number of parties, Huntington generally cannot predict what the eventual outcome of the pending matters will be,
+what the timing of the ultimate resolution of these matters will be, or what the eventual loss, fines, or penalties
+related to each matter may be.
+Huntington establishes an accrued liability when those matters present loss contingencies that are both
+probable and estimable. In such cases, there may be an exposure to loss in excess of any amounts accrued.
+Huntington thereafter continues to monitor the matter for further developments that could affect the amount of
+the accrued liability that has been previously established.
+For certain matters, Huntington is able to estimate a range of possible loss. In cases in which Huntington
+possesses information to estimate a range of possible loss, that estimate is aggregated and disclosed below. There
+may be other matters for which a loss is probable or reasonably possible but such an estimate of the range of
+possible loss may not be possible. For those matters where an estimate of the range of possible loss is possible,
+management currently estimates the aggregate range of reasonably possible loss is $0 to $75 million at June 30,
+2026 in excess of the accrued liability (if any) related to those matters. This estimated range of possible loss is based
+upon currently available information and is subject to significant judgment, a variety of assumptions, and known and
+unknown uncertainties. The matters underlying the estimated range will change from time to time, and actual
+results may vary significantly from the current estimate. The estimated range of possible loss does not represent
+Huntington's maximum loss exposure.
+Based on current knowledge, management does not believe that loss contingencies arising from pending
+matters will have a material adverse effect on the consolidated financial position of Huntington. Further,
+management believes that amounts accrued are adequate to address Huntington's contingent liabilities. However,
+in light of the inherent uncertainties involved in these matters, some of which are beyond Huntington's control, and
+the large or indeterminate damages sought in some of these matters, an adverse outcome in one or more of these
+matters could be material to Huntington's results of operations for any particular reporting period.
+The following is a description of a legal proceeding in which Huntington or its predecessors are involved:
+Donelon v. Americas Insurance Co., No. 714,982 (19th Jud. Dist. Ct., Parish of E. Baton Rouge, La.), consolidated
+with Cadence Bank v. Bostick, No. 717212 (19th Jud. Dist. Ct., Parish of E. Baton Rouge, La.) (filed January 13, 2023).
+This action arises from an $8 million loan Cadence Bank made in November 2020 under the Federal Reserve's
+Main Street Lending Program ("MSLP") to a holding company, which owned an insurance carrier, which carrier was
+later placed into receivership following substantial losses associated with the August 2021 Category 4 Hurricane Ida.
+The action, brought by the receiver on behalf of the Louisiana Insurance Commission, alleges the MSLP loan required
+insurance regulatory approval that was not properly obtained by the insurance company. The receiver alleges the
+MSLP loan improperly enabled the insurer to continue operations, which allegedly may not have occurred but for
+the MSLP loan.

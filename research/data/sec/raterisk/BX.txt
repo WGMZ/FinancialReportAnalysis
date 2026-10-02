@@ -1,0 +1,78 @@
+# BX 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/1393818/000119312526340208/d158269d10q.htm
+# full_doc_chars=511209
+
+
+----- [line 2371] -----
+224,372
+$
+65,761
+$
+509,452
+29
+Table of Contents
+Blackstone Inc.
+Notes to Condensed Consolidated Financial Statements (Unaudited) - Continued
+(All Dollars are in Thousands, Except Share and Per Share Data, Except Where Noted)
+5.
+Derivative Financial Instruments
+Blackstone and the consolidated Blackstone funds enter into derivative contracts in the normal course of business to achieve certain risk management objectives and for general investment and business purposes. Blackstone may enter into derivative contracts in order to hedge its interest rate risk exposure against the effects of interest rate changes. Additionally, Blackstone may also enter into derivative contracts in order to hedge its foreign currency risk exposure against the effects of a portion of its non-U.S.
+dollar denominated currency net investments. As a result of the use of derivative contracts, Blackstone and the consolidated Blackstone funds are exposed to the risk that counterparties will fail to fulfill their contractual obligations. To mitigate such counterparty risk, Blackstone and the consolidated Blackstone funds enter into contracts with certain major financial institutions, all of which have investment grade ratings. Counterparty credit risk is evaluated in determining the fair value of derivative instruments.
+Freestanding Derivatives
+Freestanding derivatives are instruments that Blackstone and certain of the consolidated Blackstone funds have entered into as part of their overall risk management and investment strategies. These derivative contracts are not designated as hedging instruments for accounting purposes. Such contracts may include interest rate swaps, foreign exchange contracts, equity swaps, options, futures and other derivative contracts.
+The table below summarizes the aggregate notional amount and fair value of the derivative financial instruments. The notional amount represents the absolute value amount of all outstanding derivative contracts.
+$
+$
+$
+$
+$
+$
+$
+$
+June 30, 2026
+December 31, 2025
+Assets
+Liabilities
+Assets
+Liabilities
+Notional
+Fair
+Value
+Notional
+Fair
+Value
+Notional
+Fair
+Value
+Notional
+Fair
+Value
+Freestanding Derivatives
+Blackstone
+Interest Rate Contracts
+$
+612,050
+$
+129,193
+$
+666,331
+$
+98,081
+$
+613,740
+$
+123,747
+$
+601,000
+$
+97,283
+Foreign Currency Contracts
+567,468
+10,158
+476,754
+8,535
+443,001
+7,446
+1,030,702
+17,310
+Credit Default Swaps

@@ -1,0 +1,644 @@
+# CFG 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/759944/000075994426000148/cfg-20260630.htm
+# full_doc_chars=380376
+
+
+----- [line 107] -----
+CCB | Capital Conservation Buffer |
+CET1 | Common Equity Tier 1 |
+CET1 capital ratio | Common Equity Tier 1 capital divided by total risk-weighted assets as defined under the U.S. Basel III Standardized approach |
+Citizens, CFG, the Company, we, us, or our | Citizens Financial Group, Inc. and its Consolidated Subsidiaries
+CLTV | Combined Loan to Value
+CODM
+Chief Operating Decision Maker
+CRE
+Commercial Real Estate
+Efficiency Ratio
+Noninterest expense divided by total revenue, inclusive of net interest income and noninterest income
+EPS | Earnings Per Share |
+EVE | Economic Value of Equity |
+Exchange Act | The Securities Exchange Act of 1934, as amended |
+Fannie Mae (FNMA) | Federal National Mortgage Association |
+FDIC | Federal Deposit Insurance Corporation |
+FDM | Financially Distressed Modification |
+FHA | Federal Housing Administration |
+FHLB | Federal Home Loan Bank |
+FICO | Fair Isaac Corporation (credit rating) |
+FRB or Federal Reserve | Board of Governors of the Federal Reserve System and, as applicable, Federal Reserve Bank(s) |
+Freddie Mac (FHLMC) | Federal Home Loan Mortgage Corporation |
+FTE | Fully Taxable Equivalent |
+GAAP | Accounting Principles Generally Accepted in the United States of America |
+GDP | Gross Domestic Product |
+Ginnie Mae (GNMA) | Government National Mortgage Association |
+GSE | Government Sponsored Enterprise
+HTM | Held To Maturity |
+LHFS | Loans Held for Sale |
+LIHTC | Low Income Housing Tax Credit |
+LTV | Loan to Value
+M&A
+Merger and Acquisition
+MD&A | Management's Discussion and Analysis of Financial Condition and Results of Operations |
+MSR
+Mortgage Servicing Right
+Citizens Financial Group, Inc. | 3
+NM
+Not meaningful
+OCC | Office of the Comptroller of the Currency |
+OCI | Other Comprehensive Income (Loss) |
+Parent Company | Citizens Financial Group, Inc. (the Parent Company of Citizens Bank, National Association and other subsidiaries) |
+PCD | Purchased Credit Deteriorated |
+ROTCE | Return on Average Tangible Common Equity |
+RPA | Risk Participation Agreement |
+RWA | Risk-Weighted Assets |
+SBA | United States Small Business Administration |
+SCB | Stress Capital Buffer |
+SEC | United States Securities and Exchange Commission |
+SOFR | Secured Overnight Financing Rate |
+SPE
+Special Purpose Entity
+TBA
+To-Be-Announced Mortgage Security
+Tier 1 capital ratio | Tier 1 capital, which includes Common Equity Tier 1 capital plus non-cumulative perpetual preferred equity that qualifies as additional Tier 1 capital, divided by total risk-weighted assets as defined under the U.S. Basel III Standardized approach
+Tier 1 leverage ratio | Tier 1 capital, which includes Common Equity Tier 1 capital plus non-cumulative perpetual preferred equity that qualifies as additional Tier 1 capital, divided by quarterly adjusted average assets as defined under the U.S. Basel III Standardized approach
+Total capital ratio | Total capital, which includes Common Equity Tier 1 capital, Tier 1 capital, and allowance for credit losses and qualifying subordinated debt that qualify as Tier 2 capital, divided by total risk-weighted assets as defined under the U.S. Basel III Standardized approach
+USDA | United States Department of Agriculture |
+VA | United States Department of Veterans Affairs |
+VaR | Value at Risk |
+VIE | Variable Interest Entity |
+Citizens Financial Group, Inc. | 4
+PART I. FINANCIAL INFORMATION
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Page |
+Forward-Looking Statements
+6
+Introduction
+7
+Executive Summary
+7
+Consolidated Statement of Operations Analysis
+
+----- [line 221] -----
+&#8226;Management's ability to identify and manage these and other risks.
+Citizens Financial Group, Inc. | 6
+In addition to the above factors, we also caution that the actual amounts and timing of any future common stock dividends or share repurchases will be subject to various factors, including our capital position, financial performance, balance sheet growth, market conditions, and regulatory considerations, as well as any other factors that our Board of Directors deems relevant in making such a determination. Therefore, there can be no assurance that we will repurchase shares from, or pay any dividends to, holders of our common stock, or as to the amount of any such repurchases or dividends.
+More information about factors that could cause actual results to differ materially from those described in the forward-looking statements can be found in the "Risk Factors" section in Part I, Item 1A of our 2025 Form 10-K.
+INTRODUCTION
+Citizens Financial Group, Inc., headquartered in Providence, Rhode Island, is one of the nation's oldest and largest financial institutions. We offer a broad range of retail, private banking, wealth management, and commercial banking products and services to individuals, small businesses, middle-market companies, large corporations, and institutions. We help our customers reach their potential by listening to them and by understanding their needs in order to offer tailored advice, ideas, and solutions. In Consumer Banking, we provide an integrated experience that includes mobile and online banking, a full-service customer contact center, and the convenience of approximately 3,000 ATMs and approximately 1,000 branches in 14 states and the District of Columbia. Consumer Banking products and services include a full range of banking, lending, savings, wealth management, and small business offerings. Consumer Banking includes Citizens Private Bank and Private Wealth, which integrate banking services and wealth management solutions to serve high- and ultra-high-net-worth individuals and families, as well as investors, entrepreneurs, and businesses. In Commercial Banking, we offer a broad complement of financial products and solutions, including lending and leasing, deposit and treasury management services, foreign exchange, interest rate and commodity risk management solutions, as well as loan syndication, corporate finance, merger and acquisition, and debt and equity capital markets capabilities.
+At June 30, 2026, we had total assets of $233.8 billion, total deposits of $185.6 billion, and total stockholders' equity of $26.2 billion. In addition, we had total client assets of $65.7 billion, including assets under management of $38.7 billion, representing assets for which continuous and regular supervisory or management services are provided, and transactional assets of $27.0 billion, representing assets for which execution, custody, recordkeeping, reporting, and other services are provided.
+The following MD&A is intended to assist readers in their analysis of the accompanying unaudited interim Consolidated Financial Statements and supplemental financial information. It should be read in conjunction with the unaudited interim Consolidated Financial Statements and Notes to Consolidated Financial Statements in Part I, Item 1, as well as other information contained in this document and our 2025 Form 10-K.
+EXECUTIVE SUMMARY
+This summary highlights select financial information of the Company as well as information regarding certain significant events and transactions occurring during the period. This summary should be read in conjunction with this entire document for a more complete understanding of trends, events, commitments, uncertainties, liquidity, capital resources, and critical accounting policies and estimates. Each of these items, taken individually or collectively, could have an impact on the Company's financial condition, results of operations, and cash flows. For additional information regarding our financial performance and condition, see "Consolidated Statement of Operations Analysis" and "Consolidated Balance Sheet Analysis."
+Key Financial Highlights
+&#8226;Net income of $587 million and $1.1 billion for the three and six months ended June 30, 2026, respectively, increased $151 million and $295 million, with earnings per diluted common share up $0.38 to $1.30 and up $0.73 to $2.42, compared to the same periods in 2025.
+&#8226;Net interest income of $1.6 billion and $3.2 billion for the three and six months ended June 30, 2026, respectively, increased $194 million and $365 million, and net interest margin of 3.16% and 3.15%, respectively, increased 22 basis points and 24 basis points, compared to the same periods in 2025. The increase in net interest income reflects an increase in interest-earning assets, higher net interest margin, terminated swap impacts, and fixed-rate asset repricing benefits.
+Citizens Financial Group, Inc. | 7
+&#8226;Noninterest income of $652 million and $1.3 billion for the three and six months ended June 30, 2026, respectively, increased $52 million and $114 million compared to the same periods in 2025, driven by growth across numerous fee categories, primarily capital markets and wealth fees, partially offset by mortgage banking fees driven by lower MSR valuation results, net of hedge impact.
+&#8226;Noninterest expense of $1.4 billion and $2.8 billion for the three and six months ended June 30, 2026, respectively, increased $75 million and $139 million compared to the same periods in 2025, driven by salaries and employee benefits reflecting hiring related to the Private Bank and Private Wealth build-out, and compensation associated with growth in capital markets fees.
+&#8226;Provision expense of $134 million and $274 million for the three and six months ended June 30, 2026, respectively, decreased $30 million and $43 million compared to the same periods in 2025, reflecting the runoff of certain retail portfolios and improving credit trends and loan mix.
+&#8226;The efficiency ratio of 61.1% and 62.3% for the three and six months ended June 30, 2026, respectively, compared to 64.8% and 66.3% for the same periods in 2025.
+&#8226;ROTCE of 13.9% and 13.1% for the three and six months ended June 30, 2026, respectively, compared to 11.0% and 10.4% for the same periods in 2025.
+&#8226;Tangible book value per common share of $38.29 at June 30, 2026 was broadly stable compared to $38.07 at December 31, 2025.
+See "Non-GAAP Financial Measures" for more information regarding the ROTCE and tangible book value per common share non-GAAP financial measures presented herein.
+Share Repurchases
+During the three months ended June 30, 2026, the Parent Company repurchased $225 million of its outstanding common stock, with remaining capacity of $775 million as of June 30, 2026. See Note 10 and Item 2 for additional information on share repurchase activity.
+Preferred Stock
+On July 30, 2026, we issued $400 million, or 400,000 shares, of 6.750% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series J (the "Series J Preferred Stock"), par value of $25 per share with a liquidation preference of $1,000 per share. Holders of the Series J Preferred Stock will be entitled to receive dividend payments only when, as, and if declared by our Board of Directors. Any such dividends will be payable quarterly in arrears beginning on January 6, 2027.
+We intend to use the net proceeds from the issuance of the Series J Preferred Stock to redeem some or all outstanding shares of our Series G Preferred Stock on the dividend payment date of October 6, 2026. Any remaining proceeds will be used for general corporate purposes. If we decide to redeem some or all of the Series G Preferred Stock, we will announce the redemption by press release or Form 8-K and an appropriate notice of redemption.
+Regulatory Developments
+Capital
+In March 2026, the FRB, FDIC, and OCC issued joint proposals to modernize the regulatory capital framework for banking organizations. The first proposal would subject Category I and II banking organizations to a single set of risk-based capital requirements under an expanded risk-based approach ("ERBA") and a revised market risk framework (the "ERBA proposal"). Category III and Category IV banking organizations would be subject to the revised market risk framework if specified thresholds for aggregate trading assets and liabilities are met and would also have the option to adopt the ERBA in its entirety. The second proposal would revise certain elements of the capital rule under the standardized approach (the "revised standardized approach proposal") and would apply to banking organizations that are not classified as Category I or II and have not elected to adopt the ERBA.
+Citizens Financial Group, Inc. | 8
+The ERBA proposal would introduce differentiated capital requirements based on specified credit risk factors, establish a standardized operational risk requirement aligned with a banking organization's business volume, and implement a revised market risk framework. The proposal would also increase the aggregate trading assets and liabilities threshold for application of the market risk framework from $1 billion to $5 billion for non-Category I and II banking organizations. The revised standardized approach proposal would modify risk-based capital requirements by introducing a broader range of risk weights for residential mortgages based on more granular risk factors and reducing risk weights for certain other exposures. The proposal would also require most elements of AOCI to be recognized in regulatory capital, subject to a five-year transition period. We continue to monitor these proposals and evaluate their potential impact on our regulatory capital ratios.
+Deposit Insurance
+In June 2026, the FDIC issued a notice of proposed rulemaking to amend its regulations for determining risk-based deposit insurance assessments for IDIs. The proposal would decrease initial base deposit insurance assessment rate schedules by 1 basis point and provide a downward resolution readiness adjustment to assessment rates for large institutions, such as CBNA. The resolution readiness adjustment includes a 0.5 basis point adjustment for passing virtual data room testing and a 0.5 basis point adjustment for providing prescribed data access. We are currently evaluating the proposal to determine the benefit to the Company.
+Citizens Financial Group, Inc. | 9
+CONSOLIDATED STATEMENT OF OPERATIONS ANALYSIS
+Net Interest Income
+Net interest income is our largest source of revenue and is the difference between the interest earned on interest-earning assets (generally loans and investment securities) and the interest expense incurred in connection with interest-bearing liabilities (generally deposits and borrowed funds). The level of net interest income is primarily a function of the difference between the effective yield on our average interest-earning assets and the effective cost of our average interest-bearing liabilities. Factors that influence our net interest income include, but are not limited to, the pricing and mix of interest-earning assets and interest-bearing liabilities which, in turn, are impacted by external factors such as economic conditions, competition for loans and deposits, the monetary policy of the FRB, and market interest rates. For further discussion, refer to the "Market Risk" section of our 2025 Form 10-K.
+Citizens Financial Group, Inc. | 10
+The following tables present the major components of our net interest income. Average balance represents amortized cost, excluding the unamortized basis adjustments related to the transfer of certain HTM securities from AFS. The yield/rate is based on annualized interest income or expense for the periods presented and includes the impact of hedging activities associated with the respective asset and liability categories.
+Table 1: Major Components of Net Interest Income |
+Three Months Ended June 30, |
+2026 | 2025 | Change
+(dollars in millions) | Average
+Balance
+Income/
+Expense
+Yield/
+Rate
+Average
+Balance
+Income/
+Expense
+Yield/
+Rate
+Average
+Balance
+Yield/
+Rate (bps)
+Assets |
+Interest-bearing cash and due from banks and deposits in banks | $10,839 | $103 | 3.78 | % | $8,217 | $92 | 4.40 | % | $2,622 | (62) bps |
+Taxable investment securities | 48,087 | 446 | 3.71 | 46,537 | 428 | 3.69 | 1,550 | 2 |
+Non-taxable investment securities | 1 | -- | 2.60 | 1 | -- | 2.60 | -- | -- |
+Total investment securities | 48,088 | 446 | 3.71 | 46,538 | 428 | 3.69 | 1,550 | 2 |
+Commercial and industrial | 52,214 | 707 | 5.35 | 44,936 | 549 | 4.84 | 7,278 | 51 |
+Commercial real estate | 24,334 | 333 | 5.41 | 26,487 | 384 | 5.73 | (2,153) | (32) |
+Total commercial | 76,548 | 1,040 | 5.37 | 71,423 | 933 | 5.17 | 5,125 | 20 |
+Residential mortgages | 35,793 | 367 | 4.09 | 33,420 | 327 | 3.92 | 2,373 | 17 |
+Home equity | 19,876 | 319 | 6.43 | 17,324 | 308 | 7.14 | 2,552 | (71) |
+Automobile | 1,667 | 20 | 4.78 | 3,705 | 41 | 4.41 | (2,038) | 37 |
+Education | 8,183 | 124 | 6.11 | 8,660 | 128 | 5.94 | (477) | 17 |
+Other retail | 4,061 | 98 | 9.67 | 4,277 | 114 | 10.66 | (216) | (99) |
+Total retail | 69,580 | 928 | 5.34 | 67,386 | 918 | 5.46 | 2,194 | (12) |
+
+----- [line 373] -----
+39,585 | 36,948 | 2,637 |
+Other noninterest-bearing liabilities | 5,433 | 5,736 | (303) |
+Total liabilities | 200,729 | 192,534 | 8,195 |
+Stockholders' equity | 26,028 | 24,455 | 1,573 |
+Total liabilities and stockholders' equity | $226,757 | $216,989 | $9,768 |
+Interest rate spread | 2.56 | % | 2.27 | % | 29 |
+Net interest income and net interest margin | $3,193 | 3.15 | % | $2,828 | 2.91 | % | 24 |
+Net interest income and net interest margin, FTE(1)
+$3,199 | 3.16 | % | $2,836 | 2.92 | % | 24 |
+Memo: Total deposits (interest-bearing and noninterest-bearing demand)
+$182,474 | $1,462 | 1.62 | % | $173,420 | $1,597 | 1.86 | % | $9,054 | (24) | bps |
+(1) Net interest income and net interest margin on an FTE basis are non-GAAP financial measures. See "Non-GAAP Financial Measures" for more information.
+Net interest income increased $194 million and $365 million for the three and six months ended June 30, 2026, respectively, and net interest margin increased 22 basis points and 24 basis points, compared to the same periods in 2025. The increase in net interest income reflects an increase in interest-earning assets, higher net interest margin, terminated swap impacts, and fixed-rate asset repricing benefits.
+Average interest-earning assets increased $10.5 billion and $8.7 billion for the three and six months ended June 30, 2026, respectively, compared to the same periods in 2025, driven by an increase in total loans and leases, cash held in interest-bearing deposits, and investment securities.
+Average deposits increased $9.5 billion and $9.1 billion for the three and six months ended June 30, 2026, respectively, compared to the same periods in 2025, driven primarily by growth in the Private Bank and in commercial, partially offset by a reduction in higher-cost brokered deposits.
+Average total borrowed funds increased $677 million and decreased $556 million for the three and six months ended June 30, 2026, respectively, compared to the same periods in 2025. The fluctuation during the three- and six-month periods reflects an increase in FHLB advances and a decline in auto collateralized borrowings, given paydowns.
+Citizens Financial Group, Inc. | 12
+Noninterest Income
+The following table presents the components of noninterest income:
+Table 2: Noninterest Income |
+Three Months Ended June 30, | Six Months Ended June 30, |
+(dollars in millions) | 2026 | 2025 | Change | Percent | 2026 | 2025 | Change | Percent |
+Service charges and fees | $117 | $111 | $6 | 5 | % | $229 | $220 | $9 | 4 | % |
+Capital markets fees | 153 | 105 | 48 | 46 | 287 | 205 | 82 | 40 |
+Wealth fees
+102 | 88 | 14 | 16 | 202 | 169 | 33 | 20 |
+Card fees | 89 | 90 | (1) | (1) | 172 | 173 | (1) | (1) |
+Mortgage banking fees | 42 | 73 | (31) | (42) | 84 | 132 | (48) | (36) |
+Foreign exchange and derivative products | 47 | 41 | 6 | 15 | 91 | 80 | 11 | 14 |
+Letter of credit and loan fees | 52 | 45 | 7 | 16 | 102 | 89 | 13 | 15 |
+Securities gains, net | 6 | 5 | 1 | 20 | 13 | 12 | 1 | 8 |
+Other income(1)
+44 | 42 | 2 | 5 | 78 | 64 | 14 | 22 |
+Noninterest income | $652 | $600 | $52 | 9 | % | $1,258 | $1,144 | $114 | 10 | % |
+(1) Includes bank-owned life insurance income and other income for all periods presented.
+The primary drivers for the change in noninterest income for the three and six months ended June 30, 2026, compared to the same periods in 2025, are described below:
+&#8226;Capital markets fees increased driven by higher M&A, loan syndication, and bond underwriting fees during the three- and six-month periods, with higher equity underwriting fees also a driver during the six-month period;
+&#8226;Wealth fees increased primarily driven by growth in assets under management, reflecting net inflows and market appreciation; and
+&#8226;Mortgage banking fees decreased primarily driven by lower MSR valuation results, net of hedge impact.
+Noninterest Expense
+The following table presents the components of noninterest expense:
+Table 3: Noninterest Expense |
+Three Months Ended June 30, | Six Months Ended June 30, |
+(dollars in millions) | 2026 | 2025 | Change | Percent | 2026 | 2025 | Change | Percent |
+Salaries and employee benefits | $745 | $681 | $64 | 9 | % | $1,503 | $1,377 | $126 | 9 | % |
+Equipment and software | 195 | 193 | 2 | 1 | 392 | 387 | 5 | 1 |
+Outside services | 174 | 169 | 5 | 3 | 336 | 324 | 12 | 4 |
+Occupancy | 108 | 108 | -- | -- | 222 | 220 | 2 | 1 |
+Other operating expense | 172 | 168 | 4 | 2 | 319 | 325 | (6) | (2) |
+Noninterest expense | $1,394 | $1,319 | $75 | 6 | % | $2,772 | $2,633 | $139 | 5 | % |
+The primary drivers for the change in noninterest expense for the three and six months ended June 30, 2026, compared to the same periods in 2025, are described below:
+&#8226;Salaries and employee benefits increased reflecting hiring related to the Private Bank and Private Wealth build-out, and compensation associated with growth in capital markets fees;
+&#8226;Outside services increased primarily driven by costs to implement our Reimagine the Bank program, which leverages technology innovation to reshape how we serve customers and operate our business; and
+&#8226;Other operating expense declined during the six-month period reflecting lower FDIC deposit insurance costs.
+Citizens Financial Group, Inc. | 13
+Provision for Credit Losses
+The provision for credit losses is the result of a detailed analysis performed to estimate our ACL. The total provision for credit losses includes the provision for loan and lease losses and the provision for unfunded commitments. Refer to "Risk Management - Credit Risk" for more information.
+Provision expense of $134 million and $274 million for the three and six months ended June 30, 2026, respectively, compared with a provision of $164 million and $317 million for the same periods in 2025, reflecting the runoff of certain retail portfolios and improving credit trends and loan mix.
+Income Tax Expense
+Income tax expense of $168 million and $301 million increased $50 million and $88 million for the three and six months ended June 30, 2026, respectively, compared to the same periods in 2025. The effective income tax rate of 22.3% and 21.4% for the three and six months ended June 30, 2026 increased from 21.4% and 20.9%, respectively, compared to the same periods in 2025. These increases were driven by a reduced benefit from tax-advantaged investments on higher pretax income. Provision for income taxes is calculated by applying the estimated annual effective tax rate to year-to-date pretax income, adjusting for discrete items that occurred during the period.
+Citizens Financial Group, Inc. | 14
+CONSOLIDATED BALANCE SHEET ANALYSIS
+Securities
+The following table presents the major components of securities at amortized cost and fair value:
+Table 4: Amortized Cost and Fair Value of Securities |
+June 30, 2026 | December 31, 2025 |
+(dollars in millions) | Amortized
+Cost(1)
+Fair Value | Amortized
+Cost(1)
+Fair Value |
+U.S. Treasury and other | $4,499 | $4,431 | $3,163 | $3,123 |
+
+----- [line 456] -----
+Total debt securities held to maturity | $7,638 | $6,784 | $7,933 | $7,150 |
+Total debt securities available for sale and held to maturity
+$46,587 | $44,232 | $44,833 | $42,847 |
+Equity securities, at cost(2)
+$991 | $991 | $807 | $807 |
+Equity securities, at fair value(2)
+386 | 386 | 317 | 317 |
+(1) Excludes portfolio level basis adjustments of $(40) million and $17 million, respectively, for securities designated in active fair value hedge relationships under the portfolio layer method at June 30, 2026 and December 31, 2025.
+(2) Included in Other assets in the Consolidated Balance Sheets.
+The primary objective of our securities portfolio is to provide a readily available source of liquidity. The portfolio primarily includes high-quality and highly liquid investments that reflect our ongoing commitment to maintain strong contingent liquidity levels and pledging capacity.
+As of June 30, 2026, U.S. Treasuries and mortgage-backed securities issued by GNMA and GSEs represented 99% of the fair value of our debt securities portfolio, with approximately $40.2 billion of unencumbered high-quality liquid securities serving as potential collateral for borrowings from the FHLB, FRB discount window, and the Fixed Income Clearing Corporation bilateral repurchase agreement market.
+For further discussion of the use of our securities as liquidity collateral, see the "Liquidity Risk" section in this report. For further discussion of liquidity requirements, see "Regulation and Supervision - Liquidity Requirements" in our 2025 Form 10-K.
+We manage our securities portfolio duration and convexity risk through asset selection and securities structure, and maintain duration levels within our risk appetite in the context of our broader interest rate risk framework and limits. As of June 30, 2026, the portfolio's average effective duration, including hedging actions to reduce duration, was 4.1 years compared with 3.8 years as of December 31, 2025.
+Citizens Financial Group, Inc. | 15
+Loans and Leases
+The following table presents loans and leases, excluding LHFS:
+Table 5: Composition of Loans and Leases, Excluding LHFS |
+(dollars in millions) | June 30, 2026 | December 31, 2025 | Change | Percent |
+Commercial and industrial | $53,467 | $49,232 | $4,235 | 9 | % |
+Commercial real estate | 23,817 | 24,580 | (763) | (3) |
+Total commercial | 77,284 | 73,812 | 3,472 | 5 |
+Residential mortgages | 36,374 | 35,024 | 1,350 | 4 |
+Home equity | 20,276 | 19,069 | 1,207 | 6 |
+Automobile | 1,482 | 2,310 | (828) | (36) |
+Education | 8,044 | 8,416 | (372) | (4) |
+Other retail | 4,031 | 4,061 | (30) | (1) |
+Total retail | 70,207 | 68,880 | 1,327 | 2 |
+Total loans and leases | $147,491 | $142,692 | $4,799 | 3 | % |
+The increase in total loans and leases as of June 30, 2026 compared to December 31, 2025 reflects a $3.5 billion increase in commercial driven by net new money originations in corporate banking and higher line of credit utilization, partially offset by CRE paydowns. Retail reflects a $1.3 billion increase driven by growth in home equity and mortgage, including the Private Bank, partially offset by runoff of the auto loan portfolio.
+Deposits
+The following table presents the composition of deposits:
+Table 6: Composition of Deposits |
+(dollars in millions) | June 30, 2026 | % of Total Deposits | December 31, 2025 | % of Total Deposits |
+Noninterest-bearing demand
+$40,939 | 22 | % | $40,417 | 22 | % |
+Checking with interest | 40,258 | 22 | 37,428 | 20 |
+Savings | 23,570 | 13 | 24,353 | 13 |
+Money market | 60,029 | 32 | 60,062 | 33 |
+Time
+20,824 | 11 | 21,053 | 12 |
+Total deposits | $185,620 | 100 | % | $183,313 | 100 | % |
+Total deposits as of June 30, 2026 increased compared to December 31, 2025, reflecting growth in the Private Bank.
+The following table presents an analysis of estimated insured/secured deposits as a percentage of total deposits:
+Table 7: Uninsured and Insured/Secured Deposits |
+(dollars in millions) | June 30, 2026 | December 31, 2025 |
+Estimated uninsured deposits(1)
+$89,617 | $86,877 |
+Less: Uninsured affiliate deposits eliminated in consolidation | 12,368 | 11,555 |
+Less: Preferred deposits(1)(2)
+7,181 | 6,923 |
+CFG adjusted estimated uninsured deposits, excluding preferred deposits
+70,068 | 68,399 |
+Total estimated insured/secured deposits | $115,552 | $114,914 |
+Insured/secured deposits to total deposits | 62 | % | 63 | % |
+(1) As reported on CBNA's Call Report.
+(2) Represents uninsured deposits of states and political subdivisions that are secured or collateralized as required under state law.
+Insured/secured deposit balances continue to be broadly stable as of June 30, 2026 compared to December 31, 2025. The decrease in the insured/secured deposits percentage during 2026 reflects growth in the Private Bank and a decrease in insured Treasury brokered deposits as we continued to optimize our deposit mix.
+Citizens Financial Group, Inc. | 16
+Borrowed Funds
+Total borrowed funds of $16.3 billion as of June 30, 2026 increased $5.1 billion compared to December 31, 2025, driven by an increase in FHLB advances and senior and subordinated debt, given net issuances, partially offset by a decline in secured borrowings collateralized by auto loans as the associated portfolio runs off. For more information regarding our borrowed funds, see "Liquidity Risk" and Note 7.
+BUSINESS SEGMENTS
+We have two reportable business segments: Consumer Banking and Commercial Banking. The business segments are determined based on the products and services provided, or the type of customer served. Each business segment is managed by a segment head who reports, directly or indirectly, to the Chief Executive Officer, who has final authority for resource allocation and performance assessment. The business segments reflect this management structure and the manner in which financial information is currently evaluated by the Chief Executive Officer. See Note 16 for more information regarding our business segments.
+The following tables present certain financial data of our reportable business segments. Total business segment financial results differ from total consolidated financial results. These differences are reflected in Other non-segment operations, consisting primarily of treasury and community development, and include assets, liabilities, capital, revenues, provision (benefit) for credit losses, expenses, and income tax expense (benefit) not attributed to the Company's reportable business segments.
+Table 8: Selected Financial Data for Business Segments |
+Three Months Ended June 30, |
+Consumer Banking | Commercial Banking |
+(dollars in millions) | 2026 | 2025 | 2026 | 2025 |
+Net interest income | $1,348 | $1,218 | $467 | $439 |
+Noninterest income | 314 | 329 | 292 | 232 |
+Total revenue | 1,662 | 1,547 | 759 | 671 |
+Noninterest expense | 1,016 | 963 | 326 | 317 |
+Profit (loss) before credit losses
+
+----- [line 752] -----
+Total commercial | 144 | 75,550 | 0.39 | 173 | 71,020 | 0.49 |
+Residential mortgages | (2) | 35,442 | (0.01) | -- | 33,147 | -- |
+Home equity | 2 | 19,555 | 0.03 | (2) | 16,988 | (0.03) |
+Automobile | 3 | 1,878 | 0.28 | 11 | 4,047 | 0.56 |
+Education | 36 | 8,312 | 0.87 | 69 | 9,670 | 1.44 |
+Other retail | 90 | 4,039 | 4.48 | 116 | 4,385 | 5.35 |
+Total retail | 129 | 69,226 | 0.38 | 194 | 68,237 | 0.57 |
+Total loans and leases | $273 | $144,776 | 0.38 | % | $367 | $139,257 | 0.53 | % |
+For the three and six months ended June 30, 2026, net charge-offs decreased $32 million and $94 million, respectively, and the net charge-off ratio decreased 11 basis points and 15 basis points, respectively, compared to the same periods in 2025. These declines during the three and six months ended June 30, 2026 are driven primarily by CRE and other retail, with education also a driver during the six-month period reflecting a $25 million charge-off resulting from the sale of education loans in the first quarter of 2025.
+Market Risk
+Market risk refers to potential losses arising from changes in interest rates, foreign exchange rates, equity prices, commodity prices, and/or other relevant market rates or prices. Modest market risk arises from trading activities that serve customer needs, including the hedging of interest rate and foreign exchange risks. As described below, the market risk arising from our non-trading banking activities, such as the origination of loans and deposit gathering, is more significant. We have established enterprise-wide policies and methodologies to identify, measure, monitor, and report market risk. We actively manage market risk for both non-trading and trading activities.
+Non-Trading Risk
+Our non-trading banking activities expose us to market risk. This market risk is composed of interest rate risk, as we have no commodity risk and de minimis direct currency and equity risk. We also have market risk related to capital markets loan originations, as well as the valuation of our MSRs. There have been no significant changes in our sources of interest rate risk, interest rate risk practices, risk framework, metrics, or assumptions as described in "Market Risk - Non-Trading Risk" in our 2025 Form 10-K.
+Citizens Financial Group, Inc. | 24
+The table below presents the sensitivity of net interest income to various parallel yield curve shifts from the market implied forward yield curve. Our policies involve measuring exposures as a percentage change in net interest income over the next year due to either instantaneous or gradual parallel changes in rates relative to the market implied forward yield curve. As the following table illustrates, our balance sheet is slightly asset sensitive; net interest income would benefit from an increase in interest rates, while exposure to a decline in interest rates is within limits established and monitored by senior management. While an instantaneous and severe shift in interest rates is included in this analysis, we believe that any actual shift in interest rates would be more gradual and, therefore, have a more modest impact.
+Table 15: Sensitivity of Net Interest Income |
+Estimated % Change in Net Interest Income over 12 Months |
+Basis points | June 30, 2026 | December 31, 2025 |
+Gradual Change in Interest Rates |
++200 | 1.7 | % | 2.0 | % |
++100 | 0.9 | 1.0 |
+-100 | (0.9) | (1.1) |
+-200 | (1.8) | (2.4) |
+Instantaneous Change in Interest Rates |
++200 | 1.8 | % | 1.8 | % |
++100 | 1.3 | 1.1 |
+-100 | (1.6) | (1.9) |
+-200 | (4.0) | (4.8) |
+We continue to manage asset sensitivity within the scope of our policy, changing market conditions, and changes in our balance sheet. The Company's base case net interest income assumes the forward-rate path implied by the period-end yield curve is realized. The rate risk exposure is then measured based on assumed changes from that base case rate path.
+Our risk position is slightly asset sensitive to a gradual change in rates as of June 30, 2026, consistent with our position as of December 31, 2025. Our interest rate sensitivity incorporates the impact of changes in our balance sheet mix, including securities, loans, deposits, borrowed funds, and hedge activity. Receive-fixed swaps that offset our naturally asset-sensitive balance sheet represent the primary hedging tool utilized to manage overall asset sensitivity. Pay-fixed swaps against our securities portfolio are also utilized to protect capital by reducing AOCI volatility.
+We use a valuation measure of exposure to structural interest rate risk, EVE, as a supplement to net interest income simulations. EVE complements net interest income simulation analysis as it estimates risk exposure over a long-term horizon. EVE measures the extent to which the economic value of assets, liabilities, and off-balance sheet instruments may change in response to fluctuations in interest rates. This analysis is highly dependent upon assumptions applied to assets and liabilities with non-contractual maturities. We employ sophisticated models for prepayments and deposit pricing and attrition, which provide a granular view of cash flows based on the unique characteristics of the underlying products and customer segments. The change in value is expressed as a percentage of regulatory capital.
+We use interest rate derivative contracts as part of our ALM strategy to manage exposure to the variability in the interest cash flows on our floating-rate assets and wholesale funding, the variability in the fair value of AFS securities, and to hedge market risk on fixed-rate capital markets debt issuances.
+Citizens Financial Group, Inc. | 25
+The following table presents interest rate derivative contracts that we have entered into as of June 30, 2026 and December 31, 2025:
+Table 16: Interest Rate Hedges Used to Manage Non-Trading Interest Rate Exposure |
+June 30, 2026 | December 31, 2025 |
+Weighted Average | Weighted Average |
+(dollars in millions) | Notional Amount | Maturity (Years) | Fixed Rate | Reset Rate | Notional Amount | Maturity (Years) | Fixed Rate | Reset Rate |
+Fair value hedges: |
+Asset conversion swaps: |
+AFS securities: |
+Pay fixed/receive SOFR | $5,432 | 3.6 | 3.8 | % | 3.7 | % | $6,608 | 3.8 | 3.8 | % | 3.9 | % |
+Total fair value hedges | $5,432 | $6,608 |
+Cash flow hedges: |
+Asset conversion swaps: |
+Loans: |
+Swaps |
+Receive fixed/pay SOFR | $30,000 | 1.2 | 3.5 | 3.7 | $30,750 | 1.0 | 3.4 | 3.9 |
+Receive fixed/pay SOFR - forward-starting | 16,750 | 3.2 | 3.7 | 4.0 | 17,000 | 3.3 | 3.6 | 3.3 |
+Basis swaps |
+Receive SOFR/pay 1-month term SOFR | 8,000 | 0.7 | -- | 3.7/3.6 | 12,000 | 0.8 | -- | 3.9/3.7 |
+Receive SOFR/pay 1-month term SOFR - forward-starting | -- | -- | -- | -- | 1,000 | 1.0 | -- | 3.9/3.7 |
+Total cash flow hedges | $54,750 | $60,750 |
+Total hedges | $60,182 | $67,358 |
+Included in AOCI are pretax net losses from terminated swaps of $123 million that will reduce net interest income by $52 million in the third quarter of 2026, $27 million in the fourth quarter of 2026, and $44 million thereafter.
+Capital Markets
+A key component of our capital markets activities is the underwriting and distribution of corporate credit facilities to finance M&A transactions or other corporate purposes for our clients. We have a rigorous risk management process around these activities, including a limit structure capping our underwriting risk, potential loss, and sub-limits for specific asset classes. Further, the ability to approve underwriting exposure is delegated only to senior level individuals in the credit risk management and capital markets organizations with each transaction, at a minimum, requiring approval of one business approver and one credit approver. Such approvals are frequently handled in the context of a committee meeting forum known as the Loan Underwriting Approval Committee.
+Mortgage Servicing Rights
+We have market risk associated with the value of residential MSRs, which are impacted by various types of inherent risks, including duration, basis, convexity, volatility, and yield curve.
+As part of our overall risk management strategy we enter into various freestanding derivatives, such as interest rate swaps, interest rate swaptions, interest rate futures, and forward contracts to purchase mortgage-backed securities to economically hedge the changes in fair value of our MSRs. For more information regarding the fair value of our MSRs and associated derivatives, see Note 5 and Note 8.
+As with our traded market risk-based activities, earnings at risk excludes the impact of MSRs. MSRs are captured under our single price risk management framework that is used for calculating a management VaR consistent with the definition used by banking regulators.
+Citizens Financial Group, Inc. | 26
+Trading Risk
+We are exposed to market risk primarily through client facilitation activities from certain derivative and foreign exchange products as well as underwriting and market making activities. Market risk exposure arises from fluctuations in interest rates, basis spreads, commodity prices, foreign exchange rates, equity prices, and credit spreads across various financial instruments. There have been no significant changes in our market risk governance, market risk measurement, or market risk practices including VaR, stressed VaR, sensitivity analysis, stress testing, VaR model review and validation, and VaR backtesting as described in "Market Risk - Trading Risk" in our 2025 Form 10-K.
+Market Risk Regulatory Capital
+The U.S. banking regulators' "Market Risk Rule" covers the calculation of market risk capital. Under this rule, all of our client facing trades and associated hedges maintain a low net risk and qualify as "covered positions." The internal management VaR measure is calculated based on the same population of trades that is utilized for regulatory VaR.
+Table 17: Results of Modeled and Non-Modeled Measures for Regulatory Capital Calculations |
+(dollars in millions) | For the Three Months Ended June 30, 2026 | For the Three Months Ended June 30, 2025 |
+Market Risk Category
+Period End | Average
+High | Low | Period End | Average | High | Low |
+Interest Rate | $1 | $1 | $1 | $1 | $1 | $1 | $1 | $1 |
+Foreign Exchange Currency Rate | -- | -- | -- | -- | -- | -- | -- | -- |
+Credit Spread | 1 | 1 | 2 | 1 | 1 | 2 | 3 | 1 |
+Commodity | -- | -- | -- | -- | -- | -- | -- | -- |
+General VaR | 2 | 1 | 5 | 1 | 2 | 2 | 3 | 2 |
+Specific Risk VaR | -- | -- | -- | -- | -- | -- | -- | -- |
+Total VaR | $2 | $1 | $5 | $1 | $2 | $2 | $3 | $2 |
+Stressed General VaR | $10 | $7 | $14 | $3 | $9 | $13 | $22 | $6 |
+Stressed Specific Risk VaR | -- | -- | -- | -- | -- | -- | -- | -- |
+Total Stressed VaR | $10 | $7 | $14 | $3 | $9 | $13 | $22 | $6 |
+Market Risk Regulatory Capital | $25 | $45 |
+Specific Risk Not Modeled Add-on | 17 | 28 |
+de Minimis Exposure Add-on | 3 | 5 |
+Total Market Risk Regulatory Capital | $45 | $78 |
+Market Risk-Weighted Assets | $567 | $976 |
+Liquidity Risk
+We consider the effective and prudent management of liquidity, defined as our ability to meet our obligations when they come due, fundamental to our safety and soundness. As a financial institution, we must maintain operating liquidity to meet expected daily and forecasted cash flow requirements, as well as contingent liquidity to meet unexpected and stress-scenario funding requirements. Reflecting the importance of meeting all unexpected and stress-scenario funding requirements, we identify and manage contingent liquidity, consisting of cash balances at the FRB, unencumbered high-quality liquid securities, and unused FHLB borrowing capacity. Separately, we also identify and manage asset liquidity as a subset of contingent liquidity, consisting of cash balances at the FRB and unencumbered high-quality liquid securities. We maintain additional secured borrowing capacity at the FRB discount window, but do not view this as a primary means of funding, but rather a potential source in a stressed environment or during a market disruption. We manage liquidity at the consolidated enterprise level and at each material legal entity.
+Liquidity risk is the risk arising from the inability to meet our obligations when they come due. We must maintain adequate funding to meet current and future obligations, including customer loan requests, deposit maturities and withdrawals, debt service, leases, and other cash commitments, under both normal operating conditions and periods of company-specific and/or market stress.
+Citizens Financial Group, Inc. | 27
+Liquidity risk is measured and managed by the Funding and Liquidity unit within our Treasury group in accordance with policy guidelines promulgated by our Board and the Asset Liability Committee. The Funding and Liquidity unit is responsible for maintaining a liquidity management framework that effectively manages liquidity risk. Processes within this framework include, but are not limited to, regular and comprehensive reporting, including current levels versus threshold limits for a broad set of liquidity metrics and early warning indicators, explanatory commentary relating to emerging risk trends and, as appropriate, recommended remedial strategies, liquidity stress testing, contingency funding plans, and collateral management.
+Our Funding and Liquidity unit's primary goals are to deliver and maintain prudent levels of operating liquidity to support expected and projected funding requirements; contingent liquidity to support unexpected funding requirements resulting from idiosyncratic, systemic, and combination stress events; and regulatory liquidity requirements in a timely manner from stable and cost-efficient funding sources. We seek to accomplish these goals by funding loans with stable deposits, by prudently controlling dependence on wholesale funding, particularly short-term unsecured funding, and by maintaining ample available liquidity, including a contingent liquidity buffer of unencumbered high-quality loans and securities.
+The Funding and Liquidity unit monitors a variety of liquidity and funding metrics and early warning indicators, including specific risk thresholds and limits. These monitoring tools are broadly classified as follows:
+&#8226;Current liquidity sources and capacities, including cash balances at the FRB, free and liquid securities, and secured borrowing capacity at the FHLB and FRB discount window;
+&#8226;Liquidity stress sources, including idiosyncratic, systemic, and combined stresses, in addition to evolving regulatory requirements; and
+&#8226;Current and prospective exposures, including secured and unsecured wholesale funding, and spot and cumulative cash-flow gaps across a variety of horizons.
+Further, certain of these metrics are monitored individually for CBNA and for our consolidated enterprise on a daily basis, including cash position, unencumbered securities, asset liquidity, and available FHLB borrowing capacity. In order to identify emerging trends and risks and inform funding decisions, specific metrics are also forecasted over a one-year horizon.
+We rely on customer deposits to be our primary stable and low-cost source of funding. Our other funding sources are dependent on our ability to securitize loans in secondary markets, raise funds in the debt and equity capital markets, pledge loans and/or securities for borrowing from the FHLB, pledge securities as collateral for borrowing under repurchase agreements, and sell AFS securities. In addition, we maintain a contingency funding plan designed to ensure that liquidity sources are sufficient to meet ongoing obligations and commitments, particularly in a stressed environment or during a market disruption. The plan identifies members of the liquidity contingency team and provides a framework for management to follow, including notification and escalation of potential liquidity stress events.
+As of June 30, 2026:
+&#8226;Organically generated deposits continue to be our primary source of funding, resulting in a consolidated period-end loan-to-deposit ratio, excluding LHFS, of 79.5%;
+&#8226;Our total available liquidity, comprised of contingent liquidity and available discount window capacity, was approximately $89.4 billion:
+&#9702;Contingent liquidity was $70.2 billion, consisting of unencumbered high-quality liquid securities of $40.2 billion, unused FHLB capacity of $18.9 billion, and cash balances at the FRB of $11.1 billion; and
+&#9702;Available discount window capacity was $19.2 billion, defined as available total borrowing capacity from the FRB based on identified collateral, which is primarily secured by non-mortgage commercial and retail loans.
+For a summary of our sources and uses of cash by type of activity for the six months ended June 30, 2026 and 2025, see the Consolidated Statements of Cash Flows in Item 1.
+Citizens Financial Group, Inc. | 28
+Parent Company Liquidity
+Our Parent Company's primary sources of cash are dividends and interest received from CBNA resulting from investing in bank equity and subordinated debt as well as externally issued preferred stock, senior debt, and subordinated debt. Uses of cash include the routine cash flow requirements as a bank holding company, including periodic share repurchases and payments of dividends, interest, and expenses; the needs of subsidiaries, including CBNA for additional equity and, as required, its need for debt financing; and the support for extraordinary funding requirements when necessary. To the extent the Parent Company relies on wholesale borrowings, uses also include payments of related principal and interest.
+During the six months ended June 30, 2026, the Parent Company issued $400 million of 5.299% fixed-reset subordinated notes due 2036.
+Our Parent Company's cash and cash equivalents represent a source of liquidity that can be used to meet various needs and totaled $2.6 billion and $2.3 billion as of June 30, 2026 and December 31, 2025, respectively.
+During the three months ended June 30, 2026 and 2025, the Parent Company declared dividends on common stock of $198 million and $185 million, respectively, and declared dividends on preferred stock of $33 million and $34 million, respectively.
+During the six months ended June 30, 2026 and 2025, the Parent Company declared dividends on common stock of $396 million and $371 million, respectively, and declared dividends on preferred stock of $66 million and $67 million, respectively.
+During the three months ended June 30, 2026 and 2025, the Parent Company repurchased $225 million and $200 million, respectively, of its outstanding common stock, and repurchased $525 million and $400 million, respectively, during the six months ended June 30, 2026 and 2025.
+CBNA Liquidity
+As CBNA's primary business involves taking deposits and making loans, a key role of liquidity management is to ensure that customers have timely access to funds. Liquidity management also involves maintaining sufficient liquidity to repay wholesale borrowings, pay operating expenses, and support extraordinary funding requirements when necessary. In the ordinary course of business, the liquidity of CBNA is managed by matching sources and uses of cash. The primary sources of bank liquidity include deposits from our consumer and commercial customers; payments of principal and interest on loans and debt securities; and wholesale borrowings, as needed. The primary uses of bank liquidity include withdrawals and maturities of deposits; payment of interest on deposits; funding of loans and related commitments; and funding of securities purchases. To the extent that CBNA relies on wholesale borrowings, uses also include payments of related principal and interest.
+During the six months ended June 30, 2026, CBNA issued $750 million of 4.192% fixed-to-floating rate senior notes due 2029.
+Citizens Financial Group, Inc. | 29
+Credit Ratings
+Credit ratings assigned by agencies such as Moody's, S&P, and Fitch impact our access to unsecured wholesale market funds and to large uninsured customer deposits and are presented in the table below. We currently have a "stable" outlook at S&P, a "stable" outlook at Moody's, and a "positive" outlook at Fitch. Changes in our public credit ratings could affect both the cost and availability of our wholesale funding.
+Table 18: Credit Ratings |
+June 30, 2026 |
+
+----- [line 2045] -----
+(39) | (40) | (85) | (79) |
+Changes in fair value(3)
+11 | 21 | 16 | 11 |
+Fair value at end of the period | $1,482 | $1,426 | $1,482 | $1,426 |
+(1) For the six months ended June 30, 2025, represents the sale of the excess servicing yield on MSRs related to certain FNMA mortgages with a total unpaid principal balance of $10.5 billion at the time of sale.
+(2) Represents changes in value of the MSRs due to i) the passage of time including the impact from both regularly scheduled loan principal payments and partial
+paydowns, and ii) loans that paid off during the period.
+(3) Represents changes in fair value primarily driven by market conditions. These changes are recorded in Mortgage banking fees in the Consolidated Statements of Operations.
+The fair value of MSRs is estimated by using the present value of estimated future net servicing cash flows, taking into consideration actual and expected mortgage loan prepayment rates, discount rates, contractual servicing fee income, servicing costs, default rates, ancillary income, and other economic factors determined based on current market interest rates. The valuation does not attempt to forecast or predict the future direction of interest rates.
+The sensitivity analysis below presents the impact of an immediate 10% and 20% adverse change in key economic assumptions to the current fair value of MSRs. These sensitivities are hypothetical, with the effect of a variation in a particular assumption on the fair value of the MSRs calculated independently without changing any other assumption. Changes in one factor may result in changes in another (e.g., changes in interest rates that drive changes in prepayment rates could result in changes in discount rates) and may amplify or counteract the sensitivities. The primary risk inherent in the Company's MSRs is an increase in prepayments of the underlying mortgage loans serviced, which is largely dependent upon movements in market interest rates.
+(dollars in millions) | June 30, 2026 | December 31, 2025 |
+Fair value | $1,482 | $1,455 |
+Weighted average life (years) | 8.2 | 8.0 |
+Weighted average constant prepayment rate | 6.6% | 7.0% |
+Decline in fair value from 10% adverse change
+$38 | $38 |
+Decline in fair value from 20% adverse change
+$73 | $73 |
+Weighted average option adjusted spread | 553 bps | 588 bps |
+Decline in fair value from 10% adverse change
+$38 | $40 |
+Decline in fair value from 20% adverse change
+$75 | $80 |
+The Company has mortgage banking derivatives that include commitments to originate mortgages held for sale, certain loan sale agreements, and other financial instruments that meet the definition of a derivative. Refer to Note 8 for additional information.
+Other Serviced Loans
+The Company engages in other servicing relationships from time to time. The following table presents the unpaid principal balance of other serviced loans:
+(dollars in millions) | June 30, 2026 | December 31, 2025 |
+Education | $301 | $341 |
+Commercial and industrial(1)
+78 | 84 |
+(1) Represents the government guaranteed portion of SBA loans sold to outside investors.
+Citizens Financial Group, Inc. | 63
+NOTE 6 - VARIABLE INTEREST ENTITIES
+The Company, in the normal course of business, engages in a variety of activities with entities that are considered VIEs, as defined by GAAP, with its variable interest arising from contractual, ownership, or other monetary interests in the entity. A VIE typically does not have sufficient equity at risk to finance its activities without additional subordinated financial support from other parties.
+For more details regarding the Company's involvement with VIEs, see Note 9 in the Company's 2025 Form 10-K.
+Consolidated VIEs
+The Company has consolidated VIEs related to secured borrowings collateralized by auto loans. The following table summarizes the carrying amount of assets and liabilities for the Company's consolidated VIEs:
+(dollars in millions) | June 30, 2026 | December 31, 2025 |
+Assets: |
+Interest-bearing deposits in banks
+$120 | $157 |
+Net loans and leases
+1,232 | 1,929 |
+Other assets | 10 | 11 |
+Total assets | $1,362 | $2,097 |
+Liabilities: |
+Long-term borrowed funds | $928 | $1,598 |
+Other liabilities | 2 | 4 |
+Total liabilities | $930 | $1,602 |
+Secured Borrowings
+The Company utilizes a portion of its auto loan portfolio to support certain secured borrowing arrangements, which provide a source of funding for the Company and involves the transfer of auto loans to bankruptcy remote SPEs. These SPEs then issue asset-backed notes to third parties collateralized by the transferred loans.
+The assets of a particular VIE are the primary source of funds to settle its obligations. Creditors of these VIEs do not have recourse to the general credit of the Company. The performance of the loans transferred is the most significant driver impacting the economic performance of the VIEs.
+Unconsolidated VIEs
+The Company is involved with various VIEs that are not consolidated including lending to SPEs, investments in asset-backed securities, and investments in entities that sponsor affordable housing and renewable energy projects. The Company's maximum exposure to loss resulting from its involvement with these entities is limited to the balance sheet carrying amount of its investments, unfunded commitments, and the outstanding principal balance of loans to SPEs.
+The following table provides a summary of the assets and liabilities included in the Consolidated Balance Sheets related to unconsolidated VIEs that the Company holds an interest in, but is not the primary beneficiary of:
+(dollars in millions) | June 30, 2026 | December 31, 2025 |
+Lending to SPEs included in Loans and leases
+$7,052 | $5,631 |
+Tax-advantaged investments included in Other assets(1)
+3,120 | 2,967 |
+Unfunded commitments for tax-advantaged investments included in Other liabilities(1)
+1,094 | 1,066 |
+Asset-backed investments included in Debt securities
+1,018 | 1,118 |
+Other investments included in Other assets
+18 | 17 |
+Unfunded commitments for other investments included in Other liabilities
+2 | 2 |
+(1) Includes LIHTC and renewable energy investments.
+Citizens Financial Group, Inc. | 64
+Lending to Special Purpose Entities
+The Company provides lending facilities to third-party sponsored SPEs within its Capital Markets business. The SPEs are primarily funded through these lending facilities or a syndication in which the Company participates. The principal risk of these lending facilities is the credit risk related to the underlying assets in the SPE, in which the Company generally holds a priority position. As of June 30, 2026 and December 31, 2025, the lending facilities had undrawn commitments to extend credit of $5.0 billion and $4.0 billion, respectively. For more information on commitments to extend credit, see Note 11.
+
+----- [line 2218] -----
+Total derivatives not designated as hedging instruments | 255,032 | 1,388 | 1,487 | 236,363 | 1,166 | 1,233 |
+Total gross derivatives | 315,214 | 1,578 | 1,539 | 303,721 | 1,532 | 1,258 |
+Less: Gross amounts offset in the Consolidated Balance Sheets(1)
+(462) | (462) | (342) | (342) |
+Less: Cash collateral applied(1)
+(544) | (67) | (494) | (137) |
+Total net derivatives presented in the Consolidated Balance Sheets | $572 | $1,010 | $696 | $779 |
+(1) Amounts represent the impact of enforceable master netting agreements that allow the Company to net settle positive and negative positions, as well as collateral paid and received.
+The Company's derivative transactions are internally divided into three sub-groups: institutional, customer facilitation, and residential loan. Certain derivative transactions within these sub-groups are designated as fair value or cash flow hedges, as described below:
+Derivatives Designated As Hedging Instruments
+The Company's institutional derivatives qualify for hedge accounting treatment. The net interest accruals on interest rate swaps designated in a fair value or cash flow hedge relationship are treated as an adjustment to interest income or interest expense of the item being hedged. At inception, the Company documents each hedging relationship and the related risk-management objective and strategy. In addition, the effectiveness of each hedge relationship is monitored during the duration of the hedge period. The methods utilized to assess hedge effectiveness vary based on the hedge relationship, with each relationship monitored to ensure that management's initial intent continues to be satisfied. Hedge accounting treatment is discontinued when the derivative is terminated or when it is determined that a derivative is not expected to be, or has ceased to be, an effective hedge. Changes in the fair value of a derivative are reflected in earnings after termination of the hedge relationship.
+Fair Value Hedges
+In a fair value hedge, changes in the fair value of both the derivative instrument and the hedged asset or liability attributable to the risk being hedged are recognized in the same income statement line item in the Consolidated Statements of Operations when the changes in fair value occur. At June 30, 2026 and December 31, 2025, the Company has designated $3.8 billion of interest rate swaps as fair value hedges of its fixed-rate prepayable AFS securities using the portfolio layer method. This approach allows the Company to designate as the hedged item a stated amount of the assets that are not expected to be affected by prepayments, defaults, and other factors affecting the timing and amount of cash flows. At June 30, 2026 and December 31, 2025, the Company has also designated $1.7 billion and $2.8 billion, respectively, of interest rate swaps as fair value hedges to manage interest rate risk within its nonprepayable fixed-rate AFS securities portfolio.
+Citizens Financial Group, Inc. | 68
+The following table presents the effect of fair value hedges on the Consolidated Statements of Operations and the respective line items affected for each hedged item:
+Location and Amount of Gains (Losses) Recognized
+Interest Income
+Interest Expense
+(dollars in millions) | Investment Securities
+Long-Term Borrowed Funds
+Three Months Ended June 30, 2026 |
+Gains (losses) on fair value hedges recognized on:
+Hedged items
+($58) | $-- |
+Derivatives
+60 | -- |
+Amounts related to interest settlements on derivatives
+(2) | -- |
+Total net interest income recognized on fair value hedges
+$-- | $-- |
+Three Months Ended June 30, 2025 |
+Gains (losses) on fair value hedges recognized on:
+Hedged items
+$50 | ($2) |
+Derivatives
+(50) | 2 |
+Amounts related to interest settlements on derivatives | 13 | (3) |
+Total net interest income recognized on fair value hedges
+$13 | ($3) |
+Six Months Ended June 30, 2026 |
+Gains (losses) on fair value hedges recognized on:
+Hedged items
+($97) | $-- |
+Derivatives
+99 | -- |
+Amounts related to interest settlements on derivatives | (2) | -- |
+Total net interest income recognized on fair value hedges
+$-- | $-- |
+Six Months Ended June 30, 2025 |
+Gains (losses) on fair value hedges recognized on:
+Hedged items
+$166 | ($4) |
+Derivatives
+(168) | 4 |
+Amounts related to interest settlements on derivatives | 24 | (5) |
+Total net interest income recognized on fair value hedges
+$22 | ($5) |
+The following table reflects amounts recorded in the Consolidated Balance Sheets related to cumulative basis adjustments for fair value hedges:
+June 30, 2026 | December 31, 2025 |
+(dollars in millions) | Debt securities available for sale(1)
+Debt securities available for sale(1)
+Carrying amount of hedged assets(2)
+$6,458 | $8,009 |
+Cumulative amount of fair value hedging adjustments included in the carrying amount of the hedged items | (48) | 48 |
+(1) Includes the amortized cost basis of closed portfolios used to designate hedging relationships under the portfolio layer method. The hedged item is a layer of the closed portfolio which is expected to be remaining at the end of the hedging relationship. As of June 30, 2026 and December 31, 2025, the amortized cost basis of the closed portfolios used in these hedging relationships was $4.8 billion and $5.1 billion, respectively, including associated cumulative basis adjustments of $(40) million and $17 million, respectively. The amount of the designated hedging instruments was $3.8 billion at June 30, 2026 and December 31, 2025.
+(2) Carrying amount represents amortized cost.
+Cash Flow Hedges
+In a cash flow hedge, the entire change in the fair value of the interest rate swap included in the assessment of hedge effectiveness is initially recorded in OCI and is subsequently reclassified from AOCI into earnings in the period during which the hedged item affects earnings.
+The Company enters into interest rate swap agreements designed primarily to hedge a portion of its floating-rate assets and liabilities. All of these swaps are deemed highly effective cash flow hedges. From time to time, the Company may also enter into certain interest rate option agreements that utilize interest rate floors and/or caps. Option premiums paid and received are excluded from the assessment of hedge effectiveness and are amortized over the life of the instruments.
+Citizens Financial Group, Inc. | 69
+The following table presents the pretax net gains (losses) recorded in the Consolidated Statements of Operations and in the Consolidated Statements of Comprehensive Income related to derivative instruments designated as cash flow hedges:
+Three Months Ended June 30, | Six Months Ended June 30, |
+
+----- [line 2297] -----
+The Company offers derivatives to customers in connection with their risk management needs consisting primarily of interest rate, foreign exchange, and commodity contracts. Market risk exposure from customer transactions is primarily managed by entering into a variety of hedging transactions with third-party dealers. Gains and losses on customer-related derivatives are reported in Foreign exchange and derivatives products in the Consolidated Statements of Operations.
+The Company also offers at-the-market equity programs to facilitate capital market activities for customers. These programs involve the concurrent short sale of an equity security and the execution of a forward purchase contract for the same equity security. The forward purchase contract economically hedges the Company's short sale position and will be closed against such position when a program concludes. Changes in fair value related to the forward purchase contracts are reported in Capital markets fees in the Consolidated Statements of Operations.
+Residential mortgage loans that will be sold in the secondary market and the related loan commitments, which are considered derivatives, are accounted for at fair value. Forward contracts to sell mortgage-backed securities are utilized to hedge the fair value of the loans and related commitments. Gains and losses on the loans and related commitments, and the derivatives used to economically hedge them, are reported in Mortgage banking fees in the Consolidated Statements of Operations.
+Residential MSRs are accounted for at fair value. Derivatives utilized to hedge the fair value of residential MSRs include interest rate futures, swaps, options, and forward contracts to purchase mortgage-backed securities. Gains and losses on residential MSRs and the related derivatives are reported in Mortgage banking fees in the Consolidated Statements of Operations.
+Citizens Financial Group, Inc. | 70
+The following table presents the effect of economic hedges on noninterest income:
+Amounts Recognized in
+Noninterest Income for the |
+Three Months Ended June 30, | Six Months Ended June 30, | Affected Line Item in the Consolidated Statements of Operations |
+(dollars in millions) | 2026 | 2025 | 2026 | 2025 |
+Economic hedge type: |
+Customer interest rate contracts | ($123) | $70 | ($240) | $235 | Foreign exchange and derivative products |
+Derivatives hedging interest rate risk | 136 | (62) | 262 | (219) | Foreign exchange and derivative products |
+Customer foreign exchange contracts | (63) | 319 | (151) | 417 | Foreign exchange and derivative products |
+Derivatives hedging foreign exchange risk | 88 | (399) | 206 | (530) | Foreign exchange and derivative products |
+Customer commodity contracts | (268) | (302) | 41 | 41 | Foreign exchange and derivative products |
+Derivatives hedging commodity price risk | 274 | 307 | (26) | (29) | Foreign exchange and derivative products |
+Residential loan commitments | -- | 3 | (11) | 9 | Mortgage banking fees |
+Derivatives hedging residential loan commitments and mortgage loans held for sale, at fair value
+(5) | (1) | 14 | (14) | Mortgage banking fees |
+Derivative contracts used to hedge residential MSRs | (14) | 5 | (22) | 27 | Mortgage banking fees |
+Derivative contracts used to hedge equity price risk
+13 | 11 | 14 | 11 | Capital markets fees
+Total | $38 | ($49) | $87 | ($52) |
+Citizens Financial Group, Inc. | 71
+NOTE 9 - ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)
+The following table summarizes the components of the Company's OCI:
+(dollars in millions) | Pretax | Tax Effect
+After-tax
+Three Months Ended June 30, 2026 |
+Net unrealized gains (losses) on cash flow hedges arising during the period
+($246) | $66 | ($180) |
+Reclassification of net (gains) losses on cash flow hedges to earnings
+73 | (20) | 53 |
+Net unrealized gains (losses) on cash flow hedges
+(173) | 46 | (127) |
+Net unrealized gains (losses) on AFS securities arising during the period
+(94) | 23 | (71) |
+Reclassification of net (gains) losses on investment securities to earnings
+32 | (8) | 24 |
+Net unrealized gains (losses) on investment securities
+(62) | 15 | (47) |
+Net actuarial gain (loss) arising during the period
+-- | -- | -- |
+Amortization of actuarial (gain) loss to earnings
+1 | -- | 1 |
+Defined benefit plans
+1 | -- | 1 |
+Total other comprehensive income (loss)
+($234) | $61 | ($173) |
+Three Months Ended June 30, 2025 |
+Net unrealized gains (losses) on cash flow hedges arising during the period
+$113 | ($30) | $83 |
+Reclassification of net (gains) losses on cash flow hedges to earnings
+198 | (53) | 145 |
+Net unrealized gains (losses) on cash flow hedges
+311 | (83) | 228 |
+Net unrealized gains (losses) on AFS securities arising during the period
+76 | (20) | 56 |
+Reclassification of net (gains) losses on investment securities to earnings
+23 | (6) | 17 |
+Net unrealized gains (losses) on investment securities
+99 | (26) | 73 |
+Net actuarial gain (loss) arising during the period
+-- | -- | -- |
+Amortization of actuarial (gain) loss to earnings
+2 | (1) | 1 |
+Defined benefit plans
+2 | (1) | 1 |
+Total other comprehensive income (loss)
+$412 | ($110) | $302 |
+Six Months Ended June 30, 2026 |

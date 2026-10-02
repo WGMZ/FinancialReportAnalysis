@@ -1,0 +1,78 @@
+# CME 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/1156375/000115637526000047/cme-20260630.htm
+# full_doc_chars=126747
+
+
+----- [line 830] -----
+(amounts in thousands) | 2026 | 2025 | Change | 2026 | 2025 | Change |
+E-mini S&P 500 futures and options
+4,420 | 4,349 | 2 | % | 4,546 | 4,435 | 3 | % |
+E-mini Nasdaq 100 futures and options
+3,191 | 2,415 | 32 | 2,994 | 2,503 | 20 |
+E-mini Russell 2000 futures and options
+350 | 330 | 6 | 375 | 315 | 19 |
+E-mini Dow futures and options
+262 | 252 | 4 | 285 | 256 | 11 |
+Bitcoin futures and options | 116 | 86 | 35 | 142 | 95 | 50 |
+Ether futures and options | 89 | 102 | (12) | 106 | 98 | 8 |
+Equity index contract volumes increased in the second quarter and first six months of 2026 when compared with the same periods in 2025. We believe these increases were due to the geopolitical conflict in the Middle East in early 2026, which caused significant uncertainty throughout the equity markets. In addition, market shifts in the Nasdaq-100 and Russell 2000 resulted in additional volume within both complexes.
+Our cryptocurrency contract volumes increased in the second quarter and first six months of 2026 when compared with the same periods in 2025. We believe the increased volatility resulted in a broader cryptocurrency market repricing.
+25
+Table of Contents
+Foreign Exchange Products
+The following table summarizes average daily contract volume for our key foreign exchange products.
+Quarter Ended
+June 30, | Six Months Ended
+June 30, |
+(amounts in thousands) | 2026 | 2025 | Change | 2026 | 2025 | Change |
+Euro | 245 | 281 | (13) | % | 268 | 291 | (8) | % |
+Japanese Yen | 185 | 213 | (13) | 197 | 210 | (6) |
+Australian dollar | 122 | 119 | 3 | 143 | 116 | 23 |
+British Pound | 107 | 111 | (4) | 120 | 119 | 1 |
+Canadian dollar | 87 | 92 | (5) | 91 | 112 | (18) |
+In the second quarter and first six months of 2026, overall foreign exchange volumes decreased when compared with the same periods in 2025. Overall market volatility subsided in the second quarter of 2026 following periods of very high volatility in 2025 due to uncertainty surrounding the United State's position on tariffs. However, the geopolitical conflict in the Middle East in early 2026 led to higher Australian dollar contract volumes due to uncertainty in the commodities and energy markets. We believe these factors contributed to lower overall foreign exchange contract volume in the second quarter and first six months of 2026 when compared with the same periods in 2025.
+Energy Products
+The following table summarizes average daily contract volume for our key energy products.
+Quarter Ended
+June 30, | Six Months Ended
+June 30, |
+(amounts in thousands) | 2026 | 2025 | Change | 2026 | 2025 | Change |
+WTI crude oil | 1,465 | 1,517 | (3) | % | 1,763 | 1,372 | 29 | % |
+Natural gas | 658 | 871 | (24) | 868 | 970 | (11) |
+Refined products | 341 | 437 | (22) | 428 | 431 | (1) |
+Brent crude oil | 186 | 232 | (20) | 243 | 195 | 25 |
+Energy contract volumes decreased in the second quarter of 2026 when compared with the same period in 2025, which we believe was due to lower overall volatility. Despite the ongoing geopolitical conflict in the Middle East, tensions eased within the region leading to broader price stabilization during the second quarter.
+The geopolitical conflict in the Middle East in early 2026 disrupted crucial supply chain routes and created higher uncertainty within the crude oil markets. We believe this contributed to higher crude oil volume in the first six months of 2026 when compared with the same period in 2025.
+Agricultural Commodity Products
+The following table summarizes average daily contract volume for our key agricultural commodity products.
+Quarter Ended
+June 30, | Six Months Ended
+June 30, |
+(amounts in thousands) | 2026 | 2025 | Change | 2026 | 2025 | Change |
+Corn | 673 | 591 | 14 | % | 631 | 630 | -- | % |
+Soybean | 351 | 391 | (10) | 384 | 387 | (1) |
+Wheat | 326 | 267 | 22 | 312 | 266 | 17 |
+Overall commodity contract volumes increased in the second quarter and first six months of 2026 when compared with the same periods in 2025. The heightened geopolitical conflict in the Middle East in early 2026 caused disruptions within the grain market supply routes. The conflict also caused a greater demand for crop-based fuels as a result of crude oil pricing uncertainties. We believe these factors contributed to higher overall commodity volume in the second quarter and first six months of 2026 compared with the same periods in 2025.
+26
+Table of Contents
+Metal Products
+The following table summarizes average daily volume for our key metal products.
+Quarter Ended
+June 30, | Six Months Ended
+June 30, |
+(amounts in thousands) | 2026 | 2025 | Change | 2026 | 2025 | Change |
+Gold | 639 | 667 | (4) | % | 865 | 569 | 52 | % |
+Silver | 167 | 117 | 43 | 285 | 109 | 160 |
+Copper | 100 | 99 | 1 | 115 | 105 | 9 |
+Overall metals contract volumes increased during the second quarter and first six months of 2026, when compared to the same periods in 2025, driven primarily by heightened market volatility. Precious metals volume growth was largely driven by geopolitical tensions in the Middle East early in 2026, which drove market participants to gold and silver. While the demand subsequently eased within the gold market, sustained volume growth was further supported by increased adoption of precious metals micro contracts among our retail client base.
+Average Rate per Contract
+The average rate per contract decreased in the second quarter and first six months of 2026 when compared with the same periods in 2025. The decrease was largely due to an increase in micro contract volume, specifically within equities, energy and metals, as well as higher member trading as a percentage of total volume. In the first six months of 2026, the decrease was partially offset by a change in product mix. Energy and metal contract volume increased by 1 percentage point as a percent of total volume, while other products collectively decreased by 1 percentage point. In general, energy and metals products have a higher rate per contract compared with the remaining contracts. In addition, the overall decrease in the second quarter of 2026 was partially offset by an increase in certain clearing and transaction fees which went into effect on April 1, 2026.
+Cash Markets Business
+Total clearing and transaction fees revenues in the second quarter and first six months of 2026 include $73.9 million and $150.5 million, respectively, of transaction fees attributable to the cash markets business, compared with $74.6 million and $145.6 million, respectively, in the second quarter and first six months of 2025. This revenue includes BrokerTec Americas LLC's fixed income volume and EBS's foreign exchange volume.
+Quarter Ended
+June 30, | Six Months Ended
+June 30, |
+(amounts in millions) | 2026 | 2025 | Change | 2026 | 2025 | Change |
+BrokerTec fixed income transaction fees | $ | 40.1 | $ | 37.1 | 8 | % | $ | 80.3 | $ | 72.9 | 10 | % |
+EBS foreign exchange transaction fees | 33.8 | 37.5 | (10) | 70.2 | 72.7 | (3) |
+The related average daily notional value for the first quarter of 2026 and 2025 were as follows:

@@ -1,0 +1,415 @@
+# ALLY 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/40729/000004072926000017/ally-20260630.htm
+# full_doc_chars=594007
+
+
+----- [line 134] -----
+124
+Signatures
+125
+2
+Table of Contents
+Index of Defined Terms
+Ally Financial Inc. &#8226; Form 10-Q
+Glossary of Abbreviations and Acronyms
+The following is a list of abbreviations and acronyms that are used in this Quarterly Report on Form 10-Q.
+Term | Definition |
+AI | Artificial intelligence |
+ALCO | Asset-Liability Committee |
+ALM | Asset Liability Management |
+ASC | Accounting Standards Codification |
+ASU | Accounting Standards Update |
+Basel Committee | Basel Committee on Banking Supervision |
+BHC | Bank holding company |
+BHC Act | Bank Holding Company Act of 1956, as amended |
+Board | Ally Financial Inc. Board of Directors |
+CD | Certificate of deposit |
+CECL | Accounting Standards Update 2016-13 (and related Accounting Standards Updates), or current expected credit loss |
+CEO | Chief Executive Officer |
+CODM | Chief Operating Decision Maker |
+COH | Corporate overhead |
+CRA | Community Reinvestment Act of 1977, as amended |
+CSG | Commercial Services Group |
+CVA | Credit valuation adjustment |
+DBRS | Morningstar DBRS |
+DIF | Deposit Insurance Fund |
+Dodd-Frank Act | Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010, as amended |
+DTA | Deferred tax asset |
+DVA | Debit valuation adjustment |
+EGRRCP Act | Economic Growth, Regulatory Relief, and Consumer Protection Act, as amended |
+ETF | Exchange-traded fund |
+EVE | Economic value of equity |
+Exchange Act | Securities Exchange Act of 1934, as amended |
+F&I | Finance and insurance |
+FASB | Financial Accounting Standards Board |
+FDI Act | Federal Deposit Insurance Act, as amended |
+FDIC | Federal Deposit Insurance Corporation |
+FDICIA | Federal Deposit Insurance Corporation Improvement Act of 1991, as amended |
+FHC | Financial holding company |
+FHLB | Federal Home Loan Bank |
+FRB | Federal Reserve Bank, or Board of Governors of the Federal Reserve System, as the context requires |
+FTP | Funds-transfer pricing |
+GAP | Guaranteed asset protection |
+GDP | Gross domestic product of the United States of America |
+GLB Act | Gramm-Leach-Bliley Act of 1999, as amended |
+GM | General Motors Company |
+HTC | Historic tax credit |
+IB Finance | IB Finance Holding Company, LLC |
+IDI | Insured Depository Institution |
+LCR | Liquidity coverage ratio |
+LGD | Loss given default |
+3
+Table of Contents
+Index of Defined Terms
+Ally Financial Inc. &#8226; Form 10-Q
+Term | Definition |
+LIHTC | Low-income housing tax credit |
+LMI | Low-to-moderate income |
+LTV | Loan-to-value |
+MD&A | Management's Discussion and Analysis of Financial Condition and Results of Operations |
+NMTC | New market tax credit |
+NYSE | New York Stock Exchange |
+OCI | Other comprehensive income |
+OEM | Automotive original equipment manufacturer |
+OTC | Over-the-counter |
+P&C | Property and casualty |
+PCA | Prompt corrective action |
+PCD | Purchased credit deteriorated |
+RC | Risk Committee of the Ally Board of Directors |
+ROU | Right-of-use |
+RV | Recreational vehicle |
+RWA | Risk-weighted asset |
+S&P | Standard & Poor's Global |
+SEC | U.S. Securities and Exchange Commission |
+Signature | Signature Bank |
+SPE | Special-purpose entity |
+Stellantis | Stellantis N.V. |
+SVB | Silicon Valley Bank |
+Tailoring Rules | The rules implementing Title IV of the EGRRCP Act |
+UPB | Unpaid principal balance |
+U.S. Basel III | The rules implementing the 2010 Basel III capital framework in the United States as well as related provisions of the Dodd-Frank Act, as amended from time to time |
+U.S. GAAP | Accounting Principles Generally Accepted in the United States of America |
+VIE | Variable interest entity |
+VMC | Vehicle maintenance contract |
+VSC | Vehicle service contract |
+WAC | Weighted-average coupon |
+wSTWF | Weighted short-term wholesale funding |
+4
+Table of Contents
+PART I -- FINANCIAL INFORMATION |
+Item 1. Financial Statements
+
+----- [line 1900] -----
+($ in millions, except per share data; shares in thousands) | Approximate dollar value | Number of shares | Beginning of period | End of period |
+2025 |
+First quarter | $ | 34 | 877 | 305,388 | 307,152 | $ | 0.30 |
+Second quarter | 1 | 27 | 307,152 | 307,787 | 0.30 |
+Third quarter | 1 | 25 | 307,787 | 307,828 | 0.30 |
+Fourth quarter | 23 | 543 | 307,828 | 308,493 | 0.30 |
+2026 |
+First quarter | $ | 147 | 3,624 | 308,493 | 307,408 | $ | 0.30 |
+Second quarter | 148 | 3,371 | 307,408 | 304,543 | 0.30 |
+(a)Includes shares of common stock withheld to cover income taxes owed by participants in our share-based incentive plans.
+(b)On July 17, 2026, our Board declared a quarterly cash dividend of $0.30 per share on all common stock payable on August 14, 2026, to shareholders of record at the close of business on July 31, 2026.
+18. Derivative Instruments and Hedging Activities
+We enter into derivative instruments, which may include interest rate swaps, foreign-currency forwards, equity options, and interest rate options, in connection with our risk-management activities. Our primary objective for using derivative financial instruments is to manage interest rate risk associated with our fixed-rate and variable-rate assets and liabilities, foreign exchange risks related to our net investments in foreign subsidiaries, as well as foreign-currency denominated assets and liabilities, and other market risks related to our investment portfolio.
+Interest Rate Risk
+We monitor our mix of fixed-rate and variable-rate assets and liabilities and may enter into interest rate swaps, forwards, and options to achieve a more desired mix of fixed-rate and variable-rate assets and liabilities. We execute these trades to modify our exposure to interest rate risk by converting certain fixed-rate instruments to a variable-rate and certain variable-rate instruments to a fixed-rate. We use a mix of both derivatives that qualify for hedge accounting treatment and economic hedges that do not qualify for hedge accounting treatment.
+Derivatives qualifying for hedge accounting treatment can include receive-fixed swaps designated as fair value hedges of specific fixed-rate unsecured debt obligations, receive-fixed swaps designated as fair value hedges of specific fixed-rate FHLB advances, pay-fixed swaps designated as fair value hedges of securities within our available-for-sale portfolio, and pay-fixed swaps designated as fair value hedges of fixed-rate held-for-investment consumer automotive loan assets. Other derivatives qualifying for hedge accounting consist of interest rate floor contracts designated as cash flow hedges of the expected future cash flows in the form of interest receipts on a portion of our dealer floorplan commercial loans.
+Our economic hedges include interest rate swaps that we offer as an accommodation to our customers within our Corporate Finance business. We offset the majority of the market risk of these customer swaps by entering into offsetting derivatives transactions with other counterparties.
+We also entered into interest rate lock commitments and forward commitments that were executed as part of our mortgage business that met the accounting definition of a derivative.
+We may execute other economic hedges, which could consist of interest rate swaps, forwards, and options to mitigate interest rate risk.
+Foreign Exchange Risk
+We enter into derivative financial instrument contracts to mitigate the risk associated with variability in cash flows related to our various foreign-currency exposures.
+52
+Table of Contents
+Notes to Condensed Consolidated Financial Statements (unaudited)
+Ally Financial Inc. &#8226; Form 10-Q
+We enter into foreign-currency forwards with external counterparties as net investment hedges of foreign exchange exposure on our investment in foreign subsidiaries. Our equity is impacted by the cumulative translation adjustments resulting from the translation of foreign subsidiary results; this impact is reflected in our accumulated other comprehensive income and loss. We also periodically enter into foreign-currency forwards to economically hedge any foreign-denominated debt, centralized lending, and foreign-denominated third-party loans. These foreign-currency forwards used as economic hedges are recorded at fair value, with changes recorded as income or expense offsetting the gains and losses on the associated foreign-currency transactions.
+Investment Risk
+We enter into equity options to mitigate the risk associated with our exposure to the equity markets.
+Credit Risk
+We entered into various retail automotive-loan purchase agreements with certain counterparties. As part of those agreements, we may have been required to pay the counterparty at agreed upon measurement dates and determinable amounts if actual credit performance of the acquired loans on the measurement date was better than what was estimated at the time of acquisition. Based upon these terms, these contracts met the accounting definition of a derivative.
+We enter into arrangements with certain counterparties through which we issue credit-linked notes covering a specified pool of loans. These notes contain an embedded derivative (referred to as credit-linked note derivatives), which provides us credit protection against the risk of loss when a specified credit event occurs on the reference pool.
+Counterparty Credit Risk
+Derivative financial instruments contain an element of credit risk if counterparties are unable to meet the terms of the agreements. Credit risk associated with derivative financial instruments is measured as the net replacement cost should the counterparties that owe us under the contract completely fail to perform under the terms of those contracts, with adjustments to reflect the exchange of collateral for margined transactions.
+We manage our risk to financial counterparties through internal credit analysis, limits, and monitoring. Additionally, derivatives and repurchase agreements are entered into with approved counterparties using industry standard agreements.
+We execute certain OTC derivatives, such as interest rate swaps or options, using bilateral agreements with financial counterparties. Bilateral agreements generally require both parties to post collateral in the event the fair values of the derivative financial instruments meet posting thresholds established under the agreements. If either party defaults on the obligation, the secured party may seize the collateral. Payments related to the exchange of collateral for OTC derivatives are recognized as collateral.
+We also execute certain derivatives, such as interest rate swaps, with clearinghouses, which require us to post and receive collateral. For these clearinghouse derivatives, these payments are recognized as settlements rather than collateral.
+Certain derivative instruments contain provisions that require us to either post additional collateral or immediately settle any outstanding liability balances upon the occurrence of a specified credit-risk-related event. No such specified credit-risk-related events occurred during the six months ended June 30, 2026, or 2025.
+We placed noncash collateral with counterparties totaling $248 million supporting our derivative positions at June 30, 2026, compared to $4 million and $328 million, of cash and noncash collateral, respectively, at December 31, 2025. These amounts include noncash collateral placed at clearinghouses and exclude cash and noncash collateral pledged under repurchase agreements. The receivables for cash collateral placed are included on our Condensed Consolidated Balance Sheet in other assets. We granted our counterparties the right to sell or pledge the noncash collateral.
+We received cash collateral from counterparties totaling $9 million at June 30, 2026. These amounts exclude cash and noncash collateral pledged under repurchase agreements. The payables for cash collateral received are included on our Condensed Consolidated Balance Sheet in accrued expenses and other liabilities.
+53
+Table of Contents
+Notes to Condensed Consolidated Financial Statements (unaudited)
+Ally Financial Inc. &#8226; Form 10-Q
+Balance Sheet Presentation
+The following table summarizes the amounts of derivative instruments reported on our Condensed Consolidated Balance Sheet. The amounts are presented on a gross basis, are segregated by derivatives that are designated and qualifying as hedging instruments or those that are not, and are further segregated by type of contract within those two categories.
+Derivative contracts in a receivable and payable position exclude open trade equity on derivatives cleared through central clearing counterparties. Any associated margin exchanged with our central clearing counterparties are treated as settlements of the derivative exposure, rather than collateral. Such payments are recognized as settlements of the derivatives contracts in a receivable and payable position on our Condensed Consolidated Balance Sheet.
+Notional amounts are reference amounts from which contractual obligations are derived and are not recorded on the balance sheet. In our view, derivative notional is not an accurate measure of our derivative exposure when viewed in isolation from other factors, such as market rate fluctuations and counterparty credit risk.
+June 30, 2026 | December 31, 2025 |
+Derivative contracts in a
+Notional amount
+Derivative contracts in a
+Notional amount
+($ in millions)
+receivable position
+payable position
+receivable position
+payable position
+Derivatives designated as accounting hedges
+Interest rate contracts
+Swaps
+$ | -- | $ | -- | $ | 20,992 | $ | -- | $ | -- | $ | 23,257 |
+Purchased options
+-- | -- | -- | -- | -- | 3,450 |
+Foreign exchange contracts
+Forwards
+8 | -- | 183 | -- | 4 | 199 |
+Total derivatives designated as accounting hedges
+8 | -- | 21,175 | -- | 4 | 26,906 |
+Derivatives not designated as accounting hedges
+Interest rate contracts
+Swaps | 1 | 1 | 394 | -- | -- | -- |
+Total interest rate risk
+1 | 1 | 394 | -- | -- | -- |
+Foreign exchange contracts |
+Forwards | -- | -- | 29 | -- | -- | 71 |
+Total foreign exchange risk | -- | -- | 29 | -- | -- | 71 |
+Credit contracts |
+Credit-linked note derivatives | -- | 2 | 1,583 | -- | -- | 1,381 |
+Total credit risk | -- | 2 | 1,583 | -- | -- | 1,381 |
+Total derivatives not designated as accounting hedges
+1 | 3 | 2,006 | -- | -- | 1,452 |
+Total derivatives
+$ | 9 | $ | 3 | $ | 23,181 | $ | -- | $ | 4 | $ | 28,358 |
+54
+Table of Contents
+Notes to Condensed Consolidated Financial Statements (unaudited)
+Ally Financial Inc. &#8226; Form 10-Q
+The following table presents amounts recorded on our Condensed Consolidated Balance Sheet related to cumulative basis adjustments for fair value hedges.
+Carrying amount of the hedged items | Cumulative amount of fair value hedging adjustment included in the carrying amount of the hedged items |
+Total | Discontinued (a) |
+($ in millions)
+June 30, 2026 | December 31, 2025 | June 30, 2026 | December 31, 2025 | June 30, 2026 | December 31, 2025 |
+Assets |
+Available-for-sale securities (b) | $ | 14,660 | $ | 15,240 | $ | (155) | $ | 7 | $ | (48) | $ | (54) |
+Finance receivables and loans, net (c) | 20,461 | 27,808 | (33) | 7 | 1 | 1 |
+Liabilities |
+Long-term debt | $ | 3,413 | $ | 3,378 | $ | 74 | $ | 79 | $ | 74 | $ | 79 |
+(a)Represents the fair value hedging adjustment on qualifying hedges for which the hedging relationship was discontinued. This represents a subset of the amounts reported in the total hedging adjustment.
+(b)These amounts include the amortized cost basis and unallocated basis adjustments of closed portfolios of available-for-sale securities used to designate hedging relationships in which the hedged item is the stated amount of assets in the closed portfolios anticipated to be outstanding for the designated hedge period. At June 30, 2026, and December 31, 2025, the amortized cost basis and unallocated basis adjustments of the closed portfolios used in these hedging relationships was $13.2 billion and $13.7 billion, respectively, of which $12.9 billion and $13.4 billion, respectively, represents the amortized cost basis and unallocated basis adjustments of closed portfolios designated in an active hedge relationship. At June 30, 2026, and December 31, 2025, the total cumulative basis adjustments associated with these hedging relationships was a $146 million liability and a $8 million liability, respectively, of which the portion related to discontinued hedging relationships was a $47 million liability and a $54 million liability, respectively. At June 30, 2026, and December 31, 2025, the notional amounts of the designated hedged items were $10.3 billion and $11.0 billion, with cumulative basis adjustments of a $99 million liability and a $46 million asset, respectively, which would be allocated across the entire remaining closed pool upon dedesignation of the hedge relationship. Refer to Note 6 for a reconciliation of the amortized cost basis and fair value of available-for-sale securities.
+(c)These amounts include the carrying value of closed portfolios of loan receivables used to designate hedging relationships in which the hedged item is the stated amount of assets in the closed portfolios anticipated to be outstanding for the designated hedge period. At June 30, 2026, and December 31, 2025, the carrying value of the closed portfolios used in these hedging relationships was $20.5 billion and $27.8 billion, respectively, of which $16.5 billion and $21.8 billion, respectively, represents the carrying value of closed portfolios designated in an active hedge relationship. At June 30, 2026, and December 31, 2025, the total cumulative basis adjustments associated with these hedging relationships was a $33 million liability and a $7 million asset, respectively, of which the portion related to discontinued hedging relationships was a $1 million asset at both June 30, 2026, and December 31, 2025. At June 30, 2026, and December 31, 2025, the notional amounts of the designated hedged items were $9.3 billion and $10.8 billion, respectively, with cumulative basis adjustments of a $34 million liability and a $6 million asset, respectively, which would be allocated across the entire remaining closed pool upon dedesignation of the hedge relationship.
+Statement of Income Presentation
+The following table summarizes the location and amounts of gains and losses on derivative instruments not designated as accounting hedges reported in our Condensed Consolidated Statement of Comprehensive Income.
+Three months ended June 30, | Six months ended June 30, |
+($ in millions) | 2026 | 2025 | 2026 | 2025 |
+Gain (loss) recognized in earnings |
+Interest rate contracts
+Gain on mortgage and automotive loans, net | $ | -- | $ | -- | $ | -- | $ | 1 |
+Total interest rate contracts | -- | -- | -- | 1 |
+Foreign exchange contracts
+Other operating expenses | -- | (2) | 1 | (2) |
+Total foreign exchange contracts
+-- | (2) | 1 | (2) |
+Credit contracts |
+Other income, net of losses | (1) | -- | (2) | -- |
+Total credit contracts | (1) | -- | (2) | -- |
+Equity contracts |
+Other income, net of losses
+(4) | -- | (4) | -- |
+Total equity contracts | (4) | -- | (4) | -- |
+Total loss recognized in earnings | $ | (5) | $ | (2) | $ | (5) | $ | (1) |
+55
+Table of Contents
+Notes to Condensed Consolidated Financial Statements (unaudited)
+Ally Financial Inc. &#8226; Form 10-Q
+The following tables summarize the location and amounts of gains and losses on derivative instruments designated as qualifying fair value and cash flow hedges reported in our Condensed Consolidated Statement of Comprehensive Income.
+Interest and fees on finance receivables and loans | Interest and dividends on investment securities and other earning assets |
+Three months ended June 30, ($ in millions)
+2026 | 2025 | 2026 | 2025 |
+(Loss) gain on fair value hedging relationships |
+Interest rate contracts |
+Hedged available-for-sale securities | $ | -- | $ | -- | $ | (92) | $ | 84 |
+
+----- [line 2778] -----
+Other commercial automotive (e) | 7,886 | 6.02 | 6,293 | 5.64 | 7,674 | 5.98 | 6,316 | 5.65 |
+Investment in operating leases, net (f) | 8,689 | 5.61 | 7,919 | 6.88 | 8,747 | 5.67 | 7,937 | 6.29 |
+(a)Average balances are calculated using an average daily balance methodology. Refer to Note 1 to the Consolidated Financial Statements in our 2025 Annual Report on Form 10-K for further information regarding our basis of presentation and significant accounting policies, which are in accordance with U.S. GAAP.
+(b)Nonperforming finance receivables and loans are included in the average balances. For information on our accounting policies regarding nonperforming status, refer to Note 1 to the Consolidated Financial Statements in our 2025 Annual Report on Form 10-K.
+(c)Excludes the effects of derivative financial instruments designated as hedges, which is included within Corporate and Other. Including the impact of hedging activities, the yield was 9.25% and 9.27% for the three months and six months ended June 30, 2026, respectively, and 9.26% and 9.23% for the three months and six months ended June 30, 2025.
+(d)Excludes the effects of derivative financial instruments designated as hedges, which is included within Corporate and Other. Including the impact of hedging activities, the yield was 5.55% and 5.62% for the three months and six months ended June 30, 2026, respectively, and 6.41% and 6.45% for the three months and six months ended June 30, 2025.
+(e)Consists primarily of automotive dealer term loans, including those to finance dealership land and buildings, and dealer and other fleet financing.
+(f)Yield includes net losses on the sale of off-lease vehicles of $2 million and $12 million for the three months and six months ended June 30, 2026, respectively, and net losses of $19 million for the six months ended June 30, 2025. Excluding these losses and gains on sale, the yield was 5.69% and 5.94% for the three months and six months ended June 30, 2026, respectively, compared to 6.86% and 6.76% for the three months and six months ended June 30, 2025.
+81
+Table of Contents
+Management's Discussion and Analysis
+Ally Financial Inc. &#8226; Form 10-Q
+During the three months and six months ended June 30, 2026, our portfolio yield for consumer automotive loans excluding the impact of hedging activities, increased 5 and 10 basis points, respectively, as compared to the same periods in 2025. The increases for the three months and six months ended June 30, 2026, were primarily driven by a shift in portfolio mix as higher yielding originations replace the maturity of lower yielding assets resulting from pricing actions due to our deliberate focus on maximizing risk-adjusted returns across our credit tiers. We utilize hedging strategies in order to mitigate interest rate risks, the effects of derivative financial instruments designated as hedges are included within Corporate and Other. Refer to Note 18 to the Condensed Consolidated Financial Statements for further discussion.
+During the three months and six months ended June 30, 2026, our portfolio yield for commercial wholesale floorplan loans, excluding the impact of hedging activities decreased 100 and 92 basis points, respectively, as compared to the same periods in 2025. The decreases were primarily due to lower benchmark interest rates, as our commercial automotive loans are generally variable-rate.
+Our portfolio yield for investment in operating leases, net, including gains and losses on the sale of off-lease vehicles, decreased 127 and 62 basis points to 5.61% and 5.67% for the three months and six months ended June 30, 2026, respectively, as compared to 6.88% and 6.29% for the three months and six months ended June 30, 2025. The decreases were primarily due to higher depreciation expense. In the near term, our ability to optimize remarketing gains may be limited due to used vehicle market pressures on certain plug-in hybrid vehicles following the elimination of federal electric-vehicle tax credits for both new and used vehicles, vehicle recalls, and increased OEM marketing incentives on new vehicles. In future periods, the volatility of remarketing gains and losses may decline as a result of the shift in our operating lease portfolio towards contracts with residual value guarantees. Additionally, as we have diversified the mix of OEMs within our operating lease portfolio, we may also see less volatility associated with those contracts without residual value guarantees. Refer to the Operating Lease Residual Risk Management section of this MD&A for further discussion.
+82
+Table of Contents
+Management's Discussion and Analysis
+Ally Financial Inc. &#8226; Form 10-Q
+Automotive Financing Volume
+Consumer Automotive Financing
+The following table presents retail loan originations and purchases by credit tier and product type.
+Used retail | New retail |
+Credit Tier (a) | Volume
+($ in billions)
+% Share of volume | Average FICO&#174; | Volume
+($ in billions)
+% Share of volume | Average FICO&#174; |
+Three months ended June 30, 2026 |
+S | $ | 3.3 | 40 | 761 | $ | 2.6 | 62 | 775 |
+A | 3.4 | 41 | 686 | 1.4 | 33 | 685 |
+B | 1.1 | 13 | 635 | 0.2 | 5 | 642 |
+C | 0.3 | 4 | 594 | -- | -- | 620 |
+D | 0.1 | 1 | 556 | -- | -- | 571 |
+E | 0.1 | 1 | 538 | -- | -- | 556 |
+Total retail loan originations | $ | 8.3 | 100 | 702 | $ | 4.2 | 100 | 735 |
+Three months ended June 30, 2025 |
+S | $ | 2.4 | 36 | 762 | $ | 1.7 | 55 | 772 |
+A | 2.9 | 43 | 690 | 1.1 | 36 | 686 |
+B | 1.0 | 15 | 645 | 0.2 | 6 | 649 |
+C | 0.2 | 3 | 608 | 0.1 | 3 | 609 |
+D | 0.2 | 3 | 573 | -- | -- | 561 |
+Total retail loan originations | $ | 6.7 | 100 | 703 | $ | 3.1 | 100 | 726 |
+Six months ended June 30, 2026 |
+S | $ | 5.9 | 37 | 761 | $ | 4.4 | 59 | 774 |
+A | 6.5 | 41 | 686 | 2.5 | 34 | 686 |
+B | 2.4 | 15 | 636 | 0.5 | 7 | 644 |
+C | 0.7 | 5 | 593 | -- | -- | 616 |
+D | 0.2 | 1 | 552 | -- | -- | 577 |
+E | 0.1 | 1 | 534 | -- | -- | 559 |
+Total retail loan originations | $ | 15.8 | 100 | 699 | $ | 7.4 | 100 | 731 |
+Six months ended June 30, 2025 |
+S | $ | 4.9 | 37 | 763 | $ | 3.3 | 55 | 772 |
+A | 5.6 | 43 | 690 | 2.2 | 37 | 686 |
+B | 1.9 | 14 | 645 | 0.4 | 7 | 649 |
+C | 0.5 | 4 | 608 | 0.1 | 1 | 609 |
+D | 0.2 | 2 | 573 | -- | -- | 565 |
+Total retail loan originations | $ | 13.1 | 100 | 706 | $ | 6.0 | 100 | 727 |
+(a)Represents Ally's internal credit score, incorporating numerous borrower and structure attributes including: severity and aging of delinquency; number of credit inquiries; LTV ratio; term; payment-to-income ratio; and debt-to-income ratio. We periodically update our underwriting scorecard, which can have an impact on our credit tier scoring.
+83
+Table of Contents
+Management's Discussion and Analysis
+Ally Financial Inc. &#8226; Form 10-Q
+The following table presents the percentage of total retail loan originations and purchases, in dollars, by the loan term in months.
+Three months ended June 30, | Six months ended June 30, |
+2026 | 2025 | 2026 | 2025 |
+0-71 | 17 | % | 16 | % | 17 | % | 16 | % |
+72-75 | 59 | 61 | 60 | 61 |
+76 + | 24 | 23 | 23 | 23 |
+Total retail loan originations | 100 | % | 100 | % | 100 | % | 100 | % |
+Retail loan originations with a term of 76 months or more represented 24% and 23% of total retail loan originations for the three months and six months ended June 30, 2026, respectively, compared to 23% for both the three months and six months ended June 30, 2025. Substantially all the loans originated with a term of 76 months or more during both the three months and six months ended June 30, 2026, and 2025, were considered to be prime and in credit tiers S, A, or B. Our underwriting processes are designed to consider various deal structure variables--such as payment-to-income, LTV, debt-to-income, and FICO&#174; score--that compensate for longer loan terms and mitigate layered risk.
+During the three months ended June 30, 2026, approximately 82% of our used retail loan originations were for vehicles with a model year of 2020 or newer. According to the Bureau of Transportation Statistics, the average age of light vehicles in operation in the United States during 2025 was approximately 13 years. Substantially all used retail loan originations with a term of 76 months or more during the three months ended June 30, 2026, were for vehicles with a model year of 2020 or newer.
+
+----- [line 3603] -----
+Consumer mortgage | 10 | 0.1 | 0.3 | 17 | 0.1 | 0.5 |
+Total consumer loans | 3,355 | 3.2 | 93.8 | 3,183 | 3.2 | 93.2 |
+Commercial |
+Commercial and industrial |
+Automotive | 24 | 0.1 | 0.7 | 29 | 0.2 | 0.8 |
+Other | 139 | 1.3 | 3.9 | 160 | 1.8 | 4.7 |
+Commercial real estate
+58 | 0.7 | 1.6 | 44 | 0.7 | 1.3 |
+Total commercial loans | 221 | 0.6 | 6.2 | 233 | 0.7 | 6.8 |
+Total allowance for loan losses | $ | 3,576 | 2.5 | 100.0 | $ | 3,416 | 2.6 | 100.0 |
+Market Risk
+Our financing, investing, and insurance activities give rise to market risk, or the potential change in the value of our assets (including securities, assets held-for-sale, loans, and operating leases) and liabilities (including deposits and debt) due to movements in market variables, such as interest rates, spreads, foreign-exchange rates, equity prices, off-lease vehicle prices, and other components such as liquidity.
+The impact of changes in benchmark interest rates on our balance sheet represents an exposure to market risk and can affect our expected earnings. We primarily use interest rate derivatives to manage our interest rate risk exposure.
+During the six months ended June 30, 2026, the Federal Reserve maintained the federal funds target range at 3.50-3.75%. Continued high benchmark interest rates led to pricing impacts across the balance sheet. Refer to the section below titled Net Financing Revenue Sensitivity Analysis for additional information on how future rate changes may impact net financing revenue.
+The fair value of our spread-sensitive assets is also exposed to spread risk. Spread is the amount of additional return over the benchmark interest rates that an investor would demand for taking exposure to primarily credit and liquidity risk of an instrument. Generally, an increase in spreads would result in a decrease in fair value measurement.
+We are also exposed to marginal foreign-currency risk primarily from Canadian denominated assets and liabilities. We enter into foreign currency hedges to mitigate foreign exchange risk.
+We have exposure to changes in the value of equity securities with readily determinable fair values primarily related to our Insurance operations. For such equity securities, we use equity derivatives to manage our exposure to equity price fluctuations.
+As part of our CRA program, we make investments in small business investment company funds, community and workforce development funds, tax credit funds, and other CRA-eligible funds that do not qualify as proportional amortization investments. Many of these CRA funds feature private equity or venture capital structures and are accounted for using the equity method of accounting. We recognize our share of the investee's earnings based on the performance of the funds. We recognized losses of $1 million and gains of $5 million related to these investments during the three months and six months ended June 30, 2026, respectively, as compared to gains of $5 million and $19 million during the three months and six months ended June 30, 2025. The losses for the three months ended June 30, 2026, were primarily due to the performance of one investment within our portfolio of CRA-eligible funds. The gains for the six months ended June 30, 2026, were primarily due to the underlying performance of several investments in venture capital firms. No material impairment was recorded within our portfolio of CRA-eligible funds as of June 30, 2026.
+In addition, we are exposed to changes in the value of other nonmarketable equity investments without readily determinable fair market values, which may cause volatility in our earnings.
+108
+Table of Contents
+Management's Discussion and Analysis
+Ally Financial Inc. &#8226; Form 10-Q
+As of June 30, 2026, we had $2.7 billion of cumulative net unrealized losses, inclusive of tax effects, on our debt securities. During the three months and six months ended June 30, 2026, we recorded $44 million and $41 million of net unrealized gains, inclusive of tax effects, on our available-for-sale securities, respectively. Unrealized gains and losses are recorded in other comprehensive income within our Condensed Consolidated Statement of Comprehensive Income, and are generally not realized unless we sell the securities prior to their stated maturity date. As of June 30, 2026, and December 31, 2025, we did not have the intent to sell available-for-sale securities in an unrealized loss position and we do not believe it is more likely than not that we will be required to sell these securities before recovery of their amortized cost basis. For the six months ended June 30, 2026, management determined that there were no expected credit losses for available-for-sale or held-to-maturity securities in an unrealized loss position. Refer to Note 6 and Note 15 to the Condensed Consolidated Financial Statements for additional information.
+The composition of our balance sheet, including shorter-duration fixed-rate consumer automotive loans and variable-rate commercial loans, along with our primary funding source of retail deposits, partially mitigates market risk. Additionally, we maintain risk-management controls that measure and monitor market risk using a variety of analytical techniques including market value and sensitivity analysis. Refer to Note 18 to the Condensed Consolidated Financial Statements for additional information. For information regarding our insured and uninsured deposit liabilities, refer to the Liquidity Management, Funding, and Regulatory Capital section of this MD&A.
+Net Financing Revenue Sensitivity Analysis
+Interest rate risk represents one of our most significant exposures to market risk. We actively monitor the level of exposure to movements in interest rates and take actions to mitigate adverse impacts these movements may have on future earnings. We use a sensitivity analysis of net financing revenue as our primary metric to measure and manage the interest rate risk of our financial instruments. In addition to net financing revenue sensitivities, EVE is used as a long-term interest rate risk measurement tool and a component of our interest rate risk management framework. EVE measures the present value of aggregate lifetime cash flows based on balance sheet and off-balance sheet positions at a specific point-in-time. We determine EVE sensitivities using a multitude of rate scenarios where the present value of future cash flows is recalculated using shocked interest rates. Interest rate risk metrics are reported at each regularly scheduled meeting of the ALCO and of the RC. Reporting includes exposure relative to risk limits, impacts to a range of rate scenarios, and sensitivity tests of key assumptions.
+The execution of our current business strategy generally results in shorter-duration, fixed-rate consumer automotive loans comprising the majority of our assets and liquid, floating-rate retail deposits comprising the majority of our liabilities. This, in turn, results in a structurally liability sensitive balance sheet as our floating-rate retail deposits reprice faster than our fixed-rate consumer automotive loans when interest rates change. We prepare forward-looking baseline forecasts of pretax net financing revenue as well as anticipated future business growth, actions to alter our asset/liability positioning, and interest rates based on the implied forward curve. The analysis is highly dependent upon a variety of assumptions, one of the most significant being the repricing characteristics of retail deposits with both contractual and non-contractual maturities. We monitor industry and competitive repricing activity along with other business and market factors when developing deposit pricing assumptions.
+Modeled simulations are then used to assess changes in pretax net financing revenue in multiple interest rate scenarios relative to the baseline forecast. The changes in net financing revenue relative to the baseline are defined as the sensitivity. Our simulations incorporate contractual cash flows and assumed repricing characteristics for assets, liabilities, and off-balance sheet exposures and incorporate the assumed effects of changing interest rates on the prepayment and attrition rates of certain assets and liabilities. Our simulations do not assume any specific future actions are taken to mitigate the impacts of changing interest rates.
+These simulations measure the potential changes in our pretax net financing revenue over the following 12 months. We test a number of alternative rate scenarios, including immediate and gradual parallel shocks to the implied forward curve. We also evaluate nonparallel shocks to interest rates and stresses to certain term points on the yield curve in isolation to capture and monitor a variety of risks.
+Simulation results are driven by underlying models and assumptions that are based on trend behavior and other historical information. The underlying models and assumptions, including retail deposit pricing, are regularly monitored and evaluated, and may be updated accordingly as observed trends materialize. As a result, if future trends or behaviors deviate from those reflected in the models, actual sensitivities may vary, perhaps significantly, from those that are modeled. Actual sensitivities may differ for other reasons as well, including unplanned changes in balance sheet composition, timing of asset and liability repricing, the yield curve, customer behavior, macroeconomic conditions, the competitive environment, and management strategies. Accordingly, we do not treat the sensitivities as forecasts of net financing revenue but instead use them as a tool in managing interest rate risk. We also assess Ally's sensitivity to interest rate risk through the performance of sensitivity testing of key assumptions including, but not limited to, prepayments and retail automotive and deposit repricing on a routine basis.
+109
+Table of Contents
+Management's Discussion and Analysis
+Ally Financial Inc. &#8226; Form 10-Q
+The following table presents the pretax dollar impact to baseline forecasted net financing revenue over the next 12 months assuming various parallel shocks to the implied forward curve as of June 30, 2026, and December 31, 2025.
+June 30, 2026 | December 31, 2025 |
+Gradual (a) | Instantaneous | Gradual (a) | Instantaneous |
+Change in interest rates | ($ in millions) | ($ in millions) |
++200 basis points | $ | (30) | $ | (318) | $ | 18 | $ | (221) |
++100 basis points
+(10) | (149) | 9 | (106) |
+-100 basis points | 3 | 86 | (20) | 22 |
+-200 basis points | -- | 108 | (44) | (31) |
+(a)Gradual changes in interest rates are recognized over 12 months.
+Since December 31, 2025, the implied forward curve has flattened, driven by the front end, reflecting market expectations for increases in the Federal Funds rate. During the six months ended June 30, 2026, our asset balances increased primarily due to growth in floating-rate commercial loans and fixed-rate retail automotive loans, partially offset by the continued run-off of our consumer mortgage portfolio. Additionally, we saw a shift from consumer CDs to liquid deposits. The impact of these changes is reflected in our baseline net financing revenue forecast. As of June 30, 2026, our balance sheet is modestly asset sensitive in the near term due to our floating-rate assets and pay-fixed hedge position. However, our balance sheet remains liability sensitive over the medium term, driven by the assumed repricing of our deposits and market-based funding outpacing the assumed repricing of our floating-rate assets and pay-fixed swaps.
+Our interest rate risk position is influenced by the impact of hedging activity, which primarily consists of interest rate swaps designated as fair value hedges of certain fixed-rate assets and fixed-rate debt instruments. Additionally, we may use interest rate floor contracts designated as cash flow hedges on certain floating-rate assets. The size, maturity, and mix of our hedging activities are adjusted as our balance sheet, ALM objectives, and the interest rate environment evolve over time.
+Operating Lease Residual Risk Management
+We are exposed to residual risk on vehicles in the consumer operating lease portfolio. This operating lease residual risk represents the possibility that the actual proceeds realized upon the sale of returned vehicles will be lower than the projection of these values used in establishing the pricing at lease inception. Our operating lease portfolio, net of accumulated depreciation was $8.6 billion and $8.8 billion as of June 30, 2026, and December 31, 2025, respectively. The expected lease residual value of our operating lease portfolio at scheduled termination was $7.0 billion and $7.1 billion as of June 30, 2026, and December 31, 2025, respectively. Certain of our operating leases are covered by residual guarantees with counterparties, which partially mitigates the residual value risk to the extent the counterparties are able to meet the terms of the contractual agreements. As of June 30, 2026, and December 31, 2025, consumer operating leases with a carrying value, net of accumulated depreciation, of $3.3 billion and $3.4 billion, respectively, were covered by OEM residual value guarantees. Refer to Note 8 to the Condensed Consolidated Financial Statements for further information. For information on our valuation of automotive operating lease residuals including periodic revisions through adjustments to depreciation expense based on current and forecasted market conditions, refer to the section titled Critical Accounting Estimates--Valuation of Automotive Operating Lease Assets and Residuals within the MD&A of our 2025 Annual Report on Form 10-K.
+Operating Lease Vehicle Terminations and Remarketing
+The following table summarizes the volume of operating lease terminations and average loss or gain per vehicle, as well as our methods of vehicle sales at lease termination, stated as a percentage of total operating lease vehicle disposals.
+Three months ended June 30, | Six months ended June 30, |
+2026 | 2025 | 2026 | 2025 |
+Off-lease vehicles terminated (in units)
+19,510 | 26,302 | 34,672 | 48,245 |
+Average (loss) gain per vehicle ($ per unit)
+$ | (82) | $ | 14 | $ | (336) | $ | (385) |
+Method of vehicle sales |
+Sale to dealer, lessee, and other | 40 | % | 46 | % | 40 | % | 44 | % |
+Auction |
+SmartAuction | 52 | 41 | 53 | 43 |
+Physical | 8 | 13 | 7 | 13 |
+We recognized an average loss per vehicle of $82 and $336 for the three months and six months ended June 30, 2026, respectively, compared to an average gain per vehicle of $14 and an average loss per vehicle of $385 for the three months and six months ended June 30, 2025. The method of vehicle sales is largely dependent on used vehicle values at lease termination compared to contractual residual values at lease inception. In the near term, our ability to optimize remarketing gains may be limited due to used vehicle market pressures on certain plug-in hybrid vehicles following the elimination of federal electric-vehicle tax credits for both new and used vehicles, vehicle recalls, and
+110
+Table of Contents
+Management's Discussion and Analysis
+Ally Financial Inc. &#8226; Form 10-Q
+increased OEM marketing incentives on new vehicles. During the first quarter of 2026, we adjusted the rate of depreciation to recognize more depreciation on vehicles scheduled to terminate through September 30, 2027, primarily driven by used market pressures on certain plug-in hybrid vehicles. We will continue to evaluate our depreciation rate for leased vehicles based on expected residual values and adjust depreciation expense over the remaining life of the lease, if deemed necessary. In future periods, the volatility of remarketing gains and losses may decline as a result of the shift in our operating lease portfolio towards contracts with residual value guarantees. Additionally, as we have diversified the mix of OEMs within our operating lease portfolio, we may also see less volatility associated with those contracts without residual value guarantees.
+Operating Lease Portfolio Mix
+We monitor concentrations of our consumer operating lease portfolio by OEM, vehicle type, and OEM residual value guarantee status. The following table presents the concentration of our outstanding operating lease exposures by OEM, disaggregated by those with and without OEM residual value guarantees.
+June 30, 2026 | December 31, 2025 |
+Operating lease exposures with OEM residual value guarantees (a) | 38 | % | 39 | % |
+Operating lease exposures without OEM residual value guarantees |
+Stellantis | 25 | 34 |
+GM | 23 | 18 |
+Other OEMs | 14 | 9 |
+Total exposures without OEM residual value guarantees | 62 | 61 |
+Total operating lease exposures | 100 | % | 100 | % |
+(a)Represents an exposure with one automotive manufacturer at both June 30, 2026, and December 31, 2025.
+As of June 30, 2026, and December 31, 2025, $3.8 billion and $4.2 billion of our investment in operating leases, net of accumulated depreciation, were battery-electric or plug-in hybrid vehicles, respectively. Substantially all of our investment in operating leases of battery-electric vehicles are covered by OEM residual value guarantees of approximately 50% of the vehicles' contract residual value. Refer to Note 8 to the Condensed Consolidated Financial Statements for more information regarding our investment in operating leases.
+The following table presents the mix of operating lease assets by vehicle type, based on volume of units outstanding.
+June 30, 2026 | December 31, 2025 |
+Sport utility vehicle | 66 | % | 67 | % |
+Car | 23 | 22 |
+Truck | 11 | 11 |
+111
+Table of Contents
+Management's Discussion and Analysis
+Ally Financial Inc. &#8226; Form 10-Q
+Liquidity Management, Funding, and Regulatory Capital
+Overview
+The purpose of liquidity management is to enable us to meet loan and operating lease demand, debt maturities, deposit withdrawals, and other cash commitments under both normal operating conditions as well as periods of economic or financial stress. Our primary objective is to maintain cost-effective, stable and diverse sources of funding capable of sustaining the organization throughout all market cycles. Sources of funding include both retail and brokered deposits and secured and unsecured market-based funding across various maturity, interest rate, and investor profiles. Additional liquidity is available through a pool of unencumbered highly liquid securities, repurchase agreements, advances from the FHLB of Pittsburgh, the FRB Standing Repo Facility, and the FRB Discount Window.
+We define liquidity risk as the risk that an institution's financial condition or overall safety and soundness is adversely affected by the actual or perceived inability to liquidate assets or obtain adequate funding or to easily unwind or offset specific exposures without significantly lowering market prices because of inadequate market depth or market disruptions. Liquidity risk can arise from a variety of institution-specific or market-related events that could have a negative impact on cash flows available to the organization. Effective management of liquidity risk positions an organization to meet cash flow obligations caused by unanticipated events. Managing liquidity needs and contingent funding exposures has proven essential to the solvency of financial institutions.
+The ALCO, chaired by the Corporate Treasurer, is responsible for overseeing our funding and liquidity strategies. Corporate Treasury is responsible for managing our liquidity positions within limits approved by the RC. As part of managing liquidity risk, Corporate Treasury prepares monthly forecasts depicting anticipated funding needs and sources of funds, executes our funding strategies, and manages liquidity under normal as well as more severely stressed macroeconomic environments. Oversight and monitoring of liquidity risk are provided by Independent Risk Management.
+The monthly liquidity forecasts demonstrate our ability to generate and obtain adequate amounts of cash to meet loan and operating lease demand, debt maturities, deposit withdrawals, and other cash commitments under normal operating conditions throughout the forecast horizon (currently through December 2028). Refer to Note 12 to the Condensed Consolidated Financial Statements for a summary of the scheduled maturity of long-term debt as of June 30, 2026.
+Funding Strategy
+Liquidity and ongoing profitability are largely dependent on the timely and cost-effective access to retail deposits and funding in various segments of the capital markets. We focus on maintaining diversified funding sources across a broad base of depositors, lenders, and investors to meet liquidity needs throughout different economic cycles, including periods of financial distress. These funding sources include retail and brokered deposits, public and private asset-backed securitizations, unsecured debt, FHLB advances, and repurchase agreements. Our access to diversified funding sources enhances funding flexibility and results in a more cost-effective funding strategy over the long term. We evaluate funding markets on an ongoing basis to achieve an appropriate balance of unsecured and secured funding sources and maturity profiles.
+We manage our funding to achieve a well-balanced portfolio across a spectrum of risk, maturity, and cost-of-funds characteristics. Optimizing funding at Ally Bank continues to be a key part of our long-term liquidity strategy. We optimize our funding sources at Ally Bank by prioritizing retail deposits and maintaining access to diversified funding sources. Retail deposits are complemented by brokered deposits, repurchase agreements, securitizations, and access to FHLB funding.
+Assets are primarily originated by Ally Bank to utilize retail deposit funding. This allows us to use bank funding for substantially all our automotive finance and other assets and to provide a sustainable long-term funding channel for the business, while also improving the cost of funds for the enterprise.
+Liquidity Risk Management
+Multiple metrics are used to measure liquidity risk, manage the liquidity position, identify related trends, and monitor these trends and metrics against established limits. These metrics include comprehensive stress tests that measure the sufficiency of the liquidity portfolio over stressed horizons ranging from overnight to 12 months, a stability ratio that measures longer-term structural liquidity, and concentration ratios that enable prudent funding diversification. In addition, we have established internal management routines designed to review all aspects of liquidity and funding plans, evaluate the adequacy of liquidity buffers, review stress testing results, and assist management in the execution of its funding strategy and risk-management accountabilities.
+Our liquidity stress testing is designed to allow us to operate our businesses and to meet our contractual and contingent obligations, including unsecured debt maturities, for at least 12 months, assuming our normal access to funding is disrupted by severe market-wide and enterprise-specific events. We maintain available liquidity in the form of cash, unencumbered highly liquid securities, available FHLB capacity, and the FRB Discount Window capacity. This available liquidity is held at various legal entities and is subject to regulatory restrictions and tax implications that may limit our ability to transfer funds across entities.
+112
+Table of Contents
+Management's Discussion and Analysis
+Ally Financial Inc. &#8226; Form 10-Q

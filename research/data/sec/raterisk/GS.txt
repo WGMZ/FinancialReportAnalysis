@@ -1,0 +1,598 @@
+# GS 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/886982/000088698226000297/gs-20260630.htm
+# full_doc_chars=976520
+
+
+----- [line 1928] -----
+$ in millions | 2026 | 2025 |
+Net derivative liabilities under bilateral agreements | $ | 61,805 | $ | 33,473 |
+Collateral posted
+$ | 56,451 | $ | 36,201 |
+Additional collateral or termination payments: |
+One-notch downgrade | $ | 165 | $ | 224 |
+Two-notch downgrade | $ | 1,778 | $ | 1,797 |
+Hedge Accounting
+The firm applies hedge accounting for (i) interest rate swaps used to manage the interest rate exposure of certain fixed-rate unsecured long- and short-term borrowings, certain fixed-rate certificates of deposit and certain U.S. and non-U.S. government securities classified as available-for-sale, (ii) foreign currency forward contracts used to manage the foreign exchange risk of certain securities classified as available-for-sale, (iii) foreign currency forward contracts and foreign currency-denominated debt used to manage foreign exchange risk on the firm's net investment in certain non-U.S. operations and (iv) interest rate swaps used to manage the variability of the forecasted cash flows associated with certain floating-rate assets.
+To qualify for hedge accounting, the hedging instrument must be highly effective at reducing the risk from the exposure being hedged. Additionally, the firm must formally document the hedging relationship at inception and assess the hedging relationship at least on a quarterly basis to ensure the hedging instrument continues to be highly effective over the life of the hedging relationship.
+Fair Value Hedges
+The firm designates interest rate swaps as fair value hedges of certain fixed-rate unsecured long- and short-term debt and fixed-rate certificates of deposit and of certain U.S. and non-U.S. government securities classified as available-for-sale. These interest rate swaps hedge changes in fair value attributable to the designated benchmark interest rate (e.g., Secured Overnight Financing Rate (SOFR), Overnight Index Swap Rate or Sterling Overnight Index Average), effectively converting a substantial portion of these fixed-rate financial instruments into floating-rate financial instruments. In addition, the firm designates certain foreign currency forward contracts as fair value hedges of the foreign exchange risk of substantially all of non-U.S. government securities classified as available-for-sale. See Note 8 for information about the amortized cost and fair value of such securities.
+The firm applies a statistical method that utilizes regression analysis when assessing the effectiveness of the interest rate hedging relationships in achieving offsetting changes in the fair values of the hedging instrument and the interest rate risk being hedged. An interest rate swap is considered highly effective in offsetting changes in fair value attributable to changes in the hedged risk when the regression analysis results in a coefficient of determination of 80% or greater and a slope between 80% and 125%. The effectiveness of the foreign currency fair value hedges is assessed based on changes in spot rates. Such hedges are considered highly effective when the change in the fair value of the foreign currency forward is between 80% and 125% of the change in the fair value of the hedged item.
+For qualifying interest rate fair value hedges, gains or losses on derivatives are included in interest income/expense. The change in fair value of the hedged items attributable to the risk being hedged is reported as an adjustment to its carrying value (hedging adjustment) and is also included in interest income/expense. When a derivative is no longer designated as a hedge, any remaining difference between the carrying value and par value of the hedged item is amortized in interest income/expense over the remaining life of the hedged item using the effective interest method. See Note 23 for further information about interest income and interest expense. The gains/(losses) on the foreign currency fair value hedges (relating to both spot and forward points) and the foreign exchange gains/(losses) on the related available-for-sale securities are included in market making. See Note 6 for further information about gains and losses from market making.
+Goldman Sachs June 2026 Form 10-Q
+38
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+(Unaudited)
+The table below presents the gains/(losses) from interest rate and foreign exchange derivatives accounted for as hedges and the related hedged items.
+Three Months
+Ended June | Six Months
+Ended June |
+$ in millions | 2026 | 2025 | 2026 | 2025 |
+Interest Rate Hedges - Investments
+Interest rate swaps | $ | 898 | $ | (226) | $ | 1,222 | $ | (606) |
+Hedged investments | (905) | 235 | (1,239) | 631 |
+Gains/(losses) | $ | (7) | $ | 9 | $ | (17) | $ | 25 |
+Interest Rate Hedges - Borrowings and deposits
+Interest rate swaps
+$ | (666) | $ | 1,189 | $ | (1,468) | $ | 3,098 |
+Hedged borrowings and deposits | 577 | (1,281) | 1,343 | (3,245) |
+Gains/(losses) | $ | (89) | $ | (92) | $ | (125) | $ | (147) |
+Foreign Currency Hedges - Investments |
+Foreign currency forward contracts | $ | (4) | $ | (325) | $ | 187 | $ | (509) |
+Hedged investments | 23 | 329 | (162) | 504 |
+Gains/(losses) | $ | 19 | $ | 4 | $ | 25 | $ | (5) |
+The table below presents the carrying value of investments, deposits and unsecured borrowings that are designated in an interest rate hedging relationship and the related cumulative hedging adjustment (increase/(decrease)) from current and prior hedging relationships included in such carrying values.
+$ in millions | Carrying
+Value | Cumulative
+Hedging
+Adjustment |
+As of June 2026 |
+Assets |
+Investments | $ | 99,993 | $ | (1,143) |
+Liabilities |
+Deposits | $ | 304 | $ | (5) |
+Unsecured short-term borrowings | $ | 9,226 | $ | (70) |
+Unsecured long-term borrowings | $ | 175,429 | $ | (8,525) |
+As of December 2025 |
+Assets |
+Investments | $ | 42,449 | $ | 244 |
+Liabilities |
+Deposits | $ | 762 | $ | (17) |
+Unsecured short-term borrowings | $ | 4,694 | $ | (25) |
+Unsecured long-term borrowings | $ | 143,082 | $ | (7,340) |
+In the table above:
+&#8226;Cumulative hedging adjustment included $(4.43) billion as of June 2026 and $(4.61) billion as of December 2025 of hedging adjustments from prior hedging relationships that were de-designated and substantially all were related to unsecured long-term borrowings.
+&#8226;The amortized cost of investments was $100.31 billion as of June 2026 and $42.44 billion as of December 2025.
+In addition, cumulative hedging adjustments for items no longer designated in a hedging relationship were not material as of June 2026 and $(133) million as of December 2025.
+Net Investment Hedges
+The firm seeks to reduce the impact of fluctuations in foreign exchange rates on its net investments in certain non-U.S. operations through the use of foreign currency forward contracts and foreign currency-denominated debt. For foreign currency forward contracts designated as hedges, the effectiveness of the hedge is assessed based on the overall changes in the fair value of the forward contracts (i.e., based on changes in forward rates). For foreign currency-denominated debt designated as a hedge, the effectiveness of the hedge is assessed based on changes in spot rates. For qualifying net investment hedges, all gains or losses on the hedging instruments are included in currency translation in other comprehensive income/(loss).
+The table below presents the gains/(losses) from the hedges in a net investment hedging relationship.
+Three Months
+Ended June | Six Months
+Ended June |
+$ in millions | 2026 | 2025 | 2026 | 2025 |
+Foreign currency forward contracts
+$ | (15) | $ | (792) | $ | 56 | $ | (1,202) |
+Foreign currency-denominated debt | $ | 348 | $ | (1,852) | $ | 711 | $ | (2,763) |
+Gains or losses on individual net investments in non-U.S. operations are reclassified from accumulated other comprehensive income/(loss) to earnings when such net investments are sold or substantially liquidated. The gross and net gains/(losses) reclassified to earnings from accumulated other comprehensive income/(loss) were not material for each of the three and six months ended June 2026 and June 2025.
+The firm had designated $29.12 billion as of June 2026 and $22.89 billion as of December 2025 of foreign currency-denominated debt, included in unsecured long- and short-term borrowings, as hedges of net investments in non-U.S. subsidiaries.
+39
+Goldman Sachs June 2026 Form 10-Q
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+(Unaudited)
+Cash Flow Hedges
+The firm designates certain interest rate swaps as cash flow hedges. These interest rate swaps hedge the firm's exposure to the variability of the forecasted cash flows due to changes in the contractually specified interest rates associated with certain floating-rate assets.
+The firm applies a statistical method that utilizes regression analysis when assessing hedge effectiveness. A cash flow hedge is considered highly effective in offsetting the variability of the forecasted cash flows attributable to the hedged risk when the regression analysis results in a coefficient of determination of 80% or greater and a slope between 80% and 125%.
+For qualifying cash flow hedges, the gains or losses on derivatives are included in "Cash flow hedges" within the consolidated statements of comprehensive income. Such gains or losses are reclassified to interest income/expense within the consolidated statements of earnings in the same period that the forecasted hedged cash flows impact earnings.
+The gains/(losses) included within other comprehensive income/(loss) and the gains/(losses) reclassified to earnings from accumulated other comprehensive income/(loss) related to cash flow hedges were not material for each of the three and six months ended June 2026 and June 2025, and are not expected to be material for the next 12 months. The maximum length of time over which the forecasted cash flows are hedged is approximately one year.
+Note 8.
+Investments
+Investments includes debt securities classified as available-for-sale and held-to-maturity that are generally held in connection with the firm's asset-liability management activities. In addition, investments includes equity securities and debt instruments that are accounted for at fair value and equity securities that are accounted for under the equity method that are generally held by the firm in connection with its long-term investing activities.
+The table below presents information about investments.
+As of |
+June | December |
+$ in millions | 2026 | 2025 |
+Available-for-sale securities, at fair value
+$ | 155,636 | $ | 99,244 |
+Held-to-maturity securities | 74,658 | 69,193 |
+Equity securities, at fair value | 14,226 | 13,866 |
+Debt instruments, at fair value | 10,117 | 11,072 |
+Equity-method investments | 988 | 887 |
+Total other investments
+25,331 | 25,825 |
+Total investments | $ | 255,625 | $ | 194,262 |
+See Note 4 for an overview of the firm's fair value measurement policies, valuation techniques and significant inputs used to determine the fair value of investments, and Note 5 for information about investments within the fair value hierarchy.
+Available-for-Sale Securities, at Fair Value
+Available-for-sale securities are accounted for at fair value, and the related unrealized fair value gains and losses are included in accumulated other comprehensive income/(loss) unless designated in a fair value hedging relationship. See Note 7 for information about available-for-sale securities that are designated in a hedging relationship.
+The table below presents information about available-for-sale securities by type and tenor.
+$ in millions | Amortized
+Cost
+Fair
+Value
+As of June 2026 |
+Less than 1 year | $ | 2,482 | $ | 2,418 |
+1 year to 5 years | 71,398 | 71,080 |
+5 years to 10 years | 64,837 | 64,543 |
+Greater than 10 years | 2,714 | 2,668 |
+Total U.S. government obligations | 141,431 | 140,709 |
+1 year to 5 years | 76 | 75 |
+5 years to 10 years
+436 | 435 |
+Greater than 10 years
+3,202 | 3,177 |
+Total U.S. agency obligations | 3,714 | 3,687 |
+Less than 1 year | 3,926 | 3,917 |
+1 year to 5 years
+6,712 | 6,501 |
+5 years to 10 years | 853 | 822 |
+Total non-U.S. government obligations | 11,491 | 11,240 |
+Total available-for-sale securities | $ | 156,636 | $ | 155,636 |
+As of December 2025 |
+Less than 1 year | $ | 3,723 | $ | 3,730 |
+1 year to 5 years | 70,516 | 70,872 |
+5 years to 10 years | 15,970 | 15,980 |
+Total U.S. government obligations
+90,209 | 90,582 |
+5 years to 10 years
+104 | 104 |
+Greater than 10 years
+1,361 | 1,363 |
+Total U.S. agency obligations
+1,465 | 1,467 |
+1 year to 5 years
+6,579 | 6,356 |
+5 years to 10 years
+863 | 839 |
+Total non-U.S. government obligations | 7,442 | 7,195 |
+Total available-for-sale securities | $ | 99,116 | $ | 99,244 |
+In the table above:
+&#8226;U.S. agency obligations consists of U.S. agency-issued mortgage-backed securities.
+
+----- [line 3263] -----
+&#8226;CMOs represents collateralized mortgage obligations.
+&#8226;The outstanding principal amount is presented for the purpose of providing information about the size of the securitization entities and is not representative of the firm's risk of loss.
+&#8226;The firm's risk of loss from retained or purchased interests is limited to the carrying value of these interests.
+&#8226;Purchased interests represent senior and subordinated interests, purchased in connection with secondary market-making activities, in securitization entities in which the firm also holds retained interests.
+&#8226;Substantially all of the total outstanding principal amount and total retained interests relate to securitizations during 2019 and thereafter.
+&#8226;The fair value of retained interests was $8.23 billion as of June 2026 and $6.37 billion as of December 2025.
+In addition to the interests in the table above, the firm had other continuing involvement in the form of derivative transactions and commitments with certain nonconsolidated VIEs. The carrying value of these derivatives and commitments was a net asset of $1.40 billion as of June 2026 and $1.48 billion as of December 2025, and the notional amount of these derivatives and commitments was $4.10 billion as of June 2026 and $4.13 billion as of December 2025. The notional amounts of these derivatives and commitments are included in maximum exposure to loss in the nonconsolidated VIEs table in Note 17. Additionally, the firm provided seller financing of $806 million (in connection with the sale of $1.13 billion of loans) during the three months ended June 2026, $868 million (in connection with the sale of $1.21 billion of loans) during the six months ended June 2026 and $340 million (in connection with the sale of $425 million of loans) during the six months ended June 2025. The firm did not provide any seller financing during the three months ended June 2025. The principal and interest repayments received from the seller financings were $239 million for the three months ended June 2026, $172 million for the three months ended June 2025, $319 million for the six months ended June 2026 and $370 million for the six months ended June 2025. The total outstanding principal amount of seller financings was $1.77 billion as of June 2026 and $1.18 billion as of December 2025.
+The table below presents information about the weighted average key economic assumptions used in measuring the fair value of mortgage-backed retained interests.
+As of
+June | December |
+$ in millions | 2026 | 2025 |
+Fair value of retained interests | $ | 7,663 | $ | 5,865 |
+Weighted average life (years) | 5.9 | 6.2 |
+Constant prepayment rate | 14.0% | 12.4% |
+Impact of 10% adverse change | $ | (61) | $ | (53) |
+Impact of 20% adverse change | $ | (116) | $ | (102) |
+Discount rate | 7.0% | 8.6% |
+Impact of 10% adverse change | $ | (207) | $ | (171) |
+Impact of 20% adverse change | $ | (400) | $ | (331) |
+In the table above:
+&#8226;Amounts do not reflect the benefit of other financial instruments that are held to mitigate risks inherent in these retained interests.
+&#8226;Changes in fair value based on an adverse variation in assumptions generally cannot be extrapolated because the relationship of the change in assumptions to the change in fair value is not usually linear.
+&#8226;The impact of a change in a particular assumption is calculated independently of changes in any other assumption. In practice, simultaneous changes in assumptions might magnify or counteract the sensitivities disclosed above.
+&#8226;The constant prepayment rate is included only for positions for which it is a key assumption in the determination of fair value.
+&#8226;The discount rate for retained interests that relate to U.S. government agency-issued CMOs does not include any credit loss. Expected credit loss assumptions are reflected in the discount rate for the remainder of retained interests.
+The firm had other retained interests not reflected in the table above with a fair value of $562 million and a weighted average life of 5.6 years as of June 2026, and a fair value of $506 million and a weighted average life of 4.1 years as of December 2025. Due to the nature and fair value of certain of these retained interests, the weighted average assumptions for constant prepayment and discount rates and the related sensitivity to adverse changes were not meaningful as of both June 2026 and December 2025. The firm's maximum exposure to adverse changes in the value of these interests was the carrying value of $596 million as of June 2026 and $511 million as of December 2025.
+65
+Goldman Sachs June 2026 Form 10-Q
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+(Unaudited)
+Note 17.
+Variable Interest Entities
+A variable interest in a VIE is an investment (e.g., debt or equity) or other interest (e.g., derivatives or loans and lending commitments) that will absorb portions of the VIE's expected losses and/or receive portions of the VIE's expected residual returns.
+The firm's variable interests in VIEs include senior and subordinated debt; loans and lending commitments; limited and general partnership interests; preferred and common equity; derivatives that may include foreign currency, equity and/or credit risk; guarantees; and certain of the fees the firm receives from investment funds. Certain interest rate, foreign currency and credit derivatives the firm enters into with VIEs are not variable interests because they create, rather than absorb, risk.
+VIEs generally finance the purchase of assets by issuing debt and equity securities that are either collateralized by or indexed to the assets held by the VIE. The debt and equity securities issued by a VIE may include tranches of varying levels of subordination. The firm's involvement with VIEs includes securitization of financial assets, as described in Note 16, and investments in and loans to other types of VIEs, as described below. See Note 3 for the firm's consolidation policies, including the definition of a VIE.
+VIE Consolidation Analysis
+The enterprise with a controlling financial interest in a VIE is known as the primary beneficiary and consolidates the VIE. The firm determines whether it is the primary beneficiary of a VIE by performing an analysis that principally considers:
+&#8226;Which variable interest holder has the power to direct the activities of the VIE that most significantly impact the VIE's economic performance;
+&#8226;Which variable interest holder has the obligation to absorb losses or the right to receive benefits from the VIE that could potentially be significant to the VIE;
+&#8226;The VIE's purpose and design, including the risks the VIE was designed to create and pass through to its variable interest holders;
+&#8226;The VIE's capital structure;
+&#8226;The terms between the VIE and its variable interest holders and other parties involved with the VIE; and
+&#8226;Related-party relationships.
+The firm reassesses its evaluation of whether an entity is a VIE when certain reconsideration events occur. The firm reassesses its determination of whether it is the primary beneficiary of a VIE on an ongoing basis based on current facts and circumstances.
+VIE Activities
+The firm is principally involved with VIEs through the following business activities:
+Mortgage-Backed VIEs. The firm sells residential and commercial mortgage loans and securities to mortgage-backed VIEs and may retain beneficial interests in the assets sold to these VIEs. The firm purchases and sells beneficial interests issued by mortgage-backed VIEs in connection with market-making activities. In addition, the firm may enter into derivatives with certain of these VIEs, primarily interest rate swaps, which are typically not variable interests. The firm generally enters into derivatives with other counterparties to mitigate its risk.
+Tax Credit, Credit-Related, Real Estate and Other Investing VIEs. The firm makes equity investments in VIEs that invest in qualified affordable housing and renewable energy projects designed to generate a return through the realization of tax credits and related tax benefits. The firm also purchases equity and debt securities issued by, and makes loans to, VIEs that hold real estate, performing and nonperforming debt, distressed loans and equity securities. In addition, the firm makes equity investments in certain investment fund VIEs it manages and is entitled to receive fees from these VIEs. The firm generally does not sell assets to, or enter into derivatives with, these VIEs.
+Corporate Debt and Other Asset-Backed VIEs. The firm structures VIEs that issue notes to clients, purchases and sells beneficial interests issued by corporate debt and other asset-backed VIEs in connection with market-making activities, and makes loans to VIEs that warehouse corporate debt. Certain of these VIEs synthetically create the exposure for the beneficial interests they issue by entering into credit derivatives with the firm, rather than purchasing the underlying assets. In addition, the firm may enter into derivatives, such as total return swaps, with certain corporate debt and other asset-backed VIEs, under which the firm pays the VIE a return due to the beneficial interest holders and receives the return on the collateral owned by the VIE. The collateral owned by these VIEs is primarily other asset-backed loans and securities. The firm may be removed as the total return swap counterparty and may enter into derivatives with other counterparties to mitigate its risk related to these swaps. The firm may sell assets to the corporate debt and other asset-backed VIEs it structures.
+Goldman Sachs June 2026 Form 10-Q
+66
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+(Unaudited)
+Principal-Protected Note VIEs. The firm structures VIEs that issue principal-protected notes to clients. These VIEs own portfolios of assets, principally with exposure to hedge funds. The firm enters into total return swaps with these VIEs under which the firm pays the VIE the return due to the principal-protected note holders and receives the return on the assets owned by the VIE.
+Nonconsolidated VIEs
+The table below presents a summary of the nonconsolidated VIEs in which the firm holds variable interests.
+As of
+June | December |
+$ in millions | 2026 | 2025 |
+Total nonconsolidated VIEs |
+Assets in VIEs | $ | 292,635 | $ | 271,331 |
+Carrying value of variable interests -- assets | $ | 20,047 | $ | 17,746 |
+Carrying value of variable interests -- liabilities | $ | 3,468 | $ | 3,016 |
+Maximum exposure to loss: |
+Retained interests | $ | 8,374 | $ | 6,458 |
+Purchased interests | 808 | 681 |
+Commitments and guarantees | 6,112 | 6,239 |
+Derivatives | 8,248 | 9,445 |
+Debt and equity | 6,636 | 6,284 |
+Total | $ | 30,178 | $ | 29,107 |
+In the table above:
+&#8226;The nature of the firm's variable interests is described in the rows under maximum exposure to loss.
+&#8226;The firm's exposure to the obligations of VIEs is generally limited to its interests in these entities. In certain instances, the firm provides guarantees, including derivative guarantees, to VIEs or holders of variable interests in VIEs.
+&#8226;The maximum exposure to loss excludes the benefit of offsetting financial instruments that are held to mitigate the risks associated with these variable interests.
+&#8226;The maximum exposure to loss from retained interests, purchased interests, and debt and equity is the carrying value of these interests.
+&#8226;The maximum exposure to loss from commitments and guarantees, and derivatives is the notional amount, which does not represent anticipated losses and has not been reduced by unrealized losses. As a result, the maximum exposure to loss exceeds liabilities recorded for commitments and guarantees, and derivatives.
+The table below presents information, by principal business activity, for nonconsolidated VIEs included in the summary table above.
+As of |
+June | December |
+$ in millions | 2026 | 2025 |
+Mortgage-backed |
+Assets in VIEs | $ | 193,183 | $ | 180,240 |
+Carrying value of variable interests -- assets | $ | 7,959 | $ | 6,094 |
+
+----- [line 5968] -----
+Management Committee. The Management Committee oversees our global activities. It provides this oversight directly and through delegated authority. This committee consists of our most senior leaders, and is chaired by our chief executive officer. Most members of the Management Committee are also members of other committees. The following are the committees that are principally involved in firmwide risk management.
+Firmwide Enterprise Risk Committee. The Firmwide Enterprise Risk Committee is responsible for overseeing all of our financial and nonfinancial risks. As part of such oversight, the committee is responsible for the ongoing review, approval and monitoring of our enterprise risk management framework, as well as our risk limits, and thresholds and alerts policy, through delegated authority to the Firmwide Risk Appetite Committee. The Firmwide Enterprise Risk Committee also reviews new significant strategic business initiatives to determine whether they are consistent with our risk appetite and risk management capabilities and assesses reputational risks arising from new and ongoing business opportunities. Additionally, the Firmwide Enterprise Risk Committee performs enhanced reviews of significant risk events, the top residual and emerging risks, and the overall risk and control environment in each of our business units in order to propose uplifts, identify elements that are common to all business units and analyze the consolidated residual risks that we face. This committee, which reports to the Management Committee, is co-chaired by our president and chief operating officer and our chief risk officer, who are appointed as chairs by our chief executive officer, and the vice-chair is our chief financial officer, who is appointed as vice-chair by the chairs of the Firmwide Enterprise Risk Committee. The following are the primary committees that report to the Firmwide Enterprise Risk Committee:
+&#8226;Firmwide New Activity Committee. The Firmwide New Activity Committee is responsible for reviewing new activities and, upon referral by the Firmwide Enterprise Risk Committee, significant strategic business initiatives. Additionally, the Firmwide New Activity Committee may review previously approved activities that are significant and/or that have changed in complexity and/or structure or present different reputational and suitability concerns over time to consider whether these activities remain appropriate. This committee is co-chaired by the head of Finance Risk and a managing director within Controllers, who are appointed as chairs by the chairs of the Firmwide Enterprise Risk Committee.
+141
+Goldman Sachs June 2026 Form 10-Q
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management's Discussion and Analysis
+&#8226;Firmwide Technology Risk Committee. The Firmwide Technology Risk Committee is responsible for reviewing matters related to the design, development, deployment and use of technology. This committee oversees cybersecurity matters, as well as technology risk management frameworks and methodologies, and monitors their effectiveness. This committee is co-chaired by our CISO and our chief technology officer, who are appointed as chairs by the chairs of the Firmwide Enterprise Risk Committee.
+&#8226;Firmwide Compliance and Operational Risk Committee. The Firmwide Compliance and Operational Risk Committee is responsible for overseeing compliance and operational risk. This committee is co-chaired by our chief operating officer of Engineering, our head of Operational Risk, and our chief compliance officer, who are appointed as chairs by the chairs of the Firmwide Enterprise Risk Committee.
+&#8226;Firmwide Risk Appetite Committee. The Firmwide Risk Appetite Committee (through delegated authority from the Firmwide Enterprise Risk Committee) is responsible for the ongoing approval and monitoring of risk frameworks, policies and parameters related to our risk management processes, as well as limits, thresholds and alerts, at firmwide, business and product levels. In addition, this committee is responsible for overseeing our financial and model risks and reviews the results of stress tests and scenario analyses. To assist the Firmwide Risk Appetite Committee in carrying out its mandate, a number of other risk committees with dedicated oversight for stress testing, model risks, Volcker Rule compliance, as well as our investments or other capital commitments that may give rise to financial risk, report into the Firmwide Risk Appetite Committee. This committee is chaired by our chief risk officer, who is appointed as chair by the chairs of the Firmwide Enterprise Risk Committee. The Firmwide Capital Committee and Firmwide Commitments Committee report to the Firmwide Risk Appetite Committee.
+&#8226;Firmwide Data Governance Committee. The Firmwide Data Governance Committee is responsible for overseeing the firmwide data governance framework, and its implementation, to help ensure that data governance and data quality are appropriate. This committee is co-chaired by our chief data officer and an advisory director, who are appointed as chairs by the chairs of the Firmwide Enterprise Risk Committee.
+&#8226;Firmwide Artificial Intelligence Risk Committee. The Firmwide Artificial Intelligence Risk Committee is responsible for overseeing both the risks associated with the use of AI and firmwide risks impacted by AI developments internally and externally. This committee is co-chaired by our chief information officer and our chief risk officer, who are appointed as chairs by the chairs of the Firmwide Enterprise Risk Committee.
+Firmwide Asset Liability Committee. The Firmwide Asset Liability Committee is responsible for the strategic direction of our financial resources, including capital, liquidity, funding and balance sheet. This committee has oversight responsibility for asset-liability management, including interest rate and currency risk, funds transfer pricing, capital allocation and incentives, and credit ratings. This committee is co-chaired by our chief financial officer and our global treasurer, who are appointed as chairs by our chief executive officer, and reports to the Management Committee.
+Liquidity Risk Management
+Overview
+Liquidity risk is the risk that we will be unable to fund ourselves or meet our liquidity needs in the event of firm-specific, broader industry or market liquidity stress events. We have in place a comprehensive and conservative set of liquidity and funding policies. Our principal objective is to be able to fund ourselves and to enable our core businesses to continue to serve clients and generate revenues, even under adverse circumstances.
+Corporate Treasury is responsible for our liquidity and its related risks, including developing and executing our liquidity and funding strategy and policies.
+Liquidity Risk, which is part of our second line of defense and reports to our chief risk officer, has primary responsibility for independently assessing, monitoring and managing our liquidity risk by providing firmwide review and challenge across our global businesses.
+Goldman Sachs June 2026 Form 10-Q
+142
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management's Discussion and Analysis
+Liquidity Risk Management Principles
+We manage liquidity risk according to three principles: (i) hold sufficient excess liquidity in the form of GCLA to cover outflows during a stressed period, (ii) maintain appropriate Asset-Liability Management and (iii) maintain a viable Contingency Funding Plan.
+GCLA. GCLA is liquidity that we maintain to meet a broad range of potential cash outflows and collateral needs in a stressed environment. A primary liquidity principle is to pre-fund our estimated potential cash and collateral needs during a liquidity crisis and hold this liquidity in the form of unencumbered, highly liquid securities and cash. We believe that the securities held in our GCLA would be readily convertible to cash in a matter of days, through liquidation, by entering into collateralized financings or from maturities of collateralized agreements, and that this cash would allow us to meet immediate obligations without needing to sell other assets or depend on additional funding from credit-sensitive markets.
+Our GCLA reflects the following principles:
+&#8226;The first days or weeks of a liquidity crisis are the most critical to a company's survival;
+&#8226;Focus must be maintained on all potential cash and collateral outflows, not just disruptions to financing flows. Our businesses are diverse, and our liquidity needs are determined by many factors, including market movements, collateral requirements and client commitments, all of which can change dramatically in a difficult funding environment;
+&#8226;During a liquidity crisis, credit-sensitive funding, including unsecured debt, certain deposits and some types of secured financing agreements, may be unavailable, and the terms (e.g., interest rates, collateral provisions and tenor) or availability of other types of secured financing may change and certain deposits may be withdrawn; and
+&#8226;As a result of our policy to pre-fund liquidity that we estimate may be needed in a crisis, we hold more unencumbered securities and have larger funding balances than our businesses would otherwise require. We believe that our liquidity is stronger with greater balances of highly liquid unencumbered securities, even though it increases our total assets and our funding costs.
+We maintain our GCLA across Group Inc., Goldman Sachs Funding LLC (Funding IHC) and Group Inc.'s major broker-dealer and bank subsidiaries, asset types and clearing agents with the goal of providing us with sufficient operating liquidity to ensure timely settlement in all major markets, even in a difficult funding environment. In addition to the GCLA, we maintain cash balances and securities in several of our other entities, primarily for use in specific currencies, entities or jurisdictions where we do not have immediate access to parent company liquidity.
+Asset-Liability Management. Our liquidity risk management policies are designed to ensure we have a sufficient amount of financing, even when funding markets experience persistent stress. We manage the maturities and diversity of our funding across markets, products and counterparties, and seek to maintain a diversified funding profile with an appropriate tenor, taking into consideration the characteristics and liquidity profile of our assets.
+Our approach to asset-liability management includes:
+&#8226;Conservatively managing the overall characteristics of our funding book, with a focus on maintaining long-term, diversified sources of funding in excess of our current requirements. See "Balance Sheet and Funding Sources -- Funding Sources" for further information;
+&#8226;Actively managing and monitoring our asset base, with particular focus on the liquidity, holding period and ability to fund assets on a secured basis. We assess our funding requirements and our ability to liquidate assets in a stressed environment while appropriately managing risk. This enables us to determine the most appropriate funding products and tenors. See "Balance Sheet and Funding Sources -- Balance Sheet Management" for further information about our balance sheet management process and "-- Funding Sources -- Secured Funding" for further information about asset classes that may be harder to fund on a secured basis; and
+&#8226;Raising secured and unsecured financing that has a long tenor relative to the liquidity profile of our assets. This reduces the risk that our liabilities will come due in advance of our ability to generate liquidity from the sale of our assets. Because we maintain a highly liquid balance sheet, the holding period of certain of our assets may be materially shorter than their contractual maturity dates.
+Our goal is to ensure that we maintain sufficient liquidity to fund our assets and meet our contractual and contingent obligations in normal times, as well as during periods of market stress. Through our dynamic balance sheet management process, we use actual and projected asset balances to determine secured and unsecured funding requirements. Risk and the Firmwide Asset Liability Committee review our total unsecured long-term borrowings and total shareholders' equity to help ensure that we maintain a level of long-term funding that is sufficient to meet our long-term financing requirements. In a liquidity crisis, we would begin by liquidating and monetizing our GCLA before selling other assets. However, we recognize that orderly asset sales may be prudent or necessary in a severe or persistent liquidity crisis.
+143
+Goldman Sachs June 2026 Form 10-Q
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management's Discussion and Analysis
+Subsidiary Funding Policies
+The majority of our unsecured borrowings is raised by Group Inc., which provides the necessary funds to Funding IHC and other subsidiaries, some of which are regulated, to meet their asset financing, liquidity and capital requirements. In addition, Group Inc. provides its regulated subsidiaries with the necessary capital to meet their regulatory requirements. The benefits of this approach to subsidiary funding are enhanced control and greater flexibility to meet the funding requirements of our subsidiaries. Funding is also raised at the subsidiary level through a variety of products, including deposits, secured funding and unsecured borrowings.
+Our intercompany funding policies assume that a subsidiary's funds or securities are not freely available to its parent, Funding IHC or other subsidiaries unless (i) legally provided for and (ii) there are no additional regulatory, tax or other restrictions. In particular, many of our subsidiaries are subject to laws that authorize regulatory bodies to block or reduce the flow of funds from those subsidiaries to Group Inc. or Funding IHC. Regulatory action of that kind could impede access to funds that Group Inc. needs to make payments on its obligations. Accordingly, we assume that the capital provided to our regulated subsidiaries is not available to Group Inc. or other subsidiaries and any other financing provided to our regulated subsidiaries is not available to Group Inc. or Funding IHC until the maturity of such financing.
+Group Inc. has provided substantial amounts of equity and subordinated indebtedness, directly or indirectly, to its regulated subsidiaries. For example, as of June 2026, Group Inc. had $42.51 billion of equity and subordinated indebtedness invested in GS&Co., its principal U.S. registered broker-dealer; $57.57 billion invested in GSI, a regulated U.K. broker-dealer; $2.61 billion invested in GSJCL, a regulated Japanese broker-dealer; $63.56 billion invested in GS Bank USA, a regulated New York State-chartered bank; and $5.93 billion invested in GSIB, a regulated U.K. bank. Group Inc. also provides financing, directly or indirectly, in the form of: $219.85 billion of unsubordinated loans (including secured loans of $78.35 billion) and $33.52 billion of collateral and cash deposits to these entities as of June 2026. In addition, as of June 2026, Group Inc. had significant amounts of capital invested in and loans to its other regulated subsidiaries.
+Contingency Funding Plan. We maintain a contingency funding plan to provide a framework for analyzing and responding to a liquidity crisis situation or periods of market stress. Our contingency funding plan outlines a list of potential risk factors, key reports and metrics that are reviewed on an ongoing basis to assist in assessing the severity of, and managing through, a liquidity crisis and/or market dislocation. The contingency funding plan also describes in detail our potential responses if our assessments indicate that we have entered a liquidity crisis, which include pre-funding for what we estimate will be our potential cash and collateral needs, as well as utilizing secondary sources of liquidity. Mitigants and action items to address specific risks which may arise are also described and assigned to individuals responsible for execution.
+The contingency funding plan identifies key groups of individuals and their responsibilities, which include fostering effective coordination, control and distribution of information, implementing liquidity maintenance activities and managing internal and external communication, all of which are critical in the management of a crisis or period of market stress.
+Stress Tests
+In order to determine the appropriate size of our GCLA, we model liquidity outflows over a range of scenarios and time horizons. One of our primary internal liquidity risk models, referred to as the Modeled Liquidity Outflow, quantifies our liquidity risks over a 30-day stress scenario. We also consider other factors, including, but not limited to, an assessment of our potential intraday liquidity needs through an additional internal liquidity risk model, referred to as the Intraday Liquidity Model, the results of our long-term stress testing models, our resolution liquidity models and other applicable regulatory requirements and a qualitative assessment of our condition, as well as the financial markets. The results of the Modeled Liquidity Outflow, the Intraday Liquidity Model, the long-term stress testing models and the resolution liquidity models are reported to senior management on a regular basis. We also perform firmwide stress tests. See "Overview and Structure of Risk Management" for information about firmwide stress tests.
+Goldman Sachs June 2026 Form 10-Q
+144
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management's Discussion and Analysis
+Modeled Liquidity Outflow. Our Modeled Liquidity Outflow is based on conducting multiple scenarios that include combinations of market-wide and firm-specific stress. These scenarios are characterized by the following qualitative elements:
+&#8226;Severely challenged market environments, which include low consumer and corporate confidence, financial and political instability, and adverse changes in market values, including potential declines in equity markets and widening of credit spreads; and
+&#8226;A firm-specific crisis potentially triggered by material losses, reputational damage (including, as a result of, the dissemination of negative information through social media), litigation and/or a ratings downgrade.
+The following are key modeling elements of our Modeled Liquidity Outflow:
+&#8226;Liquidity needs over a 30-day scenario;
+&#8226;A two-notch downgrade of our long-term senior unsecured credit ratings;
+&#8226;Changing conditions in funding markets, which limit our access to unsecured and secured funding;
+&#8226;No support from additional government funding facilities. Although we have access to various central bank funding programs, we do not assume reliance on additional sources of funding in a liquidity crisis; and
+&#8226;A combination of contractual outflows and contingent outflows arising from both our on- and off-balance sheet arrangements. Contractual outflows include, among other things, upcoming maturities of unsecured debt, term deposits and secured funding. Contingent outflows include, among other things, the withdrawal of customer credit balances in our prime brokerage business, increase in variation margin requirements due to adverse changes in the value of our exchange-traded and OTC-cleared derivatives, draws on unfunded commitments and withdrawals of deposits that have no contractual maturity. See notes to the consolidated financial statements for further information about contractual outflows, including Note 11 for collateralized financings, Note 13 for deposits, Note 14 for unsecured long-term borrowings and Note 15 for operating lease payments, and "Off-Balance Sheet Arrangements" for further information about our various types of off-balance sheet arrangements.
+Intraday Liquidity Model. Our Intraday Liquidity Model measures our intraday liquidity needs in a scenario where access to sources of intraday liquidity may become constrained. The intraday liquidity model considers a variety of factors, including historical settlement activity.
+Long-Term Stress Testing. We utilize longer-term stress tests to take a forward view on our liquidity position through prolonged stress periods in which we experience a severe liquidity stress and recover in an environment that continues to be challenging. We are focused on ensuring conservative asset-liability management to prepare for a prolonged period of potential stress, seeking to maintain a diversified funding profile with an appropriate tenor, taking into consideration the characteristics and liquidity profile of our assets.
+Resolution Liquidity Models. In connection with our resolution planning efforts, we have established our Resolution Liquidity Adequacy and Positioning framework, which estimates liquidity needs of our major subsidiaries in a stressed environment. The liquidity needs are measured using our Modeled Liquidity Outflow assumptions and include certain additional inter-affiliate exposures. We have also established our Resolution Liquidity Execution Need framework, which measures the liquidity needs of our major subsidiaries to stabilize and wind down following a Group Inc. bankruptcy filing in accordance with our preferred resolution strategy.
+In addition, we have established a triggers and alerts framework, which is designed to provide the Board with information needed to make an informed decision on whether and when to commence bankruptcy proceedings for Group Inc.
+Limits
+We use liquidity risk limits at various levels and across liquidity risk types to manage the size of our liquidity exposures. Limits are measured relative to acceptable levels of risk given our liquidity risk tolerance. See "Overview and Structure of Risk Management" for information about the limit approval process.
+Limits are monitored by Corporate Treasury and Liquidity Risk. Liquidity Risk is responsible for identifying and escalating to senior management and/or the appropriate risk committee, on a timely basis, instances where limits have been exceeded.
+GCLA and Unencumbered Metrics
+GCLA. Based on the results of our internal liquidity risk models, described above, as well as our consideration of other factors, including, but not limited to, a qualitative assessment of our condition, as well as the financial markets, we believe our liquidity position as of both June 2026 and December 2025 was appropriate. We strictly limit our GCLA to a narrowly defined list of securities and cash because they are highly liquid, even in a difficult funding environment. We do not include other potential sources of excess liquidity in our GCLA, such as less liquid unencumbered securities or committed credit facilities.
+145
+Goldman Sachs June 2026 Form 10-Q
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management's Discussion and Analysis
+The table below presents information about our GCLA.
+Average for the
+Three Months Ended |
+June | March |
+$ in millions | 2026 | 2026 |
+Denomination |
+U.S. dollar | $ | 408,542 | $ | 369,371 |
+Non-U.S. dollar | 146,466 | 124,822 |
+Total | $ | 555,008 | $ | 494,193 |
+Asset Class
+Overnight cash deposits | $ | 160,092 | $ | 137,333 |
+U.S. government obligations | 274,347 | 246,817 |
+U.S. agency obligations | 30,247 | 33,031 |
+Non-U.S. government obligations | 90,322 | 77,012 |
+Total | $ | 555,008 | $ | 494,193 |
+Entity Type
+Group Inc. and Funding IHC | $ | 93,481 | $ | 77,691 |
+Major broker-dealer subsidiaries | 150,980 | 137,417 |
+Major bank subsidiaries | 310,547 | 279,085 |
+Total | $ | 555,008 | $ | 494,193 |
+In the table above:
+&#8226;The U.S. dollar-denominated GCLA consists of (i) unencumbered U.S. government and agency obligations (including highly liquid U.S. agency mortgage-backed obligations), all of which are eligible as collateral in Federal Reserve open market operations and (ii) certain overnight U.S. dollar cash deposits.
+&#8226;The non-U.S. dollar-denominated GCLA consists of non-U.S. government obligations (only unencumbered German, French, Japanese and U.K. government obligations) and certain overnight cash deposits in highly liquid currencies.
+We maintain our GCLA to enable us to meet current and potential liquidity requirements of our parent company, Group Inc., and its subsidiaries. Our Modeled Liquidity Outflow and Intraday Liquidity Model incorporate a requirement for Group Inc., as well as a standalone requirement for each of our major broker-dealer and bank subsidiaries. Funding IHC is required to provide the necessary liquidity to Group Inc. during the ordinary course of business, and is also obligated to provide capital and liquidity support to major subsidiaries in the event of our material financial distress or failure. Liquidity held directly in each of our major broker-dealer and bank subsidiaries is intended for use only by that subsidiary to meet its liquidity requirements and is assumed not to be available to Group Inc. or Funding IHC unless (i) legally provided for and (ii) there are no additional regulatory, tax or other restrictions. In addition, the Modeled Liquidity Outflow and Intraday Liquidity Model also incorporate a broader assessment of standalone liquidity requirements for other subsidiaries and we hold a portion of our GCLA directly at Group Inc. or Funding IHC to support such requirements.
+Other Unencumbered Assets. In addition to our GCLA, we have a significant amount of other unencumbered cash and financial instruments, including other government obligations, high-grade money market securities, corporate obligations, marginable equities, loans and cash deposits not included in our GCLA. The fair value of our unencumbered assets averaged $379.39 billion for the three months ended June 2026 and $359.73 billion for the three months ended March 2026. We do not consider these assets liquid enough to be eligible for our GCLA.
+Liquidity Regulatory Framework
+We are subject to a minimum Liquidity Coverage Ratio (LCR) under the LCR rule approved by the U.S. federal bank regulatory agencies. The LCR rule requires organizations to maintain an adequate ratio of eligible high-quality liquid assets (HQLA) to expected net cash outflows under an acute, short-term liquidity stress scenario. Eligible HQLA excludes HQLA held by subsidiaries that is in excess of their minimum requirement and is subject to transfer restrictions. We are required to maintain a minimum LCR of 100%. We expect that fluctuations in client activity, business mix and the market environment will impact our LCR.
+The table below presents information about our average daily LCR.
+Average for the
+Three Months Ended |
+June | March |
+$ in millions | 2026 | 2026 |
+Total HQLA | $ | 542,086 | $ | 482,450 |
+Eligible HQLA | $ | 454,349 | $ | 406,871 |
+Net cash outflows | $ | 359,599 | $ | 331,364 |
+LCR
+126 | % | 123 | % |
+In the table above, our average quarterly LCR represents the average of our daily LCRs during the quarter.
+Goldman Sachs June 2026 Form 10-Q
+146
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management's Discussion and Analysis
+We are also subject to a minimum Net Stable Funding Ratio (NSFR) under the NSFR rule approved by the U.S. federal bank regulatory agencies. The NSFR rule requires large U.S. banking organizations to maintain available stable funding (ASF) above their required stable funding (RSF) over a one-year time horizon. Total ASF excludes ASF held by subsidiaries that is in excess of their minimum requirement and is subject to transfer restrictions. We are required to maintain a minimum NSFR of 100%. We expect that fluctuations in client activity, business mix and the market environment will impact our NSFR.
+The table below presents information about our average daily NSFR.
+Average for the
+Three Months Ended |
+June | March |
+$ in millions
+
+----- [line 6149] -----
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management's Discussion and Analysis
+During the second quarter of 2026, Fitch upgraded the short-term debt ratings (from F1 to F1+) and long-term debt ratings (from A+ to AA-), and changed the outlook from stable to positive for GS Bank USA, GSIB, GSBE, GS&Co. and GSI. Additionally, Fitch also upgraded the short-term bank deposits rating (from F1 to F1+) and long-term bank deposits rating (from A+ to AA-) for GSIB.
+We believe our credit ratings are primarily based on the credit rating agencies' assessment of:
+&#8226;Our liquidity, market, credit and operational risk management practices;
+&#8226;Our level and variability of earnings;
+&#8226;Our capital base;
+&#8226;Our franchise, reputation and management;
+&#8226;Our corporate governance; and
+&#8226;The external operating and economic environment, including, in some cases, the assumed level of government support or other systemic considerations, such as potential resolution.
+Certain of our derivatives have been transacted under bilateral agreements with counterparties who may require us to post collateral or terminate the transactions based on changes in our credit ratings. We manage our GCLA to ensure we would, among other potential requirements, be able to make the additional collateral or termination payments that may be required in the event of a two-notch reduction in our long-term credit ratings, as well as collateral that has not been called by counterparties, but is available to them. See Note 7 to the consolidated financial statements for further information about derivatives with credit-related contingent features and the additional collateral or termination payments related to our net derivative liabilities under bilateral agreements that could have been called by counterparties in the event of a one- or two-notch downgrade in our credit ratings.
+Cash Flows
+As a global financial institution, our cash flows are complex and bear little relation to our net earnings and net assets. Consequently, we believe that traditional cash flow analysis is less meaningful in evaluating our liquidity position than the liquidity and asset-liability management policies described above. Cash flow analysis may, however, be helpful in highlighting certain macro trends and strategic initiatives in our businesses.
+Six Months Ended June 2026. Our cash and cash equivalents increased by $23.01 billion to $187.27 billion at the end of the second quarter of 2026, primarily due to net cash provided by financing activities, partially offset by net cash used for investing and operating activities. The net cash provided by financing activities primarily reflected cash inflows from net issuances of unsecured borrowings and deposits (reflecting increases across all sources, primarily in consumer deposit, transaction banking deposit and other deposit balances). The net cash used for investing activities primarily reflected net purchases of U.S. government obligations accounted for as available-for-sale securities and an increase in net lending activities (reflecting increases in other collateralized loans and corporate loans). The net cash used for operating activities reflected cash outflows from trading assets, partially offset by cash inflows from trading liabilities, customer and other receivables and payables, net (reflecting an increase in customer and other payables, partially offset by an increase in customer and other receivables), collateralized transactions (reflecting an increase in collateralized financings, partially offset by an increase in collateralized agreements) and net earnings.
+Six Months Ended June 2025. Our cash and cash equivalents decreased by $29.13 billion to $152.97 billion at the end of the second quarter of 2025, due to net cash used for investing and operating activities, partially offset by net cash provided by financing activities and the effect of foreign exchange rate changes on cash and cash equivalents. The net cash used for investing activities primarily reflected net purchases of U.S. government obligations accounted for as available-for-sale securities and an increase in net lending activities (reflecting increases in other collateralized lending and real estate loans). The net cash used for operating activities primarily reflected cash outflows from trading assets and collateralized transactions (reflecting a decrease in collateralized financings, partially offset by a decrease in collateralized agreements), partially offset by cash inflows from trading liabilities. The net cash provided by financing activities primarily reflected cash inflows from deposits (reflecting increases in consumer deposits, other deposits and deposit sweep program balances). The increase in cash and cash equivalents as a result of changes in foreign exchange rates was due to the U.S. dollar weakening during the first half of 2025.
+Goldman Sachs June 2026 Form 10-Q
+148
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management's Discussion and Analysis
+Market Risk Management
+Overview
+Market risk is the risk of an adverse impact to our earnings due to changes in market conditions. Our assets and liabilities that give rise to market risk primarily include positions held for market making for our clients and for our investing and financing activities, and these positions change based on client demands and our investment opportunities. We employ a variety of risk measures, each described in the respective sections below, to monitor market risk. Categories of market risk include the following:
+&#8226;Interest rate risk: results from exposures to changes in the level, slope and curvature of yield curves, the volatilities of interest rates, prepayment speeds and credit spreads;
+&#8226;Equity price risk: results from exposures to changes in prices and volatilities of individual equities, baskets of equities and equity indices;
+&#8226;Currency rate risk: results from exposures to changes in spot prices, forward prices and volatilities of currency rates; and
+&#8226;Commodity price risk: results from exposures to changes in spot prices, forward prices and volatilities of commodities, such as crude oil, petroleum products, natural gas, electricity, and precious and base metals.
+Market Risk, which is part of our second line of defense and reports to our chief risk officer, has primary responsibility for independently assessing, monitoring and managing our market risk by providing firmwide review and challenge across our global businesses.
+Managers in revenue-producing units, Corporate Treasury and Market Risk discuss market information, positions and estimated loss scenarios on an ongoing basis. Managers in revenue-producing units and Corporate Treasury are accountable for managing risk within prescribed limits. These managers have in-depth knowledge of their positions, markets and the instruments available to hedge their exposures.
+Market Risk Management Process
+Our process for managing market risk includes the critical components of our risk management framework described in the "Overview and Structure of Risk Management," as well as the following:
+&#8226;Monitoring compliance with established market risk limits and reporting our exposures;
+&#8226;Diversifying exposures;
+&#8226;Controlling position sizes; and
+&#8226;Evaluating mitigants, such as economic hedges in related securities or derivatives.
+Our market risk management systems enable us to perform an independent calculation of VaR, Earnings-at-Risk (EaR) and other stress measures, capture risk measures at individual position levels, attribute risk measures to individual risk factors of each position, report many different views of the risk measures (e.g., by desk, business, product type or entity) and produce ad hoc analyses in a timely manner.
+Risk Measures
+We produce risk measures and monitor them against established market risk limits. These measures reflect an extensive range of scenarios and the results are aggregated at firmwide, business and product levels.
+We use a variety of risk measures to estimate the size of potential losses for small, moderate and more extreme market moves over both short- and long-term time horizons. Our primary risk measures are VaR, EaR and other stress tests.
+Our risk reports detail key risks, drivers and changes for each desk and business, and are distributed daily to senior management of both our revenue-producing units and Risk.
+Value-at-Risk. VaR is the potential loss in value due to adverse market movements over a defined time horizon with a specified confidence level. For assets and liabilities included in VaR, see "Financial Statement Linkages to Market Risk Measures." We typically employ a one-day time horizon with a 95% confidence level. We use a single VaR model, which captures risks, including those related to interest rates, equity prices, currency rates and commodity prices. As such, VaR facilitates comparison across portfolios of different risk characteristics. VaR also captures the diversification of aggregated risk at the firmwide level.
+149
+Goldman Sachs June 2026 Form 10-Q
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management's Discussion and Analysis
+We are aware of the inherent limitations to VaR and therefore use a variety of risk measures in our market risk management process. Inherent limitations to VaR include:
+&#8226;VaR does not estimate potential losses over longer time horizons where moves may be extreme;
+&#8226;VaR does not take account of the relative liquidity of different risk positions; and
+&#8226;Previous moves in market risk factors may not produce accurate predictions of all future market moves.
+To comprehensively capture our exposures and relevant risks in our VaR calculation, we use historical simulations with full valuation of market factors at the position level by simultaneously shocking the relevant market factors for that position. These market factors include spot prices, credit spreads, funding spreads, yield curves, volatility and correlation, and are updated periodically based on changes in the composition of positions, as well as variations in market conditions. We sample from five years of historical data to generate the scenarios for our VaR calculation. The historical data is weighted so that the relative importance of the data reduces over time. This gives greater importance to more recent observations and reflects current asset volatilities, which improves the accuracy of our estimates of potential loss. As a result, even if our positions included in VaR were unchanged, our VaR would increase with increasing market volatility and vice versa.
+Given its reliance on historical data, VaR is most effective in estimating risk exposures in markets in which there are no sudden fundamental changes or shifts in market conditions.
+Our VaR measure does not include:
+&#8226;Positions that are not accounted for at fair value, such as held-to-maturity securities and loans, deposits and unsecured borrowings that are accounted for at amortized cost;
+&#8226;Available-for-sale securities for which the related unrealized fair value gains and losses are included in accumulated other comprehensive income/(loss);
+&#8226;Positions that are best measured and monitored using sensitivity measures; and
+&#8226;The impact of changes in counterparty and our own credit spreads on derivatives, as well as changes in our own credit spreads on financial liabilities for which the fair value option was elected.
+We perform daily backtesting of our VaR model (i.e., comparing daily net revenues for positions included in VaR to the VaR measure calculated as of the prior business day) at the firmwide level and for each of our businesses and major regulated subsidiaries.
+Earnings-at-Risk. We manage our interest rate risk using the EaR metric. EaR measures the estimated impact of changes in interest rates to our net revenues and preferred stock dividends over a defined time horizon. EaR complements the VaR metric, which measures the impact of interest rate changes that have an immediate impact on the fair values of our assets and liabilities (i.e., mark-to-market changes). Our exposure to interest rate risk occurs due to a variety of factors, including, but not limited to:
+&#8226;Differences in maturity or repricing dates of assets, liabilities, preferred stock and certain off-balance sheet instruments.
+&#8226;Differences in the amounts of assets, liabilities, preferred stock and certain off-balance sheet instruments with the same maturity or repricing dates.
+&#8226;Certain interest rate sensitive fees.
+Corporate Treasury manages the interest rate risk from all businesses using both cash and derivative instruments, including available-for-sale and held-to-maturity securities and interest rate derivatives. We measure EaR over a one-year time horizon, including a 100- and 200-basis point instantaneous parallel shock in both short- and long-term interest rates. This sensitivity is calculated relative to a baseline market scenario, which takes into consideration, among other things, the market's expectation of forward rates, as well as our expectation of future business activity. These scenarios include contractual elements of assets, liabilities, preferred stock, and certain off-balance sheet instruments, such as rates of interest, principal repayment schedules, maturity and reset dates, and any interest rate ceilings or floors, as well as assumptions with respect to our balance sheet size and composition, prepayment behavior and deposit repricing. Deposit repricing is captured by evaluating the change in deposit rate paid relative to the change in market rates (deposit beta) and we calibrate the deposit betas used in our models by using a number of factors, including observed historical behavior, future expectations, funding needs and the competitive landscape. We continuously monitor the performance of our key assumptions against observed behavior and regularly review their sensitivity on our risk metrics.
+Goldman Sachs June 2026 Form 10-Q
+150
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management's Discussion and Analysis
+We manage EaR with a goal to reduce potential volatility resulting from changes in interest rates so it remains within our EaR risk appetite. Our EaR scenario is regularly evaluated and updated, if necessary, to reflect changes in our business plans, market conditions and other macroeconomic factors. While management uses the best information available to estimate EaR, actual results may differ materially as a result of, among other things, changes in the economic environment or assumptions used in the process. We also measure the sensitivity of the economic value of our equity (EVE) to changes in interest rates. Compared to EaR, EVE provides a longer-term measurement of the interest rate risk exposure, primarily on non-trading assets and liabilities, by capturing the net impact of changes in interest rates to the present value of their cash flows.
+Corporate Treasury is responsible for our interest rate risk, including assessing, monitoring and managing our EaR and EVE sensitivity, and interest rate risk stress tests and assumptions.
+Risk, which is part of our second line of defense and reports to our chief risk officer, has primary responsibility for independently assessing, monitoring and managing our interest rate risk (including EaR and EVE sensitivity) by providing firmwide review and challenge across our global businesses.
+Stress Testing. Stress testing is a method of determining the effect of various hypothetical stress scenarios. We use stress tests to examine risks of specific portfolios, as well as the potential impact of our significant risk exposures. We use a variety of stress testing techniques to calculate the potential loss from a wide range of market moves on our portfolios, including firmwide stress tests, sensitivity analysis and scenario analysis. The results of our various stress tests are analyzed together for risk management purposes. See "Overview and Structure of Risk Management" for information about firmwide stress tests.
+Sensitivity analysis is used to quantify the impact of a market move in a single risk factor across all positions (e.g., equity prices or credit spreads) using a variety of defined market shocks, ranging from those that could be expected over a one-day time horizon up to those that could take many months to occur. We also use sensitivity analysis to quantify the impact of the default of any single entity, which captures the risk of large or concentrated exposures.
+Scenario analysis is used to quantify the impact of a specified event, including how the event impacts multiple risk factors simultaneously. For example, for sovereign stress testing we calculate potential direct exposure associated with our sovereign positions, as well as the corresponding debt, equity and currency exposures associated with our non-sovereign positions that may be impacted by the sovereign distress. When conducting scenario analysis, we often consider a number of possible outcomes for each scenario, ranging from moderate to severely adverse market impacts. In addition, these stress tests are constructed using both historical events and forward-looking hypothetical scenarios.
+Unlike VaR measures, which have an implied probability because they are calculated at a specified confidence level, there may not be an implied probability that our stress testing scenarios will occur. Instead, stress testing is used to model both moderate and more extreme moves in underlying market factors. When estimating potential loss, we generally assume that our positions cannot be reduced or hedged (although experience demonstrates that we are generally able to do so).
+Limits
+We use market risk limits at various levels to manage the size of our market exposures. These limits are set based on VaR, EaR and on a range of stress tests relevant to our exposures. See "Overview and Structure of Risk Management" for information about the limit approval process.
+Limits are monitored by Corporate Treasury and Risk. Risk is responsible for identifying and escalating to senior management and/or the appropriate risk committee, on a timely basis, instances where limits have been exceeded (e.g., due to positional changes or changes in market conditions, such as increased volatilities or changes in correlations). Such instances are remediated by a reduction in the positions we hold and/or a temporary or permanent increase to the limit, if warranted.
+Metrics
+We analyze VaR at the firmwide level and a variety of more detailed levels, including by risk category, business and region. Diversification effect in the tables below represents the difference between total VaR and the sum of the VaR for the four risk categories. This effect arises because the four market risk categories are not perfectly correlated. Substantially all positions in VaR are included within Global Banking & Markets.
+151
+Goldman Sachs June 2026 Form 10-Q
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management's Discussion and Analysis
+The table below presents our average daily VaR.
+Three Months Ended | Six Months
+Ended June |
+June | March | June |
+$ in millions | 2026 | 2026 | 2025 | 2026 | 2025 |
+Categories |
+Interest rates | $ | 82 | $ | 85 | $ | 79 | $ | 83 | $ | 74 |
+Equity prices | 65 | 55 | 48 | 60 | 45 |
+Currency rates | 19 | 15 | 23 | 17 | 30 |
+Commodity prices | 30 | 31 | 15 | 31 | 15 |
+Diversification effect | (76) | (74) | (67) | (75) | (70) |
+Total | $ | 120 | $ | 112 | $ | 98 | $ | 116 | $ | 94 |
+Our average daily VaR increased to $120 million for the three months ended June 2026 from $112 million for the three months ended March 2026 due to higher levels of volatility, partially offset by reduced exposures. The total increase primarily reflected increases in the equity prices and currency rates categories, partially offset by a decrease in the interest rates category.
+Our average daily VaR increased to $120 million for the three months ended June 2026 from $98 million for the three months ended June 2025 due to increased exposures and higher levels of volatility. The total increase reflected increases in the equity prices, commodity prices and interest rates categories, partially offset by an increase in the diversification effect and a decrease in the currency rates category.
+Our average daily VaR increased to $116 million for the six months ended June 2026 from $94 million for the six months ended June 2025 due to increased exposures and higher levels of volatility. The total increase reflected increases in the commodity prices, equity prices and interest rates categories, partially offset by a decrease in the currency rates category and an increase in the diversification effect.
+The table below presents our period-end VaR.
+As of
+June | March | June |
+$ in millions | 2026 | 2026 | 2025 |
+Categories |
+Interest rates | $ | 70 | $ | 104 | $ | 92 |
+Equity prices | 69 | 57 | 54 |
+Currency rates | 16 | 17 | 18 |
+Commodity prices | 24 | 49 | 18 |
+Diversification effect | (63) | (90) | (71) |
+Total | $ | 116 | $ | 137 | $ | 111 |
+Our period-end VaR decreased to $116 million as of June 2026 from $137 million as of March 2026 due to reduced exposures, partially offset by higher levels of volatility. The total decrease primarily reflected decreases in the interest rates and commodity prices categories, partially offset by a decrease in the diversification effect and an increase in the equity prices category.
+Our period-end VaR increased to $116 million as of June 2026 from $111 million as of June 2025 due to higher levels of volatility, partially offset by reduced exposures. The total increase primarily reflected increases in the equity prices and commodity prices categories and a decrease in the diversification effect, partially offset by a decrease in the interest rates category.
+During the six months ended June 2026, the firmwide VaR risk limit was exceeded on one occasion, primarily due to higher levels of volatility, generally resulting from broad macroeconomic and geopolitical concerns. During this period, there were temporary changes to the firmwide VaR risk limit due to higher levels of volatility, and the firmwide VaR risk limit was also permanently increased to support our clients' activities, particularly in our Equities business. During 2025, the firmwide VaR risk limit was not exceeded, raised or reduced, and there were no permanent or temporary changes to the firmwide VaR risk limit.
+The table below presents our high and low VaR.
+Three Months Ended |
+June 2026 | March 2026 | June 2025 |
+$ in millions | High | Low | High | Low | High | Low |
+Categories |
+Interest rates | $ | 105 | $ | 66 | $ | 163 | $ | 58 | $ | 92 | $ | 65 |
+Equity prices | $ | 93 | $ | 53 | $ | 68 | $ | 45 | $ | 62 | $ | 36 |
+Currency rates | $ | 24 | $ | 13 | $ | 25 | $ | 9 | $ | 31 | $ | 17 |
+Commodity prices | $ | 49 | $ | 21 | $ | 64 | $ | 18 | $ | 21 | $ | 12 |
+Firmwide
+VaR | $ | 133 | $ | 107 | $ | 176 | $ | 79 | $ | 116 | $ | 84 |
+The chart below presents our daily VaR for the six months ended June 2026.
+Goldman Sachs June 2026 Form 10-Q
+152
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management's Discussion and Analysis
+The table below presents, by number of business days, the frequency distribution of our daily net revenues for positions included in VaR.
+
+----- [line 6305] -----
+&#8226;Debt positions include mezzanine and senior debt, and corporate and real estate loans, substantially all of which are included within Asset & Wealth Management. Debt positions also included $19.5 billion as of June 2026 and $19.1 billion as of March 2026 of the Apple Card loan portfolio, and $1.6 billion as of June 2025 of GM co-branded credit card loans that were classified as held for sale. These held for sale loans were included within Platform Solutions.
+&#8226;Funded equity and debt positions are included in our consolidated balance sheets in investments and loans, and the related hedges are included in our consolidated balance sheets in derivatives. See Note 8 to the consolidated financial statements for further information about investments, Note 9 to the consolidated financial statements for further information about loans and Note 7 to the consolidated financial statements for further information about derivatives.
+&#8226;These measures do not reflect the diversification effect across asset categories or across other market risk measures.
+153
+Goldman Sachs June 2026 Form 10-Q
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management's Discussion and Analysis
+Credit and Funding Spread Sensitivity on Derivatives and Financial Liabilities. VaR excludes the impact of changes in counterparty credit spreads, our own credit spreads and unsecured funding spreads on derivatives, as well as changes in our own credit spreads (debt valuation adjustment) on financial liabilities for which the fair value option was elected. The estimated sensitivity to a one basis point increase in credit spreads (counterparty and our own) and unsecured funding spreads on derivatives (including hedges) was a loss of $3 million as of both June 2026 and March 2026. In addition, the estimated sensitivity to a one basis point increase in our own credit spreads on financial liabilities for which the fair value option was elected was a gain of $68 million as of June 2026 and $62 million as of March 2026. However, the actual net impact of a change in our own credit spreads is also affected by the liquidity, duration and convexity (as the sensitivity is not linear to changes in yields) of those financial liabilities for which the fair value option was elected, as well as the relative performance of any hedges undertaken.
+Earnings-at-Risk. The table below presents the impact of a parallel shift in rates on our net revenues and preferred stock dividends over the next 12 months relative to the baseline scenario.
+As of
+June | March | June |
+$ in millions | 2026 | 2026 | 2025 |
++100 basis points parallel shift in rates | $ | 56 | $ | 21 | $ | 47 |
+-100 basis points parallel shift in rates | $ | (226) | $ | (234) | $ | (174) |
++200 basis points parallel shift in rates | $ | 98 | $ | 40 | $ | 24 |
+-200 basis points parallel shift in rates | $ | (499) | $ | (489) | $ | (291) |
+In the table above, the EaR metric utilized various assumptions, including, among other things, balance sheet size and composition, prepayment behavior and deposit repricing, all of which have inherent uncertainties. The EaR metric does not represent a forecast of our net revenues and preferred stock dividends.
+Other Market Risk Considerations
+We make investments in securities that are accounted for as available-for-sale, held-to-maturity or under the equity method which are included in investments in the consolidated balance sheets. See Note 8 to the consolidated financial statements for further information.
+Direct investments in real estate are accounted for at cost less accumulated depreciation. See Note 12 to the consolidated financial statements for further information about other assets.
+Financial Statement Linkages to Market Risk Measures
+We employ a variety of risk measures, each described in the respective sections above, to monitor market risk across the consolidated balance sheets and consolidated statements of earnings. The related gains and losses on these positions are included in market making, other principal transactions, interest income and interest expense in the consolidated statements of earnings, and debt valuation adjustment and unrealized gains/(losses) on available-for-sale securities in the consolidated statements of comprehensive income.
+The table below presents certain assets and liabilities accounted for at fair value or accounted for at the lower of cost or fair value in our consolidated balance sheets and the market risk measures used to assess those assets and liabilities.
+Assets or Liabilities | Market Risk Measures |
+Collateralized agreements and financings
+VaR |
+Customer and other receivables
+10% Sensitivity Measures
+Trading assets and liabilities
+VaR
+Credit Spread Sensitivity
+10% Sensitivity Measures
+Investments
+VaR
+10% Sensitivity Measures
+Loans
+VaR
+10% Sensitivity Measures
+Other assets and liabilities | VaR
+Deposits
+VaR
+Credit Spread Sensitivity
+Unsecured borrowings
+VaR
+Credit Spread Sensitivity
+In addition to the above, we measure the interest rate risk for all positions within our consolidated balance sheets using the EaR metric.
+Goldman Sachs June 2026 Form 10-Q
+154
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management's Discussion and Analysis
+Credit Risk Management
+Overview
+Credit risk represents the potential for loss due to the default or deterioration in credit quality of a counterparty (e.g., an OTC derivatives counterparty or a borrower) or an issuer of securities or other instruments we hold. Our exposure to credit risk comes mostly from client transactions in OTC derivatives and loans and lending commitments. Credit risk also comes from cash placed with banks, securities financing transactions (i.e., resale and repurchase agreements and securities borrowing and lending activities) and customer and other receivables.
+Credit Risk, which is part of our second line of defense and reports to our chief risk officer, has primary responsibility for independently assessing, monitoring and managing our credit risk by providing firmwide review and challenge across our global businesses. In addition, we hold other positions that give rise to credit risk (e.g., bonds and secondary bank loans). These credit risks are captured as a component of market risk measures, which are monitored and managed by Market Risk. We also enter into derivatives to manage market risk exposures. Such derivatives also give rise to credit risk, which is monitored and managed by Credit Risk.
+Credit Risk Management Process
+Our process for managing credit risk includes the critical components of our risk management framework described in the "Overview and Structure of Risk Management," as well as the following:
+&#8226;Monitoring compliance with established credit risk limits and reporting our credit exposures and credit concentrations;
+&#8226;Establishing or approving underwriting standards;
+&#8226;Assessing the likelihood that a counterparty will default on its payment obligations;
+&#8226;Measuring our current and potential credit exposure and losses resulting from a counterparty default;
+&#8226;Using credit risk mitigants, including collateral and hedging; and
+&#8226;Maximizing recovery through active workout and restructuring of claims.
+We also perform credit analyses, which incorporate initial and ongoing evaluations of the capacity and willingness of a counterparty to meet its financial obligations. For substantially all of our credit exposures, the core of our process is an annual counterparty credit evaluation or more frequently if deemed necessary as a result of events or changes in circumstances. We determine an internal credit rating for the counterparty by considering the results of the credit evaluations and assumptions with respect to the nature of and outlook for the counterparty's industry and the economic environment. For collateralized loans, we also take into consideration collateral received or other credit support arrangements when determining an internal credit rating. Senior personnel, with expertise in specific industries, inspect and approve credit reviews and internal credit ratings.
+Our risk assessment process may also include, where applicable, reviewing certain key metrics, including, but not limited to, delinquency status, collateral value, Fair Isaac Corporation (FICO) credit scores and other risk factors.
+Our credit risk management systems capture credit exposure to individual counterparties and on an aggregate basis to counterparties and their subsidiaries. These systems also provide management with comprehensive information about our aggregate credit risk by product, internal credit rating, industry, country and region.
+Risk Measures
+We measure our credit risk based on the potential loss in the event of non-payment by a counterparty using current and potential exposure. For derivatives and securities financing transactions, current exposure represents the amount presently owed to us after taking into account applicable netting and collateral arrangements, while potential exposure represents our estimate of the future exposure that could arise over the life of a transaction based on market movements within a specified confidence level. Potential exposure also takes into account netting and collateral arrangements. For loans and lending commitments, the primary measure is a function of the notional amount of the position.
+155
+Goldman Sachs June 2026 Form 10-Q
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management's Discussion and Analysis
+Stress Tests
+We conduct regular stress tests to calculate the credit exposures, including potential concentrations that would result from applying shocks to counterparty credit ratings or credit risk factors (e.g., currency rates, interest rates, equity prices). These shocks cover a wide range of moderate and more extreme market movements, including shocks to multiple risk factors, consistent with the occurrence of a severe market or economic event. In the case of sovereign default, we estimate the direct impact of the default on our sovereign credit exposures, changes to our credit exposures arising from potential market moves in response to the default, and the impact of credit market deterioration on corporate borrowers and counterparties that may result from the sovereign default. Unlike potential exposure, which is calculated within a specified confidence level, stress testing does not generally assume a probability of these events occurring. We also perform firmwide stress tests. See "Overview and Structure of Risk Management" for information about firmwide stress tests.
+To supplement these regular stress tests, as described above, we also conduct tailored stress tests on an ad hoc basis in response to specific events that we deem significant. We also utilize these stress tests to estimate the indirect impact of certain hypothetical events on our country exposures, such as the impact of credit market deterioration on corporate borrowers and counterparties along with the shocks to the risk factors described above. The parameters of these shocks vary based on the scenario reflected in each stress test. We review estimated losses produced by the stress tests in order to understand their magnitude, highlight potential loss concentrations, and assess and seek to mitigate our exposures, where necessary.
+Limits
+We use credit risk limits at various levels, as well as underwriting standards to manage the size and nature of our credit exposures. Limits for industries and countries are based on our risk appetite and are designed to allow for regular monitoring, review, escalation and management of credit risk concentrations. See "Overview and Structure of Risk Management" for information about the limit approval process.
+Credit Risk is responsible for monitoring these limits, and identifying and escalating to senior management and/or the appropriate risk committee, on a timely basis, instances where limits have been exceeded.
+Risk Mitigants
+To reduce our credit exposures on derivatives and securities financing transactions, we may enter into netting agreements with counterparties that permit us to offset receivables and payables with such counterparties. We may also reduce credit risk with counterparties by entering into agreements that enable us to obtain collateral from them on an upfront or contingent basis and/or to terminate transactions if the counterparty's credit rating falls below a specified level. We monitor the fair value of the collateral to ensure that our credit exposures are appropriately collateralized. We seek to minimize exposures where there is a significant positive correlation between the creditworthiness of our counterparties and the market value of collateral we receive.
+For loans and lending commitments, depending on the credit quality of the borrower and other characteristics of the transaction, we employ a variety of potential risk mitigants. Risk mitigants include collateral provisions, guarantees, covenants, structural seniority of the bank loan claims and, for certain lending commitments, provisions in the legal documentation that allow us to adjust loan amounts, pricing, structure and other terms as market conditions change. The type and structure of risk mitigants employed can significantly influence the degree of credit risk involved in a loan or lending commitment.
+When we do not have sufficient visibility into a counterparty's financial strength or when we believe a counterparty requires support from its parent, we may obtain third-party guarantees of the counterparty's obligations. We may also seek to mitigate our credit risk using credit derivatives or participation agreements.
+Credit Exposures
+As of June 2026, our aggregate credit exposure increased compared with December 2025, primarily reflecting increases in loans and lending commitments and cash deposits with central banks. The percentage of our credit exposures arising from non-investment-grade counterparties (based on our internally determined public rating agency equivalents) decreased compared with December 2025, primarily reflecting increases in investment-grade exposure related to loans and lending commitments and cash deposits with central banks. Our credit exposures are described further below.
+Goldman Sachs June 2026 Form 10-Q
+156
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES
+Management's Discussion and Analysis
+Cash and Cash Equivalents. Our credit exposure on cash and cash equivalents arises from our unrestricted cash, and includes both interest-bearing and non-interest-bearing deposits. We seek to mitigate the risk of credit loss by placing substantially all of our deposits with highly rated banks and central banks.
+The table below presents our credit exposure from unrestricted cash and cash equivalents, and the concentration by industry, region and internally determined public rating agency equivalents.
+As of
+June | December
+$ in millions | 2026 | 2025 |
+Cash and Cash Equivalents | $168,711 | $149,456 |
+Industry
+Financial Institutions | 12 | % | 11 | % |
+Sovereign | 88 | % | 89 | % |
+Total | 100 | % | 100 | % |
+Region
+Americas | 62 | % | 65 | % |
+EMEA | 26 | % | 21 | % |
+Asia | 12 | % | 14 | % |
+Total | 100 | % | 100 | % |
+Credit Quality (Credit Rating Equivalent)
+AAA | 72 | % | 77 | % |
+AA | 13 | % | 5 | % |

@@ -1,0 +1,307 @@
+# APO 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/1858681/000185868126000040/apo-20260630.htm
+# full_doc_chars=777143
+
+
+----- [line 1205] -----
+Funds withheld, including related parties | (2,751) | 97 | (2,765) | 150 |
+Interest sensitive contract liabilities | -- | 16,384 | -- | 14,749 |
+Total derivatives not designated as hedges | 7,438 | 21,758 | 5,569 | 19,467 |
+Total derivatives | $ | 8,283 | $ | 22,722 | $ | 6,425 | $ | 20,641 |
+35
+Table of Contents
+APOLLO GLOBAL MANAGEMENT, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+Derivatives Designated as Hedges
+Cash Flow Hedges
+Athene uses interest rate swaps to convert floating-rate interest payments to fixed-rate interest payments to reduce exposure to interest rate changes. The interest rate swaps will expire by January 2036. During the three months ended June 30, 2026 and 2025, Athene recognized losses of $84 million and gains of $76 million, respectively, in other comprehensive income ("OCI") associated with these hedges. During the six months ended June 30, 2026 and 2025, Athene recognized losses of $148 million and gains of $172 million, respectively, in OCI associated with these hedges. There were no amounts deemed ineffective during the three and six months ended June 30, 2026 and 2025. As of June 30, 2026, Athene expected an estimated $20 million of losses to be reclassified to income within the next 12 months based on current market economics; however, actual amounts recognized may vary as a result of changes in relevant market conditions.
+Fair Value Hedges
+Athene uses foreign currency forward contracts, foreign currency swaps, foreign currency interest rate swaps and interest rate swaps that are designated and accounted for as fair value hedges to hedge certain exposures to foreign currency risk and interest rate risk. The foreign currency forward price is agreed upon at the time of the contract and payment is made at a specified future date. The amortized cost of AFS debt securities in qualifying fair value hedges of foreign currency risk was $21.2 billion and $21.3 billion as of June 30, 2026 and December 31, 2025, respectively. The carrying value of interest sensitive contract liabilities in qualifying fair value hedges of foreign currency swaps was $8.5 billion and $8.4 billion as of June 30, 2026 and December 31, 2025, respectively.
+The following represents the carrying amount and the cumulative amount of fair value hedging adjustments of hedged liabilities, excluding liabilities solely hedging foreign currency risk and cumulative amounts related to foreign currency gains (losses):
+June 30, 2026 | December 31, 2025 |
+(In millions) | Carrying amount of the hedged liabilities | Cumulative amount of fair value hedging gains (losses) | Carrying amount of the hedged liabilities | Cumulative amount of fair value hedging gains (losses) |
+Interest sensitive contract liabilities |
+Foreign currency interest rate swaps | $ | 4,017 | $ | 67 | $ | 4,271 | $ | 77 |
+Interest rate swaps | 33,676 | 277 | 19,175 | (20) |
+36
+Table of Contents
+APOLLO GLOBAL MANAGEMENT, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+The following is a summary of the gains (losses) related to the derivatives and related hedged items in fair value hedge relationships:
+Amounts excluded |
+(In millions) | Derivatives | Hedged items | Net | Recognized in income through amortization approach | Recognized in income through changes in fair value |
+Three months ended June 30, 2026 |
+Investment related gains (losses) |
+Foreign currency forwards | $ | 5 | $ | (6) | $ | (1) | $ | 9 | $ | -- |
+Foreign currency swaps | 68 | (80) | (12) | -- | -- |
+Foreign currency interest rate swaps | (9) | 21 | 12 | -- | -- |
+Interest rate swaps | (192) | 194 | 2 | -- | -- |
+Interest sensitive contract benefits |
+Foreign currency interest rate swaps | 21 | (21) | -- | -- | -- |
+Three months ended June 30, 2025 |
+Investment related gains (losses) |
+Foreign currency forwards | (235) | 228 | (7) | 9 | -- |
+Foreign currency swaps | (681) | 699 | 18 | -- | -- |
+Foreign currency interest rate swaps | 344 | (330) | 14 | -- | -- |
+Interest rate swaps | 65 | (49) | 16 | -- | -- |
+Interest sensitive contract benefits |
+Foreign currency interest rate swaps | 25 | (24) | 1 | -- | -- |
+Amounts excluded |
+(In millions) | Derivatives | Hedged items | Net | Recognized in income through amortization approach | Recognized in income through changes in fair value |
+Six months ended June 30, 2026 |
+Investment related gains (losses) |
+Foreign currency forwards | $ | 45 | $ | (42) | $ | 3 | $ | 16 | $ | -- |
+Foreign currency swaps | 241 | (254) | (13) | -- | -- |
+Foreign currency interest rate swaps | (68) | 79 | 11 | -- | -- |
+Interest rate swaps | (299) | 300 | 1 | -- | -- |
+Interest sensitive contract benefits |
+Foreign currency interest rate swaps | 45 | (44) | 1 | -- | -- |
+Six months ended June 30, 2025 |
+Investment related gains (losses) |
+Foreign currency forwards | (350) | 332 | (18) | 19 | -- |
+Foreign currency swaps | (1,013) | 1,058 | 45 | -- | -- |
+Foreign currency interest rate swaps | 481 | (464) | 17 | -- | -- |
+Interest rate swaps | 194 | (174) | 20 | -- | -- |
+Interest sensitive contract benefits |
+Foreign currency interest rate swaps | 48 | (47) | 1 | -- | -- |
+The following is a summary of the gains (losses) excluded from the assessment of hedge effectiveness that were recognized in OCI:
+Three months ended June 30, | Six months ended June 30, |
+(In millions) | 2026 | 2025 | 2026 | 2025 |
+Foreign currency forwards | $ | (3) | $ | 3 | $ | (2) | $ | 29 |
+Foreign currency swaps | (149) | (87) | 44 | 20 |
+37
+Table of Contents
+APOLLO GLOBAL MANAGEMENT, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+Net Investment Hedges
+Athene uses foreign currency forwards to hedge the foreign currency exchange rate risk of its investments in subsidiaries that have a reporting currency other than the U.S. dollar. Hedge effectiveness is assessed based on the changes in forward rates. During the three months ended June 30, 2026 and 2025, these derivatives had losses of $1 million and $14 million, respectively. During the six months ended June 30, 2026 and 2025, these derivatives had gains of $3 million and losses of $22 million, respectively. These derivatives are included in foreign currency translation and other adjustments on the condensed consolidated statements of comprehensive income (loss). As of June 30, 2026 and December 31, 2025, the cumulative foreign currency translations recorded in AOCI related to these net investment hedges were gains of $17 million and $14 million, respectively. During the three and six months ended June 30, 2026 and 2025, there were no amounts deemed ineffective.
+Derivatives Not Designated as Hedges
+
+----- [line 3579] -----
+Foreign exchange rates can materially impact the valuations of our investments and those of the funds we manage that are denominated in currencies other than the U.S. dollar. Strong foreign demand for U.S. assets remains an important support for the U.S. dollar. The U.S. dollar strengthened in the second quarter of 2026 compared to the euro and Japanese yen, however, the U.S. dollar weakened compared to the British pound. Relative to the U.S. dollar, the euro depreciated 1.1% during the second quarter of 2026, after depreciating 1.6% in the first quarter of 2026 and the Japanese yen depreciated 2.4% in the second quarter of 2026, after depreciating 1.3% in the first quarter of 2026, while the British pound appreciated 0.3% during the second quarter of 2026, after depreciating 1.8% in the first quarter of 2026. We generally undertake hedging activities to eliminate or mitigate foreign exchange currency risk. Oil prices ended the second quarter of 2026 down 31.4% from the first quarter of 2026, primarily related to the temporary easing of tensions in the ongoing conflict in the Middle East.
+We are actively monitoring the developments in Ukraine resulting from the Russia/Ukraine conflict and the economic sanctions and restrictions imposed against Russia, Belarus, and certain Russian and Belarusian entities and individuals. The Company continues to (i) identify and assess any exposure to designated persons or entities across the Company's business; (ii) ensure existing surveillance and controls are calibrated to the evolving sanctions; and (iii) ensure appropriate levels of communication across the Company, and with other relevant market participants, as appropriate.
+As of June 30, 2026, the funds we manage have no investments that would cause Apollo or any Apollo managed fund to be in violation of current international sanctions, and we believe the direct exposure of investment portfolios of the funds we manage
+107
+Table of Contents
+to Russia and Ukraine is insignificant. The Company and the funds we manage do not intend to make any new material investments in Russia, and have appropriate controls in place to ensure review of any new exposure.
+Institutional investors continue to allocate capital towards alternative investment managers in search of more attractive returns, and we believe the business environment remains generally accommodative to raise larger successor funds, launch new products, and pursue attractive strategic growth opportunities and addressable markets.
+Private credit, which represents an estimated $40 trillion primarily investment-grade market, has experienced heightened focus, generating industry inquiries around liquidity, valuation methodologies, global wealth access and technology-related portfolio allocations. We believe such inquiries are natural to an evolving asset class that is experiencing strong overall growth. However, the magnified focus has corresponded to increased redemption requests within perpetual non-traded business development company structures across the industry, resulting in lower growth for these products.
+While investor demand for perpetual non-traded business development company structures may experience variability, we believe that the long-term opportunity to provide investors with access to private credit, both investment-grade and sub investment-grade, will remain compelling across cycles.
+Interest Rate Environment
+Medium and long-term rates increased during the second quarter of 2026, with the U.S. 10-year Treasury yield at 4.44% as of June 30, 2026, compared to 4.30% as of March 31, 2026. Short-term rates increased during the second quarter of 2026, with the 3-month secured overnight financing rate at 3.73% as of June 30, 2026, compared to 3.68% as of March 31, 2026.
+With respect to Retirement Services, Athene's investment portfolio predominantly consists of fixed maturity investments. If prevailing interest rates were to rise, we believe the yield on Athene's new investment purchases may also rise and its investment income from floating rate investments would increase, while the value of its existing investments may decline. If prevailing interest rates were to decline significantly, the yield on Athene's new investment purchases may decline and its investment income from floating rate investments would decrease, while the value of its existing investments may increase.
+Athene addresses interest rate risk through managing the duration of the liabilities it sources with assets it acquires through asset liability management ("ALM") modeling. As part of its investment strategy, Athene purchases floating rate investments, which are expected to perform well in a rising interest rate environment and are expected to underperform in a declining rate environment. Athene manages its interest rate risk in a declining rate environment through hedging activity or the issuance of additional floating rate liabilities to lower its overall net floating rate position. As of June 30, 2026, Athene's net invested asset portfolio included $71.2 billion of floating rate assets, or 23% of its net invested assets, and its net reserve liabilities included $68.9 billion of floating rate liabilities at notional, or 22% of its net invested assets, resulting in $2.3 billion of net floating rate assets, or 1% of its net invested assets. Athene's floating rate asset position includes floating rate investments and cash and cash equivalents on a net invested asset basis, adjusted for net investment payables/receivables and cash posted as collateral for derivative transactions.
+If prevailing interest rates were to rise, we believe Athene's products would be more attractive to consumers and its sales would likely increase. If prevailing interest rates were to decline, it is likely that Athene's products would be less attractive to consumers and its sales would likely decrease. In periods of prolonged low interest rates, the net investment spread may be negatively impacted by reduced investment income to the extent Athene is unable to adequately reduce policyholder crediting rates due to policyholder guarantees in the form of minimum crediting rates or otherwise due to market conditions. A significant majority of Athene's deferred annuity products have crediting rates that it may reset annually upon renewal, following the expiration of the current guaranteed period. While Athene has the contractual ability to lower these crediting rates to the guaranteed minimum levels at renewal, its willingness to do so may be limited by competitive pressures. Athene's funding agreements and other investment-type contracts provide little to no discretionary ability to change the rates of interest that determine the amounts payable to the respective policyholder or institution. Other investment-type contracts include immediate annuities without significant mortality risk (which include pension group annuities and structured settlements without life contingencies), guaranteed investment contracts, and assumed endowments without significant mortality risks.
+See "Part I--Item 3. Quantitative and Qualitative Disclosures About Market Risk" in this report and "Part II--Item 7A. Quantitative and Qualitative Disclosures About Market Risk" in our 2025 Annual Report, which include a discussion regarding interest rate and other significant risks and our strategies for managing these risks.
+108
+Table of Contents
+Overview of Results of Operations
+Financial Measures under U.S. GAAP - Asset Management
+The following discussion of financial measures under U.S. GAAP is based on Apollo's asset management business as of June 30, 2026.
+Revenues
+Management Fees
+The significant growth of the assets we manage has had a positive effect on our revenues. Management fees are typically calculated based upon any of "net asset value," "gross assets," "adjusted par asset value," "adjusted costs of all unrealized portfolio investments," "capital commitments," "invested capital," "adjusted assets," "capital contributions," or "stockholders' equity," each as defined in the applicable limited partnership agreement and/or management agreement of the unconsolidated funds or accounts.
+Advisory and Transaction Fees, Net
+As a result of providing advisory services with respect to actual and potential investments, we are entitled to receive fees for transactions related to the acquisition and, in certain instances, disposition and financing of companies, some of which are portfolio companies of the funds we manage, as well as fees for ongoing monitoring of portfolio company operations and directors' fees. We also receive advisory fees for advisory services provided to certain funds. In addition, monitoring fees are generated on certain structured portfolio company investments. Under the terms of the limited partnership agreements for certain funds, the management fee payable by the funds may be subject to a reduction based on a certain percentage (up to 100%) of such advisory and transaction fees, net of applicable broken deal costs ("Management Fee Offset"). Such amounts are presented as a reduction to advisory and transaction fees, net, in the condensed consolidated statements of operations.
+Performance Fees
+The general partners of the funds we manage are entitled to an incentive return of normally up to 20% of the total returns of a fund's capital, depending upon performance of the underlying funds and subject to preferred returns and high water marks, as applicable. Performance fees, categorized as performance allocations, are accounted for as an equity method investment, and effectively, the performance fees for any period are based upon an assumed liquidation of the funds' assets at the reporting date, and distribution of the net proceeds in accordance with the funds' allocation provisions. Performance fees categorized as incentive fees, which are not accounted for as an equity method investment, are deferred until fees are probable to not be significantly reversed. The majority of performance fees consist of performance allocations.
+As of June 30, 2026, approximately 31% of the value of the investments of the funds we manage, on a gross basis, was determined using market-based valuation methods (i.e., reliance on broker or listed exchange quotes) and the remaining 69% was determined primarily by comparable company and industry multiples or discounted cash flow models. See "Item 1A. Risk Factors--Risks Relating to Our Asset Management Business--The performance of the funds we manage, and our performance, may be adversely affected by the financial performance of portfolio companies of the funds we manage and the industries in which the funds we manage invest" in our 2025 Annual Report for discussion regarding certain industry-specific risks that could affect the fair value of certain of the portfolio company investments of the funds we manage.
+In certain funds we manage, generally in our equity strategy, the Company does not earn performance fees until the investors have achieved cumulative investment returns on invested capital (including management fees and expenses) in excess of an 8% hurdle rate. Additionally, certain of the credit funds we manage have various performance fee rates and hurdle rates. Certain of the credit funds we manage allocate performance fees to the general partner in a similar manner as the equity funds. In certain funds we manage, as long as the investors achieve their priority returns, there is a catch-up formula whereby the Company earns a priority return for a portion of the return until the Company's performance fees equate to its performance fee rate for that fund; thereafter, the Company participates in returns from the fund at the performance fee rate. Performance fees, categorized as performance allocations, are subject to reversal to the extent that the performance fees distributed exceed the amount due to the general partner based on a fund's cumulative investment returns. The Company recognizes potential repayment of previously received performance fees as a general partner obligation representing all amounts previously distributed to the general partner that would need to be repaid to the Apollo funds if these funds were to be liquidated based on the current fair value of the
+109
+Table of Contents
+underlying fund's investments as of the reporting date. The actual general partner obligation, however, would not become payable or realized until the end of a fund's life or as otherwise set forth in the respective limited partnership agreement of the fund.
+The table below presents an analysis of Apollo's (i) performance fees receivable on an unconsolidated basis, (ii) unrealized performance fees and (iii) realized performance fees, inclusive of realized incentive fees:
+June 30, 2026 | Performance Fees for the Three Months Ended June 30, 2026
+Performance Fees for the Six Months Ended June 30, 2026
+(In millions) | Performance Fees Receivable on an Unconsolidated Basis | Unrealized | Realized | Total | Unrealized | Realized | Total |
+Accord and Accord+ Funds | $ | 76 | $ | 8 | $ | 2 | $ | 10 | $ | 11 | $ | 9 | $ | 20 |
+AIOF I, II and III | 22 | (2) | -- | (2) | (28) | -- | (28) |
+ANRP I, II and III1
+47 | (21) | 19 | (2) | (24) | 19 | (5) |
+Athora | -- | (5) | -- | (5) | (22) | -- | (22) |
+Champ L.P. | 16 | -- | -- | -- | (148) | 141 | (7) |
+Credit Strategies | 56 | 12 | 1 | 13 | 49 | 5 | 54 |
+EPF Funds1
+52 | 9 | -- | 9 | 20 | -- | 20 |
+FCI Funds | 89 | 1 | -- | 1 | (1) | -- | (1) |
+Freedom Parent Holdings | 15 | 5 | -- | 5 | 15 | -- | 15 |
+Fund X | 542 | 93 | 7 | 100 | 61 | 68 | 129 |
+Fund IX | 918 | (91) | -- | (91) | (217) | 65 | (152) |
+Fund VIII2
+132 | 308 | 1 | 309 | 199 | 2 | 201 |
+Fund VI | 43 | -- | 2 | 2 | -- | 4 | 4 |
+HVF I | 70 | (3) | 4 | 1 | (11) | 14 | 3 |
+HVF II | 220 | (3) | 30 | 27 | 30 | 30 | 60 |
+HVF III | 36 | 29 | -- | 29 | 36 | -- | 36 |
+MidCap FinCo | 38 | -- | 5 | 5 | -- | 10 | 10 |
+Redding Ridge Holdings
+231 | 22 | 8 | 30 | 36 | 16 | 52 |
+Bridge Funds | 95 | (28) | 2 | (26) | (51) | 12 | (39) |
+Other1,3
+574 | (14) | 115 | 101 | (56) | 221 | 165 |
+Total | $ | 3,272 | $ | 320 | $ | 196 | $ | 516 | $ | (101) | $ | 616 | $ | 515 |
+Total, net of profit sharing payable4/expense
+$ | 1,511 | $ | 167 | $ | 86 | $ | 253 | $ | (46) | $ | 209 | $ | 163 |
+1 As of June 30, 2026, certain funds had $163 million in general partner obligations to return previously distributed performance fees. The fair value gain on investments and income at the fund level needed to reverse the general partner obligations was $2.4 billion as of June 30, 2026.
+2 As of June 30, 2026, the remaining investments and escrow cash of Fund VIII was valued at 102% of the fund's unreturned capital, which was below the required escrow ratio of 115%. As a result, the fund is required to place in escrow current and future performance fee distributions to the general partner until the specified return ratio of 115% is met (at the time of a future distribution) or upon liquidation. As of June 30, 2026, Fund VIII had $164 million of gross performance fees, or $92 million net of profit sharing in escrow. With respect to Fund VIII, realized performance fees currently distributed to the general partner are limited to potential tax distributions and interest on escrow balances per the fund's partnership agreement. Performance fees receivable as of June 30, 2026 and realized performance fees for the three and six months ended June 30, 2026 include interest earned on escrow balances that is not subject to contingent repayment.
+3 Other includes certain SIAs.
+4 There was a corresponding profit sharing payable of $1.8 billion as of June 30, 2026, including profit sharing payable related to amounts in escrow and contingent consideration obligations of $56 million.
+The general partners of certain of the funds we manage accrue performance fees, categorized as performance allocations, when the fair value of investments exceeds the cost basis of the individual investors' investments in the fund, including any allocable share of expenses incurred in connection with such investments, which we refer to as "high water marks." These high water marks are applied on an individual investor basis. Certain of the funds we manage have investors with various high water marks, the achievement of which is subject to market conditions and investment performance.
+Performance fees from certain funds we manage are subject to contingent repayment by the general partner in the event of future losses to the extent that the cumulative performance fees distributed from inception to date exceeds the amount computed
+110
+Table of Contents
+
+----- [line 4270] -----
+Investment funds, at fair value | 26,798 | 6.6 | % | 23,888 | 6.2 | % |
+Other investments | 925 | 0.2 | % | 844 | 0.2 | % |
+Total investments of consolidated VIEs | 31,884 | 7.8 | % | 29,992 | 7.7 | % |
+Total investments, including related parties and consolidated VIEs | $ | 409,026 | 100.0 | % | $ | 386,052 | 100.0 | % |
+Athene's total investments, including related parties and consolidated VIEs, were $409.0 billion and $386.1 billion as of June 30, 2026 and December 31, 2025, respectively. The $23.0 billion increase was primarily driven by significant growth from
+140
+Table of Contents
+gross organic inflows of $41.8 billion in excess of gross liability outflows of $20.9 billion, reinvestment of earnings, an increase in consolidated VIE investments and an increase in derivative assets. The increase in consolidated VIE investments was primarily related to an increase in investment funds attributable to net contributions from third-party investors into AAA and AAA Lux and favorable performance of the underlying assets within AAA and AAA Lux, partially offset by the impact on investments from the deconsolidation of a VIE. The increase in derivative assets was primarily related to Athene's call options due to favorable equity market performance in 2026, as well as favorable impacts from derivative swap and forward contracts. These impacts were partially offset by unrealized losses on investments, including foreign exchange impacts, and a decrease in short-term repurchase agreements outstanding. The unrealized losses on investments during the six months ended June 30, 2026 included AFS securities of $1.7 billion, as well as unrealized losses on mortgage loans, attributable to an increase in U.S. Treasury rates in 2026. The unrealized foreign exchange losses on foreign-denominated assets were primarily attributable to the strengthening of the U.S. dollar against foreign currencies in 2026.
+Athene's investment portfolio consists largely of high-quality fixed maturity securities, loans and short-term investments, as well as additional opportunistic holdings in investment funds and other instruments, including equity holdings. Fixed maturity securities and loans include publicly issued corporate bonds, government and other sovereign bonds, privately placed corporate bonds and loans, mortgage loans, CMBS, RMBS, CLOs and ABS. A significant majority of Athene's AFS portfolio, 97.8% and 97.3% as of June 30, 2026 and December 31, 2025, respectively, was invested in assets considered investment grade with an NAIC designation of 1 or 2.
+Athene invests a portion of its investment portfolio in mortgage loans, which are generally composed of high-quality commercial first-lien, as well as mezzanine real estate loans. Athene has acquired mortgage loans through acquisitions and reinsurance arrangements, as well as through an active program to invest in new mortgage loans. It invests in CMLs, primarily on income-producing properties including apartments, industrial properties, office buildings, hotels and retail buildings. Athene's RML portfolio primarily consists of first-lien RMLs collateralized by properties located in the U.S.
+Funds withheld at interest represent a receivable for amounts contractually withheld by ceding companies in accordance with modco and funds withheld reinsurance agreements in which Athene acts as the reinsurer. Generally, assets equal to statutory reserves are withheld and legally owned by the ceding company.
+While the substantial majority of Athene's investment portfolio has been allocated to corporate bonds and structured credit products, a key component of Athene's investment strategy is the opportunistic acquisition of investment funds with attractive risk and return profiles. Athene's investment fund portfolio consists of funds or similar equity structures that employ various strategies including equity and credit funds. Athene has a strong preference for alternative investments that have some or all of the following characteristics, among others: (1) investments with credit- or debt-like characteristics (for example, a stipulated maturity and par value), or alternatively, investments with reduced volatility when compared to pure equity; or (2) investments that Athene believes have less downside risk.
+Athene holds derivatives for economic hedging purposes to reduce its exposure to the cash flow variability of assets and liabilities, equity market risk, foreign exchange risk and interest rate risk. Athene's primary use of derivative instruments relates to providing the income needed to fund the annual index credits on its indexed annuity products. Athene primarily uses indexed options to economically hedge indexed annuity products that guarantee the return of principal to the policyholder and credit interest based on a percentage of the gain in a specific market index. Athene also uses derivative instruments, such as forward contracts and swaps, to hedge foreign currency exposure resulting from foreign-denominated assets and liabilities and to help manage its net floating rate position.
+141
+Table of Contents
+Net Invested Assets
+The following summarizes Athene's net invested assets:
+June 30, 2026 | December 31, 2025 |
+(In millions, except percentages) | Net Invested Asset Value1
+Percentage of Total | Net Invested Asset Value1
+Percentage of Total |
+Corporate | $ | 89,692 | 28.5 | % | $ | 86,664 | 29.6 | % |
+CLO | 21,897 | 7.0 | % | 25,401 | 8.7 | % |
+Credit | 111,589 | 35.5 | % | 112,065 | 38.3 | % |
+CML | 38,930 | 12.4 | % | 31,789 | 10.9 | % |
+RML | 42,786 | 13.6 | % | 43,326 | 14.8 | % |
+RMBS | 7,056 | 2.2 | % | 7,592 | 2.6 | % |
+CMBS | 9,414 | 3.0 | % | 9,877 | 3.4 | % |
+Real estate | 98,186 | 31.2 | % | 92,584 | 31.7 | % |
+ABS | 44,155 | 14.1 | % | 38,417 | 13.1 | % |
+Alternative investments | 15,745 | 5.0 | % | 13,868 | 4.7 | % |
+State, municipal, political subdivisions and foreign government | 3,024 | 1.0 | % | 3,081 | 1.0 | % |
+Equity securities | 1,797 | 0.6 | % | 2,039 | 0.7 | % |
+Short-term investments | 242 | 0.1 | % | 207 | 0.1 | % |
+U.S. government and agencies | 19,724 | 6.3 | % | 14,225 | 4.9 | % |
+Other investments | 84,687 | 27.1 | % | 71,837 | 24.5 | % |
+Cash and cash equivalents | 13,512 | 4.3 | % | 10,490 | 3.6 | % |
+Other | 6,116 | 1.9 | % | 5,438 | 1.9 | % |
+Net invested assets | $ | 314,090 | 100.0 | % | $ | 292,414 | 100.0 | % |
+1 See "Managing Business Performance - Key Segment and Non-U.S. GAAP Performance Measures" for the definition of net invested assets.
+Athene's net invested assets were $314.1 billion and $292.4 billion as of June 30, 2026 and December 31, 2025, respectively. As of June 30, 2026, corporate securities included $24.1 billion of private placements, which represented 7.7% of Athene's net invested assets. The $21.7 billion increase in net invested assets was primarily driven by growth from net organic inflows of $33.1 billion in excess of net liability outflows of $16.2 billion, the reinvestment of earnings and favorable alternative investment performance. These impacts were partially offset by a decrease in net short-term repurchase agreements outstanding in 2026 and the payment of common and preferred stock dividends.
+In managing its business, Athene utilizes net invested assets as presented in the above table. Net invested assets do not correspond to Athene's total investments, including related parties, on the condensed consolidated statements of financial condition, as discussed previously in "Managing Business Performance -- Key Segment and Non-U.S. GAAP Performance Measures." Net invested assets represent Athene's investments that directly back its net reserve liabilities and surplus assets. Athene believes this view of its portfolio provides a view of the assets for which it has economic exposure. Athene adjusts the presentation for assumed and ceded reinsurance transactions to include or exclude the underlying investments based upon the contractual transfer of economic exposure to such underlying investments. Athene also adjusts for VIEs to show the net investment in the funds, which are included in the alternative investments line above, as well as adjusting for the allowance for credit losses. Net invested assets include Athene's proportionate share of ACRA investments, based on its economic ownership, but exclude the proportionate share of investments associated with the non-controlling interests.
+Net invested assets is utilized by management to evaluate Athene's investment portfolio. Net invested assets is used in the computation of net investment earned rate, which allows Athene to analyze the profitability of its investment portfolio. Net invested assets is also used in Athene's risk management processes for asset purchases, product design and underwriting, stress scenarios, liquidity and ALM.
+AP Grange
+During the second quarter of 2026, AP Grange called its outstanding ABS debt and as a result, Athene recognized a gain of $673 million in GAAP income. Additionally, within its non-GAAP results for the second quarter of 2026, Athene recognized a non-operating gain of $458 million, net of the ACRA non-controlling interests.
+142
+Table of Contents
+Principal Investing
+The following table presents Principal Investing Income, the performance measure of our Principal Investing segment.
+Three months ended June 30, | Total Change | Percentage Change | Six months ended June 30, | Total Change | Percentage Change |
+(In millions, except percentages) | 2026 | 2025 | 2026 | 2025 |
+Principal Investing: |
+Realized performance fees | $ | 130 | $ | 219 | $ | (89) | (40.6)% | $ | 487 | $ | 409 | $ | 78 | 19.1% |
+Realized investment income (loss) | 27 | 13 | 14 | 107.7 | 73 | 41 | 32 | 78.0 |
+Principal investing compensation | (123) | (168) | (45) | (26.8) | (436) | (356) | 80 | 22.5 |
+Other operating expenses | (18) | (17) | 1 | 5.9 | (33) | (33) | -- | -- |
+Principal Investing Income (PII) | $ | 16 | $ | 47 | $ | (31) | (66.0)% | $ | 91 | $ | 61 | $ | 30 | 49.2% |
+As described in "Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations--General", earnings from our Principal Investing segment are inherently more volatile in nature than earnings from our Asset Management segment due to the intrinsic cyclical nature of performance fees, one of the key drivers of PII performance.
+Three Months Ended June 30, 2026 Compared to the Three Months Ended June 30, 2025
+In this section, references to 2026 refer to the three months ended June 30, 2026 and references to 2025 refer to the three months ended June 30, 2025.
+PII was $16 million in 2026, a decrease of $31 million, as compared to $47 million in 2025. This decrease was primarily attributable to a decrease in realized performance fees of $89 million, partially offset by a decrease in principal investing compensation expense of $45 million and an increase in realized investment income of $14 million.
+The decrease in realized performance fees of $89 million in 2026 was primarily due to a decrease in realized performance fees generated from Fund IX, partially offset by an increase in realized performance fees earned from ADIP, HVF II and ANRP III.
+Principal investing compensation expense of $123 million in 2026 decreased $45 million, as compared to $168 million in 2025. The decrease in 2026 was primarily due to a decrease in profit sharing expense corresponding to the decrease in realized performance fees. In any period, the blended profit sharing percentage is impacted by the respective profit sharing ratios of the funds generating performance allocations in the period.
+The increase in realized investment income of $14 million in 2026 was primarily attributable to realizations from certain of the Company's investments.
+Six Months Ended June 30, 2026 Compared to the Six Months Ended June 30, 2025
+In this section, references to 2026 refer to the six months ended June 30, 2026 and references to 2025 refer to the six months ended June 30, 2025.
+PII was $91 million in 2026, an increase of $30 million, as compared to $61 million in 2025. This increase was primarily attributable to increases in realized performance fees and realized investment income of $78 million and $32 million, respectively, partially offset by an increase in principal investing compensation expense of $80 million.
+The increase in realized performance fees of $78 million in 2026 was primarily driven by an increase in realized performance fees generated from a portfolio company sale and Fund X, partially offset by a decrease in realized performance fees earned from Fund IX.
+The increase in realized investment income of $32 million in 2026 was primarily attributable to gains realized in connection with a portfolio company sale and from certain of the Company's investments, partially offset by realized loss on disposition of investments.
+Principal investing compensation expense of $436 million in 2026 increased $80 million, as compared to $356 million in 2025. The increase in 2026 was primarily due to an increase in profit sharing expense corresponding to the increase in realized
+143
+Table of Contents
+
+----- [line 4743] -----
+Net income (loss) attributable to obligor group | 1 |
+160
+Table of Contents
+The following are transactions of the obligor group with non-guarantor subsidiaries.
+(In millions) | June 30, 2026 | December 31, 2025 |
+Due from non-guarantor subsidiaries | $ | 1,175 | $ | 1,150 |
+Due to non-guarantor subsidiaries | 1,617 | 1,364 |
+(In millions) | Six months ended June 30, 2026 |
+Intercompany revenue | $ | 785 |
+Intercompany expense | 300 |
+Intercompany interest income | 17 |
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+Market risk is the risk of incurring losses due to adverse changes in market rates and prices. Included in market risk are potential losses in value due to credit and counterparty risk, interest rate risk, currency risk, commodity price risk, equity price risk and inflation risk.
+In our asset management business, our predominant exposure to market risk is related to our role as investment manager and general partner for the funds we manage and the sensitivity to movements in the fair value of their investments and resulting impact on performance fees and management fee revenues. Our direct investments in the funds we manage also expose us to market risk whereby movements in the fair values of the underlying investments will increase or decrease both net gains (losses) from investment activities and income (loss) from equity method investments.
+Our retirement services business is exposed to market risk through its investment portfolio, its counterparty exposures and its hedging and reinsurance activities. Athene's primary market risk exposures are to credit risk, interest rate risk and equity price risk.
+For a discussion of our market risk exposures in general, please see "Part II--Item 7A. Quantitative and Qualitative Disclosures About Market Risk" in our 2025 Annual Report.
+There have been no material changes to market risk exposures from those previously disclosed in our 2025 Annual Report, except as described below.
+Sensitivities
+Retirement Services
+Interest Rate Risk
+Athene assesses interest rate exposure for financial assets and liabilities using hypothetical stress tests and exposure analyses. Assuming all other factors are constant, if there was an immediate parallel increase in interest rates of 100 basis points from levels as of June 30, 2026, Athene estimates a net decrease to its point-in-time income (loss) before income tax (provision) benefit from changes in the fair value of these financial instruments of $4.9 billion, net of offsets. If there was a similar parallel increase in interest rates from levels as of December 31, 2025, Athene estimates a net decrease to its point-in-time income (loss) before income tax (provision) benefit from changes in the fair value of these financial instruments of $4.2 billion, net of offsets. The increase in sensitivity to point-in-time income (loss) before income tax (provision) benefit from changes in the fair value of these financial instruments as of June 30, 2026, when compared to December 31, 2025, is primarily driven by the purchase of assets with longer maturity dates and derivative activity during 2026. The financial instruments included in the sensitivity analysis are carried at fair value and changes in fair value are recognized in earnings. These financial instruments include derivative instruments, embedded derivatives, mortgage loans, certain fixed maturity securities and market risk benefits. The sensitivity analysis excludes those financial instruments carried at fair value for which changes in fair value are recognized in equity, such as AFS fixed maturity securities.
+Assuming a 25 basis point increase in interest rates that persists for a 12-month period, the estimated impact to spread related earnings due to the change in net investment spread from floating rate assets and liabilities would be an increase of
+161
+Table of Contents
+approximately $10 million, and a 25 basis point decrease would generally result in a similar decrease. This is calculated without regard to future changes to assumptions. Athene's floating rate asset position includes floating rate investments and cash and cash equivalents on a net invested asset basis, adjusted for net investment payables/receivables and cash posted as collateral for derivative transactions.
+Changes in the fair value of market risk benefits due to current period movement in the interest rate curve used to discount the reserve are reflected in net income (loss) but excluded from spread related earnings. However, changes in interest rates that impact the cost of the projected GLWB and GMDB rider benefits, included within Athene's market risk benefit reserve, are amortized within cost of funds in spread related earnings over the life of the business. Assuming a parallel increase in interest rates of 25 basis points, the estimated impact to spread related earnings over a 12-month period related to market risk benefits would be an increase of approximately $30 to $50 million, and a parallel decrease in interest rates of 25 basis points would generally result in a similar decrease. This is calculated without regard to future changes to assumptions.
+Athene is unable to make forward-looking estimates regarding the impact on net income (loss) of changes in interest rates that persist for a longer period of time, or changes in the shape of the yield curve over time, as a result of an inability to determine how such changes will affect certain of the items that Athene characterizes as "adjustments to income before income taxes" in its reconciliation between net income (loss) available to Athene Holding Ltd. common stockholder and spread related earnings. See "Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations--Summary of Non-U.S. GAAP Measures" for the reconciliation of net income (loss) attributable to Apollo Global Management, Inc. common stockholders to adjusted net income, of which spread related earnings is a component. The impact of changing rates on these adjustments is likely to be significant. See above for a discussion regarding the estimated impact on income (loss) before income tax (provision) benefit of an immediate, parallel increase in interest rates of 100 basis points from levels as of June 30, 2026, which discussion encompasses the impact of such an increase on certain of the adjustment items.
+The models used to estimate the impact of changes in market interest rates incorporate numerous assumptions, require significant estimates and assume an immediate change in interest rates without any discretionary management action to counteract such a change. Consequently, potential changes in Athene's valuations indicated by these simulations will likely be different from the actual changes experienced under any given interest rate scenarios and these differences may be material. Because Athene actively manages its assets and liabilities, the net exposure to interest rates can vary over time. However, any such decreases in the fair value of fixed maturity securities, unless related to credit concerns of the issuer requiring recognition of credit losses, would generally be realized only if Athene were required to sell such securities at losses to meet liquidity needs.
+162
+Table of Contents
+ITEM 4. CONTROLS AND PROCEDURES
+We maintain "disclosure controls and procedures", as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act, that are designed to ensure that information required to be disclosed by us in reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in SEC rules and forms, and that such information is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure. In designing disclosure controls and procedures, our management necessarily was required to apply its judgment in evaluating the cost-benefit relationship of possible disclosure controls and procedures. The design of any disclosure controls and procedures also is based in part upon certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions. Any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired objectives.
+Our management, including our Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of our disclosure controls and procedures pursuant to Rule 13a-15 under the Exchange Act as of the end of the period covered by this report. Based on that evaluation, our Chief Executive Officer and Chief Financial Officer have concluded that, as of the end of the period covered by this report, our disclosure controls and procedures (as defined in Rule 13a-15(e) under the Exchange Act) are effective at the reasonable assurance level to accomplish their objectives of ensuring that information we are required to disclose in reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in SEC rules and forms, and that such information is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer as appropriate, to allow timely decisions regarding required disclosure.
+No changes in our internal control over financial reporting (as such term is defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) occurred during our most recent quarter, that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+163
+Table of Contents
+PART II - OTHER INFORMATION
+ITEM 1. LEGAL PROCEEDINGS
+See a summary of the Company's legal proceedings set forth in note 17 to our condensed consolidated financial statements, which is incorporated by reference herein.
+ITEM 1A. RISK FACTORS
+For a discussion of our potential risks and uncertainties, see the information under the heading "Item 1A. Risk Factors" in our 2025 Annual Report, which is accessible on the SEC's website at www.sec.gov. There have been no material changes to the risk factors disclosed in the 2025 Annual Report.
+The risks described in our 2025 Annual Report are not the only risks facing us. Additional risks and uncertainties not currently known to us or that we currently deem to be immaterial also may materially adversely affect our business, financial condition and/or operating results.
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+Unregistered Sales of Equity Securities
+In May 2026, the Company issued 24,383 restricted shares under the 2019 Omnibus Equity Incentive Plan for Estate Planning Vehicles and 2,796 restricted shares under the 2019 Omnibus Equity Incentive Plan to certain holders of vested performance fee rights. The shares were issued in private placements in reliance on Regulation D or Section 4(a)(2) of the Securities Act.
+164
+Table of Contents
+Purchases of Equity Securities by the Issuer and Affiliated Purchasers
+The following table sets forth information regarding repurchases of shares of common stock during the fiscal quarter ended June 30, 2026.
+Period | Total number of shares of common stock purchased | Average price paid per share | Total number of shares of common stock purchased as part of publicly announced plans or programs1
+Approximate dollar value of common stock that may yet be purchased under the plans or programs |
+April 1, 2026 through April 30, 2026 |
+Opportunistic repurchases | -- | -- |
+Equity award-related repurchases2
+6,002 | 6,002 |
+Total | 6,002 | $ | 111.42 | 6,002 | $ | 3,133,320,128 |
+May 1, 2026 through May 31, 2026 |
+Opportunistic repurchases | 31,772 | 31,772 |
+Equity award-related repurchases2
+543,477 | 543,477 |
+Total | 575,249 | $ | 133.57 | 575,249 | $ | 3,056,486,601 |
+June 1, 2026 through June 30, 2026 |
+Opportunistic repurchases | 200,445 | 200,445 |
+Equity award-related repurchases2
+-- | -- |
+Total | 200,445 | $ | 124.76 | 200,445 | $ | 3,031,478,576 |
+Total |
+Opportunistic repurchases | 232,217 | 232,217 |
+Equity award-related repurchases2
+549,479 | 549,479 |
+Total | 781,696 | 781,696 |
+1 Effective February 9, 2026, the AGM board of directors terminated the Company's prior share repurchase program and approved a new share repurchase program, pursuant to which, the Company is authorized to repurchase up to $4.0 billion of shares of its common stock to opportunistically reduce the Company's share count or offset the dilutive impact of share issuances under the Equity Plan. Under the share repurchase program, repurchases may be of outstanding shares of common stock occurring from time to time in open market transactions, in privately negotiated transactions, pursuant to a trading plan adopted in accordance with Rule 10b5-1 of the Exchange Act, or otherwise, as well as through reductions of shares that otherwise would have been issued to participants under the Equity Plan in order to satisfy associated tax obligations. The share repurchase program does not obligate the Company to make any repurchases at any specific time. The program is effective until the aggregate repurchase amount that has been approved by the AGM board of directors has been expended. The program may be suspended, extended, modified or discontinued at any time.
+2 Represents repurchases of shares of common stock in order to offset the dilutive impact of share issuances under the Equity Plan including reductions of shares of common stock that otherwise would have been issued to participants under the Equity Plan in order to satisfy associated tax obligations.
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+Not applicable.
+ITEM 4. MINE SAFETY DISCLOSURES
+Not applicable.
+ITEM 5. OTHER INFORMATION
+On June 10, 2026, John Zito, Co-President of AAM, terminated a trading arrangement intended to satisfy the affirmative defense of Rule 10b5-1(c). The trading arrangement was entered into on March 12, 2026, and was scheduled to terminate on December 31, 2026. The plan provided for the potential sale of up to 50,000 shares of the Company's common stock. No shares were sold under the plan.

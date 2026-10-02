@@ -1,0 +1,462 @@
+# PFSI 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/1745916/000110465926090486/pfsi-20260630x10q.htm
+# full_doc_chars=415106
+
+
+----- [line 972] -----
+&#8203;
+&#8203;
+2
+&#8203;
+&#8203;
+(105)
+&#8203;
+&#8203;
+(35)
+&#8203;
+&#8203;
+80
+Repricing of payable to exchanged Private National Mortgage Acceptance Company, LLC unitholders under tax receivable agreement
+&#8203;
+&#8203;
+--
+&#8203;
+&#8203;
+1,092
+&#8203;
+&#8203;
+--
+&#8203;
+&#8203;
+1,092
+Other
+&#8203;
+&#8203;
+19,496
+&#8203;
+&#8203;
+4,516
+&#8203;
+&#8203;
+25,616
+&#8203;
+&#8203;
+9,434
+Total net revenues
+&#8203;
+&#8203;
+496,965
+&#8203;
+&#8203;
+444,730
+&#8203;
+&#8203;
+1,041,949
+&#8203;
+&#8203;
+875,633
+Expenses
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+Compensation
+&#8203;
+&#8203;
+222,820
+&#8203;
+&#8203;
+187,541
+&#8203;
+
+----- [line 1966] -----
+4,082
+&#8203;
+&#8203;
+178
+Change in fair value of investment in common shares of
+PennyMac Mortgage Investment Trust
+&#8203;
+&#8203;
+95
+&#8203;
+&#8203;
+(21)
+Repricing of payable to exchanged Private National Mortgage Acceptance Company, LLC unitholders under tax receivable agreement
+&#8203;
+&#8203;
+--
+&#8203;
+&#8203;
+(1,092)
+Stock-based compensation expense
+&#8203;
+&#8203;
+6,911
+&#8203;
+&#8203;
+18,602
+Provision for servicing advance losses
+&#8203;
+&#8203;
+45,021
+&#8203;
+&#8203;
+11,970
+Depreciation and amortization
+&#8203;
+&#8203;
+27,932
+&#8203;
+&#8203;
+28,627
+Impairment of capitalized software
+&#8203;
+&#8203;
+1,535
+&#8203;
+&#8203;
+--
+Amortization of operating lease right-of-use assets
+&#8203;
+&#8203;
+8,639
+&#8203;
+&#8203;
+7,036
+Purchase of loans held for sale from non-affiliates
+&#8203;
+&#8203;
+(51,722,435)
+&#8203;
+&#8203;
+(2,202,139)
+Origination of loans held for sale
+&#8203;
+&#8203;
+(21,020,089)
+&#8203;
+&#8203;
+(11,725,361)
+Purchase of loans held for sale from PennyMac Mortgage Investment Trust
+&#8203;
+&#8203;
+--
+
+----- [line 8585] -----
+$
+7,686,901
+&#8203;
+$
+8,983,503
+&#8203;
+&#8203;
+&#8203;
+36
+Table of Contents
+Note 10--Derivative Financial Instruments
+&#8203;
+The Company holds and issues derivative financial instruments in connection with its operating and investing activities. Derivative financial instruments are created in the Company's loan production activities and when the Company enters into derivative transactions as part of its interest rate risk management activities:
+&#8203;
+&#9679; | Derivative financial instruments created in the Company's loan production activities are IRLCs that are created when the Company commits to purchase or originate a loan for sale. |
+&#9679; | The Company engages in interest rate risk management activities in an effort to moderate the effect of changes in market interest rates on the fair value of certain of its assets. To manage this fair value risk resulting from interest rate risk, the Company uses derivative financial instruments acquired with the intention of reducing the risk that changes in market interest rates will result in unfavorable changes in the fair value of the Company's IRLCs, inventory of loans held for sale and its MSRs. |
+&#8203;
+The Company does not designate and qualify any of its derivatives for hedge accounting. The Company records all derivative financial instruments at fair value and records changes in fair value in current period income.
+&#8203;
+The Company has elected to present net derivative asset and liability positions, and cash collateral obtained from or posted to its counterparties when subject to a master netting arrangement that is legally enforceable on all counterparties in the event of default. The derivatives that are not subject to a master netting arrangement are IRLCs.
+&#8203;
+37
+Table of Contents
+Derivative Notional Amounts and Fair Value of Derivatives
+&#8203;
+The Company had the following derivative financial instruments recorded on its consolidated balance sheets:
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+June 30, 2026
+&#8203;
+December 31, 2025
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+Fair value
+&#8203;
+&#8203;
+&#8203;
+Fair value
+&#8203;
+&#8203;
+Notional
+&#8203;
+Derivative
+&#8203;
+Derivative
+&#8203;
+Notional
+&#8203;
+Derivative
+&#8203;
+Derivative
+Derivative instrument
+&#8203; &#8203; &#8203;
+amounts (1)
+&#8203; &#8203; &#8203;
+
+----- [line 12920] -----
+&#8203;
+&#8203;
+&#8203;
+$
+521,743,590
+&#8203;
+$
+452,998,620
+&#8203;
+&#8203;
+Note 17--Income Taxes
+&#8203;
+The Company's effective income tax rates were 31.1% and (78.5)% for the quarters ended June 30, 2026 and 2025, respectively, and 23.6% and (17.8)% for the six months ended June 30, 2026 and 2025, respectively. The increase in the effective income tax rates for the quarter and six months ended June 30, 2026 compared to the same periods ended in 2025 is primarily due to the non-recurrence of a $81.6 million net income tax benefit recognized in the prior year period, due to the repricing of deferred tax liabilities resulting from changes to California's apportionment rules enacted into law in June 2025 requiring the Company to apportion income to California using a single sales factor instead of a factor equally weighted among property, payroll and sales.
+&#8203;
+Note 18--Commitments and Contingencies
+&#8203;
+Commitments to Purchase and Fund Mortgage Loans
+&#8203;
+The Company's commitments to purchase and fund loans totaled $12.1 billion as of June 30, 2026.
+&#8203;
+Legal and Regulatory Proceedings
+&#8203;
+From time to time, the Company may be a party to legal and regulatory proceedings, lawsuits and other claims arising in the ordinary course of its business. The amount, if any, of ultimate liability with respect to such matters cannot be determined, but despite the inherent uncertainties of litigation, management believes that the ultimate disposition of any such proceedings and exposure will not have, individually or taken together, a material adverse effect on the financial condition, income, or cash flows of the Company.
+&#8203;
+&#8203;
+Note 19--Stockholders' Equity
+&#8203;
+The Company's stock repurchase program provides for the repurchase of up to $2 billion of its common stock, before transaction costs and excise tax.
+&#8203;
+Following is a summary of activity under the stock repurchase program:
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+Quarter ended June 30,
+&#8203;
+Six months ended June 30,
+&#8203;
+Cumulative
+&#8203;
+&#8203;
+2026
+&#8203; &#8203; &#8203;
+2025
+&#8203; &#8203; &#8203;
+2026
+&#8203; &#8203; &#8203;
+2025
+&#8203; &#8203; &#8203;
+total (1)
+&#8203;
+&#8203;
+(in thousands)
+Shares of common stock repurchased
+&#8203;
+&#8203;
+--
+
+----- [line 19789] -----
+Technology expenses increased $2.2 million and $8.1 million during the quarter and six months ended June 30, 2026, respectively, compared to the same periods in 2025. The increases were primarily due to an increase in software license expenses and a $1.2 million and $1.5 million impairment of capitalized software recorded during the quarter and six months ended June 30, 2026, respectively.
+&#8203;
+Servicing
+&#8203;
+Servicing expenses increased $14.2 million and $30.6 million during the quarter and six months ended June 30, 2026, respectively, compared to the same periods in 2025. The increase was primarily due to increases in provision for losses on servicing advances resulting from higher delinquent loan balances reflecting a larger servicing portfolio and a larger proportion of delinquencies of 90 days or greater.
+&#8203;
+Marketing and advertising
+&#8203;
+Marketing and advertising expenses increased $4.5 million and $16.2 million during the quarter and six months ended June 30, 2026, respectively, compared to the same periods in 2025. The increases were primarily due to additional marketing expenses incurred as an Official Supporter of Team USA, including marketing during the 2026 winter Olympics.
+&#8203;
+Provision for Income Taxes
+&#8203;
+Our effective income tax rates were 31.1% and (78.5)% for the quarters ended June 30, 2026 and 2025, respectively, and 23.6% and (17.8)% for the six months ended June 30, 2026 and 2025, respectively. The increase in the effective income tax rates for the quarter and six months ended June 30, 2026 compared to the same periods ended in 2025 is primarily due the non-recurrence of a $81.6 million net income tax benefit recognized in the prior year period, due to the repricing of deferred tax liabilities resulting from changes to California's apportionment rules enacted into law in June 2025 requiring the Company to apportion income to California using a single sales factor instead of a factor equally weighted among property, payroll and sales.
+&#8203;
+&#8203;
+72
+Table of Contents
+Balance Sheet Analysis
+&#8203;
+Following is a summary of key balance sheet items as of the dates presented:
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+June 30,
+&#8203;
+December 31,
+&#8203;
+&#8203; &#8203; &#8203;
+2026
+&#8203; &#8203; &#8203;
+2025
+&#8203;
+&#8203;
+(in thousands)
+ASSETS
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+Cash and short-term investment
+&#8203;
+$
+748,621
+&#8203;
+$
+711,717
+Principal-only stripped mortgage-backed securities
+&#8203;
+&#8203;
+609,103
+&#8203;
+&#8203;
+722,528
+Loans held for sale at fair value
+&#8203;
+&#8203;
+7,819,890
+&#8203;
+&#8203;
+9,123,410
+Derivative assets
+&#8203;
+&#8203;
+
+----- [line 21012] -----
+&#8203;
+July 15, 2026
+&#8203;
+Critical Accounting Estimates
+Preparation of financial statements in compliance with GAAP requires us to make estimates that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the financial statements, and revenues and expenses during the reporting period. Certain of these estimates significantly influence the portrayal of our financial condition and results, and they require us to make difficult, subjective or complex judgments. Our critical accounting policies primarily relate to our fair value estimates.
+Our Annual Report on Form 10-K for the year ended December 31, 2025 contains a discussion of our critical accounting policies, which utilize relevant critical accounting estimates. There have been no significant changes in our critical accounting policies and estimates during the quarter ended June 30, 2026 as compared to the critical accounting policies and estimates disclosed in our Annual Report on Form 10-K for the year ended December 31, 2025.
+&#8203;
+&#8203;
+79
+Table of Contents
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+&#8203;
+Market risk is the exposure to loss resulting from changes in interest rates, foreign currency exchange rates, commodity prices, equity prices, real estate values and other market-based risks. The primary market risks that we are exposed to are fair value risk, interest rate risk and prepayment risk.
+Fair Value Risk
+Our IRLCs, mortgage loans held for sale, principal-only stripped MBS, MSRs and MSLs are reported at their fair values. The fair value of these assets fluctuates primarily due to changes in interest rates. The fair value risk we face is primarily attributable to interest rate risk and prepayment risk.
+Interest Rate Risk
+Interest rate risk is highly sensitive to many factors, including governmental monetary and tax policies, domestic and international economic and political considerations, and other factors beyond our control. Changes in interest rates affect both the fair value of, and interest income we earn from, our mortgage-related investments and our derivative financial instruments. This effect is most pronounced with fixed-rate mortgage assets.
+In general, rising interest rates negatively affect the fair value of our IRLCs, inventory of mortgage loans held for sale, and principal-only stripped MBS and positively affect the fair value of our MSRs. Changes in interest rates significantly influence the prepayment speeds of the loans underlying our investments in MSRs, which can have a significant effect on their fair values. Changes in interest rate are most prominently reflected in the prepayment speeds of the loans underlying our investments in MSRs and the discount rate used in their valuation.
+Our operating results will depend, in part, on differences between the income from our investments and our financing costs. Presently most of our secured debt financing is based on a floating rate of interest calculated on a fixed spread over the relevant index, as determined by the particular financing arrangement.
+Prepayment Risk
+To the extent that the actual prepayment rate on the mortgage loans underlying our MSRs differs from what we projected when we initially recognized these assets and liabilities when we measure fair value as of the end of each reporting period, the carrying value of these assets and liabilities will be affected. In general, a decrease in the principal balances of the mortgage loans underlying our MSRs or an increase in prepayment expectations will decrease our estimates of the fair value of the MSRs, thereby reducing net servicing income, partially offset by the beneficial effect on net servicing income of a corresponding reduction in the fair value of our MSLs and an increase in the fair value of our principal-only stripped MBS.
+Risk Management Activities
+We engage in risk management activities primarily in an effort to mitigate the effect of changes in interest rates on the fair value of our assets. To manage this price risk, we use derivative financial instruments acquired with the intention of moderating the risk that changes in market interest rates will result in unfavorable changes in the fair value of our assets, primarily prepayment exposure on our MSR investments as well as IRLCs and our inventory of loans held for sale. Our objective is to minimize our hedging expense and maximize our loss coverage based on a given hedge expense target. We do not use derivative financial instruments other than IRLCs for purposes other than in support of our risk management activities.
+Our strategies are reviewed daily within a disciplined risk management framework. We use a variety of interest rate and spread shifts and scenarios and define target limits for market value and liquidity loss in those scenarios. With respect to our IRLCs and inventory of loans held for sale, we use MBS forward sale contracts to lock in the price at which we will sell the mortgage loans or resulting MBS, and further use MBS put options to mitigate the risk of our IRLCs not closing at the rate we expect. With respect to our MSRs, we seek to mitigate mortgage-based loss exposure utilizing MBS forward purchase and sale contracts and principal-only stripped MBS, address exposures to smaller interest rate shifts with Treasury and interest rate swap futures, and use options and swaptions to achieve target coverage levels for larger interest rate shocks.
+80
+Table of Contents
+Fair Value Sensitivities
+The following sensitivity analyses are limited in that they were performed at a particular point in time; only contemplate the movements in the indicated variables; do not incorporate changes to other variables; are subject to the accuracy of various models and inputs used; and do not incorporate other factors that would affect our overall financial performance in such scenarios, including operational adjustments made by management to account for changing circumstances. For these reasons, the following estimates should not be viewed as earnings forecasts.
+Mortgage Servicing Rights
+&#8203;
+The following tables summarize the estimated change in fair value of MSRs as of June 30, 2026, given several shifts in prepayment speeds, option adjusted spreads and annual per loan cost of servicing:
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+&#8203;
+Change in fair value attributable to shift in:
+&#8203; &#8203; &#8203;
+-20%
+&#8203; &#8203; &#8203;
+-10%
+&#8203; &#8203; &#8203;
+-5%
+&#8203; &#8203; &#8203;
++5%
+&#8203; &#8203; &#8203;
++10%
+&#8203; &#8203; &#8203;
++20%
+&#8203;
+&#8203;
+(in thousands)
+&#8203;
+Prepayment speed
+&#8203;
+$
+443,608
+&#8203;
+$
+231,496
+&#8203;
+$
+117,709
+&#8203;
+$
+(118,629)
+&#8203;
