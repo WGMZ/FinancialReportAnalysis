@@ -1,0 +1,190 @@
+# LPLA 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/1397911/000162828026051542/lpla-20260630.htm
+# full_doc_chars=234866
+
+
+----- [line 1426] -----
+(26,035) |
+Balance at December 31, 2025 | 2,644,723 |
+Goodwill acquired | 29,854 |
+Purchase accounting adjustments | 7,084 |
+Balance at June 30, 2026
+$ | 2,681,661 |
+The Company completed various acquisitions, which were accounted for under the acquisition method of accounting for business combinations and as asset acquisitions, and recorded purchase accounting adjustments during the periods presented. See Note 4 - Acquisitions, for additional information.
+37
+Table of Contents
+LPL FINANCIAL HOLDINGS INC. AND SUBSIDIARIES
+Notes to Condensed Consolidated Financial Statements (Unaudited)
+The components of other intangibles, net were as follows at June 30, 2026 (in thousands):
+Weighted-Average Life
+Remaining
+(in years) | Gross
+Carrying
+Value | Accumulated Amortization | Net
+Carrying
+Value |
+Definite-lived intangibles, net(1):
+Advisor and institution relationships
+13.2 | $ | 3,437,483 | $ | (954,637) | $ | 2,482,846 |
+Client relationships | 11.9 | 1,064,017 | (183,203) | 880,814 |
+Trade name | 15.1 | 26,000 | (1,490) | 24,510 |
+Technology | 2.6 | 20,930 | (16,325) | 4,605 |
+Product sponsor relationships | 0.8 | 234,086 | (233,083) | 1,003 |
+Total definite-lived intangible assets, net | $ | 4,782,516 | $ | (1,388,738) | $ | 3,393,778 |
+Other indefinite-lived intangibles: |
+Trademark and trade name | 39,819 |
+Total other intangibles, net | $ | 3,433,597 |
+_______________________________
+(1)During the six months ended June 30, 2026, the Company completed various acquisitions. See Note 4 - Acquisitions, for additional information.
+The components of other intangibles, net were as follows at December 31, 2025 (in thousands):
+Weighted-Average Life
+Remaining
+(in years) | Gross
+Carrying
+Value | Accumulated Amortization | Net
+Carrying
+Value |
+Definite-lived intangibles, net(1):
+Advisor and institution relationships
+13.6 | $ | 3,350,706 | $ | (859,100) | $ | 2,491,606 |
+Client relationships
+12.3 | 909,868 | (143,039) | 766,829 |
+Trade name | 15.6 | 26,000 | (677) | 25,323 |
+Technology | 3.0 | 20,930 | (15,443) | 5,487 |
+Product sponsor relationships | 1.2 | 234,086 | (232,362) | 1,724 |
+Total definite-lived intangibles, net | $ | 4,541,590 | $ | (1,250,621) | $ | 3,290,969 |
+Other indefinite-lived intangibles: |
+Trademark and trade name | 39,819 |
+Total other intangibles, net | $ | 3,330,788 |
+_______________________________
+(1) During the year ended December 31, 2025, the Company completed various acquisitions. See Note 4 - Acquisitions, for additional information.
+Total amortization of other intangibles was $70.9 million and $46.1 million for the three months ended June 30, 2026 and 2025, respectively, and $138.1 million and $89.6 million for the six months ended June 30, 2026 and 2025, respectively. Future amortization is estimated as follows (in thousands):
+2026 - remainder | $ | 138,407 |
+2027 | 273,078 |
+2028 | 271,380 |
+2029 | 265,022 |
+2030 | 262,544 |
+Thereafter | 2,183,347 |
+Total
+$ | 3,393,778 |
+38
+Table of Contents
+LPL FINANCIAL HOLDINGS INC. AND SUBSIDIARIES
+Notes to Condensed Consolidated Financial Statements (Unaudited)
+NOTE 8 - OTHER ASSETS AND OTHER LIABILITIES
+The components of other assets and other liabilities were as follows (dollars in thousands):
+June 30, 2026 | December 31, 2025 |
+Other assets: |
+Deferred compensation | $ | 1,261,354 | $ | 1,107,552 |
+Prepaid assets | 245,567 | 240,010 |
+Fractional shares -- investment
+421,762 | 371,683 |
+Deferred tax assets, net | 73,491 | 78,222 |
+Operating lease assets | 187,720 | 173,544 |
+Referral fee
+119,755 | 106,038 |
+Income tax receivables
+24,083 | 53,245 |
+Debt issuance costs, net | 9,849 | 10,824 |
+Other | 74,591 | 61,326 |
+Total other assets | $ | 2,418,172 | $ | 2,202,444 |
+Other liabilities: |
+Deferred compensation | $ | 1,252,888 | $ | 1,100,018 |
+Unearned revenue
+329,239 | 265,024 |
+Fractional shares -- repurchase obligation
+421,762 | 371,683 |
+Operating lease liabilities | 224,851 | 203,970 |
+Financing obligation liabilities
+107,703 | 108,433 |
+
+----- [line 1729] -----
+NOTE 17 - SUBSEQUENT EVENTS
+The Board declared a cash dividend of $0.30 per share on LPLFH's outstanding common stock to be paid on August 28, 2026 to all stockholders of record on August 14, 2026.
+47
+Table of Contents
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+Market Risk
+We maintain trading securities and securities sold, but not yet purchased in order to facilitate client transactions, to meet a portion of our clearing deposit requirements at various clearing organizations, to track the performance of our research models and in connection with our dividend reinvestment program. Trading securities are included in investment securities while securities sold, but not yet purchased are included in other liabilities on the condensed consolidated statements of financial condition and can include mutual funds, money market funds, debt securities and equity securities. We enter into market risk sensitive instruments for purposes other than trading, which are included in other assets on the condensed consolidated statements of financial condition and can include deferred compensation plan assets invested in life insurance, money market and other mutual funds, investments in fractional shares held by customers, and other non-traded real estate investment trusts. Changes in the value of our market risk sensitive instruments may result from fluctuations in interest rates, credit ratings of the issuer, equity prices or a combination of these factors.
+In facilitating client transactions, our trading securities and securities sold, but not yet purchased generally involve mutual funds, including dividend reinvestments. Our positions held are based upon the settlement of client transactions, which are monitored by our Trading and Operations department.
+Positions held to meet clearing deposit requirements consist of U.S. government securities and equity securities. The amount of securities deposited depends upon the requirements of the clearing organization. The level of securities deposited is monitored by the settlements group within our Trading and Operations department.
+Our Research department develops model portfolios that are used by advisors in developing client portfolios. We maintain securities owned in internal accounts based on these model portfolios to track the performance of our Research department. At the time a portfolio is developed, we purchase the securities in that model portfolio in an amount equal to the account minimum, which varies by product.
+In addition, we are subject to market risk resulting from operational risk events, which can require customer trade corrections. We also bear market risk on the fees we earn that are based on the market value of advisory and brokerage assets, as well as assets on which trailing commissions are paid and assets eligible for sponsor payments.
+As of June 30, 2026, the fair value of our trading securities was $188.0 million and securities sold, but not yet purchased were not material. The fair value of market risk sensitive instruments entered into for other than trading purposes included within other assets was $1.7 billion as of June 30, 2026. See Note 5 - Fair Value Measurements, within the notes to the condensed consolidated financial statements for information regarding the fair value of trading securities; securities sold, but not yet purchased; and other assets associated with our client facilitation activities.
+Interest Rate Risk
+We are exposed to risk associated with changes in interest rates. As of June 30, 2026, $1.3 billion of our outstanding debt was subject to floating interest rate risk. While our term loan is subject to increases in interest rates, we do not believe that a short-term change in interest rates would have a material impact on our net income given revenue generated by our client cash balances, which is generally subject to the same, but off-setting, interest rate risk.
+48
+Table of Contents
+The following table summarizes the impact of increasing interest rates on our interest expense from the variable portion of our debt outstanding, calculated using the projected average outstanding balance over the subsequent twelve-month period (in thousands):
+Outstanding Balance at
+June 30, 2026
+Annual Impact of an Interest Rate(&#8224;) Increase of
+10 Basis | 25 Basis | 50 Basis | 100 Basis |
+Corporate Debt and Other Borrowings | Points | Points | Points | Points |
+Term Loan A
+$ | 1,020,000 | $ | 1,020 | $ | 2,550 | $ | 5,100 | $ | 10,200 |
+Revolving Credit Facility | 276,000 | 276 | 690 | 1,380 | 2,760 |
+Variable Rate Debt Outstanding | $ | 1,296,000 | $ | 1,296 | $ | 3,240 | $ | 6,480 | $ | 12,960 |
+____________________
+(&#8224;) Our interest rate for our Term Loan A is locked in for one, two, three, six or twelve months as allowed under the Credit Agreement. At the end of the selected periods, the rates will be locked in at the then current rate. The effects of these interest rate locks are not included in the table above.
+See Note 9 - Corporate Debt and Other Borrowings, Net, within the notes to the condensed consolidated financial statements for additional information.
+We offer our advisors and their clients two FDIC insured bank sweep vehicles and a client cash account ("CCA") that are interest rate sensitive. Our FDIC insured sweep vehicles include an (1) insured cash account ("ICA") for individuals, trusts, sole proprietorships and entities organized or operated to make a profit, such as corporations, partnerships, associations, business trusts and other organizations and (2) an insured deposit cash account ("DCA") for individual retirement accounts and retirement plan accounts that are enrolled in certain LPL advisory programs. Clients earn interest on deposits in the ICA and the DCA while we earn a fee. The fees we earn from cash held in the ICA are based primarily on prevailing interest rates in the current interest rate environment, and are therefore subject to interest rate risk. The fees we earn from the DCA are calculated as a per account fee, and such fees increase as the federal funds target rate increases, subject to a cap.
+The Company places ICA sweep overflow into the CCA. These deposits are either used to fund client margin lending or placed in third-party bank or investment accounts, both of which are segregated under federal or other regulations, where they are held as cash or invested in short-term U.S. treasury bills. We earn interest income on these bank deposits and investments in short-term U.S. treasury bills and pay interest to clients on these CCA balances, which are sensitive to prevailing interest rates. This interest income and expense is included in interest income, net in the condensed consolidated statements of income. Changes in interest rates and fees for the deposit sweep vehicles are monitored by our Rate Setting Committee (the "RSC"), which governs and approves any changes to our fees. By meeting promptly around the time of Federal Open Market Committee meetings, or for other market or non-market reasons, the RSC considers financial risk of the deposit sweep vehicles relative to other products into which clients may move cash balances.
+Credit Risk
+Credit risk is the risk of loss due to adverse changes in a borrower's, issuer's or counterparty's ability to meet its financial obligations under contractual or agreed upon terms. We are subject to credit risk from certain loans extended to advisors and institutions when we extend loans with repayment terms to facilitate advisors' and institutions' transition to our platform or to fund business development activities. We are also subject to credit risk when a forgivable loan to an advisor or institution converts to repayable upon advisor or institution termination or change in agreed upon terms.
+Credit risk also arises when collateral posted with LPL Financial by clients to support margin lending or derivative trading is insufficient to meet clients' contractual obligations to LPL Financial. Our credit exposure in these transactions consists primarily of margin accounts, through which we extend credit to advisors' clients collateralized by securities in the clients' accounts. Under many of these agreements, we are permitted to sell, repledge or loan these securities held as collateral and use these securities to enter into securities lending arrangements or to deliver to counterparties to cover short positions.
+As our advisors execute margin transactions on behalf of their clients, we may incur losses if clients do not fulfill their obligations, the collateral in the clients' accounts is insufficient to fully cover losses from such investments and our advisors fail to reimburse us for such losses. Our losses on margin accounts were not material during the three and six months ended June 30, 2026 or 2025. We monitor exposure to industry sectors and individual securities and perform analyses on a regular basis in connection with our margin lending activities. We adjust our margin requirements if we believe our risk exposure is not appropriate based on market conditions.
+49
+Table of Contents
+We are subject to concentration risk if we extend large loans to or have large commitments with a single counterparty, borrower or group of similar counterparties or borrowers, or if we accept a concentrated position as collateral for a margin loan. Receivables from and payables to clients and stock borrowing and lending activities are conducted with a large number of clients and counterparties and potential concentration is monitored. We seek to limit this risk through review of the underlying business and the use of limits established by senior management taking into consideration factors including current market conditions, the financial strength of the counterparty, the size of the position or commitment, the expected duration of the position or commitment and other positions or commitments outstanding.
+Item 4. Controls and Procedures
+Evaluation of Disclosure Controls and Procedures
+Management, with the participation of our Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of our disclosure controls and procedures, as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act, as of the end of the period covered by this report. Based on that evaluation, the Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures as of the end of the period covered by this report were effective.
+Change in Internal Control over Financial Reporting
+There were no changes in our internal control over financial reporting that occurred during the second quarter ended June 30, 2026 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+PART II -- OTHER INFORMATION
+Item 1. Legal Proceedings
+From time to time, we have been subjected to and are currently subject to legal and regulatory proceedings arising out of our business operations, including lawsuits, arbitration claims, and inquiries, investigations and enforcement proceedings initiated by the SEC, FINRA and state securities regulators, as well as other actions and claims. See Note 10 - Commitments and Contingencies, within the notes to the condensed consolidated financial statements for additional information.
+Item 1A. Risk Factors
+There have been no material changes in the information regarding the Company's risks, as set forth under Part I, "Item 1A. Risk Factors" in the Company's 2025 Annual Report on Form 10-K.
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+The table below sets forth information regarding repurchases, reported on a trade date basis, during the three months ended June 30, 2026:
+Period | Total Number of Shares Purchased | Weighted-Average Price Paid per Share | Total Number of Shares Purchased as Part of Publicly Announced Programs | Approximate Dollar Value of Shares That May Yet Be Purchased Under the Program (millions)(1)
+April 1, 2026 through April 30, 2026 | 206,380 | $ | 315.12 | 206,380 | $ | 565.0 |
+May 1, 2026 through May 31, 2026 | 239,314 | $ | 294.90 | 239,314 | $ | 494.4 |
+June 1, 2026 through June 30, 2026 | 609,351 | $ | 285.33 | 609,351 | $ | 320.5 |
+Total | 1,055,045 | 1,055,045 |
+(1) On September 21, 2022, the Board authorized a $2.1 billion increase to the amount available for repurchases of LPLFH's issued and outstanding common shares. On July 23, 2026, the Board authorized a $2.5 billion increase to the amount available for repurchases of LPLFH's issued and outstanding common shares. See Note 11 - Stockholders' Equity, within the notes to the condensed consolidated financial statements for additional information.
+Item 3. Defaults Upon Senior Securities
+None.
+50
+Table of Contents
+Item 4. Mine Safety Disclosures
+Not applicable.
+Item 5. Other Information
+During the three months ended June 30, 2026, none of our directors or officers (as defined in Rule 16a-1(f) under the Exchange Act) entered into, modified or terminated contracts, instructions or written plans for the purchase or sale of our common stock that are intended to satisfy the affirmative defense conditions specified in Rule 10b5-1(c) under the Exchange Act.
+Item 6. Exhibits
+3.1 | Second Amended and Restated Certificate of Incorporation of LPL Financial Holdings Inc., dated May 14, 2026.*
+3.2 | Eighth Amended and Restated Bylaws of LPL Financial Holdings Inc.*
+10.1 | LPL Financial Holdings Inc. Non-Employee Director Compensation Policy, as amended May 14, 2026.*
+22.1 | List of Subsidiary Guarantors and Issuers of Guaranteed Securities.*
+31.1 | Certification of the Chief Executive Officer pursuant to Rule 13a-14(a).*
+31.2 | Certification of the Chief Financial Officer pursuant to Rule 13a-14(a).*
+32.1 | Certification of the Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.**
+32.2 | Certification of the Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.**
+101.SCH | Inline XBRL Taxonomy Extension Schema* |
+101.CAL | Inline XBRL Taxonomy Extension Calculation* |
+101.LAB | Inline XBRL Taxonomy Extension Label* |
+101.PRE | Inline XBRL Taxonomy Extension Presentation* |
+101.DEF | Inline XBRL Taxonomy Extension Definition* |
+104 | Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101) |
+____________________
+* | Filed herewith. |
+** | Furnished herewith. |
+51
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+LPL Financial Holdings Inc.
+Date: | August 3, 2026 | By: | /s/ RICHARD STEINMEIER
+Richard Steinmeier

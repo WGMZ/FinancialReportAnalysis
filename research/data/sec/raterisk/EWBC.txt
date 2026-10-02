@@ -1,0 +1,723 @@
+# EWBC 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/1069157/000106915726000044/ewbc-20260630.htm
+# full_doc_chars=465426
+
+
+----- [line 411] -----
+The unaudited interim Consolidated Financial Statements are presented in accordance with United States ("U.S.") Generally Accepted Accounting Principles ("GAAP"), applicable guidelines prescribed by regulatory authorities and general practices in the banking industry. While the unaudited interim Consolidated Financial Statements reflect all adjustments that, in the opinion of management, are necessary for fair presentation, they primarily serve to update the Company's Annual Report on Form 10-K for the year ended December 31, 2025, filed with the U.S. SEC on February 27, 2026 (the "Company's 2025 Form 10-K"), and may not include all the information and notes necessary to constitute a complete set of financial statements. Accordingly, they should be read in conjunction with the audited Consolidated Financial Statements and notes thereto included in the Company's 2025 Form 10-K.
+The preparation of the Consolidated Financial Statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities as of the date of the Consolidated Financial Statements, income and expenses during the reporting periods, and the related disclosures. Although our estimates consider current conditions and how we expect them to change in the future, it is reasonably possible that actual results could be materially different from those estimates. Hence, the current period's results of operations are not necessarily indicative of results that may be expected for any future interim period or for the year as a whole. Certain items on the Consolidated Financial Statements and notes for the prior periods have been reclassified to conform to the current presentation. Events subsequent to the Consolidated Balance Sheet date have been evaluated through the date the Consolidated Financial Statements are issued for inclusion in the accompanying Consolidated Financial Statements.
+Recent Accounting Pronouncements Yet to be Adopted
+Standard | Required Date of Adoption | Description | Effect on Financial Statements |
+Accounting Standards Update ("ASU") No. 2025-09, Derivatives and Hedging (Topic 815): Hedge Accounting Improvements
+January 1, 2027
+Early adoption is permitted.
+The key provisions of ASU 2025-09 that amend certain hedge accounting guidance in Accounting Standards Codification ("ASC") 815, Derivatives and Hedging are as follows:
+1.Changes the requirement for designating a group of individual forecasted transactions from having a "shared" risk exposure to having a "similar" risk exposure.
+2.Enables entities to apply cash flow hedge accounting on "choose-your-rate" debt.
+3.Broadens situations where hedge accounting can be applied to forecasted purchases and sales of nonfinancial assets.
+4.Eliminates the requirement to perform net written option assessment for a compound derivative when it is designated as a hedging instrument.
+5.In the case of a dual hedge where a foreign-currency-denominated debt instrument is designated as the hedging instrument in a net investment hedge and a hedged item in a fair value hedge of interest rate risk, the ASU requires the debt instruments' fair value hedge basis adjustment be excluded when performing the net investment hedge effectiveness assessment.
+This guidance must be applied prospectively for all hedging relationships.
+The Company does not expect adoption to have a material impact on the Company's Consolidated Financial Statements.
+10
+Recent Accounting Pronouncements Yet to be Adopted (Continued)
+Standard | Required Date of Adoption | Description | Effect on Financial Statements |
+ASU No. 2025-08, Financial Instruments--Credit Losses (Topic 326)
+January 1, 2027
+Early adoption is permitted. | ASU 2025-08 expands the population of financial assets that are within scope of the gross up approach under ASC 326 to include purchased seasoned loans. Under the guidance, purchased seasoned loans include:
+&#8226;Non-Purchased Credit Deteriorated ("Non-PCD") loans that are acquired in a business combination.
+&#8226;Non-PCD loans that are (1) acquired in an asset acquisition or upon consolidation of a VIE that is not a business and (2) are purchased more than 90 days after their origination date by a transferee that was not involved in their origination.
+The guidance also introduces an accounting policy election to use the amortized cost basis of the asset rather than the discounted cash flow analysis to subsequently measure the credit losses on purchased seasoned loans.
+The new guidance does not apply to credit card loans, receivables within the scope of ASC 606, or debt securities. The guidance must be applied prospectively.
+The Company does not expect adoption to have a material impact on the Company's Consolidated Financial Statements.
+ASU No. 2024-03, Income Statement--Reporting Comprehensive Income--Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses
+December 31, 2027
+Early adoption is permitted. | ASU 2024-03 requires public companies to disclose, in both interim and annual reporting periods, additional information about specified expense categories included within relevant expense captions presented on the face of the income statement. The required disclosures include:
+&#8226;The amounts of (a) purchases of inventory; (b) employee compensation; (c) depreciation; (d) intangible asset amortization; and (e) depreciation, depletion and amortization of capitalized costs related to oil- and gas-producing activities in each relevant expense caption.
+&#8226;A qualitative description of the amounts remaining in relevant expense captions that are not separately disaggregated quantitatively.
+The Company does not expect adoption to have a material impact on the Company's Consolidated Financial Statements.
+Note 2 -- Fair Value Measurement and Fair Value of Financial Instruments
+Under applicable accounting standards, the Company measures a portion of its assets and liabilities at fair value. These assets and liabilities are predominantly recorded at fair value on a recurring basis. At times, certain assets and liabilities are measured at fair value on a nonrecurring basis; that is, they are subject to fair value adjustments only as required through the application of an accounting method such as lower of cost or fair value or write-down of individual assets. The Company categorizes its assets and liabilities into three levels based on the established fair value hierarchy and conducts a review of fair value hierarchy classifications on a quarterly basis. For more information regarding the fair value hierarchy and how the Company measures fair value, see Note 1 -- Summary of Significant Accounting Policies -- Significant Accounting Policies -- Fair Value to the Consolidated Financial Statements in the Company's 2025 Form 10-K.
+Assets and Liabilities Measured at Fair Value on a Recurring Basis
+For additional information regarding the valuation methodologies used for the Company's assets and liabilities measured at fair value on a recurring basis, as well as their general classification within the fair value hierarchy, see Note 2 -- Fair Value Measurement and Fair Value of Financial Instruments to the Consolidated Financial Statements in the Company's 2025 Form 10-K.
+11
+The following tables present financial assets and liabilities that are measured at fair value on a recurring basis as of June 30, 2026 and December 31, 2025:
+Assets and Liabilities Measured at Fair Value on a Recurring Basis
+as of June 30, 2026 |
+($ in thousands) | Level 1 | Level 2 | Level 3 | Total
+Fair Value |
+AFS debt securities: |
+U.S. Treasury securities | $ | 1,431,341 | $ | -- | $ | -- | $ | 1,431,341 |
+U.S. government agency and U.S. government-sponsored enterprise debt securities | -- | 254,400 | -- | 254,400 |
+U.S. government agency and U.S. government-sponsored enterprise mortgage-backed securities (1):
+Commercial mortgage-backed securities | -- | 224,397 | -- | 224,397 |
+Residential mortgage-backed securities | -- | 11,230,828 | -- | 11,230,828 |
+Municipal securities | -- | 240,688 | -- | 240,688 |
+Non-agency mortgage-backed securities: |
+Commercial mortgage-backed securities | -- | 174,606 | -- | 174,606 |
+Residential mortgage-backed securities | -- | 361,635 | -- | 361,635 |
+Corporate debt securities | -- | 421,302 | -- | 421,302 |
+Foreign government bonds | -- | 242,349 | -- | 242,349 |
+Total AFS debt securities | $ | 1,431,341 | $ | 13,150,205 | $ | -- | $ | 14,581,546 |
+Affordable housing partnership, tax credit and CRA investments, net: |
+Equity securities | $ | 22,174 | $ | 4,262 | $ | -- | $ | 26,436 |
+Total affordable housing partnership, tax credit and CRA investments, net | $ | 22,174 | $ | 4,262 | $ | -- | $ | 26,436 |
+Other assets:
+Equity securities
+$ | 195 | $ | -- | $ | -- | $ | 195 |
+Total other assets | $ | 195 | $ | -- | $ | -- | $ | 195 |
+Derivative assets: |
+Interest rate contracts | $ | -- | $ | 261,527 | $ | -- | $ | 261,527 |
+Foreign exchange contracts | -- | 60,269 | -- | 60,269 |
+Credit contracts | -- | 6 | -- | 6 |
+Equity contracts | -- | -- | 524 | 524 |
+Commodity contracts | -- | 65,094 | -- | 65,094 |
+Gross derivative assets | $ | -- | $ | 386,896 | $ | 524 | $ | 387,420 |
+Netting adjustments (2)
+$ | -- | $ | (307,350) | $ | -- | $ | (307,350) |
+Net derivative assets | $ | -- | $ | 79,546 | $ | 524 | $ | 80,070 |
+
+----- [line 912] -----
+(1)Weighted-average yields are computed based on amortized cost balances.
+(2)Yields on tax-exempt securities are not presented on a tax-equivalent basis.
+As of June 30, 2026 and December 31, 2025, AFS and HTM debt securities with carrying values of $4.7 billion and $4.6 billion, respectively, were pledged to secure borrowings and for other purposes required or permitted by law. As of June 30, 2026 and December 31, 2025, AFS and HTM debt securities with fair values of $8.2 billion and $4.8 billion, respectively, were prepositioned for the Federal Reserve Bank ("FRB") Standing Repurchase Agreement Facility.
+Restricted Equity Securities
+The following table presents the restricted equity securities included in Other assets on the Consolidated Balance Sheet as of June 30, 2026 and December 31, 2025:
+($ in thousands) | June 30, 2026 | December 31, 2025 |
+FRB of San Francisco stock
+$ | 66,589 | $ | 66,179 |
+FHLB stock | 92,424 | 87,305 |
+Total restricted equity securities | $ | 159,013 | $ | 153,484 |
+25
+Note 5 -- Derivatives
+The Company uses derivative instruments to manage exposure to market risk, primarily interest rate and foreign currency risks, as well as to assist customers with their risk management objectives. The Company's goal is to manage interest rate sensitivity and volatility to mitigate the effect of interest rate changes on earnings or capital. The Company may also use foreign exchange contracts to manage the foreign exchange rate risk associated with certain foreign currency-denominated assets and liabilities, the funding needs of, as well as the Bank's investment in, East West Bank (China) Limited. The Company recognizes all derivatives on the Consolidated Balance Sheet at fair value. While the Company designates certain derivatives as hedging instruments in a qualifying hedge accounting relationship, other derivatives serve as economic hedges. For additional information on the Company's derivatives and hedging activities, see Note 1 -- Summary of Significant Accounting Policies -- Significant Accounting Policies -- Derivatives to the Consolidated Financial Statements of the Company's 2025 Form 10-K.
+The following table presents the notional amounts and fair values of the Company's derivatives as of June 30, 2026 and December 31, 2025. Certain derivative contracts are cleared through central clearing organizations where variation margin is applied daily as settlement to the fair values of the contracts. The fair values are presented on a gross basis prior to the application of bilateral collateral and master netting agreements, but after the application of variation margin payments as settlement to fair values of contracts cleared through central clearing organizations. Applying variation margin payments as settlement to the fair values of derivative contracts cleared through the London Clearing House ("LCH") and the Chicago Mercantile Exchange ("CME") resulted in reductions in the derivative asset and liability fair values of $20 million and $12 million, respectively, as of June 30, 2026. In comparison, applying variation margin payments as settlement to LCH- and CME-cleared derivative transactions resulted in reductions in the derivative asset and liability fair values of $16 million and $3 million, respectively, as of December 31, 2025. Total gross derivative asset and liability fair values are then adjusted to reflect the effects of legally enforceable master netting agreements and cash collateral received or paid. The resulting net derivative asset and liability fair values are included in Other assets and Accrued expenses and other liabilities, respectively, on the Consolidated Balance Sheet.
+June 30, 2026 | December 31, 2025 |
+Fair Value | Fair Value |
+($ in thousands) | Notional Amount | Assets | Liabilities | Notional Amount | Assets | Liabilities |
+Derivatives designated as hedging instruments: |
+Cash flow hedges: |
+Interest rate contracts | $ | 4,000,000 | $ | 8,401 | $ | 14,705 | $ | 4,250,000 | $ | 39,997 | $ | 139 |
+Derivatives not designated as hedging instruments: |
+Interest rate contracts | $ | 17,722,136 | $ | 253,126 | $ | 253,662 | $ | 18,987,277 | $ | 258,561 | $ | 256,731 |
+Commodity contracts (1)
+-- | 65,094 | 66,873 | -- | 66,022 | 72,158 |
+Foreign exchange contracts | 5,232,565 | 60,269 | 56,384 | 4,550,101 | 44,340 | 43,160 |
+Credit contracts (2)
+371,665 | 6 | 130 | 303,421 | 25 | 51 |
+Equity contracts | -- | 524 | (3) | 15,775 | (4) | -- | 522 | (3) | 13,734 | (4) |
+Total derivatives not designated as hedging instruments | $ | 23,326,366 | $ | 379,019 | $ | 392,824 | $ | 23,840,799 | $ | 369,470 | $ | 385,834 |
+Gross derivative assets/liabilities | $ | 387,420 | $ | 407,529 | $ | 409,467 | $ | 385,973 |
+Less: Master netting agreements | (106,024) | (106,024) | (74,138) | (74,138) |
+Less: Cash collateral received | (201,326) | (640) | (183,387) | (27,502) |
+Net derivative assets/liabilities | $ | 80,070 | $ | 300,865 | $ | 151,942 | $ | 284,333 |
+(1)The notional amount of the Company's commodity contracts totaled 15 million barrels of crude oil and 272 million units of natural gas, measured in million British thermal units ("MMBTUs") as of June 30, 2026. In comparison, the notional amount of the Company's commodity contracts totaled 16 million barrels of crude oil and 364 million MMBTUs of natural gas as of December 31, 2025.
+(2)The notional amount for the credit contracts reflects the Company's pro-rata share of the notional amount in the underlying derivative instruments in credit risk participation agreements ("RPAs").
+(3)The Company held warrant equity contracts in nine private companies as of both June 30, 2026 and December 31, 2025.
+(4)Equity contracts classified as derivative liabilities consist of 349 thousand performance-based RSUs granted as part of EWBC's consideration in an investment.
+26
+Derivatives Designated as Hedging Instruments
+Cash Flow Hedges -- The Company uses interest rate swaps and collars to hedge the variability in the interest amount received on certain floating-rate commercial loans due to changes in the contractually specified interest rates. As of June 30, 2026, interest rate contracts in notional amounts of $4.0 billion were designated as cash flow hedges to convert certain variable-rate loans from floating-rate payments to fixed-rate payments. Gains and losses on the hedging derivative instruments are recognized in AOCI and reclassified to earnings in the same period the hedged cash flows impact earnings and are recorded within the same income statement line item as the hedged cash flows. Considering the interest rates, yield curve and notional amount as of June 30, 2026, the Company expects to reclassify an estimated $5 million of after-tax net losses on derivative instruments designated as cash flow hedges from AOCI into earnings during the next 12 months.
+The following table presents the pre-tax changes in AOCI from cash flow hedges for the three and six months ended June 30, 2026 and 2025. The after-tax impact of cash flow hedges on AOCI is shown in Note 12 -- Accumulated Other Comprehensive Income (Loss) to the Consolidated Financial Statements in this Form 10-Q.
+Three Months Ended June 30, | Six Months Ended June 30, |
+($ in thousands) | 2026 | 2025 | 2026 | 2025 |
+(Losses) gains recognized in AOCI:
+Interest rate contracts | $ | (22,908) | $ | 18,728 | $ | (45,290) | $ | 56,194 |
+(Gains) losses reclassified from AOCI into earnings:
+Interest and dividend income (for cash flow hedges on loans) | $ | (758) | $ | 5,531 | $ | (1,341) | $ | 12,583 |
+Derivatives Not Designated as Hedging Instruments
+Customer-Related Positions and Economic Hedge Derivatives -- The Company enters into interest rate, commodity, and foreign exchange derivatives at the request of its customers and generally enters into offsetting derivative contracts with third-party financial institutions to mitigate the inherent market risk. The Company also utilizes foreign exchange contracts to mitigate the effect of currency fluctuations on certain foreign currency-denominated on-balance sheet assets and liabilities, primarily foreign currency denominated deposits that it offers to its customers, as well as to meet its funding needs in certain foreign currencies. A majority of the foreign exchange contracts had original maturities of one year or less as of both June 30, 2026 and December 31, 2025.
+27
+The following table presents the notional amounts and the gross fair values of interest rate and foreign exchange derivatives entered into with customers and with third-party financial institutions, which serve as economic hedges to customers' positions, as of June 30, 2026 and December 31, 2025:
+June 30, 2026 | December 31, 2025 |
+Fair Value | Fair Value |
+($ in thousands) | Notional Amount | Assets | Liabilities | Notional Amount | Assets | Liabilities |
+Customer-related positions: |
+Interest rate contracts: |
+Swaps | $ | 7,213,744 | $ | 12,378 | $ | 234,791 | $ | 7,566,889 | $ | 47,448 | $ | 206,794 |
+Written options | 1,280,551 | -- | 5,261 | 1,463,110 | -- | 1,900 |
+Collars and corridors | 347,870 | 75 | 695 | 444,604 | 311 | 20 |
+Subtotal | 8,842,165 | 12,453 | 240,747 | 9,474,603 | 47,759 | 208,714 |
+Foreign exchange contracts: |
+Forwards and spot | 1,306,997 | 20,893 | 11,340 | 1,156,203 | 23,661 | 2,831 |
+Swaps | 769,619 | 8,406 | 9,359 | 785,956 | 13,272 | 661 |
+Written options
+65,330 | -- | 2,201 | 63,460 | -- | 73 |
+Subtotal | 2,141,946 | 29,299 | 22,900 | 2,005,619 | 36,933 | 3,565 |
+Total | $ | 10,984,111 | $ | 41,752 | $ | 263,647 | $ | 11,480,222 | $ | 84,692 | $ | 212,279 |
+Economic hedges and other:
+Interest rate contracts: |
+Swaps | $ | 7,251,550 | $ | 234,667 | $ | 12,839 | $ | 7,604,959 | $ | 208,860 | $ | 47,682 |
+Purchased options | 1,280,551 | 5,302 | -- | 1,463,110 | 1,922 | -- |
+Collars and corridors | 347,870 | 704 | 76 | 444,605 | 20 | 335 |
+
+----- [line 1901] -----
+Net realized (gains) losses reclassified into net income (3)
+(1,341) | 397 | (944) | 12,583 | (3,544) | 9,039 |
+Net change | (46,631) | 13,785 | (32,846) | 68,777 | (19,368) | 49,409 |
+Foreign currency translation adjustments, net of hedges: |
+Net unrealized gains (losses) arising during the period | 7,762 | -- | 7,762 | (2,342) | 227 | (2,115) |
+Net change | 7,762 | -- | 7,762 | (2,342) | 227 | (2,115) |
+Other comprehensive (loss) income | $ | (100,028) | $ | 31,852 | $ | (68,176) | $ | 186,648 | $ | (63,768) | $ | 122,880 |
+(1)Pre-tax amounts were reported in Net gains on AFS debt securities and Provision for Credit Losses on the Consolidated Statement of Income. Refer to Note 4 -- Securities -- Realized Gains and Reversal of Credit Losses for further details.
+(2)Represents unrealized losses amortized over the remaining lives of securities that were transferred from the AFS to HTM portfolio in 2022.
+(3)Pre-tax amounts related to cash flow hedges on variable rate loans were reported in Interest and dividend income on the Consolidated Statement of Income.
+Note 13 -- Business Segments
+The Company organizes its operations into three reportable operating segments: (1) Consumer and Business Banking; (2) Commercial Banking; and (3) Treasury and Other. These segments are defined based on customer type, the channels through which customers are served, and the products and services provided. The chief operating decision maker ("CODM") is the Chairman and Chief Executive Officer of the Company. The CODM regularly reviews the Company's operating results to allocate resources and assess performance. Operating segment results are also based on the Company's internal management reporting process, which reflects the allocations of certain balance sheet and income statement line items. The CODM uses certain performance measures such as segment net income and considers variances of actual results from forecast results on a quarterly basis when making decisions on resource allocations between segments. The segment information presented is not indicative of how the segments would perform if they operated as independent entities.
+The Consumer and Business Banking segment primarily provides financial products and services to consumer and commercial customers through the Company's domestic branch network and digital banking platforms. This segment offers consumer and commercial deposits, mortgage and home equity loans, and other banking products and services. It also originates commercial loans for small- and medium-sized enterprises through the Company's branch network. Additional banking products and services provided by this segment include wealth management, private banking, treasury management, interest rate risk hedging and foreign exchange services.
+The Commercial Banking segment primarily generates commercial loan and deposit products. Commercial loan products include CRE lending, construction finance, commercial business lending, working capital lines of credit, trade finance, letters of credit, affordable housing lending, asset-based lending, asset-backed finance, project finance, equipment financing, and loan syndication. Commercial deposit products and other financial services include treasury management, foreign exchange services and interest rate and commodity risk hedging. This segment also includes the Company's international branch activities.
+The remaining centralized functions, including the Company's corporate treasury activities, tax credit investment activities, net funds transfer pricing ("FTP"), eliminations of inter-segment amounts, and centrally managed departments, are aggregated within Treasury and Other segment.
+58
+The Company utilizes an internal reporting process to measure the performance of the three operating segments within the Company. The Company's internal reporting process consists of certain allocation methodologies for revenues and expenses, and the internal FTP process. The FTP process is formulated with the goal of encouraging loan and deposit growth that is consistent with the Company's overall profitability objectives, as well as providing a reasonable and consistent basis for the measurement of business segment net interest margins and profitability. The FTP process charges a cost to fund loans ("FTP charges for loans") and allocates credits for funds provided from deposits ("FTP credits for deposits") using internal FTP rates. FTP charges for loans are determined based on a matched cost of funds, which is tied to the pricing and term characteristics of the loans. FTP credits for deposits are based on matched funding credit rates, which are tied to the implied or stated maturity of the deposits. FTP credits for deposits reflect the long-term value generated by the deposits. The net spread between the total internal FTP charges and credits is recorded as part of net interest income in the Treasury and Other segment. The corporate treasury function within the Treasury and Other segment is responsible for the Company's liquidity and interest rate management and manages the corporate interest rate risk exposure. The Company's internal FTP assumptions and methodologies are reviewed at least annually to ensure that the process is reflective of current market conditions.
+Each segment's net interest income represents the difference between interest earned on segment assets and interest incurred on segment liabilities, adjusted for funding charges or credits through the Company's FTP process. Noninterest income and noninterest expense directly attributable to a business segment are assigned to that segment. Loan charge-offs and provision for credit losses are recorded to the segments where the loans are recorded. Significant corporate overhead expenses incurred by centralized support areas in the Treasury and Other segment are allocated to the Consumer and Business Banking and Commercial Banking segments based on the segment's estimated usage factors including, but not limited to, full-time equivalent employees, net interest income, and loan and deposit volume. Amortization of tax credit and CRA investments and certain types of administrative expenses are generally not allocated to segments.
+The following tables present the operating results and other key financial measures for the individual operating segments as of and for the three and six months ended June 30, 2026 and 2025:
+($ in thousands) | Consumer and Business Banking | Commercial Banking | Treasury and Other
+Total |
+Three Months Ended June 30, 2026 |
+Net interest income before provision for credit losses | $ | 274,251 | $ | 258,824 | $ | 151,576 | (1)
+$ | 684,651 |
+Noninterest income | 38,205 | 55,560 | 12,727 | 106,492 |
+Total revenue before provision for credit losses | 312,456 | 314,384 | 164,303 | 791,143 |
+Provision for credit losses | 12,451 | 20,549 | -- | 33,000 |
+Compensation and employee benefits | 66,704 | 69,778 | 36,061 | 172,543 |
+Other noninterest expense (2)
+61,483 | 39,151 | 17,445 | 118,079 |
+Total noninterest expense | 128,187 | 108,929 | 53,506 | 290,622 |
+Segment income before income taxes
+171,818 | 184,906 | 110,797 | 467,521 |
+Segment net income | $ | 123,668 | $ | 133,182 | $ | 106,850 | $ | 363,700 |
+Average balances: |
+Loans | $ | 21,451,804 | $ | 36,777,698 | $ | -- | (3)
+$ | 58,229,502 |
+Deposits | $ | 36,143,674 | $ | 28,658,783 | $ | 3,895,188 | $ | 68,697,645 |
+As of June 30, 2026 |
+Segment assets | $ | 22,179,346 | $ | 38,935,480 | $ | 23,648,646 | $ | 84,763,472 |
+59
+($ in thousands) | Consumer and Business Banking | Commercial Banking | Treasury and Other
+Total |
+Three Months Ended June 30, 2025 |
+Net interest income before provision for (reversal of) credit losses | $ | 273,073 | $ | 254,144 | $ | 89,857 | (1)
+$ | 617,074 |
+Noninterest income | 27,729 | 49,751 | 8,698 | 86,178 |
+Total revenue before provision for (reversal of) credit losses | 300,802 | 303,895 | 98,555 | 703,252 |
+Provision for (reversal of) credit losses
+6,775 | 38,724 | (499) | 45,000 |
+Compensation and employee benefits | 58,151 | 57,592 | 29,098 | 144,841 |
+Other noninterest expense (2)
+57,252 | 36,053 | 17,874 | 111,179 |
+Total noninterest expense | 115,403 | 93,645 | 46,972 | 256,020 |
+Segment income before income taxes | 178,624 | 171,526 | 52,082 | 402,232 |
+Segment net income
+$ | 128,295 | $ | 123,207 | $ | 58,751 | $ | 310,253 |
+Average balances: |
+Loans | $ | 20,183,539 | $ | 33,767,859 | $ | 330,034 | $ | 54,281,432 |
+Deposits (4)
+$ | 32,750,578 | $ | 26,315,823 | $ | 4,611,431 | $ | 63,677,832 |
+As of June 30, 2025 |
+Segment assets | $ | 20,735,714 | $ | 36,134,621 | $ | 21,287,732 | $ | 78,158,067 |
+($ in thousands) | Consumer and Business Banking | Commercial Banking | Treasury and Other
+Total |
+Six Months Ended June 30, 2026 |
+Net interest income before provision for (reversal of) credit losses | $ | 543,498 | $ | 520,110 | $ | 292,236 | (1)
+$ | 1,355,844 |
+Noninterest income | 78,167 | 109,891 | 20,990 | 209,048 |
+Total revenue before provision for (reversal of) credit losses | 621,665 | 630,001 | 313,226 | 1,564,892 |
+Provision for (reversal of) credit losses
+21,636 | 47,556 | (192) | 69,000 |
+Compensation and employee benefits | 136,800 | 144,622 | 63,786 | 345,208 |
+Other noninterest expense (2)
+123,488 | 75,621 | 26,619 | 225,728 |
+Total noninterest expense | 260,288 | 220,243 | 90,405 | 570,936 |
+
+----- [line 2113] -----
+64
+The Company's net income for the second quarter and first half of 2026 was $364 million and $721 million, respectively, which increased $53 million or 17%, and $121 million or 20%, respectively, from the same prior year periods. The year-over-year increases were primarily driven by higher net interest income before provision for credit losses, increased noninterest income, and lower provision for credit losses, partially offset by higher noninterest expense. Noteworthy aspects of the Company's performance for the second quarter and first half of 2026 included:
+&#8226;Net interest income and net interest margin. Second quarter 2026 net interest income before provision for credit losses was $685 million, an increase of $68 million or 11% from the second quarter of 2025. Second quarter 2026 net interest margin was 3.43% up 8 bps from the prior-year quarter. For the first half of 2026, net interest income before the provision for credit losses totaled $1.4 billion, an increase of $139 million or 11% compared with the first half of 2025. Net interest margin was 3.46% for the first half of 2026, an increase of 11 bps year over year.
+&#8226;Earnings per share growth. Second quarter 2026 basic and diluted earnings per share ("EPS") each increased 18% to $2.65 and $2.63, respectively, compared with the second quarter of 2025. For the first half of 2026, basic EPS increased 20% to $5.24, while diluted EPS increased 21% to $5.21, compared with the first half of 2025.
+&#8226;Profitability ratios. Second quarter 2026 ROA, ROAE and ROATCE were 1.75%, 16.01% and 16.88%, respectively, representing year-over-year increases of 13 bps, 59 bps and 49 bps, respectively. For the first half of 2026, ROA, ROAE and ROATCE were 1.77%, 16.02% and 16.90%, respectively, up 18 bps, 83 bps and 74 bps, respectively, from the same period in 2025. ROATCE is a non-GAAP financial measure. For additional information regarding the reconciliation of non-GAAP financial measures, refer to Item 2. MD&A -- Reconciliation of GAAP to Non-GAAP Financial Measures in this Form 10-Q.
+&#8226;Efficiency ratios. Second quarter 2026 efficiency ratio was 36.73%, compared with 36.41% in the second quarter of 2025. For the first half of 2026, the efficiency ratio was 36.48%, compared with 36.41% in the prior-year period.
+&#8226;Asset growth. Total assets reached $84.8 billion as of June 30, 2026, an increase of $4.3 billion from December 31, 2025, primarily driven by a $2.1 billion or 4% increase in net loans held-for-investment and a $1.4 billion or 10% increase in available-for-sale ("AFS") debt securities.
+&#8226;Deposit growth. Total deposits were $70.1 billion as of June 30, 2026, an increase of $3.0 billion or 4%, from December 31, 2025, primarily driven by growth in noninterest-bearing demand and money market deposits.
+&#8226;Capital levels. Stockholders' equity was $9.2 billion as of June 30, 2026, up $347 million or 4%, from December 31, 2025. Book value per share of $67.48 as of June 30, 2026, increased $2.80 or 4% compared with December 31, 2025. Tangible book value per share of $64.06 as of June 30, 2026, increased $2.79 or 5% compared with December 31, 2025. Tangible book value per share is a non-GAAP financial measure. For additional details, see the reconciliation of non-GAAP financial measures presented under Item 2. MD&A -- Reconciliation of GAAP to Non-GAAP Financial Measures in this Form 10-Q.
+65
+Results of Operations
+Net Interest Income
+The Company's primary source of revenue is net interest income, which is the interest income earned on interest-earning assets less interest expense paid on interest-bearing liabilities. Net interest margin is the ratio of net interest income to average interest-earning assets. Net interest income and net interest margin are impacted by several factors, including changes in average balances and the composition of interest-earning assets and funding sources, market interest rate fluctuations and the slope of the yield curve, repricing characteristics and maturity of interest-earning assets and interest-bearing liabilities, the volume of noninterest-bearing sources of funds and asset quality.
+Net interest income and net interest margin for the second quarter and first half of 2026 increased year-over-year. These year-over-year increases primarily reflected lower interest-bearing deposit funding costs and increases in loans and AFS debt securities' average balances, partially offset by lower yields on loans, interest-bearing cash and deposits with banks, and AFS debt securities.
+Average interest-earning assets were $80.1 billion for the second quarter of 2026, an increase of $6.2 billion or 8% from the second quarter of 2025. For the first half of 2026, average interest-earning assets were $79.0 billion, an increase of $5.7 billion or 8% from the first half of 2025. The year-over-year increases in average interest-earning assets primarily reflected loan growth and increases in AFS debt securities.
+The yield on average interest-earning assets for the second quarter of 2026 was 5.41%, a decrease of 34 bps from the second quarter of 2025. The yield on average interest-earning assets for the first half of 2026 was 5.45%, a decrease of 30 bps from the first half of 2025. These year-over-year decreases for both periods primarily reflected the impact of lower benchmark interest rates on the loan portfolio.
+66
+Average loan yields of 6.02% and 6.06% for the second quarter and first half of 2026, respectively, decreased 38 bps and 33 bps, respectively, compared with the prior year periods. The year-over-year decreases in the average loan yield for both periods primarily reflected the loan portfolio's sensitivity to lower benchmark interest rates. Approximately 59% and 58% of loans held-for-investment were variable-rate as of June 30, 2026 and 2025, respectively.
+Deposits are an important source of funding for the Company. Average deposits were $68.7 billion and $68.1 billion for the second quarter and first half of 2026, respectively, which both increased $5.0 billion or 8% from the prior year comparative periods. The year-over-year increases for both periods were primarily driven by growth in demand, time and money market deposits.
+67
+Average noninterest-bearing deposits were $17.4 billion for the second quarter of 2026, a $2.2 billion or 15% increase from the second quarter of 2025. For the first half of 2026, average noninterest-bearing deposits were $17.1 billion, a $2.0 billion or 13% increase from the first half of 2025. The proportion of average noninterest-bearing deposits remained relatively stable year over year at 25% for both the second quarter and first half of 2026, compared with 24% in the same prior year periods.
+The average cost of deposits of 2.10% for the second quarter and 2.12% for the first half of 2026 decreased 42 bps and 41 bps, respectively, compared with the prior year periods. The average cost of interest-bearing deposits decreased 50 bps from the prior year periods to 2.81% for the second quarter of 2026 and 2.83% for the first half of 2026. These year-over-year decreases primarily reflected the impacts of lower benchmark interest rates and the Company's efforts to reduce deposit costs.
+The average cost of funds calculation includes deposits, Federal Home Loan Bank ("FHLB") advances, securities sold under repurchase agreements ("repurchase agreements"), long-term debt, and short-term borrowings. The average cost of funds of 2.19% for the second quarter and 2.20% for the first half of 2026, both decreased 44 bps from the prior year periods. The year-over-year decreases were mainly driven by the decrease in the cost of deposits as discussed above.
+The Company utilizes various tools to manage interest rate risk. Refer to the Interest Rate Risk Management section of Item 2. MD&A -- Risk Management -- Market Risk Management in this Form 10-Q.
+68
+The following table presents the interest spread, net interest margin, average balances, interest income and expense, and the average yield/rate by asset and liability component for the second quarters of 2026 and 2025:
+Three Months Ended June 30, |
+2026 | 2025 |
+($ in thousands) | Average Balance | Interest | Average Yield/Rate (1)
+Average Balance | Interest | Average Yield/Rate (1)
+ASSETS |
+Interest-earning assets: |
+Interest-bearing cash and deposits with banks | $ | 3,985,838 | $ | 31,216 | 3.14 | % | $ | 3,699,036 | $ | 34,935 | 3.79 | % |
+Securities purchased under resale agreements ("resale agreements") | 425,000 | 1,624 | 1.53 | % | 425,000 | 1,624 | 1.53 | % |
+Debt securities: |
+AFS (2)(3)
+14,441,915 | 158,285 | 4.40 | % | 12,435,531 | 141,496 | 4.56 | % |
+Held-to-maturity ("HTM") (2)
+2,849,553 | 12,044 | 1.70 | % | 2,896,410 | 12,292 | 1.70 | % |
+Total debt securities (2)
+17,291,468 | 170,329 | 3.95 | % | 15,331,941 | 153,788 | 4.02 | % |
+Loans: |
+Commercial and industrial ("C&I") (2)
+19,452,052 | 304,621 | 6.28 | % | 17,363,095 | 303,791 | 7.02 | % |
+Commercial real estate ("CRE") (2)
+21,550,542 | 320,535 | 5.97 | % | 20,535,145 | 319,666 | 6.24 | % |
+Residential mortgage | 17,173,833 | 248,541 | 5.80 | % | 16,336,054 | 241,666 | 5.93 | % |
+Other consumer | 53,075 | 792 | 5.98 | % | 47,138 | 572 | 4.86 | % |
+Total loans (2)(4)(5)
+58,229,502 | 874,489 | 6.02 | % | 54,281,432 | 865,695 | 6.40 | % |
+Restricted equity securities
+157,737 | 3,165 | 8.05 | % | 165,716 | 2,957 | 7.16 | % |
+Total interest-earning assets | $ | 80,089,545 | $ | 1,080,823 | 5.41 | % | $ | 73,903,125 | $ | 1,058,999 | 5.75 | % |
+Noninterest-earning assets: |
+Cash and due from banks | 311,337 | 350,343 |
+Allowance for loan and lease losses ("ALLL") | (854,564) | (745,121) |
+Other assets | 3,604,651 | 3,353,681 |
+Total assets | $ | 83,150,969 | $ | 76,862,028 |
+LIABILITIES AND STOCKHOLDERS' EQUITY |
+Interest-bearing liabilities: |
+Checking deposits | $ | 7,530,547 | $ | 37,692 | 2.01 | % | $ | 7,597,103 | $ | 47,013 | 2.48 | % |
+Money market deposits | 16,545,079 | 108,628 | 2.63 | % | 15,325,928 | 124,282 | 3.25 | % |
+Savings deposits | 1,905,782 | 4,511 | 0.95 | % | 1,745,220 | 3,700 | 0.85 | % |
+Time deposits | 25,353,592 | 208,591 | 3.30 | % | 23,894,775 | 225,593 | 3.79 | % |
+Total interest-bearing deposits
+51,335,000 | 359,422 | 2.81 | % | 48,563,026 | 400,588 | 3.31 | % |
+Short-term borrowings and federal funds purchased
+364 | 5 | 5.08 | % | 659 | 1 | 0.66 | % |
+FHLB advances | 3,041,759 | 29,455 | 3.88 | % | 3,500,003 | 39,313 | 4.51 | % |
+Repurchase agreements
+707,880 | 6,680 | 3.79 | % | 119,061 | 1,352 | 4.55 | % |
+Long-term debt and finance lease liabilities | 35,480 | 610 | 6.89 | % | 35,811 | 671 | 7.52 | % |
+Total interest-bearing liabilities | $ | 55,120,483 | $ | 396,172 | 2.88 | % | $ | 52,218,560 | $ | 441,925 | 3.39 | % |
+Noninterest-bearing liabilities and stockholders' equity: |
+Demand deposits | 17,362,645 | 15,114,806 |
+Accrued expenses and other liabilities | 1,553,445 | 1,458,680 |
+Stockholders' equity | 9,114,396 | 8,069,982 |
+Total liabilities and stockholders' equity | $ | 83,150,969 | $ | 76,862,028 |
+Total deposits
+$ | 68,697,645 | $ | 359,422 | 2.10 | % | $ | 63,677,832 | $ | 400,588 | 2.52 | % |
+Interest rate spread | 2.53 | % | 2.36 | % |
+Net interest income and net interest margin | $ | 684,651 | 3.43 | % | $ | 617,074 | 3.35 | % |
+(1)Annualized.
+
+----- [line 2352] -----
+Income Taxes
+The following table presents income before income taxes, income tax expense and the effective tax rate for the second quarters of 2026 and 2025:
+Three Months Ended June 30, | Six Months Ended June 30, |
+($ in thousands) | 2026 | 2025 | % Change | 2026 | 2025 | % Change |
+Income before income taxes | $ | 467,521 | $ | 402,232 | 16 | % | $ | 924,956 | $ | 793,387 | 17 | % |
+Income tax expense | $ | 103,821 | $ | 91,979 | 13 | % | $ | 203,460 | $ | 192,864 | 5 | % |
+Effective tax rate | 22.2 | % | 22.9 | % | 22.0 | % | 24.3 | % |
+Second quarter 2026 income tax expense was $104 million, and the effective tax rate was 22.2%, compared with second quarter 2025 income tax expense of $92 million and an effective tax rate of 22.9%. For the first half of 2026, income tax expense was $203 million, and the effective tax rate was 22.0%, compared with income tax expense of $193 million and an effective tax rate of 24.3% for the same period in 2025. The increase in income tax expense is primarily due to higher pre-tax income, partially offset by the release of a valuation allowance related to foreign tax credits in 2026 and the one-time revaluation of deferred tax assets recorded in 2025 due to the adoption of the California state tax apportionment in 2025.
+Operating Segment Results
+The Company organizes its operations into three reportable operating segments: (1) Consumer and Business Banking; (2) Commercial Banking; and (3) Treasury and Other. These segments are defined based on customer type, the channels through which customers are served, and the products and services provided. For a description of the Company's internal management reporting process, including the methodology used to allocate costs among segments, see Note 13 -- Business Segments to the Consolidated Financial Statements in this Form 10-Q.
+Segment net interest income represents the difference between interest earned on segment assets and interest incurred on segment liabilities, adjusted for funding charges or credits through the Company's internal funds transfer pricing ("FTP") process.
+Consumer and Business Banking
+The Consumer and Business Banking segment primarily provides financial products and services to consumer and commercial customers through the Company's domestic branch network and digital banking platforms. This segment offers consumer and commercial deposits, mortgage and home equity loans, and other banking products and services. It also originates commercial loans for small- and medium-sized enterprises through the Company's branch network. Additional banking products and services provided by this segment include wealth management, private banking, treasury management, interest rate risk hedging and foreign exchange services.
+74
+The following tables present financial information for the Consumer and Business Banking segment for the periods indicated:
+Three Months Ended June 30, |
+Change from 2025 |
+($ in thousands) | 2026 | 2025 | $ | % |
+Net interest income before provision for credit losses
+$ | 274,251 | $ | 273,073 | $ | 1,178 | 0 | % |
+Noninterest income | 38,205 | 27,729 | 10,476 | 38 | % |
+Total revenue before provision for credit losses | 312,456 | 300,802 | 11,654 | 4 | % |
+Provision for credit losses
+12,451 | 6,775 | 5,676 | 84 | % |
+Compensation and employee benefits | 66,704 | 58,151 | 8,553 | 15 | % |
+Other noninterest expense | 61,483 | 57,252 | 4,231 | 7 | % |
+Total noninterest expense | 128,187 | 115,403 | 12,784 | 11 | % |
+Segment income before income taxes | 171,818 | 178,624 | (6,806) | (4) | % |
+Income tax expense | 48,150 | 50,329 | (2,179) | (4) | % |
+Segment net income | $ | 123,668 | $ | 128,295 | $ | (4,627) | (4) | % |
+Average loans | $ | 21,451,804 | $ | 20,183,539 | $ | 1,268,265 | 6 | % |
+Average deposits | $ | 36,143,674 | $ | 32,750,578 | $ | 3,393,096 | 10 | % |
+Six Months Ended June 30, |
+Change from 2025 |
+($ in thousands) | 2026 | 2025 | $ | % |
+Net interest income before provision for credit losses
+$ | 543,498 | $ | 542,806 | $ | 692 | 0 | % |
+Noninterest income | 78,167 | 60,014 | 18,153 | 30 | % |
+Total revenue before provision for credit losses | 621,665 | 602,820 | 18,845 | 3 | % |
+Provision for credit losses
+21,636 | 14,460 | 7,176 | 50 | % |
+Compensation and employee benefits | 136,800 | 120,115 | 16,685 | 14 | % |
+Other noninterest expense | 123,488 | 114,444 | 9,044 | 8 | % |
+Total noninterest expense | 260,288 | 234,559 | 25,729 | 11 | % |
+Segment income before income taxes | 339,741 | 353,801 | (14,060) | (4) | % |
+Income tax expense | 95,209 | 102,418 | (7,209) | (7) | % |
+Segment net income | $ | 244,532 | $ | 251,383 | $ | (6,851) | (3) | % |
+Average loans | $ | 21,244,542 | $ | 19,974,077 | $ | 1,270,465 | 6 | % |
+Average deposits | $ | 35,599,069 | $ | 32,539,912 | $ | 3,059,157 | 9 | % |
+Consumer and Business Banking segment net income decreased $5 million or 4%, to $124 million for the second quarter of 2026, compared with the same period in 2025. This decrease was primarily attributable to a $9 million increase in compensation and employee benefits and a $6 million increase in provision for credit losses, partially offset by a $10 million increase in noninterest income. For the first half of 2026, Consumer and Business Banking segment net income decreased $7 million or 3%, to $245 million, compared with the same period in 2025. The decrease was primarily attributable to a $17 million increase in compensation and employee benefits, a $9 million increase in other noninterest expense, and a $7 million increase in provision for credit losses, partially offset by an $18 million increase in noninterest income.
+The increase in noninterest income for both the quarter and year-to-date periods was primarily due to increases in wealth management fees. The increase in the provision for credit losses in both periods was primarily driven by loan growth. The increase in compensation and employee benefits expense in both periods was primarily due to staffing growth and higher wealth management commissions, while the increase in other noninterest expense for the first half of 2026 was mainly driven by higher occupancy and equipment expense and increased allocations of corporate overhead.
+75
+Commercial Banking
+The Commercial Banking segment primarily generates commercial loan and deposit products. Commercial loan products include CRE lending, construction finance, commercial business lending, working capital lines of credit, trade finance, letters of credit, affordable housing lending, asset-based lending, asset-backed finance, project finance, equipment financing, and loan syndication. Commercial deposit products and other financial services include treasury management, foreign exchange services, and interest rate and commodity risk hedging. This segment also includes the Company's international branch activities.
+The following tables present financial information for the Commercial Banking segment for the periods indicated:
+Three Months Ended June 30, |
+Change from 2025 |
+($ in thousands) | 2026 | 2025 | $ | % |
+Net interest income before provision for credit losses | $ | 258,824 | $ | 254,144 | $ | 4,680 | 2 | % |
+Noninterest income | 55,560 | 49,751 | 5,809 | 12 | % |
+Total revenue before provision for credit losses | 314,384 | 303,895 | 10,489 | 3 | % |
+Provision for credit losses | 20,549 | 38,724 | (18,175) | (47) | % |
+Compensation and employee benefits | 69,778 | 57,592 | 12,186 | 21 | % |
+Other noninterest expense | 39,151 | 36,053 | 3,098 | 9 | % |
+Total noninterest expense | 108,929 | 93,645 | 15,284 | 16 | % |
+Segment income before income taxes | 184,906 | 171,526 | 13,380 | 8 | % |
+Income tax expense | 51,724 | 48,319 | 3,405 | 7 | % |
+Segment net income | $ | 133,182 | $ | 123,207 | $ | 9,975 | 8 | % |
+Average loans | $ | 36,777,698 | $ | 33,767,859 | $ | 3,009,839 | 9 | % |
+Average deposits (1)
+$ | 28,658,783 | $ | 26,315,823 | $ | 2,342,960 | 9 | % |
+Six Months Ended June 30, |
+
+----- [line 2484] -----
+NM -- Not meaningful.
+(1)Primarily generated from the Company's debt securities portfolio. Refer to Note 4 -- Securities to the Consolidated Financial Statements and Item 2. MD&A -- Balance Sheet Analysis -- Debt Securities in this Form 10-Q for further information on the Company's debt securities portfolio.
+(2)Reallocated to the Commercial Banking and Consumer and Business Banking segments effective first quarter of 2026.
+(3)Prior period balances have been reclassified for comparability due to a change in allocation methodology.
+Treasury and Other segment income before income taxes increased $59 million for the second quarter of 2026, compared with the same period in 2025. The increase was attributable to a $62 million increase in net interest income and a $4 million increase in noninterest income, partially offset by a $7 million increase in compensation and employee benefits expense. Treasury and Other segment income before income taxes increased $117 million for the first half of 2026, compared with the same period in 2025. The increase was primarily attributable to a $125 million increase in net interest income and a $6 million increase in noninterest income, partially offset by an $11 million increase in compensation and employee benefits expense.
+The increase in net interest income for both the quarterly and year-to-date periods was primarily driven by lower net internal FTP credits for deposits transferred to other business segments, higher interest income on debt securities and lower interest expense on FHLB advances. The increase in noninterest income for both periods was primarily attributable to higher other income, primarily related to bank-owned life insurance policies, and gain on sales of debt securities. The increase in compensation and employee benefits expense for both periods was primarily driven by additional employer matching contributions under the Company's 401(k) plan, higher deferred compensation plan costs, and increased incentive compensation.
+Income tax expense is allocated to the Consumer and Business Banking and the Commercial Banking segments by applying statutory income tax rates to each segment's income before income taxes. The income tax expense or benefit in the Treasury and Other segment represents the remaining unallocated income tax expense or benefit after allocating income tax expense to the two core segments and reflects the impact of tax credit investment activities.
+Balance Sheet Analysis
+Debt Securities
+The Company maintains a portfolio of high quality and liquid debt securities with a moderate duration profile. It closely manages the overall portfolio credit, interest rate and liquidity risks. The Company's debt securities provide:
+&#8226;interest income for earnings and yield enhancement;
+&#8226;funding availability for needs arising during the normal course of business;
+&#8226;the ability to execute interest rate risk management strategies in response to changes in economic or market conditions; and
+78
+&#8226;collateral to support pledging agreements as required and/or to enhance the Company's borrowing capacity.
+While the Company does not intend to sell or trade its debt securities, it may sell AFS debt securities in response to changes in the balance sheet and related interest rate risk to meet liquidity, regulatory and strategic requirements.
+The following table presents the distribution of the Company's AFS and HTM debt securities portfolio by amortized cost and fair value as of June 30, 2026 and December 31, 2025, and by credit ratings as of June 30, 2026:
+June 30, 2026 | December 31, 2025 | Ratings as of June 30, 2026 (1)
+($ in thousands) | Amortized Cost | Fair Value | % of Fair Value | Amortized Cost | Fair Value | % of Fair Value | AAA/AA | A | BBB | BB and Lower |
+AFS debt securities: |
+U.S. Treasury securities | $ | 1,452,946 | $ | 1,431,341 | 10 | % | $ | 1,010,053 | $ | 993,913 | 7 | % | 100 | % | -- | % | -- | % | -- | % |
+U.S. government agency and U.S. government-sponsored enterprise debt securities | 286,666 | 254,400 | 2 | % | 287,687 | 257,654 | 2 | % | 100 | % | -- | % | -- | % | -- | % |
+U.S. government agency and U.S. government-sponsored enterprise mortgage-backed securities (2)
+11,669,952 | 11,455,225 | 78 | % | 10,544,278 | 10,397,991 | 79 | % | 100 | % | -- | % | -- | % | -- | % |
+Municipal securities | 271,422 | 240,688 | 1 | % | 277,275 | 243,102 | 2 | % | 100 | % | -- | % | -- | % | -- | % |
+Non-agency mortgage-backed securities | 617,187 | 536,241 | 4 | % | 667,195 | 584,735 | 4 | % | 97 | % | -- | % | 3 | % | -- | % |
+Corporate debt securities | 506,125 | 421,302 | 3 | % | 554,158 | 464,981 | 4 | % | -- | % | 42 | % | 55 | % | 3 | % |
+Foreign government bonds | 251,260 | 242,349 | 2 | % | 247,249 | 238,455 | 2 | % | 45 | % | 55 | % | -- | % | -- | % |
+Asset-backed securities | -- | -- | -- | % | 31,886 | 31,389 | 0 | % | -- | % | -- | % | -- | % | -- | % |
+Total AFS debt securities | $ | 15,055,558 | $ | 14,581,546 | 100 | % | $ | 13,619,781 | $ | 13,212,220 | 100 | % | 96 | % | 2 | % | 2 | % | 0 | % |
+HTM debt securities: |
+U.S. Treasury securities | $ | 543,466 | $ | 528,435 | 22 | % | $ | 540,666 | $ | 524,887 | 21 | % | 100 | % | -- | % | -- | % | -- | % |
+U.S. government agency and U.S. government-sponsored enterprise debt securities | 1,008,313 | 853,706 | 35 | % | 1,007,055 | 860,134 | 35 | % | 100 | % | -- | % | -- | % | -- | % |
+U.S. government agency and U.S. government-sponsored enterprise mortgage-backed securities (3)
+1,109,344 | 912,771 | 37 | % | 1,136,874 | 943,227 | 38 | % | 100 | % | -- | % | -- | % | -- | % |
+Municipal securities | 184,241 | 148,582 | 6 | % | 185,463 | 151,498 | 6 | % | 100 | % | -- | % | -- | % | -- | % |
+Total HTM debt securities | $ | 2,845,364 | $ | 2,443,494 | 100 | % | $ | 2,870,058 | $ | 2,479,746 | 100 | % | 100 | % | -- | % | -- | % | -- | % |
+Total debt securities | $ | 17,900,922 | $ | 17,025,040 | $ | 16,489,839 | $ | 15,691,966 |
+(1)Credit ratings represent independent assessments of the credit quality of debt securities. The Company determines the credit rating of a debt security based on the lowest rating assigned by any of the nationally recognized statistical rating organizations ("NRSROs") that have rated the security. Investment grade debt securities are those with ratings similar to BBB- or above (as defined by NRSROs) and are generally considered by the rating agencies and market participants to be low credit risk. Ratings percentages are allocated based on fair value.
+(2)Includes Government National Mortgage Association ("GNMA") AFS debt securities totaling $10.0 billion of amortized cost and $9.9 billion of fair value as of June 30, 2026, and amortized cost and fair value both totaling $9.6 billion as of December 31, 2025.
+(3)Includes GNMA HTM debt securities totaling $76 million of amortized cost and $61 million of fair value as of June 30, 2026, and $79 million of amortized cost and $65 million of fair value as of December 31, 2025.
+The Company's AFS and HTM debt securities portfolios had an effective duration (defined as the sensitivity of the value of the portfolio to interest rate changes) of 3.7 and 5.5, respectively, as of June 30, 2026, compared with 3.0 and 5.9, respectively, as of December 31, 2025. The AFS debt securities' effective duration increased primarily due to the purchase of new fixed&#8209;rate AFS securities, coupled with the sale of floating&#8209;rate AFS securities, while the decline in the HTM debt securities' effective duration is mainly due to the portfolio run-off.
+79
+Available-for-Sale Debt Securities
+AFS debt securities increased $1.4 billion or 10%, from December 31, 2025, to $14.6 billion as of June 30, 2026. The increase was primarily attributable to purchases of agency mortgage-backed securities issued or guaranteed by U.S. government agencies and government-sponsored enterprises, as well as purchases of U.S. Treasury securities. The Company's AFS debt securities are carried at fair value with non-credit related unrealized gains and losses, net of tax, reported in Other comprehensive (loss) income on the Consolidated Statement of Comprehensive Income. Pre-tax net unrealized losses on AFS debt securities were $474 million as of June 30, 2026, compared with $406 million as of December 31, 2025.
+Of the AFS debt securities with gross unrealized losses, substantially all were rated investment grade as of both June 30, 2026 and December 31, 2025. For additional information on the policies, methodologies and judgments used to determine the allowance for credit losses on AFS debt securities, see Item 8. Financial Statements -- Note 1 -- Summary of Significant Accounting Policies to the Consolidated Financial Statements in the Company's 2025 Form 10-K and Note 4 -- Securities to the Consolidated Financial Statements in this Form 10-Q.
+Held-to-Maturity Debt Securities
+All HTM debt securities were issued, guaranteed, or supported by the U.S. government or government-sponsored enterprises. Accordingly, the Company applied a zero credit loss assumption for these securities and no allowance for credit loss was recorded as of both June 30, 2026 and December 31, 2025.
+For additional information on AFS and HTM securities, see Note 1 -- Summary of Significant Accounting Policies to the Consolidated Financial Statements in the Company's 2025 Form 10-K and Note 2 -- Fair Value Measurement and Fair Value of Financial Instruments and Note 4 -- Securities to the Consolidated Financial Statements in this Form 10-Q.
+Loan Portfolio
+The Company offers a broad range of financial products designed to meet the credit needs of its borrowers. The Company's loan portfolio segments include commercial loans, which consist of C&I, CRE, multifamily residential, and construction and land loans, as well as consumer loans, which consist of single-family residential ("SFR"), home equity loans and other consumer loans.
+The composition of the loan portfolio as of June 30, 2026 was similar to the composition as of December 31, 2025, as presented in the charts below.
+Total loans held-for-investment of $59.0 billion as of June 30, 2026 increased $2.1 billion or 4% from December 31, 2025, primarily reflecting growth in the C&I and SFR loan portfolios. For additional information on the Company's loans held-for-investment outstanding balances, see Note 6 -- Loans Receivable and Allowance for Credit Losses to the Consolidated Financial Statements in this Form 10-Q.
+80
+Commercial
+The commercial loan portfolio, which includes C&I and total CRE loans, comprised 70% of total loans held-for-investment as of both June 30, 2026 and December 31, 2025. The Company actively monitors the commercial lending portfolio for credit risk and reviews credit exposures for sensitivity to changing economic conditions.
+Commercial -- Commercial and Industrial Loans. Total C&I loan commitments were $28.3 billion and $27.7 billion as of June 30, 2026 and December 31, 2025, respectively, with a utilization rate of 70% as of June 30, 2026, compared with 67% as of December 31, 2025. Total C&I loans of $19.9 billion as of June 30, 2026 increased $1.2 billion or 6% from December 31, 2025. The C&I loan portfolio includes loans and financing for businesses across a wide spectrum of industries. The Company offers a variety of C&I products, including but not limited to commercial business lending, working capital lines of credit, trade finance, letters of credit, asset-based lending, asset-backed finance, project finance and equipment financing. Additionally, the Company has a portfolio of broadly syndicated C&I loans, which represent revolving or term loan facilities that are marketed and sold primarily to institutional investors. This portfolio totaled $1.0 billion as of both June 30, 2026 and December 31, 2025. The Company also has a portfolio of loans to non-depository financial institutions ("NDFI"), which totaled $8.3 billion and $7.6 billion as of June 30, 2026 and December 31, 2025, respectively. The NDFI portfolio is primarily included in the capital call, general & other, and financial services industries, and is diversified across business credit, private equity, and mortgage credit facilities. The majority of the C&I loans had variable interest rates as of both June 30, 2026 and December 31, 2025.
+The C&I portfolio is well-diversified by industry. The Company monitors concentrations within the C&I loan portfolio by industry and customer exposure, and maintains exposure limits by industry and loan product. The following table presents the industry mix within the Company's C&I loan portfolio as of June 30, 2026 and December 31, 2025:
+June 30, 2026 | December 31, 2025
+($ in thousands) | Amount | % | Amount | % |
+Industry: |
+Capital call lending | $ | 2,500,675 | 13 | % | $ | 1,997,835 | (1)
+11 | % |
+Real estate investment & management | 2,310,227 | 12 | % | 2,319,896 | 13 | % |
+Media & entertainment | 2,214,417 | 11 | % | 2,227,571 | 12 | % |
+Financial services | 1,469,242 | 7 | % | 1,160,853 | 6 | % |
+Food production & distribution | 1,335,353 | 7 | % | 1,109,996 | 6 | % |
+Manufacturing & wholesale | 1,266,044 | 6 | % | 1,162,245 | 6 | % |
+Infrastructure & clean energy | 1,118,788 | 6 | % | 1,113,387 | 6 | % |
+Technology & telecommunications | 711,780 | 3 | % | 679,036 | 4 | % |
+Healthcare | 647,886 | 3 | % | 703,769 | 4 | % |
+Hospitality & leisure | 644,767 | 3 | % | 646,926 | 3 | % |
+Equipment finance | 577,935 | 3 | % | 447,117 | 2 | % |
+Oil & gas | 565,313 | 3 | % | 595,102 | 3 | % |
+Art finance | 442,139 | 2 | % | 503,326 | 3 | % |
+Consumer finance | 324,288 | 2 | % | 262,728 | 1 | % |
+General & other | 3,733,847 | 19 | % | 3,720,968 | (1)
+20 | % |
+Total C&I | $ | 19,862,701 | 100 | % | $ | 18,650,755 | 100 | % |
+(1)Prior period balances have been reclassified for comparability.
+Commercial -- Total Commercial Real Estate Loans. The total CRE portfolio consists of CRE, multifamily residential, and construction and land loans. The Company's underwriting parameters for CRE loans are established in compliance with supervisory guidance, and include property type, geography and loan-to-value ("LTV").
+81
+The Company's total CRE loan portfolio is well-diversified by property type with an average CRE loan size of $3 million as of both June 30, 2026 and December 31, 2025. The following table summarizes the Company's total CRE loans by property type as of June 30, 2026 and December 31, 2025:
+June 30, 2026 | December 31, 2025 |
+($ in thousands) | Amount | % | Weighted-average LTV (%) (1)
+Amount | % | Weighted-average LTV (%) (1)
+Property types: |
+Multifamily | $ | 5,251,556 | 24 | % | 50 | % | $ | 5,112,328 | 24 | % | 50 | % |
+Retail
+4,615,201 | 21 | % | 47 | % | 4,509,328 | 21 | % | 47 | % |
+Industrial
+4,109,249 | 19 | % | 46 | % | 4,213,307 | 20 | % | 46 | % |
+Hotel
+2,537,652 | 12 | % | 51 | % | 2,482,765 | 12 | % | 51 | % |
+Office
+2,295,524 | 11 | % | 53 | % | 2,233,910 | 11 | % | 52 | % |
+Healthcare
+934,586 | 4 | % | 51 | % | 858,653 | 4 | % | 51 | % |
+Construction and land | 831,822 | 4 | % | 50 | % | 742,357 | 3 | % | 51 | % |
+Other
+1,093,398 | 5 | % | 48 | % | 1,109,125 | 5 | % | 49 | % |
+
+----- [line 2605] -----
+Northern California | 2,760,043 | 18 | % | 914,479 | 18 | % | 149,090 | 20 | % | 3,823,612 | 18 | % |
+California | 10,668,417 | 69 | % | 3,301,628 | 65 | % | 401,355 | 54 | % | 14,371,400 | 68 | % |
+Texas | 1,129,088 | 7 | % | 488,276 | 10 | % | 154,241 | 21 | % | 1,771,605 | 8 | % |
+New York | 831,276 | 6 | % | 349,909 | 7 | % | 35,397 | 5 | % | 1,216,582 | 6 | % |
+Washington | 504,643 | 3 | % | 158,186 | 3 | % | 14,036 | 2 | % | 676,865 | 3 | % |
+Arizona | 339,272 | 2 | % | 205,264 | 4 | % | 38,192 | 5 | % | 582,728 | 3 | % |
+Nevada | 321,332 | 2 | % | 160,103 | 3 | % | 883 | 0 | % | 482,318 | 2 | % |
+Other markets | 1,613,060 | 11 | % | 448,962 | 8 | % | 98,253 | 13 | % | 2,160,275 | 10 | % |
+Total loans | $ | 15,407,088 | 100 | % | $ | 5,112,328 | 100 | % | $ | 742,357 | 100 | % | $ | 21,261,773 | 100 | % |
+82
+The percentage of total CRE loans located in California was 68% as of both June 30, 2026 and December 31, 2025. Changes in California's economy and real estate values could have a significant impact on the collectability of these loans and the required level of allowance for loan losses. For additional information related to the higher degree of risk from a downturn in California's economic and real estate markets, see Item 1A. Risk Factors -- Risks Related to Geographic and Political Uncertainties and Risks Related to Financial Matters in the Company's 2025 Form 10-K.
+Commercial -- Commercial Real Estate Loans. The Company focuses on providing financing to experienced real estate investors and developers with moderate levels of leverage, many of whom are long-time customers of the Bank. The Company seeks to underwrite loans with conservative standards for cash flows, debt service coverage and LTV. Owner-occupied properties comprised 20% of the CRE loans as of both June 30, 2026 and December 31, 2025. The remainder were non-owner-occupied properties, where 50% or more of the debt service for the loan is typically provided by rental income from an unaffiliated third party.
+Interest rates on CRE loans may be fixed, variable or hybrid. The Company offers derivative hedging products to our customers to manage their interest rate risks. As of June 30, 2026, of the 59% of our CRE portfolio that had variable rates, 48% had customer-level interest rate derivative contracts in place. In comparison, as of December 31, 2025, of the 58% of our CRE portfolio that had variable rates, 52% had customer-level interest rate derivative contracts in place.
+Commercial -- Multifamily Residential Loans. The multifamily residential loan portfolio is largely comprised of loans secured by residential properties with five or more units. The Company offers a variety of first lien mortgages, including fixed- and variable-rate loans, as well as hybrid loans with interest rates that adjust annually after an initial fixed rate period of three to ten years. The Company also offers hedging products to our customers to manage their interest rate risks. As of June 30, 2026, of the 55% of our multifamily residential loan portfolio that had variable rates, 48% had customer-level interest rate derivative contracts in place. In comparison, as of December 31, 2025, of the 51% of our multifamily residential portfolio that had variable rates, 50% had customer-level interest rate derivative contracts in place.
+Commercial -- Construction and Land Loans. Construction and land loans provide financing for a portfolio of projects diversified by real estate property type. Construction loan exposure was comprised of $550 million in loans outstanding, and $397 million in unfunded commitments as of June 30, 2026, compared with $544 million in loans outstanding, and $419 million in unfunded commitments as of December 31, 2025. Land loans totaled $282 million and $198 million as of June 30, 2026 and December 31, 2025, respectively.
+83
+Consumer
+Residential mortgage loans are primarily originated through the Bank's branch network. The average residential mortgage loan size was $442 thousand and $439 thousand as of June 30, 2026 and December 31, 2025, respectively. The following tables summarize the Company's SFR and home equity loan portfolios by geography and lien priority as of June 30, 2026 and December 31, 2025:
+June 30, 2026 |
+($ in thousands) | SFR
+% | Home equity loans | % | Total Residential Mortgage | % |
+Geographic markets: |
+Southern California | $ | 6,243,581 | 41 | % | $ | 994,949 | 49 | % | $ | 7,238,530 | 42 | % |
+Northern California | 2,104,859 | 14 | % | 414,359 | 20 | % | 2,519,218 | 14 | % |
+California | 8,348,440 | 55 | % | 1,409,308 | 69 | % | 9,757,748 | 56 | % |
+New York | 3,973,957 | 26 | % | 304,081 | 15 | % | 4,278,038 | 25 | % |
+Washington | 809,071 | 5 | % | 185,534 | 9 | % | 994,605 | 6 | % |
+Massachusetts | 580,895 | 4 | % | 70,406 | 3 | % | 651,301 | 4 | % |
+Georgia | 554,612 | 4 | % | 27,975 | 2 | % | 582,587 | 3 | % |
+Nevada | 527,872 | 3 | % | 40,413 | 2 | % | 568,285 | 3 | % |
+Texas | 523,030 | 3 | % | -- | -- | % | 523,030 | 3 | % |
+Other markets | 18,432 | 0 | % | 1,568 | 0 | % | 20,000 | 0 | % |
+Total | $ | 15,336,309 | 100 | % | $ | 2,039,285 | 100 | % | $ | 17,375,594 | 100 | % |
+Lien priority: |
+First mortgage | $ | 15,336,309 | 100 | % | $ | 1,423,969 | 70 | % | $ | 16,760,278 | 96 | % |
+Junior lien mortgage | -- | -- | % | 615,316 | 30 | % | 615,316 | 4 | % |
+Total | $ | 15,336,309 | 100 | % | $ | 2,039,285 | 100 | % | $ | 17,375,594 | 100 | % |
+SFR portfolio type:
+Traditional portfolio
+$ | 13,818,417 | 90 | % | $ | -- | -- | % | $ | 13,818,417 | 90 | % |
+Bridge to Home Ownership ("BTHO") portfolio
+1,517,892 | 10 | % | -- | -- | % | 1,517,892 | 10 | % |
+Total | $ | 15,336,309 | 100 | % | $ | -- | -- | % | $ | 15,336,309 | 100 | % |
+84
+December 31, 2025 |
+($ in thousands) | SFR
+% | Home equity loans | % | Total Residential Mortgage | % |
+Geographic markets: |
+Southern California | $ | 6,031,124 | 40 | % | $ | 914,803 | 48 | % | $ | 6,945,927 | 41 | % |
+Northern California | 2,026,767 | 14 | % | 392,461 | 20 | % | 2,419,228 | 14 | % |
+California | 8,057,891 | 54 | % | 1,307,264 | 68 | % | 9,365,155 | 55 | % |
+New York | 4,067,708 | 27 | % | 286,995 | 15 | % | 4,354,703 | 26 | % |
+Washington | 761,739 | 5 | % | 188,146 | 10 | % | 949,885 | 6 | % |
+Massachusetts | 566,462 | 4 | % | 68,375 | 4 | % | 634,837 | 4 | % |
+Georgia | 520,039 | 3 | % | 21,500 | 1 | % | 541,539 | 3 | % |
+Nevada | 493,670 | 3 | % | 38,072 | 2 | % | 531,742 | 3 | % |
+Texas | 513,038 | 4 | % | -- | -- | % | 513,038 | 3 | % |
+Other markets | 22,002 | 0 | % | 1,545 | 0 | % | 23,547 | 0 | % |
+Total | $ | 15,002,549 | 100 | % | $ | 1,911,897 | 100 | % | $ | 16,914,446 | 100 | % |
+Lien priority: |
+First mortgage | $ | 15,002,549 | 100 | % | $ | 1,337,066 | 70 | % | $ | 16,339,615 | 97 | % |
+Junior lien mortgage | -- | -- | % | 574,831 | 30 | % | 574,831 | 3 | % |
+Total | $ | 15,002,549 | 100 | % | $ | 1,911,897 | 100 | % | $ | 16,914,446 | 100 | % |
+SFR portfolio type:
+Traditional portfolio
+$ | 13,692,025 | 91 | % | $ | -- | -- | % | 13,692,025 | 91 | % |
+BTHO portfolio
+1,310,524 | 9 | % | -- | -- | % | 1,310,524 | 9 | % |
+Total | $ | 15,002,549 | 100 | % | $ | -- | -- | % | $ | 15,002,549 | 100 | % |
+Consumer -- SFR Loans -- Traditional Portfolio. The Company offers a variety of SFR mortgage loan programs, including fixed- and variable-rate loans, as well as hybrid loans with interest rates that adjust on a regular basis, typically annually, after an initial fixed rate period. The Company was in a first lien position in all of its SFR loans as of both June 30, 2026 and December 31, 2025. Many of these loans are reduced documentation loans, for which a substantial down payment is required, resulting in a low LTV ratio at origination, typically 65% or less. The weighted-average LTV ratio was 48% and 49% as of June 30, 2026 and December 31, 2025, respectively. These loans have historically experienced very low delinquency and loss rates.
+Consumer -- SFR Loans -- BTHO Portfolio. The Company also underwrites a BTHO program aimed at expanding home ownership access across creditworthy low-to-moderate income borrowers. The Company is in a first lien positions in all of its BTHO loans and the weighted average LTV was 88% as of both June 30, 2026 and December 31, 2025.
+Consumer -- Home Equity Loans. The Company's home equity loan portfolio consists primarily of revolving home equity lines of credit, as well as closed-end home equity loans. Total home equity commitments were $5.7 billion and $5.5 billion as of June 30, 2026 and December 31, 2025, respectively, with a utilization rate of 36% as of June 30, 2026, compared with 35% as of December 31, 2025. Substantially all of the Company's unfunded home equity commitments are unconditionally cancellable. The Company was in a first lien position for 70% of total outstanding home equity loans as of both June 30, 2026 and December 31, 2025. Many of these loans are reduced documentation loans, which have a low LTV ratio at origination, typically 65% or less. The weighted-average LTV ratio was 46% as of both June 30, 2026 and December 31, 2025. As a result, these loans have historically experienced low delinquency and loss rates. Substantially all of the Company's home equity loans were variable-rate as of both June 30, 2026 and December 31, 2025.
+All originated commercial and consumer loans are subject to the Company's conservative underwriting guidelines and loan origination standards. Management believes that the Company's underwriting criteria and procedures adequately consider the unique risks associated with these products. The Company conducts quality control procedures and periodic audits, including reviews of lending and legal requirements, to ensure compliance with these requirements.
+
+----- [line 2925] -----
+4,534,541 | 6,659,487 | (2,124,946) | (32) | % |
+Total available liquidity
+$ | 44,432,944 | $ | 40,771,352 | $ | 3,661,592 | 9 | % |
+The Company's total available liquidity increased to $44.4 billion as of June 30, 2026, compared with $40.8 billion as of December 31, 2025. The increase in available liquidity was primarily due to an increase in loans pledged and growth of the securities portfolio.
+Cash Requirements. In the ordinary course of business, the Company enters into contractual obligations that require future cash payments, including funding for customer deposit withdrawals, repayments for short- and long-term borrowings, and other cash commitments. For additional information on these obligations, see Note 9 -- Deposits to the Consolidated Financial Statements in the Company's 2025 Form 10-K, and Note 7 -- Affordable Housing Partnership, Tax Credit and Community Reinvestment Act Investments, Net and Note 8 -- Federal Home Loan Bank Advances and Long-Term Debt to the Consolidated Financial Statements in this Form 10-Q.
+The Company also has off-balance sheet arrangements which represent transactions that are not recorded on the Consolidated Balance Sheet. The Company's off-balance sheet arrangements include (1) commitments to extend credit, such as loan commitments, commercial letters of credit for foreign and domestic trade, standby letters of credit ("SBLCs"), and financial guarantees, to meet the financing needs of its customers, (2) future interest obligations related to customer deposits and the Company's borrowings, and (3) transactions with unconsolidated entities that provide financing, liquidity, market risk or credit risk support to the Company, or engage in leasing, hedging or research and development services with the Company. A portion of these commitments are expected to expire unused or only partially used, therefore the total commitment amounts do not necessarily represent future cash requirements. The Company does not expect the total commitment amounts as of June 30, 2026 to have a material current or future impact on the Company's financial conditions or results of operations. Additional information about the Company's loan commitments, commercial letters of credit and SBLCs is provided in Note 9 -- Commitments and Contingencies to the Consolidated Financial Statements in this Form 10-Q.
+The Consolidated Statement of Cash Flows in this Form 10-Q summarizes the Company's sources and uses of cash by type of activity for the first halves of 2026 and 2025. Excess cash generated by operating and investing activities may be used to repay outstanding debt or invest in liquid assets.
+Liquidity for East West. In addition to bank level liquidity management, the Company manages liquidity at the parent company level for various operating needs including payment of dividends, repurchases of common stock, principal and interest payments on its borrowings, acquisitions and additional investments in its subsidiaries. East West's primary source of liquidity is from cash dividends distributed by its subsidiary, East West Bank. The Bank is subject to various statutory and regulatory restrictions on its ability to pay dividends as discussed in Item 1. Business -- Supervision and Regulation -- Dividends and Other Transfers of Funds in the Company's 2025 Form 10-K. East West held $791 million in cash and cash equivalents and balances due from the Bank as of June 30, 2026, and $664 million in cash and cash equivalents as of December 31, 2025. Management believes that East West has sufficient sources of liquidity to meet the projected cash obligations for the coming year.
+95
+Liquidity Stress Testing. The Company utilizes liquidity stress analysis to determine the appropriate amounts of liquidity to maintain at the Company, foreign subsidiary and foreign branch to meet contractual and contingent cash outflows under a range of scenarios. Scenario analyses include assumptions about significant changes in key funding sources, market triggers, potential uses of funding and economic conditions in certain countries. In addition, Company specific events are incorporated into the stress testing. Liquidity stress tests are conducted to identify potential mismatches between liquidity sources and uses over various time horizons and under a variety of stressed conditions. Given the range of potential stresses, the Company maintains contingency funding plans on a consolidated basis and for individual entities.
+As of June 30, 2026, the Company believes it has adequate liquidity resources to conduct operations and meet other needs in the ordinary course of business, and is not aware of any events that are reasonably likely to have a material adverse effect on its liquidity, capital resources or operations. For more details on how economic conditions may impact our liquidity, see Item 1A. Risk Factors in the Company's 2025 Form 10-K.
+Market Risk Management
+Market risk refers to the risk of potential loss due to adverse movements in market risk factors, including interest rates, foreign exchange rates, commodity prices, and credit spreads. The Company is primarily exposed to interest rate risk through its core business activities of extending loans and acquiring deposits. There have been no significant changes in our risk management practices as described in Item 7. MD&A -- Market Risk Management in the Company's 2025 Form 10-K.
+Interest Rate Risk Management
+Interest rate risk is the risk that market fluctuations in interest rates can have a negative impact on the Company's earnings and capital stemming from mismatches in the Company's asset and liability cash flows, which primarily arise from customer-related activities such as lending and deposit-taking. The Company is subject to interest rate risk because:
+&#8226;Assets and liabilities may mature or reprice at different times. If assets reprice faster than liabilities and interest rates are generally rising, earnings will initially increase;
+&#8226;Assets and liabilities may reprice at the same time but by different amounts;
+&#8226;Short- and long-term market interest rates may change by different amounts. For example, the shape of the yield curve may affect the yield of new loans and funding costs differently;
+&#8226;The remaining maturity of various assets or liabilities may shorten or lengthen as interest rates change. For example, if long-term mortgage interest rates increase sharply, mortgage-related products may pay down at a slower rate than anticipated, which could impact portfolio income and valuation; or
+&#8226;Interest rates may have a direct or indirect effect on loan demand, collateral values, mortgage origination volume, and the fair value of other financial instruments.
+The ALCO coordinates the overall management of the Company's interest rate risk, meets regularly to review the Company's open market positions and establishes policies to monitor and limit exposure to market risk. Interest rate risk management is carried out primarily through strategies involving the Company's loan portfolio, debt securities portfolio, derivative instruments, available funding channels and capital market activities.
+The Company measures and monitors interest rate risk exposure through various risk management tools, which include a simulation model that performs monthly interest rate sensitivity analyses under multiple interest rate scenarios against a baseline. The simulation model incorporates the market's forward rate expectations and the Company's earning assets and liabilities. The Company uses a dynamic balance sheet, incorporating expected forward growth and/or deposit product mix shift to perform the interest rate sensitivity analyses. The simulated interest rate scenarios include an instantaneous parallel shift in the yield curve and a gradual parallel shift in the yield curve ("linear rate ramp"). In addition, the Company also performs simulations using other alternative interest rate scenarios, including various permutations of the yield curve flattening, steepening or inverting. The Company uses the results of these simulations to formulate and gauge strategies to achieve a desired risk profile within its capital and liquidity guidelines.
+96
+The Company's net interest income volatility simulations are based on a dynamic balance sheet approach and market forward rates to better reflect the interest rate risk on the Company's financial statements. The Company's simulation scenarios use parallel shocks for both instantaneous and gradual net interest income simulations, as well as economic value of equity ("EVE") simulations. These simulations conform with industry-standard scenario definitions and enhance interpretability and comparability.
+The net interest income simulation model is based on the maturity and repricing characteristics of the Company's interest rate sensitive assets, liabilities, and related derivative contracts. This model also incorporates various assumptions, which management believes to be reasonable but may have a significant impact on the results. These key assumptions include the timing and magnitude of changes in interest rates, the yield curve evolution and shape, the correlation between various interest rate indices, financial instruments' future repricing characteristics and spread relative to benchmark rates, and the effect of interest rate floors and caps. The modeled results are highly sensitive to deposit mix and deposit beta assumptions, which are derived from a regression analysis of the Company's historical deposit data.
+Simulation results are highly dependent on modeled behaviors and input assumptions. To the extent that actual behaviors are different from the assumptions used in the models, there could be material changes to the interest rate sensitivity results. The key behavioral models impacting interest rate sensitivity simulations include deposit repricing, deposit balance forecasts, and mortgage prepayments. These models and assumptions are documented, supported, and periodically back-tested to assess the reasonableness and effectiveness. The Company also regularly monitors the sensitivity of the other important modeling assumptions, such as loan and security prepayments and early withdrawal on fixed-rate customer liabilities. The Company makes appropriate calibrations to the model as needed and continually validates the model, methodology and results. Changes to key model assumptions are reviewed by the Technical ALCO, a subcommittee of ALCO. Scenario results do not reflect strategies that management could employ to limit the impact of changing interest rate expectations. The simulation does not represent a forecast of the Company's net interest income but is a tool utilized to assess the risk of the impact of changing market interest rates across a range of interest rate environments.
+The Company employs a variety of quantitative and qualitative approaches to capture historical deposit repricing and balance behaviors. These historical observations are performed at a granular level based on key product characteristics, including distinctions for brokered, public, and large commercial deposits, which are then combined with forward-looking market expectations and the competitive landscape to generate the deposit repricing and balance forecasting models. The Company uses these deposit repricing models to forecast deposit interest expense. The repricing models provide sufficient granularity to reflect key behavioral differences across product and customer types. The deposit beta, which defines the sensitivity of deposit rates to changes in the effective federal funds rate, is a key parameter of the deposit rate forecast. As of June 30, 2026, the Company assumed a weighted-average beta of approximately 53%.
+As loan and debt security prepayment assumptions are key components of the Company's model, the Company incorporates third-party vendor models to forecast prepayment behavior on mortgage loans and securities, which have mortgage loans as underlying collateral. These third-party vendor models have access to more comprehensive industry-level data that captures specific borrower and collateral characteristics over a variety of interest rate cycles. The Company will periodically assess and adjust the vendor models when appropriate to include its own available observations and expectations.
+Twelve-Month Net Interest Income Simulation
+Net interest income simulation modeling measures interest rate risk through earnings volatility. The simulation projects the cash flow changes in interest rate sensitive assets and liabilities, expressed in terms of net interest income, over a specified time horizon for defined interest rate scenarios. Net interest income simulations provide insight into the impact of market rate changes on earnings, which help guide risk management decisions. The Company assesses interest rate risk by comparing the changes of net interest income in different interest rate scenarios.
+97
+The Company models various interest rate scenarios, including scenarios based on gradual ramped shifts in interest rates, and assesses the corresponding impacts. These interest rate scenarios provide insight to the Company's underlying interest rate risk. The gradual rate ramp table below shows the net interest income volatility under a gradual parallel shift of the market implied forward rates, in even monthly increments over the first 12 months, with the full shift passed through to the forward rates thereafter. The results are based on a dynamic balance sheet with expected loan and deposit growth as of the date of the analysis.
+Net Interest Income Volatility |
+Change in Interest Rates (in bps) | June 30, 2026 | December 31, 2025 |
++200 Gradual rate ramp | 2.4 | % | 3.4 | % |
++100 Gradual rate ramp | 1.3 | % | 1.7 | % |
+-100 Gradual rate ramp | (1.6) | % | (1.5) | % |
+-200 Gradual rate ramp | (2.8) | % | (3.0) | % |
+As of June 30, 2026, the Company's net interest income profile remains modestly asset-sensitive under gradual ramped shifts in interest rates, with a higher proportion of interest-earning assets repricing in the near term, compared to interest-bearing liabilities. This position is primarily driven by a significant volume of variable-rate loans indexed to Prime and Term Secured Overnight Financing Rate ("SOFR"). A declining rate environment could negatively impact the net interest income. However, this potential impact could be partially mitigated by several structural factors, including balance sheet growth and mix evolution, ongoing reinvestment of cash flows into assets at rates above legacy lower yielding instruments, and prevailing yield&#8209;curve conditions.
+To reduce net interest income volatility, the Company has designated $4.0 billion in notional value of interest rate contracts as cash flow hedges, which are estimated to mitigate net interest income variability by approximately 1.27% of base net interest income for every 100 bps change in interest rates. A portion of the Company's interest-bearing deposit portfolio consists of non-maturity deposits that are not directly indexed to short-term rates but remain sensitive to rate changes. The Company actively manages deposit pricing and employs quantitative models to evaluate and forecast deposit behavior under various interest rate scenarios.
+Actual results may differ from modeled projections due to variations in earning asset growth and changes in deposit composition driven by customer preferences. Modeled outcomes are highly dependent on behavioral assumptions, including deposit mix shifts and customer rate sensitivity.
+Economic Value of Equity at Risk
+EVE is a cash flow calculation that takes the present value of all asset cash flows and subtracts the present value of all liability cash flows. This calculation is used for asset/liability management and measures changes in the present value of the Bank's assets and liabilities due to changes in interest rates.
+The economic value approach provides a comparatively broader scope than the net interest income volatility approach since it represents the discounted present value of cash flows over the expected life of the instruments. Due to this longer horizon, EVE is useful to identify risks arising from repricing, prepayment and maturity gaps between assets and liabilities on the balance sheet, as well as from off-balance sheet derivative exposures, over their lifetime. This long-term economic perspective into the Company's interest rate risk profile allows the Company to identify anticipated negative effects of interest rate fluctuations. However, the difference in time horizons can cause the EVE analysis to diverge from the shorter-term net interest income analysis presented above. Given the uncertainty of the magnitude, timing and direction of future interest rate movements, the shape of the yield curve, and potential changes to the balance sheet, actual results may vary from those predicted by the Company's model.
+98
+The following table presents the Company's EVE sensitivity related to an instantaneous parallel shift in market interest rates by 100 and 200 bps as of June 30, 2026 and December 31, 2025.
+EVE Volatility (1)
+Change in Interest Rates (in bps) | June 30, 2026 | December 31, 2025 |
++200 | (15.9) | % | (14.1) | % |
++100 | (7.6) | % | (6.6) | % |
+-100 | 5.6 | % | 5.2 | % |
+-200 | 9.8 | % | 9.5 | % |
+(1)The percentage change represents net present value change of the balance sheet as of the analysis date versus various interest rate scenarios.
+As of June 30, 2026, the Company's EVE is expected to decrease when interest rates rise. The EVE sensitivity represents a duration mismatch between fixed-rate assets versus fixed-rate liabilities where more fixed-rate assets are expected to produce more stable net interest income in the short term but may lead to decreases in net present value of future cash flows.
+Derivatives
+It is the Company's policy not to speculate on the future direction of interest rates, foreign currency exchange rates and commodity prices. However, the Company periodically enters into derivative transactions in order to manage its exposure to market risk, primarily interest rate risk and foreign currency risk. The Company believes these derivative transactions, when properly structured and managed, provide a hedge against inherent risk in certain assets and liabilities or against risk in specific transactions. Hedging transactions may be implemented using a variety of derivative instruments such as swaps, forwards, options, and collars. The Company uses interest rate contracts to hedge the variability in interest received on certain floating-rate commercial loans. Prior to entering any hedge accounting activity, the Company analyzes the costs and benefits of the hedge in comparison to alternative strategies. The Company also repositions its hedging derivatives portfolio based on the current assessment of economic and financial conditions, including the interest rate and foreign currency environments, balance sheet composition and trends, and the relative mix of its cash and derivative positions.
+In addition, the Company enters into derivative transactions in order to accommodate its customers with their business needs or to assist customers with their risk management objectives, such as managing exposure to fluctuations in interest rates, foreign currencies and commodity prices. To economically hedge against the derivative contracts entered into with the Company's customers, the Company enters into offsetting derivative contracts with third-party financial institutions, some of which are cleared through central clearing organizations. The exposures from derivative transactions are collateralized by cash and/or eligible securities based on limits as set forth in the respective agreements between the Company and counterparty financial institutions. The fair value changes of the derivative contracts traded with third-party financial institutions are expected to be largely offset by the fair value changes of the derivative transactions executed with customers throughout the terms of these contracts, except for the credit valuation adjustment component of the contracts and the spread variances between the customer derivatives and the offsetting financial counterparty positions. The Company also utilizes foreign exchange contracts that are not designated as hedging instruments to mitigate the economic effect of fluctuations in certain foreign currency on-balance sheet assets and liabilities and to meet funding needs in certain foreign currencies.
+99
+The Company is subject to credit risk associated with the counterparties to the derivative contracts. This counterparty credit risk is a multi-dimensional form of risk, affected by both the exposure and credit quality of the counterparty, both of which are sensitive to market-induced changes. The Company's Credit Risk Management Committee provides oversight of credit risk, and the Company has guidelines in place to manage counterparty concentration, tenor limits, and collateral. The Company manages the credit risk of its derivative positions by diversifying its positions among various counterparties, by entering into legally enforceable master netting agreements, and by requiring collateral arrangements, where possible. The Company may also transfer counterparty credit risk related to interest rate swaps to third-party financial institutions through the use of credit risk participation agreements. Certain derivative contracts are required to be cleared through central clearing organizations to further mitigate counterparty credit risk, where variation margin is applied daily as settlement to the fair value of the derivative contracts. In addition, the Company incorporates credit valuation adjustments and other market standard methodologies to appropriately reflect the counterparty's and the Company's own nonperformance risk in the fair value measurement of its derivatives. As of June 30, 2026, the Company anticipates performance by all of its counterparties and has not incurred any related credit losses.
+The following tables summarize certain information on derivative instruments designated as accounting hedges and utilized by the Company in its management of interest rate risk as of June 30, 2026 and December 31, 2025:
+June 30, 2026 |
+Weighted-average
+($ in thousands) | Notional Amount
+Fair Value Assets
+Fair Value Liabilities
+Fixed Rate
+Floating Rate
+(1) | Remaining Term (in months)
+Cash flow hedges |
+Derivative contracts hedging loans:
+Interest rate swaps - Receive fixed pay floating | $ | 3,500,000 | $ | 7,646 | $ | 14,705 | 5.50 | % | 5.41 | % | 26.3 |
+Interest rate collars - Buy floor sell cap | 500,000 | 755 | -- | Cap: 4.60%
+Floor: 3.27% | 3.66 | % | 48.1 |
+Total cash flow hedges
+$ | 4,000,000 | $ | 8,401 | $ | 14,705 |
+December 31, 2025 |
+Weighted-average
+($ in thousands) | Notional Amount
+Fair Value Assets
+Fair Value Liabilities
+Fixed Rate
+Floating Rate
+(1) | Remaining Term (in months)
+Cash flow hedges |
+Derivative contracts hedging loans:
+Interest rate swaps - Receive fixed pay floating | $ | 4,000,000 | $ | 39,997 | $ | 139 | 5.66 | % | 5.71 | % | 28.6 |
+Interest rate collars - Buy floor sell cap | 250,000 | -- | -- | Cap: 4.58%
+Floor: 1.50% | 3.87 | % | 5.0 |
+Total cash flow hedges
+$ | 4,250,000 | $ | 39,997 | $ | 139 |
+(1)Floating rates are indexed to SOFR or Prime.
+Additional information on the Company's derivatives is presented in Note 1 -- Summary of Significant Accounting Policies -- Significant Accounting Policies -- Derivatives to the Consolidated Financial Statements in the Company's 2025 Form 10-K, Note 2 -- Fair Value Measurement and Fair Value of Financial Instruments, and Note 5 -- Derivatives to the Consolidated Financial Statements in this Form 10-Q.
+100
+Critical Accounting Policies and Estimates
+The Company's significant accounting policies are described in Note 1 -- Summary of Significant Accounting Policies to the Consolidated Financial Statements in the Company's 2025 Form 10-K. Certain of these policies include critical accounting estimates, which are subject to valuation assumptions, subjective or complex judgments about matters that are inherently uncertain, and it is likely that materially different amounts could be reported under different assumptions and conditions. The Company has procedures and processes in place to facilitate making these judgments. The following accounting policies are critical to the Company's Consolidated Financial Statements:
+&#8226;allowance for credit losses;
+&#8226;fair value estimates;
+&#8226;goodwill impairment; and
+&#8226;income taxes.
+For additional information on the Company's critical accounting estimates involving significant judgments, see Item 7. MD&A -- Critical Accounting Estimates in the Company's 2025 Form 10-K.
+Reconciliation of GAAP to Non-GAAP Financial Measures
+To supplement the Company's unaudited interim Consolidated Financial Statements presented in accordance with U.S. GAAP, the Company uses certain non-GAAP measures of financial performance. Non-GAAP financial measures are not prepared in accordance with, or as an alternative to U.S. GAAP. Generally, a non-GAAP financial measure is a numerical measure of a company's performance that either excludes or includes amounts, or is subject to adjustments that have such an effect, that are not normally excluded or included in the most directly comparable financial measure that is calculated and presented in accordance with U.S. GAAP. The non-GAAP financial measures that may be discussed in this Form 10-Q include but are not limited to ROATCE, tangible book value per share and TCE ratio. Certain additional non-GAAP financial measures that are components of the foregoing non-GAAP financial measures are also set forth and reconciled in the table below. The Company believes these non-GAAP financial measures, when taken together with the corresponding U.S. GAAP financial measures, provide meaningful supplemental information regarding its performance and allow comparability to prior periods. These non-GAAP financial measures may be different from non-GAAP financial measures used by other companies, limiting their usefulness for comparison purposes.
+The following tables present the reconciliations of U.S. GAAP to non-GAAP financial measures for the periods presented:
+Three Months Ended June 30, | Six Months Ended June 30, |
+($ in thousands) | 2026 | 2025 | 2026 | 2025 |
+Net income | (a) | $ | 363,700 | $ | 310,253 | $ | 721,496 | $ | 600,523 |
+Add: Amortization of mortgage servicing assets
+264 | 316 | 413 | 609 |
+Tax effect of amortization adjustment (1)
+(74) | (89) | (116) | (172) |
+Tangible net income (non-GAAP) | (b) | $ | 363,890 | $ | 310,480 | $ | 721,793 | $ | 600,960 |
+Average stockholders' equity | (c)
+$ | 9,114,396 | $ | 8,069,982 | $ | 9,081,070 | $ | 7,970,083 |
+Less: Average goodwill | (465,697) | (465,697) | (465,697) | (465,697) |
+Average mortgage servicing assets
+(3,884) | (4,825) | (3,954) | (4,971) |
+Average tangible book value (non-GAAP) | (d) | $ | 8,644,815 | $ | 7,599,460 | $ | 8,611,419 | $ | 7,499,415 |
+ROAE (2)
+(a)/(c) | 16.01 | % | 15.42 | % | 16.02 | % | 15.19 | % |
+
+----- [line 3115] -----
+ASC | Accounting Standards Codification | MMBTU | Million British thermal unit |
+ASU | Accounting Standards Update | NDFI | Non-depository financial institutions |
+BTHO
+Bridge to Home Ownership | Non-PCD | Non-purchased credit deteriorated |
+C&I | Commercial and industrial | NRSRO | Nationally recognized statistical rating organizations |
+CET1 | Common equity tier 1 | OREO | Other real estate owned |
+CME | Chicago Mercantile Exchange | PAM | Proportional amortization method |
+CODM | Chief operating decision maker | PD | Probability of default |
+CRA | Community Reinvestment Act | ROA | Return on average assets |
+CRE | Commercial real estate | ROAE | Return on average common equity |
+EPS | Earnings per share | ROATCE | Return on average tangible common equity |
+ERM | Enterprise risk management | ROC | Risk Oversight Committee |
+EVE | Economic value of equity | RPA | Credit risk participation agreements |
+FDIC | Federal Deposit Insurance Corporation | RSU | Restricted stock unit |
+FHLB | Federal Home Loan Bank | SBLC | Standby letter of credit |
+FRB | Federal Reserve Bank | SEC | U.S. Securities and Exchange Commission |
+FTP | Funds transfer pricing | SFR | Single-family residential |
+GAAP | Generally accepted accounting principles | SOFR | Secured overnight financing rate |
+GDP | Gross domestic product | SRF | Standing repurchase agreement facility |
+GNMA | Government National Mortgage Association | TCE | Tangible common equity |
+HTM | Held-to-maturity | U.S. | United States |
+IAR | Independent Asset Review |
+105
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+Dated: | August 7, 2026 |
+EAST WEST BANCORP, INC.
+(Registrant) |
+By | /s/ Christopher J. Del Moral-Niles |
+Christopher J. Del Moral-Niles |
+Executive Vice President and
+Chief Financial Officer |
+106

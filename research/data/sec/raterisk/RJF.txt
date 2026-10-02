@@ -1,0 +1,347 @@
+# RJF 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/720005/000072000526000070/rjf-20260630.htm
+# full_doc_chars=456538
+
+
+----- [line 727] -----
+U.S. Treasuries | 429 | 1 | -- | 430 |
+Other agency obligations | 229 | -- | (2) | 227 |
+Non-agency residential MBS | 484 | 1 | (32) | 453 |
+Corporate bonds | 79 | 1 | (1) | 79 |
+Other | 14 | 1 | -- | 15 |
+Total available-for-sale securities | $ | 7,410 | $ | 10 | $ | (532) | $ | 6,888 |
+The amortized costs and fair values in the preceding table exclude $19 million and $18 million of accrued interest on available-for-sale securities as of June 30, 2026 and September 30, 2025, respectively, which was included in "Other receivables, net" on our Condensed Consolidated Statements of Financial Condition.
+See Note 7 for additional information regarding available-for-sale securities pledged with the FHLB and FRB.
+15
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES
+Notes to Condensed Consolidated Financial Statements (Unaudited)
+Index
+The following table details the contractual maturities, amortized costs, fair values and current yields for our available-for-sale securities. Weighted-average yields are calculated on a taxable-equivalent basis based on estimated annual income divided by the average amortized cost of these securities. Since our MBS and CMO available-for-sale securities are backed by mortgages, actual maturities may differ from contractual maturities because borrowers may have the right to prepay obligations without prepayment penalties. As a result, the weighted-average life of our available-for-sale securities portfolio, after factoring in estimated prepayments, was approximately 3.8 years as of June 30, 2026.
+June 30, 2026 |
+$ in millions | Within one year | After one but
+within five years | After five but
+within ten years | After ten years | Total |
+Agency residential MBS
+Amortized cost
+$ | 1 | $ | 413 | $ | 1,567 | $ | 1,325 | $ | 3,306 |
+Fair value | $ | 1 | $ | 390 | $ | 1,428 | $ | 1,242 | $ | 3,061 |
+Weighted-average yield
+2.18 | % | 1.18 | % | 1.35 | % | 3.39 | % | 2.14 | % |
+Agency commercial MBS
+Amortized cost
+$ | 161 | $ | 738 | $ | 8 | $ | 43 | $ | 950 |
+Fair value | $ | 159 | $ | 680 | $ | 7 | $ | 34 | $ | 880 |
+Weighted-average yield
+1.65 | % | 1.28 | % | 1.21 | % | 1.83 | % | 1.37 | % |
+Agency CMOs
+Amortized cost
+$ | -- | $ | -- | $ | 29 | $ | 1,517 | $ | 1,546 |
+Fair value | $ | -- | $ | -- | $ | 27 | $ | 1,378 | $ | 1,405 |
+Weighted-average yield
+-- | % | -- | % | 1.46 | % | 2.67 | % | 2.64 | % |
+U.S. Treasuries |
+Amortized cost
+$ | 205 | $ | 327 | $ | -- | $ | -- | $ | 532 |
+Fair value | $ | 205 | $ | 326 | $ | -- | $ | -- | $ | 531 |
+Weighted-average yield
+3.98 | % | 3.96 | % | -- | % | -- | % | 3.97 | % |
+Other agency obligations |
+Amortized cost
+$ | 27 | $ | 105 | $ | -- | $ | 7 | $ | 139 |
+Fair value | $ | 27 | $ | 103 | $ | -- | $ | 7 | $ | 137 |
+Weighted-average yield
+3.08 | % | 3.85 | % | -- | % | 3.06 | % | 3.66 | % |
+Non-agency residential MBS |
+Amortized cost
+$ | -- | $ | -- | $ | -- | $ | 434 | $ | 434 |
+Fair value | $ | -- | $ | -- | $ | -- | $ | 401 | $ | 401 |
+Weighted-average yield
+-- | % | -- | % | -- | % | 3.96 | % | 3.96 | % |
+Corporate bonds |
+Amortized cost
+$ | 8 | $ | 48 | $ | 9 | $ | -- | $ | 65 |
+Fair value | $ | 8 | $ | 48 | $ | 10 | $ | -- | $ | 66 |
+Weighted-average yield
+4.20 | % | 4.62 | % | 5.66 | % | -- | % | 4.72 | % |
+Other |
+Amortized cost
+$ | -- | $ | -- | $ | 5 | $ | 10 | $ | 15 |
+Fair value | $ | -- | $ | -- | $ | 5 | $ | 10 | $ | 15 |
+Weighted-average yield
+-- | % | -- | % | 1.99 | % | 6.30 | % | 4.84 | % |
+Total available-for-sale securities
+Amortized cost
+$ | 402 | $ | 1,631 | $ | 1,618 | $ | 3,336 | $ | 6,987 |
+Fair value | $ | 400 | $ | 1,547 | $ | 1,477 | $ | 3,072 | $ | 6,496 |
+Weighted-average yield
+2.98 | % | 2.06 | % | 1.37 | % | 3.12 | % | 2.46 | % |
+16
+
+----- [line 891] -----
+Interest rate
+Principal transactions/other revenue
+$ | 2 | $ | 4 | $ | 8 | $ | 11 |
+Foreign exchange (1)
+Principal transactions/other revenue
+$ | 6 | $ | (48) | $ | 14 | $ | -- |
+Other | Principal transactions | $ | -- | $ | (6) | $ | 3 | $ | (3) |
+(1)The impacts included in our Condensed Consolidated Statements of Income and Comprehensive Income of these amounts net of the gains/(losses) on the related hedged item were net gains of $1 million and $3 million for the three months ended June 30, 2026 and 2025, respectively, and net gains of $4 million and $7 million for the nine months ended June 30, 2026 and 2025, respectively.
+Risks associated with our derivatives and related risk mitigation
+Credit risk
+We are exposed to credit losses primarily in the event of nonperformance by the counterparties to derivatives that are not cleared through a clearing organization. Where we are subject to credit exposure, we perform a credit evaluation of counterparties prior to entering into derivative transactions and we continue to monitor their credit standings on an ongoing basis. We may require initial margin or collateral from counterparties, generally in the form of cash or marketable securities to support certain of these obligations as established by the credit threshold specified by the agreement and/or as a result of monitoring the credit standing of the counterparties. We also enter into derivatives with clients, typically interest rate derivatives, to which either of our bank subsidiaries have provided loans. Such derivatives are generally collateralized by marketable securities or other assets of the client.
+Interest rate and foreign exchange risk
+We are exposed to interest rate risk related to certain of our interest rate derivatives. We are also exposed to foreign exchange risk related to our forward foreign exchange derivatives. On a daily basis, we monitor our risk exposure on our derivatives based on established sensitivity-based and foreign exchange spot limits.
+Derivatives with credit-risk-related contingent features
+Certain of our derivative contracts contain provisions that require our debt to maintain an investment-grade rating from one or more of the major credit rating agencies or contain provisions related to default on certain of our outstanding debt. If our debt were to fall below investment-grade or we were to default on certain of our outstanding debt, the counterparties to the derivative instruments could terminate the derivative and request immediate payment or demand immediate and ongoing overnight collateralization on our derivative instruments in liability positions. The aggregate fair value of all derivative instruments with such credit-risk-related contingent features that were in a liability position was not significant at either June 30, 2026 or September 30, 2025.
+19
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES
+Notes to Condensed Consolidated Financial Statements (Unaudited)
+Index
+NOTE 7 - COLLATERALIZED AGREEMENTS AND FINANCINGS
+Collateralized agreements are comprised of securities purchased under agreements to resell ("reverse repurchase agreements") and securities borrowed. Collateralized financings are comprised of securities sold under agreements to repurchase ("repurchase agreements") and securities loaned. We enter into these transactions in order to facilitate client activities, acquire securities to cover short positions, and finance certain firm activities. The significant accounting policies governing our collateralized agreements and financings are described in Note 2 of our 2025 Form 10-K.
+Our reverse repurchase agreements, repurchase agreements, securities borrowing, and securities lending transactions are governed by master agreements that are widely used by counterparties and that may allow for net settlements of payments in the normal course, as well as offsetting of all contracts with a given counterparty in the event of bankruptcy or default of one of the parties to the transaction. For financial statement purposes, we do not offset our reverse repurchase agreements, repurchase agreements, securities borrowed, and securities loaned because the conditions for netting as specified by GAAP are not met. Although not offset on the Condensed Consolidated Statements of Financial Condition, these transactions are included in the following table.
+Collateralized agreements | Collateralized financings |
+$ in millions | Reverse repurchase agreements | Securities borrowed | Total | Repurchase agreements | Securities loaned | Total |
+June 30, 2026 |
+Gross amounts of recognized assets/liabilities | $ | 316 | $ | 849 | $ | 1,165 | $ | 265 | $ | 564 | $ | 829 |
+Gross amounts offset on the Condensed Consolidated Statements of Financial Condition | -- | -- | -- | -- | -- | -- |
+Net amounts included in the Condensed Consolidated Statements of Financial Condition | 316 | 849 | 1,165 | 265 | 564 | 829 |
+Gross amounts not offset on the Condensed Consolidated Statements of Financial Condition | (316) | (827) | (1,143) | (265) | (551) | (816) |
+Net amounts | $ | -- | $ | 22 | $ | 22 | $ | -- | $ | 13 | $ | 13 |
+September 30, 2025 |
+Gross amounts of recognized assets/liabilities | $ | 302 | $ | 396 | $ | 698 | $ | 325 | $ | 786 | $ | 1,111 |
+Gross amounts offset on the Condensed Consolidated Statements of Financial Condition | -- | -- | -- | -- | -- | -- |
+Net amounts included in the Condensed Consolidated Statements of Financial Condition | 302 | 396 | 698 | 325 | 786 | 1,111 |
+Gross amounts not offset on the Condensed Consolidated Statements of Financial Condition | (302) | (372) | (674) | (325) | (768) | (1,093) |
+Net amounts | $ | -- | $ | 24 | $ | 24 | $ | -- | $ | 18 | $ | 18 |
+The total amount of collateral received under reverse repurchase agreements and the total amount of collateral posted under repurchase agreements exceeds the carrying value of these agreements on our Condensed Consolidated Statements of Financial Condition.
+Repurchase agreements and securities loaned accounted for as secured borrowings
+The following table presents our repurchase agreements and securities lending transactions accounted for as secured borrowings by type of collateral. Such secured borrowings have no stated maturity and are generally overnight and continuous.
+$ in millions | June 30, 2026 | September 30, 2025 |
+Repurchase agreements:
+Government and agency obligations | $ | 82 | $ | 125 |
+Agency MBS and agency CMOs | 183 | 200 |
+Total repurchase agreements | $ | 265 | $ | 325 |
+Securities loaned:
+Equity securities | 564 | 786 |
+Total collateralized financings | $ | 829 | $ | 1,111 |
+20
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES
+Notes to Condensed Consolidated Financial Statements (Unaudited)
+Index
+Collateral received and pledged
+We receive cash and securities as collateral, primarily in connection with reverse repurchase agreements, securities borrowing agreements, derivative transactions, and client margin loans. The collateral we receive reduces our credit exposure to individual counterparties.
+In many cases, we are permitted to deliver or repledge financial instruments we have received as collateral to satisfy our collateral requirements under our repurchase agreements, securities lending agreements or other secured borrowings, to satisfy deposit requirements with clearing organizations, or to otherwise meet either our or our clients' settlement requirements.
+The following table presents financial instruments at fair value that we received as collateral, were not included on our Condensed Consolidated Statements of Financial Condition, and that were available to be delivered or repledged, along with the balances of such instruments that were delivered or repledged, to satisfy one of our purposes previously described.
+$ in millions | June 30, 2026 | September 30, 2025 |
+Collateral we received that was available to be delivered or repledged | $ | 4,974 | $ | 4,003 |
+Collateral that we delivered or repledged | $ | 2,221 | $ | 2,080 |
+Encumbered assets
+We pledge certain of our assets, primarily trading assets, to collateralize repurchase agreements or other secured borrowings, maintain lines of credit, or to satisfy our collateral or settlement requirements with counterparties or clearing organizations who may or may not have the right to deliver or repledge such instruments. The following table presents information about our assets that have been pledged for such purposes and whether third parties had the right to deliver or repledge such assets.
+$ in millions | June 30, 2026 | September 30, 2025 |
+Had the right to deliver or repledge | $ | 1,438 | $ | 1,265 |
+Did not have the right to deliver or repledge | $ | 40 | $ | 66 |
+We pledge certain of our bank loans and available-for-sale securities at the FHLB and FRB as security for the repayment of certain borrowings, to secure capacity for additional borrowings as needed, and to participate in certain deposit programs. The FHLB and the FRB do not have the ability to sell or repledge such loans and securities. For additional information regarding our outstanding FHLB advances see Note 15. The following table presents information about our assets that have been pledged at the FHLB or FRB.
+$ in millions | June 30, 2026 | September 30, 2025 |
+Assets pledged at the FHLB or FRB:
+Available-for-sale securities | $ | 2,046 | $ | 2,435 |
+Bank loans | 35,935 | 31,014 |
+Total assets pledged at the FHLB or FRB
+$ | 37,981 | $ | 33,449 |
+21
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES
+
+----- [line 2924] -----
+As of June 30, 2026, our total liabilities of $81.45 billion were $5.7 billion, or 8%, higher than our total liabilities as of September 30, 2025, primarily due to a $4.42 billion increase in bank deposits, largely to support loan growth, and brokerage client payables increased $1.03 billion.
+LIQUIDITY AND CAPITAL RESOURCES
+Liquidity and capital are essential to our business. Liquidity risk is the risk that the firm will be unable to meet expected or unexpected cash flow requirements, such as payments under long-term debt agreements, commitments to extend credit, and customer deposit withdrawals, while continuing to support its businesses and customers under a range of economic conditions.
+The primary goal of our liquidity management activities is to ensure adequate funding and liquidity to conduct our business over a range of economic and market environments, including times of broader industry or market liquidity stress events. In times of market stress or uncertainty, we generally maintain higher levels of liquidity to ensure we have adequate funding to support our businesses and meet our clients' needs. We seek to manage capital levels to support execution of our business strategy, provide financial strength to our subsidiaries, and maintain sustained access to the capital markets. This includes meeting our regulatory capital requirements and conservative internal management targets.
+Liquidity and capital resources are provided primarily through our business operations and financing activities. Our businesses generate substantially all of their own liquidity and funding needs. We have a contingency funding plan which would guide our actions if one or more of our businesses were to experience disruptions from normal funding and liquidity sources. These actions include reallocating client cash balances in the RJBDP from third-party banks to our bank subsidiaries thereby bringing those deposits onto our Condensed Consolidated Statements of Financial Condition, increasing our FHLB borrowings or borrowing from the Federal Reserve's discount window at our bank subsidiaries, accessing committed and uncommitted lines of credit at the parent or certain operating subsidiaries, or accessing capital markets.
+We also have various mechanisms to support deposit growth through modifications to existing products and programs, the issuance of additional certificates of deposit, and deposit activity generated through other deposit gathering capabilities in our Bank segment. With each of our deposit offerings, we work to obtain sufficient liquidity to support our business operations while also maintaining a high level of FDIC insurance coverage for our clients.
+Our financing activities could also include bank borrowings, collateralized financing arrangements, or additional capital raising activities under our "universal" shelf registration statement. We believe our existing assets, most of which can be readily monetized, together with funds generated from operations and available from committed and uncommitted financing facilities, provide adequate funds for continuing operations at current levels of activity in the short-term. We also believe that we will be able to continue to meet our long-term funding and liquidity requirements due to our strong financial position and ability to access capital from financial markets.
+75
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES
+Management's Discussion and Analysis
+Index
+Liquidity and capital management
+Senior management establishes our liquidity and capital management frameworks, which support the successful execution of our business strategies by ensuring ongoing and sufficient funding and liquidity. Our liquidity and capital management frameworks are overseen by our Asset and Liability Committee, a senior management committee that develops and executes strategies and policies to manage our liquidity risk and interest rate risk, as well as provides oversight over the firm's investments. Our liquidity management framework is designed to ensure we have a sufficient amount of funding, even when funding markets experience stress. We manage the maturities and diversity of our funding across products and seek to maintain a diversified funding profile with an appropriate tenor, taking into consideration the characteristics and liquidity profile of our assets (e.g., the maturities of our available-for-sale securities portfolio). The liquidity management framework includes senior management's review of short- and long-term cash flow forecasts, monitoring of the availability of alternative sources of financing, and daily monitoring of liquidity in our significant subsidiaries. Our decisions on the allocation of resources to our business units consider, among other factors, projected profitability, cash flow, risk, future liquidity needs, and required capital levels. Our treasury department assists in evaluating, monitoring and controlling the impact that our business activities have on our financial condition and liquidity, and also maintains our relationships with various lenders.
+Our capital planning and capital risk management processes are governed by the Capital Planning Committee ("CPC"), a senior management committee that provides oversight on our capital planning and ensures that our strategic planning and risk management processes are integrated into the capital planning process. The CPC meets at least quarterly to review key metrics related to the firm's capital, such as debt structure and capital ratios; to analyze potential and emerging risks to capital; to oversee our annual firmwide capital stress test; and to propose capital actions to the Board of Directors, such as declaring dividends, repurchasing securities, and raising capital. To ensure that we have sufficient capital to absorb unanticipated losses, the firm adheres to capital risk appetite statements and tolerances set in excess of regulatory minimums, which are established by the CPC and approved by the Board of Directors. We conduct enterprise-wide capital stress testing to ensure that we maintain adequate capital to adhere to our established tolerances under multiple scenarios, including a stressed scenario.
+Capital structure
+Common equity (i.e., common stock, additional paid-in capital, and retained earnings) is the primary component of our capital structure. Common equity allows for the absorption of losses on an ongoing basis and for the conservation of resources during stress periods, as we have discretion on the amount and timing of dividends and other capital actions. Information about our common equity is included in the Condensed Consolidated Statements of Financial Condition, the Condensed Consolidated Statements of Changes in Shareholders' Equity, and Note 18 of this Form 10-Q.
+Under regulatory capital rules applicable to us as a bank holding company that has made an election to be a financial holding company, we are required to maintain minimum leverage ratios (defined as tier 1 capital divided by adjusted average assets), as well as minimum ratios of tier 1 capital, CET1 capital, and total capital to risk-weighted assets. These capital ratios incorporate quantitative measures of our assets, liabilities, and certain off-balance sheet items as calculated under the regulatory capital rules and are subject to qualitative judgments by the regulators about components, risk-weightings, and other factors. We calculate these ratios in order to assess compliance with both regulatory requirements and internal capital policies. In order to maintain our ability to take certain capital actions, including dividends and common equity repurchases, and to make bonus payments, we must hold a capital conservation buffer above our minimum risk-based capital requirements. See Note 22 for further information about our regulatory capital and related capital ratios.
+We have classified all of our investments in debt securities as available-for-sale and have not classified any of our investments in debt securities as held-to-maturity. Accordingly, we account for our available-for-sale securities at fair value at each reporting date, with unrealized gains and losses, net of tax, included in AOCI. Current Basel III rules permit us to make an election to exclude most components of AOCI when calculating CET1 capital, tier 1 capital, and total capital. We have elected the AOCI opt-out for regulatory capital purposes and therefore exclude certain elements of AOCI, including gains/losses on our available-for-sale portfolio, from our capital calculations.
+76
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES
+Management's Discussion and Analysis
+Index
+The following table presents the components of RJF's regulatory capital used to calculate the aforementioned regulatory capital ratios.
+$ in millions
+June 30, 2026 | September 30, 2025 |
+Common equity tier 1 capital/Tier 1 capital |
+Common stock and related additional paid-in capital | $ | 3,207 | $ | 3,238 |
+Retained earnings
+14,977 | 13,604 |
+Treasury stock
+(5,104) | (4,022) |
+Accumulated other comprehensive loss
+(381) | (396) |
+Less: Goodwill and identifiable intangible assets, net of related deferred tax liabilities | (2,376) | (1,703) |
+Other adjustments | 328 | 360 |
+Common equity tier 1 capital | 10,651 | 11,081 |
+Preferred stock | -- | 79 |
+Less: Tier 1 capital deductions | -- | (4) |
+Tier 1 capital | 10,651 | 11,156 |
+Tier 2 capital |
+Qualifying allowances for credit losses | 475 | 531 |
+Tier 2 capital | 475 | 531 |
+Total capital | $ | 11,126 | $ | 11,687 |
+The following table presents RJF's risk-weighted assets by exposure type used to calculate the aforementioned regulatory capital ratios.
+$ in millions
+June 30, 2026 | September 30, 2025 |
+Credit risk-weighted assets:
+On-balance sheet assets: |
+Corporate exposures | $ | 20,477 | $ | 20,621 |
+Exposures to sovereign and government-sponsored entities (1)
+1,082 | 1,287 |
+Exposures to depository institutions, foreign banks, and credit unions | 1,885 | 2,076 |
+Exposures to public-sector entities | 515 | 569 |
+Residential mortgage exposures | 5,659 | 5,193 |
+Statutory multi-family mortgage exposures | 168 | 214 |
+High volatility commercial real estate exposures | 32 | 45 |
+Past due loans | 266 | 341 |
+Equity exposures | 540 | 567 |
+Securitization exposures | 117 | 116 |
+Other assets | 11,502 | 10,651 |
+Off-balance sheet: |
+Standby letters of credit | 171 | 154 |
+Commitments with original maturity of one year or less | 125 | 180 |
+Commitments with original maturity greater than one year | 2,818 | 2,819 |
+Over-the-counter derivatives | 166 | 230 |
+Other off-balance sheet items | 935 | 480 |
+Total credit risk-weighted assets
+46,458 | 45,543 |
+Market risk-weighted assets
+2,984 | 2,887 |
+Total standardized risk-weighted assets | $ | 49,442 | $ | 48,430 |
+(1)Exposure is predominantly to the U.S. government and its agencies.
+
+----- [line 3119] -----
+In September 2025, the FASB issued amended guidance related to capitalization of internal-use software costs (ASU 2025-06). This amendment eliminates references to sequential software development stages and requires capitalization of internal-use software costs once management has authorized and committed to funding the software project and when the probability that the project will be completed and the software will be used to perform the function intended is evident. This new guidance is effective for annual and interim periods beginning in our fiscal 2029 with early adoption permitted. This guidance will be applied using a prospective transition approach, with a modified retrospective or full retrospective transition approach permitted. Since the capitalization of internal-use software costs generally will not change significantly for most types of software under the amendments in this guidance, we do not expect adoption of this ASU to have a material impact on our financial condition or results of operations.
+In November 2025, the FASB issued amended guidance related to the accounting for purchased loans (ASU 2025-08). Under this new guidance, loans acquired without credit deterioration and deemed "seasoned" will be considered purchased seasoned loans and accounted for using the gross-up approach at acquisition (i.e., record the loan at its purchase price and separately record an allowance for expected credit losses). Seasoned loans include all loans acquired in a business combination, that do not have "more-than-insignificant" deterioration of credit quality since origination, as well as loans purchased at least 90 days after origination, where the purchaser was not involved in the origination of the loans. This new guidance is effective for annual and interim periods beginning in our fiscal 2028 with early adoption permitted. This guidance will be applied using a prospective transition approach. We are evaluating the impact the adoption of this ASU will have on our financial condition and results of operations.
+83
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES
+Management's Discussion and Analysis
+Index
+RISK MANAGEMENT
+Risks are an inherent part of our business and activities and, as a result, we are subject to various uncertainties that may impact our strategic objectives, operations, and financial results. Management of risk is critical to our fiscal soundness and profitability. Our risk management framework is comprised of common principles and standards for the management and control of risks that align with our culture and risk appetite. This framework allows for identification, assessment, monitoring, reporting, and control of various risks, with associates, including senior management, playing an active role in support of this framework.
+The principal risks related to our business activities are market, credit, liquidity, operational, model, and compliance.
+Governance
+Risk oversight and decision-making are supported by a formalized risk governance structure in addition to a three lines of risk management model. Our Board of Directors, including its Risk Committee and Audit Committee, is responsible for the review and approval of the risk management framework and receives regular updates on risks identified including the assessment, monitoring, and reporting of those risks and related issues. The Board of Directors, including its Risk Committee assists in articulating the firm's risk appetite. The RJF Enterprise Risk Management Committee is the senior management-level committee responsible for risk oversight and is supported by additional risk-specific committees. These committees support effective risk governance by providing a forum for communication, escalation, and risk remediation with representation across all lines of risk management. Our first line of risk management, which includes all of our businesses, owns its risks and is responsible for identifying, mitigating, and escalating risks arising from its day-to-day activities. The second line of risk management, which includes Compliance and Risk Management, advises our client-facing businesses and other first-line functions in identifying, assessing, and mitigating risk. The second line of risk management tests and monitors the effectiveness of controls, as deemed necessary, and escalates risks when appropriate to senior management and the Board of Directors. The third line of risk management, Internal Audit, independently reviews activities conducted by the previous lines of risk management to assess their management and mitigation of risk, providing additional assurance to the Board of Directors and senior management, with a view toward enhancing our oversight, management, and mitigation of risk. Our legal department provides legal advice and guidance to each of these three lines of risk management.
+Market risk
+Market risk is our risk of loss resulting from the impact of changes in market prices on our trading inventory, derivatives, and investment positions. We have exposure to market risk primarily through our broker-dealer trading operations and our banking operations. Through our broker-dealer subsidiaries, we trade fixed income and, to a lesser extent, equity securities and maintain trading inventories to ensure availability of securities to facilitate client transactions. Inventory levels may fluctuate daily as a result of client demand. Within our banking operations, we hold investments in an available-for-sale securities portfolio, and from time to time may hold SBA loan securitizations not yet sold. Our primary market risks relate to interest rates, credit spreads, equity prices, and foreign exchange rates. Interest rate risk results from changes in levels of interest rates, the volatility of interest rates, and mortgage prepayment speeds. Credit spread risk results from change in the market perception of the credit quality of issuers, which can affect the value of credit sensitive instruments such as corporate bonds, municipal bonds, and structured products. Equity risk results from changes in prices of equity securities. Foreign exchange risk results from changes in spot prices, forward prices, and volatility of foreign exchange rates. See Note 2 of the Notes to Consolidated Financial Statements of our 2025 Form 10-K and Notes 4, 5, and 6 of the Notes to Condensed Consolidated Financial Statements of this Form 10-Q for fair value and other information regarding our trading inventories, available-for-sale securities, and derivative instruments.
+We regularly enter into underwriting commitments and, as a result, we may be subject to market risk on any unsold securities issued in the offerings to which we are committed. Risk exposure is controlled by limiting our participation, the transaction size, or through the syndication process.
+Market Risk Management is responsible for measuring, monitoring, and reporting market risks associated with the firm's trading and derivative portfolios. While Market Risk Management maintains ongoing communication with the revenue-generating business units, it is independent of such units.
+84
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES
+Management's Discussion and Analysis
+Index
+Trading activities
+We are exposed to market risk, primarily related to interest rate risk, as a result of our trading inventory (primarily comprised of fixed income financial instruments) in our Capital Markets segment. Changes in the value of our trading inventory may result from fluctuations in interest rates, credit spreads, equity prices, macroeconomic factors, investor expectations or risk appetites, and liquidity, as well as dynamic relationships between these factors. We actively manage interest rate risk arising from our fixed income trading inventory through the use of hedging strategies utilizing U.S. Treasuries, exchange traded funds, futures contracts, liquid spread products, and derivatives.
+We are also exposed to equity price risk as a result of our capital markets activities. Our broker-dealer activities are generally client-driven, and we hold equity securities as part of our trading inventory to facilitate such activities, although the amounts are not as significant as our fixed income trading inventory.
+Our primary method for controlling risks within trading inventories is through the use of dollar-based and exposure-based limits. A hierarchy of limits exists at multiple levels, including firm, business unit, desk (e.g., for equities, corporate bonds, municipal bonds), product sub-type (e.g., below-investment-grade positions) and issuer concentration. For derivative positions, which are primarily comprised of interest rate swaps, we have established sensitivity-based and foreign exchange limits. Trading positions and derivatives are monitored against these limits through daily reports that are distributed to senior management. During volatile markets, we may temporarily reduce limits and/or choose to pare our trading inventories to reduce risk.
+We monitor Value-at-Risk ("VaR") for all of our trading portfolios on a daily basis for risk management purposes and as a result of applying the Fed's Market Risk Rule ("MRR") for the purpose of calculating our capital ratios. The MRR, also known as the "Risk-Based Capital Guidelines: Market Risk" rule released by the Fed, the Office of the Comptroller of the Currency and the FDIC, requires us to calculate VaR for all of our trading portfolios, including fixed income, equity, derivatives, and foreign exchange instruments. VaR is an appropriate statistical technique for estimating potential losses in trading portfolios due to typical adverse market movements over a specified time horizon with a suitable confidence level. However, there are inherent limitations to utilizing VaR including: historical movements in markets may not accurately predict future market movements; VaR does not take into account the liquidity of individual positions; VaR does not estimate losses over longer time horizons; and extended periods of one-directional markets potentially distort risks within the portfolio. In addition, should markets become more volatile, actual trading losses may exceed VaR results presented on a single day and might accumulate over a longer time horizon. As a result, management complements VaR with sensitivity analysis and stress testing and employs additional controls such as a daily review of trading results, review of aged inventory, independent review of pricing, monitoring of concentrations, and review of issuer ratings.
+To calculate VaR, we use models that incorporate historical simulation. This approach assumes that historical changes in market conditions, such as in interest rates and equity prices, are representative of future changes. Simulation is based on daily market data for the previous twelve months. VaR is reported at a 99% confidence level for a one-day time horizon. Assuming that future market conditions change as they have in the past twelve months, we would expect to incur losses greater than those predicted by our one-day VaR estimates about once every 100 trading days, or two to three times per year on average. The VaR model is independently reviewed by our Model Risk Management function. See "Item 7 - Management's Discussion and Analysis of Financial Condition and Results of Operations - Risk management - Model risk" of our 2025 Form 10-K for further information.
+The modeling of the risk characteristics of trading positions involves a number of assumptions and approximations that management believes to be reasonable. However, there is no uniform industry methodology for estimating VaR, and different assumptions or approximations could produce materially different VaR estimates. As a result, VaR results are more reliable when used as indicators of risk levels and trends within a firm than as a basis for inferring differences in risk-taking across firms.
+85
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES
+Management's Discussion and Analysis
+Index
+The following table sets forth the high, low, period-end and average daily one-day VaR for all of our trading portfolios, including fixed income and equity instruments, and for our derivatives for the periods and dates indicated.
+Nine months ended June 30, 2026 | Period-end VaR | Three months ended June 30, | Nine months ended June 30, |
+$ in millions | High | Low | June 30,
+2026 | September 30,
+2025 | $ in millions | 2026 | 2025 | 2026 | 2025 |
+Daily VaR | $ | 5 | $ | 2 | $ | 2 | $ | 3 | Average daily VaR | $ | 3 | $ | 3 | $ | 3 | $ | 3 |
+We perform daily back-testing procedures for our VaR model, as defined by the Fed's MRR, whereby we compare each day's projected VaR to its regulatory-defined daily trading losses, which exclude fees, commissions, reserves, net interest income, and intraday trading. Regulatory-defined daily trading losses are used to evaluate the performance of our VaR model and are not comparable to our actual daily net revenues. Based on these daily "ex ante" versus "ex post" comparisons, we determine whether the number of times that regulatory-defined daily trading losses exceed VaR is consistent with our expectations at a 99% confidence level. Our regulatory-defined daily losses in our trading portfolios did not exceed our predicted VaR during the three months ended June 30, 2026, and exceeded our predicted VaR on one occasion during the nine months ended June 30, 2026.
+Separately, RJF provides additional market risk disclosures to comply with the MRR, including 10-day VaR and 10-day Stressed VaR, which are available on our website at https://www.raymondjames.com/investor-relations/financial-information/filings-and-reports within "Other Reports and Information."
+Banking operations
+Our Bank segment maintains an interest-earning asset portfolio that is comprised of cash, SBL, C&I loans, CRE loans, REIT loans, residential mortgage loans, and tax-exempt loans, as well as an available-for-sale securities portfolio. These interest-earning assets are primarily funded by client deposits. Based on the current asset portfolio, our banking operations are subject to interest rate risk. We analyze interest rate risk based on forecasted net interest income, which is the net amount of interest received and interest paid, and the net portfolio valuation, both across a range of interest rate scenarios.
+One of the objectives of our Asset and Liability Committee is to manage the sensitivity of net interest income to changes in market interest rates. This committee uses several measures to monitor and limit interest rate risk in our banking operations, including scenario analysis and economic value of equity ("EVE"). We utilize hedging strategies using interest rate swaps in our banking operations as a component of our asset and liability management process. For additional information regarding this hedging strategy, see Note 2 of the Notes to Consolidated Financial Statements of our 2025 Form 10-K and Notes 6, 14 and 15 of the Notes to Condensed Consolidated Financial Statements of this Form 10-Q. We also manage interest rate risk as part of our liquidity management framework. See "Management's Discussion and Analysis of Financial Condition and Results of Operations - Liquidity and capital resources" of this Form 10-Q for additional information.
+To ensure that we remain within the tolerances established for net interest income, a sensitivity analysis of net interest income to interest rate conditions is estimated under a variety of scenarios. We use simulation models and estimation techniques to assess the sensitivity of net interest income to movements in interest rates. The model estimates the sensitivity by calculating interest income and interest expense in a dynamic balance sheet environment using current repricing, prepayment, and reinvestment of cash flow assumptions over a 12-month time horizon. Assumptions used in the model include interest rate movement, the slope of the yield curve, and balance sheet composition and growth. The model also considers interest rate-related risks such as pricing spreads, pricing of client cash accounts, including deposit betas, and prepayments. Various interest rate scenarios are modeled in order to determine the effect those scenarios may have on net interest income.
+86
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES
+Management's Discussion and Analysis
+Index
+The following table is an analysis of our banking operations' estimated net interest income over a 12-month period based on instantaneous shifts in interest rates (expressed in basis points) using our previously described asset/liability model, which assumes a dynamic balance sheet. While not presented, additional rate scenarios are performed, including interest rate ramps and yield curve shifts that may more realistically mimic the speed of potential interest rate movements. We also perform simulations on time horizons of up to five years to assess longer-term impacts to various interest rate scenarios. On a quarterly basis, we test expected model results to actual performance. Additionally, any changes made to key assumptions in the model are documented and approved by the Asset and Liability Committee.
+Instantaneous
+changes in rate
+Net interest income
+($ in millions)
+Projected change in
+net interest income |
++200 | $2,119 | 8% |
++100 | $2,054 | 4% |
+0 | $1,967 | --% |
+-100 | $1,845 | (6)% |
+-200 | $1,724 | (12)% |
+The preceding table does not include the impacts of an instantaneous change in interest rates on net interest income on assets and liabilities outside of our banking operations or on our RJBDP fees from third-party banks, which are also sensitive to changes in interest rates and are included in "Account and service fees" on our Condensed Consolidated Statements of Income and Comprehensive Income. Refer to "Management's Discussion and Analysis of Financial Condition and Results of Operations - Net interest analysis" of this Form 10-Q for additional information on our net interest income.
+We have classified all of our investments in debt securities in our banking operations as available-for-sale and have not classified any of our investments in debt securities as held-to-maturity. Our available-for-sale securities portfolio is substantially all fixed rate and consists primarily of agency-backed MBS, agency-backed CMOs, and U.S. Treasuries. These securities are carried at fair value on our Condensed Consolidated Statements of Financial Condition, with changes in the fair value of the portfolio recorded through OCI on our Condensed Consolidated Statements of Income and Comprehensive Income. As the majority of our available-for-sale securities portfolio is comprised of U.S. government and government agency-backed securities, changes in fair value are primarily driven by changes in interest rates. At June 30, 2026, our available-for-sale securities portfolio had a fair value of $6.50 billion with a weighted-average yield of 2.46% and a weighted-average life, after factoring in estimated prepayments, of 3.8 years. To evaluate the interest rate sensitivity of our available-for-sale securities portfolio we also monitor, among other things, effective duration, defined as the approximate percentage change in price for a 100-basis point change in rates. As of June 30, 2026, the effective duration of our available-for-sale securities portfolio was approximately 3.29, which means that we would expect the market value of our available-for-sale securities portfolio to increase approximately 3.29% for every 100-basis point decline in interest rates and decline approximately 3.29% for every 100-basis point increase in interest rates. See Note 2 of the Notes to Consolidated Financial Statements of our 2025 Form 10-K and Note 5 of the Notes to Condensed Consolidated Financial Statements of this Form 10-Q for additional information on our available-for-sale securities portfolio.
+The Asset and Liability Committee also reviews EVE, which is a point in time analysis of current interest-earning assets and interest-bearing liabilities that incorporates cash flows over their estimated remaining lives, discounted at current rates. The EVE approach is based on a static balance sheet and provides an indicator of future earnings and capital levels as the changes in EVE indicate the anticipated change in the value of future cash flows. We monitor sensitivity to changes in EVE utilizing Board of Directors-approved limits. These limits set a risk tolerance to changing interest rates and assist in determining strategies for mitigating this risk as EVE approaches these limits. As of June 30, 2026, our EVE analyses were within approved limits.
+87
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES
+Management's Discussion and Analysis
+Index
+The following table shows the maturities of our bank loan portfolio at June 30, 2026, including contractual principal repayments. Maturities are generally determined based upon contractual terms; however, rollovers or extensions that are included for the purposes of measuring the allowance for credit losses are reflected in maturities in the following table. This table does not include any estimates of prepayments, which could shorten the average loan lives and cause the actual timing of the loan repayments to differ significantly from those shown in the table.
+Due in |
+$ in millions | One year or less | > One year - five years
+> Five years - fifteen years | > Fifteen years | Total |
+SBL | $ | 24,469 | $ | 295 | $ | 3 | $ | -- | $ | 24,767 |
+C&I loans | 1,078 | 6,774 | 2,154 | 34 | 10,040 |
+CRE loans | 1,454 | 4,723 | 1,481 | 31 | 7,689 |
+REIT loans | 385 | 1,278 | 8 | -- | 1,671 |
+Residential mortgage loans | 10 | 17 | 132 | 11,064 | 11,223 |
+Tax-exempt loans | 93 | 339 | 669 | -- | 1,101 |
+Total loans held for investment | 27,489 | 13,426 | 4,447 | 11,129 | 56,491 |
+Held for sale loans | 12 | 1 | 26 | 95 | 134 |
+Total loans held for sale and investment | $ | 27,501 | $ | 13,427 | $ | 4,473 | $ | 11,224 | $ | 56,625 |
+The following table shows the distribution of the recorded investment of those bank loans that mature in more than one year between fixed and adjustable interest rate loans at June 30, 2026.
+Interest rate type |
+$ in millions | Fixed | Adjustable | Total |
+SBL | $ | 39 | $ | 259 | $ | 298 |
+C&I loans | 914 | 8,048 | 8,962 |
+CRE loans | 302 | 5,933 | 6,235 |
+REIT loans | -- | 1,286 | 1,286 |
+Residential mortgage loans (1)
+197 | 11,016 | 11,213 |
+Tax-exempt loans | 1,008 | -- | 1,008 |
+Total loans held for investment | 2,460 | 26,542 | 29,002 |
+Held for sale loans | 3 | 119 | 122 |
+Total loans held for sale and investment | $ | 2,463 | $ | 26,661 | $ | 29,124 |
+(1)Adjustable rate residential mortgage loans included loans which were still in their fixed-rate period at June 30, 2026.
+Contractual loan terms for SBL, C&I loans, CRE loans, REIT loans, and residential mortgage loans may include an interest rate floor, cap and/or fixed interest rates for a certain period of time, which would impact the timing of the interest rate reset for the respective loan. See the discussion within the "Management's Discussion and Analysis of Financial Condition and Results of Operations - Risk management - Credit risk - Risk monitoring process" section of this Form 10-Q for additional information regarding our interest-only residential mortgage loan portfolio.
+Our banking operations are also subject to foreign exchange risk due to our investments in foreign subsidiaries as well as transactions and resulting balances denominated in a currency other than the U.S. dollar ("USD"). For example, our bank loan portfolio includes loans which are denominated in Canadian dollars ("CAD"), totaling $890 million and $1.00 billion at June 30, 2026 and September 30, 2025, respectively, when converted to the USD using the spot rate at that time. A majority of such loans are held in a Canadian subsidiary of Raymond James Bank. Raymond James Bank utilizes short-term, forward foreign exchange contracts to mitigate its foreign exchange risk related to such investment in the Canadian subsidiary. These derivatives are primarily accounted for as net investment hedges in the condensed consolidated financial statements. See Note 2 of the Notes to Consolidated Financial Statements of our 2025 Form 10-K and Note 6 of the Notes to Condensed Consolidated Financial Statements of this Form 10-Q for additional information regarding these derivatives.
+88
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES
+Management's Discussion and Analysis
+Index
+Other sources of foreign exchange risk
+Investments in non-bank foreign subsidiaries
+At June 30, 2026, we had foreign exchange risk in our investment in RJ Ltd. of CAD 532 million, and in our investment in our UK PCG subsidiary, of &#163;325 million, which were not hedged. We had other, less significant investments in foreign domiciled subsidiaries, primarily in Europe, which were not hedged; however, we do not believe we had material foreign exchange risk either individually, or in the aggregate, pertaining to these subsidiaries as of June 30, 2026. Foreign exchange gains/losses related to our foreign investments are primarily reflected in OCI on our Condensed Consolidated Statements of Income and Comprehensive Income. See Note 18 of the Notes to Condensed Consolidated Financial Statements of this Form 10-Q for further information regarding our components of OCI.
+Transactions and resulting balances denominated in a currency other than the USD
+We are subject to foreign exchange risk due to our holdings of cash and certain other assets and liabilities resulting from transactions denominated in a currency other than the USD. Any currency-related gains/losses arising from these foreign currency denominated balances are reflected in "Other" revenues on our Condensed Consolidated Statements of Income and Comprehensive Income. The foreign exchange risk associated with a portion of such transactions and balances denominated in foreign currency are mitigated utilizing short-term, forward foreign exchange contracts. Such derivatives are not designated hedges and therefore, the related gains/losses are included in "Other" revenues on our Condensed Consolidated Statements of Income and Comprehensive Income. See Note 6 of the Notes to Condensed Consolidated Financial Statements of this Form 10-Q for information regarding our derivatives.
+Credit risk
+Credit risk is the risk of loss due to adverse changes in a borrower's, issuer's, or counterparty's ability to meet its financial obligations under contractual or agreed-upon terms. The nature and amount of credit risk depends on the type of transaction, the structure and duration of that transaction, and the parties involved. Credit risk is an integral component of the profit assessment of lending and other financing activities. See further discussion of our credit risk, including how we manage such risk, in "Item 7 - Management's Discussion and Analysis of Financial Condition and Results of Operations - Risk management - Credit risk" of our 2025 Form 10-K.
+Corporate activities
+We maintain cash balances with the Fed and with various financial institutions, primarily global systemically important financial institutions, in our normal course of business. A large portion of such balances are in excess of FDIC insurance limits. As a result, we may be exposed to the risk that these financial institutions may not return our cash to us in the event that the institution experiences financial distress or ceases its operations. In order to mitigate our credit risk to such financial institutions, we monitor our exposure with each institution on a daily basis and subject each institution to limits based on various factors including but not limited to financial strength, capitalization levels, liquidity, credit ratings, and market factors to the extent applicable.
+Brokerage activities
+We are engaged in various trading and brokerage activities in which our counterparties primarily include broker-dealers, banks, exchanges, clearing organizations, and other financial institutions. We are exposed to risk that these counterparties may not fulfill their obligations. In addition, certain commitments, including underwritings, may create exposure to individual issuers and businesses. The risk of default depends on the creditworthiness of the counterparty and/or the issuer of the instrument. In addition, we may be subject to concentration risk if we hold large positions in or have large commitments to a single counterparty, borrower, or group of similar counterparties or borrowers (e.g., in the same industry). We seek to mitigate these risks by imposing and monitoring individual and aggregate position limits within each business segment for each counterparty, conducting regular credit reviews of financial counterparties, reviewing security, derivative, and loan concentrations, holding collateral as security for certain transactions and conducting business through clearing organizations, which may guarantee performance. See Note 2 of the Notes to Consolidated Financial Statements of our 2025 Form 10-K and Notes 6 and 7 of the Notes to Condensed Consolidated Financial Statements of this Form 10-Q for additional information about our credit risk mitigation related to derivatives and collateralized agreements.
+89
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES
+Management's Discussion and Analysis
+Index
+Our client activities involve the execution, settlement, and financing of various transactions on behalf of our clients. Client activities are transacted on either a cash or margin basis. Credit exposure results from client margin loans, which are monitored daily and are collateralized by the securities in the clients' accounts. We monitor exposure to industry sectors and individual securities on a daily basis in connection with our margin lending activities. We adjust our margin requirements if we believe our risk exposure is not appropriate based on market conditions. In addition, when clients execute a purchase, we are at some risk that the client will default on their financial obligation associated with the trade. If this occurs, we may have to liquidate the position at a loss. See Note 2 of the Notes to Consolidated Financial Statements of our 2025 Form 10-K for additional information about our determination of the allowance for credit losses associated with certain of our brokerage lending activities.
+We offer loans to financial advisors for recruiting and retention purposes. We have credit risk and may incur a loss primarily in the event that such borrower is no longer affiliated with us. See Note 2 of the Notes to Consolidated Financial Statements of our 2025 Form 10-K and Note 9 of the Notes to Condensed Consolidated Financial Statements of this Form 10-Q for further information about our loans to financial advisors.
+Banking operations
+Our Bank segment has a substantial loan portfolio. Our strategy for credit risk management related to bank loans includes well-defined credit policies, uniform underwriting criteria, and ongoing risk monitoring and review processes for all credit exposures. The strategy also includes diversification across loan types, geographic locations, industries and clients, regular credit examinations and management reviews of all corporate and tax-exempt loans as well as individual delinquent residential loans. The credit risk management process also includes periodic independent reviews of the credit risk monitoring process that performs assessments of compliance with credit policies, risk ratings, and other critical credit information. We seek to identify potential problem loans early, record any necessary risk rating changes and charge-offs promptly, and maintain appropriate reserve levels for expected losses. We use a credit risk rating system to measure the credit quality of individual corporate and tax-exempt loans and related unfunded lending commitments. For our SBL and residential mortgage loans, we utilize the credit risk rating system used by bank regulators in measuring the credit quality of each homogeneous class of loans. In evaluating credit risk, we consider trends in loan performance, historical experience through various economic cycles, industry or client concentrations, the loan portfolio composition and macroeconomic factors (both current and forecasted). These factors have a potentially negative impact on loan performance and net charge-offs.
+While our bank loan portfolio is diversified, a significant downturn in the overall economy, deterioration in real estate values or a significant issue within any sector or sectors where we have a concentration will generally result in large provisions for credit losses and/or charge-offs. We determine the allowance required for specific loan pools based on relative risk characteristics of the loan portfolio. On an ongoing basis, we evaluate our methods for determining the allowance for each loan portfolio segment and make enhancements we consider appropriate. Our allowance for credit losses methodology is described in Note 2 of the Notes to Consolidated Financial Statements of our 2025 Form 10-K. We segregate our bank loan portfolio into six loan portfolio segments, which also serve as classes of financing receivables for purposes of credit analysis. See "Item 7 - Management's Discussion and Analysis of Financial Condition and Results of Operations - Risk management - Credit risk" of our 2025 Form 10-K for further information about the risk characteristics relevant to each portfolio segment.
+The level of charge-off activity is a factor that is considered in evaluating the potential severity of future credit losses. The following table presents net loan (charge-offs)/recoveries and the annualized percentage of net loan (charge-offs)/recoveries to the average outstanding loan balances by loan portfolio segment.

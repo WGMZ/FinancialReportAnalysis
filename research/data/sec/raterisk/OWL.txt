@@ -1,0 +1,80 @@
+# OWL 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/1823945/000182394526000040/owl-20260630.htm
+# full_doc_chars=249480
+
+
+----- [line 818] -----
+We account for business combinations using the acquisition method of accounting, under which the purchase price of the acquisition is allocated to the assets acquired and liabilities assumed, with any excess consideration allocated to goodwill, using the fair values determined by management as of the acquisition date.
+Management's determination of the fair value of assets acquired and liabilities assumed at the acquisition date is based on the best information available and may incorporate management's own assumptions and involve significant judgment. We use our best estimates and assumptions to accurately assign fair value to the tangible and identifiable intangible assets acquired and liabilities assumed at the acquisition date. Assumptions in valuing certain intangible assets include, but are not limited to, future expected cash inflows and outflows, future fundraising and timing of new product launches, discount rates, revenue volatility and income tax rates. Our estimates for future cash flows are based on historical data, internal estimates and external sources, and are based on assumptions that are consistent with the plans and estimates we use to manage the underlying assets acquired. We estimate the useful lives of intangible assets based on the expected period over which we anticipate generating substantially all of the economic benefit from the asset. We base our estimates on assumptions we believe to be reasonable but that are unpredictable and inherently uncertain. Unanticipated events and circumstances may occur that could affect the accuracy or validity of such assumptions, estimates or actual results.
+Impairment Testing of Goodwill and Other Intangible Assets
+Our ongoing accounting for goodwill and other intangible assets requires us to make significant estimates and assumptions when evaluating these assets for impairment. We generally undertake a qualitative review of factors that may indicate whether an impairment exists. We take into account factors such as projections for FPAUM, revenue and general economic conditions that require judgment in deciding whether a quantitative analysis should be undertaken. Our evaluation for indicators of impairment may not capture a potential impairment, which could result in an overstatement of the carrying values of goodwill and other intangible assets. Our single reporting unit is not at risk of failing the quantitative impairment test. We also estimate the useful lives of our finite-lived intangible assets for purposes of amortization. The useful lives are based on our judgment of the expected future economic benefits of the assets. Changes in estimated useful lives could result in significant changes to the amount of amortization expense recognized in future periods.
+Consolidation
+We consolidate entities based on either a variable interest model or voting interest model. The determination of whether an entity is a variable interest entity ("VIE") and if the entity should be consolidated under GAAP requires a significant amount of judgment concerning the degree of control over an entity by its holders of variable interests. To make these judgments, we conduct an analysis, on a case-by-case basis, of whether we are the primary beneficiary and are therefore required to consolidate an entity. We continually reconsider whether we should consolidate a VIE. Upon the occurrence of certain events, such as a change in investment amount and modifications to organizational documents and investment management agreements of our products, we will reconsider our conclusion regarding the status of an entity as a VIE. Our judgment when analyzing the status of an entity and whether we consolidate an entity could have a material impact on individual line items within our Financial Statements, as a change in our conclusion would have the effect of grossing up the assets, liabilities, revenues and expenses of the entity being evaluated. In light of the relatively insignificant direct and indirect investments into our products, the likelihood of a reasonable change in our estimation and judgment would likely not result in a change in our conclusions to consolidate or not consolidate any VIEs to which we have exposure.
+Impact of Changes in Accounting on Recent and Future Trends
+We believe that none of the changes to GAAP that went into effect during the six months ended June 30, 2026, or that have been issued but that we have not yet adopted, are expected to materially impact our future trends.
+34
+Table of Contents
+Item 3. Quantitative and Qualitative Disclosures About Market Risk.
+Our primary exposure to market risk is the indirect impact that movements in the fair value of investments in products has on our management fees. In our Credit products, our management fees are generally based on the fair value of the gross assets held by such products, and therefore changes in the fair value of those assets impact the management fees we earn in any given period. These management fees will be increased (or reduced) in direct proportion to the effect of changes in the market value of our investments in the related funds. The proportion of our management fees that are based on fair value is dependent on the number and types of investment funds in existence and the current stage of each fund's life cycle. Management fees from our Real Assets and GP Strategic Capital products, however, are generally based on capital commitments or investment cost, and therefore management fees are not materially impacted by changes in fair values of the underlying investments held by those products. To the extent that management fees are calculated based on investment cost of the product's investments, the amount of fees that we may charge will increase or decrease from the effect of changes in the cost basis of the product's investments, including potential impairment losses.
+Interest Rate Risk
+Our Notes bear interest at fixed rates. Borrowings under our Revolving Credit Facility bear interest at a variable rate based on SOFR (as defined in Note 7 to our Financial Statements) (or an alternative base rate at our option). An increase or decrease in interest rates by 100 basis points is not expected to have a material impact on our interest expense.
+We are also subject to interest rate risk through the investments we hold in our products. An increase in interest rates would be expected to negatively affect the fair value of investments that accrue interest income at fixed rates and therefore negatively impact net change in unrealized gains on investments of the relevant product. The actual impact is dependent on the average duration and the amount of such holdings. Conversely, investments that accrue interest at variable rates would be expected to benefit from an increase in interest rates because these investments would generate higher levels of current income. This would positively impact interest and dividend income but have an offsetting decrease in the fair value of the investments and negatively impact the net change in unrealized gains of the products. An increase in interest rates would also be expected to result in an increase in borrowing costs in any of our products that borrow funds based on floating rates. In the cases where our products pay management fees based on NAV or total assets (including assets purchased with leverage), we would expect our management fees (including Part I Fees) to experience a change in direction and magnitude corresponding to that experienced by the underlying product.
+Credit Risk
+We generally endeavor to minimize our risk of exposure by limiting to reputable financial institutions the counterparties with which we enter into financial transactions. As of June 30, 2026 and December 31, 2025, we held the majority of our cash balances with a single highly rated financial institution and such balances are in excess of Federal Deposit Insurance Corporation insured limits. We seek to mitigate this exposure by monitoring the credit standing of these financial institutions. See "Item 1A. Risk Factors -- Risks Related to Macroeconomic Factors" in our Annual Report.
+Item 4. Controls and Procedures.
+Evaluation of Disclosure Controls and Procedures
+We maintain disclosure controls and procedures, as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act, that are designed to ensure that information required to be disclosed by us in reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in SEC rules and forms, and that such information is accumulated and communicated to our management, including our principal executive officer and principal financial officer, as appropriate, to allow timely decisions regarding required disclosure. Any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired objectives.
+Our management, with the participation of our principal executive officer and principal financial officer, has evaluated the effectiveness of the design and operation of our disclosure controls and procedures as of June 30, 2026. Based upon that evaluation and subject to the foregoing, our principal executive officer and principal financial officer concluded that, as of June 30, 2026, the design and operation of our disclosure controls and procedures were effective to accomplish their objectives at the reasonable assurance level.
+35
+Table of Contents
+Changes in Internal Control over Financial Reporting
+There has been no change in our internal control over financial reporting (as such term is defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) during the quarter ended June 30, 2026, that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+36
+Table of Contents
+PART II - OTHER INFORMATION
+Item 1. Legal Proceedings.
+In the ordinary course of business, we are from time to time involved in litigation and claims incidental to the conduct of our business. Our business is also subject to extensive regulation, which may result in regulatory proceedings against us. See "Item 1A. Risk Factors" in our Annual Report. Given the inherent unpredictability of these types of legal and regulatory proceedings and the potentially large and/or indeterminate amounts that could be sought, an adverse outcome in certain matters could have a material effect on our financial results in any particular period. See Note 8 to our Financial Statements for additional information.
+Item 1A. Risk Factors.
+Some factors that could cause our actual results to differ materially from those results in this report are described as risks in our Annual Report. Any of these factors could materially and adversely affect our business, financial condition, results of operations and cash flows. As of the date of this report, there have been no material changes to the risk factors previously disclosed in our Annual Report. We may, however, disclose changes to such factors or disclose additional factors from time to time in our future filings with the SEC.
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.
+None.
+Item 3. Defaults Upon Senior Securities.
+None.
+Item 4. Mine Safety Disclosures.
+None.
+Item 5. Other Information.
+Rule 10b5-1 Trading Plans
+During the fiscal quarter ended June 30, 2026, none of our directors or executive officers adopted or terminated any contract, instruction or written plan for the purchase or sale of our securities to satisfy the affirmative defense conditions of Rule 10b5-1(c) or any "non-Rule 10b5-1 trading arrangement."
+Item 6. Exhibits
+See Exhibit Index on the following page.
+37
+Table of Contents
+Exhibit Index
+Exhibit Number | Description |
+3.1
+Amended and Restated Certificate of Incorporation of Blue Owl Capital Inc. (incorporated by reference to Exhibit 3.1 of Blue Owl Capital Inc. Quarterly Report on Form 10-Q filed on May 5, 2025)
+3.2
+Amended and Restated Bylaws of Blue Owl Capital Inc. (incorporated by reference to Exhibit 3.2 of Blue Owl Capital Inc. Quarterly Report on Form 10-Q filed on November 9, 2021)
+31.1*
+Certification of the Co-Chief Executive Officer, pursuant to Rule 13a-14(a)/15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+31.2*
+Certification of the Co-Chief Executive Officer, pursuant to Rule 13a-14(a)/15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+31.3*
+Certification of the Chief Financial Officer, pursuant to Rule 13a-14(a)/15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+32.1**
+Certification of the Co-Chief Executive Officer, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+32.2**
+Certification of the Co-Chief Executive Officer, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+32.3**
+Certification of the Chief Financial Officer, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+101* | Interactive data files pursuant to Rule 405 of Regulation S-T, formatted in Inline XBRL (eXtensible Business Reporting Language): (i) the Consolidated Statements of Financial Condition as of June 30, 2026 and December 31, 2025, (ii) the Consolidated Statements of Operations for the three and six months ended June 30, 2026 and 2025, (iii) the Consolidated Statements of Comprehensive Income for the three and six months ended June 30, 2026 and 2025, (iv) the Consolidated Statements of Changes in Stockholders' Equity for the three and six months ended June 30, 2026 and 2025, (v) the Consolidated Statements of Cash Flows for the six months ended June 30, 2026 and 2025, and (vi) the Notes to the Consolidated Financial Statements
+104* | Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101) |
+* | Filed herewith |
+** | Furnished herewith. This certification is not deemed filed by the SEC and is not to be incorporated by reference in any filing we make under the Securities Act of 1933 or the Securities Exchange Act of 1934, irrespective of any general incorporation language in any filings |
+38
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+Date: July 31, 2026
+Blue Owl Capital Inc. |
+By: | /s/ Alan Kirshenbaum |

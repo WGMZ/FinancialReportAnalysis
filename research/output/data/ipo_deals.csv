@@ -1,0 +1,19 @@
+deal,date,sector,proceeds_usd_m,fee_usd_m,fee_pct,fee_basis
+SK hynix,2026-07-09,Semis / ADR,26507.0,257.5,0.97,disclosed
+Jersey Mike's,2026-07-29,Consumer,1000.0,50.0,5.0,disclosed
+Csquare,2026-07-16,Telecom svcs,1050.0,40.0,3.81,disclosed
+Accelevation,2026-09-30,Industrial,540.0,27.0,5.0,estimate
+ADARx,2026-09-24,Biotech,446.3,31.24,7.0,estimate
+Braveheart Bio,2026-08-05,Biotech,382.5,26.78,7.0,estimate
+Electra,2026-09-17,Biotech,350.0,24.5,7.0,estimate
+Latigo,2026-08-06,Biotech,345.6,24.19,7.0,estimate
+Lyntris,2026-08-18,Tech,298.0,20.86,7.0,estimate
+Attovia,2026-08-04,Biotech,289.0,20.23,7.0,disclosed
+Orion180,2026-09-17,Biotech,240.0,16.8,7.0,estimate
+Reformation,2026-07-29,Consumer,211.0,14.77,7.0,estimate
+Apnimed,2026-07-30,Biotech,192.0,13.44,7.0,estimate
+Robinhood Ventures Fund II,2026-09,Closed-end fund,200.0,9.0,4.5,estimate
+Standard Nuclear,2026-07-15,Energy,150.0,10.5,7.0,estimate
+BlossomHill,2026-08-06,Biotech,150.0,10.5,7.0,estimate
+American Savings Bank,2026-09-15,Bank (secondary),129.0,7.74,6.0,estimate
+River City Bank,2026-08-05,Bank (secondary),121.5,5.91,4.87,disclosed

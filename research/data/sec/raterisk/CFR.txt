@@ -1,0 +1,239 @@
+# CFR 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/39263/000003926326000046/cfr-20260630.htm
+# full_doc_chars=326536
+
+
+----- [line 460] -----
+Less than 12 Months | More than 12 Months | Total |
+Estimated
+Fair Value | Unrealized
+Losses | Estimated
+Fair Value | Unrealized
+Losses | Estimated
+Fair Value | Unrealized
+Losses |
+U.S. Treasury | $ | 795,502 | $ | 168 | $ | 2,130,449 | $ | 154,061 | $ | 2,925,951 | $ | 154,229 |
+Residential mortgage-backed securities | 2,922,925 | 15,554 | 4,019,978 | 765,946 | 6,942,903 | 781,500 |
+States and political subdivisions | 439,689 | 1,643 | 2,355,931 | 201,119 | 2,795,620 | 202,762 |
+Total | $ | 4,158,116 | $ | 17,365 | $ | 8,506,358 | $ | 1,121,126 | $ | 12,664,474 | $ | 1,138,491 |
+As of June 30, 2026, no allowance for credit losses has been recognized on available for sale securities in an unrealized loss position as management does not believe any of the securities are impaired due to reasons of credit quality. This is based upon our analysis of the underlying risk characteristics, including credit ratings, and other qualitative factors related to our available for sale securities and in consideration of our historical credit loss experience and internal forecasts. The issuers of these securities continue to make timely principal and interest payments under the contractual terms of the securities. Furthermore, management does not have the intent to sell any of the securities classified as available for sale in the table above and believes that it is more likely than not that we will not have to sell any such securities before a recovery of cost. The unrealized losses are due to increases in market interest rates over the yields available at the time the underlying securities were purchased. The fair value is expected to recover as the securities approach their maturity date or repricing date or if market yields for such investments decline.
+11
+Table of Contents
+Contractual Maturities. The following table summarizes the maturity distribution schedule of securities held to maturity and securities available for sale as of June 30, 2026. Mortgage-backed securities are included in maturity categories based on their stated maturity date. Expected maturities may differ from contractual maturities because issuers may have the right to call or prepay obligations. Other securities classified as available for sale include stock in the Federal Reserve Bank and the Federal Home Loan Bank, which have no maturity date. These securities have been included in the total column only.
+Within 1 Year | 1 - 5 Years | 5 - 10 Years | After 10 Years | Total |
+Held To Maturity |
+Amortized Cost |
+Residential mortgage-backed securities | $ | -- | $ | 493,666 | $ | 11,209 | $ | 573,647 | $ | 1,078,522 |
+States and political subdivisions | 23,902 | 6,448 | 117,368 | 2,158,267 | 2,305,985 |
+Other | 1,500 | -- | -- | -- | 1,500 |
+Total | $ | 25,402 | $ | 500,114 | $ | 128,577 | $ | 2,731,914 | $ | 3,386,007 |
+Estimated Fair Value |
+Residential mortgage-backed securities | $ | -- | $ | 462,353 | $ | 9,647 | $ | 572,003 | $ | 1,044,003 |
+States and political subdivisions | 24,002 | 6,559 | 115,957 | 2,058,795 | 2,205,313 |
+Other | 1,500 | -- | -- | -- | 1,500 |
+Total | $ | 25,502 | $ | 468,912 | $ | 125,604 | $ | 2,630,798 | $ | 3,250,816 |
+Available For Sale |
+Amortized Cost |
+U. S. Treasury | $ | 1,443,787 | $ | 1,443,038 | $ | -- | $ | 193,355 | $ | 3,080,180 |
+Residential mortgage-backed securities | 27 | 10,092 | 1,846 | 10,546,979 | 10,558,944 |
+States and political subdivisions | 113,475 | 318,188 | 472,047 | 4,559,140 | 5,462,850 |
+Other | -- | -- | -- | -- | 42,567 |
+Total | $ | 1,557,289 | $ | 1,771,318 | $ | 473,893 | $ | 15,299,474 | $ | 19,144,541 |
+Estimated Fair Value |
+U. S. Treasury | $ | 1,440,481 | $ | 1,346,189 | $ | -- | $ | 139,281 | $ | 2,925,951 |
+Residential mortgage-backed securities | 27 | 10,085 | 1,865 | 9,807,333 | 9,819,310 |
+States and political subdivisions | 113,506 | 317,509 | 441,330 | 4,429,800 | 5,302,145 |
+Other | -- | -- | -- | -- | 42,567 |
+Total | $ | 1,554,014 | $ | 1,673,783 | $ | 443,195 | $ | 14,376,414 | $ | 18,089,973 |
+Sales of Securities. Sales of available for sale securities were as follows:
+Three Months Ended
+June 30, | Six Months Ended
+June 30, |
+2026 | 2025 | 2026 | 2025 |
+Proceeds from sales | $ | -- | $ | -- | $ | -- | $ | 38,556 |
+Gross realized gains | -- | -- | -- | 43 |
+Gross realized losses | -- | -- | -- | (57) |
+Tax (expense) benefit of securities gains/losses | -- | -- | -- | 3 |
+Premiums and Discounts. Premium amortization and discount accretion included in interest income on securities was as follows:
+Three Months Ended
+June 30, | Six Months Ended
+June 30, |
+2026 | 2025 | 2026 | 2025 |
+Premium amortization | $ | (11,817) | $ | (15,078) | $ | (25,351) | $ | (30,091) |
+Discount accretion | 12,395 | 4,895 | 22,163 | 9,963 |
+Net (premium amortization) discount accretion | $ | 578 | $ | (10,183) | $ | (3,188) | $ | (20,128) |
+12
+Table of Contents
+Trading Account Securities. Trading account securities, at estimated fair value, were as follows:
+June 30,
+2026 | December 31,
+2025 |
+U.S. Treasury | $ | 38,037 | $ | 36,650 |
+States and political subdivisions | 1,116 | 954 |
+Total | $ | 39,153 | $ | 37,604 |
+Net gains and losses on trading account securities included in other non-interest income were as follows:
+Three Months Ended
+June 30, | Six Months Ended
+June 30, |
+2026 | 2025 | 2026 | 2025 |
+
+----- [line 957] -----
+As of June 30, 2026, capital levels at Cullen/Frost and Frost Bank exceed all capital adequacy requirements under the Basel III Capital Rules. Based on the ratios presented above, capital levels as of June 30, 2026, at Cullen/Frost and Frost Bank exceed the minimum levels necessary to be considered "well-capitalized."
+Cullen/Frost and Frost Bank are subject to the regulatory capital requirements administered by the Federal Reserve Board and, for Frost Bank, the Federal Deposit Insurance Corporation ("FDIC"). Regulatory authorities can initiate certain mandatory actions if Cullen/Frost or Frost Bank fail to meet the minimum capital requirements, which could have a direct material effect on our financial statements. Management believes, as of June 30, 2026, that Cullen/Frost and Frost Bank meet all capital adequacy requirements to which they are subject.
+Series B Preferred Stock. Outstanding preferred stock includes 150,000 shares, or $150.0 million in aggregate liquidation preference, of our 4.450% Non-Cumulative Perpetual Preferred Stock, Series B, par value $0.01 and liquidation preference $1,000 per share ("Series B Preferred Stock"). Each share of Series B Preferred Stock issued and outstanding is represented by 40 depositary shares, each representing a 1/40th ownership interest in a share of the Series B Preferred Stock (equivalent to a liquidation preference of $25 per share). The Series B Preferred Stock qualifies as Tier 1 capital for the purposes of the regulatory capital calculations. The net proceeds from the issuance and sale of the Series B Preferred Stock, after deducting $4.5 million of issuance costs including the underwriting discount and professional service fees, among other things, were approximately $145.5 million. Refer to our 2025 Form 10-K for additional details related to our Series B Preferred Stock.
+24
+Table of Contents
+Purchases of Equity Securities. From time to time, our board of directors has authorized stock repurchase plans. The purpose of such plans and the manner in which shares are repurchased is discussed in more detail in our 2025 Form 10-K. Most recently, on January 28, 2026, our board of directors authorized a $300.0 million stock repurchase program (the "2026 Repurchase Plan"), allowing us to repurchase shares of our common stock over a one-year period expiring on January 27, 2027. The 2026 Repurchase Plan was publicly announced in a current report on Form 8-K filed with the SEC on January 29, 2026.
+Under the 2026 Repurchase Plan, we repurchased 1,162,708 shares at a total cost of $160.0 million (excluding applicable excise taxes) during the six months ended June 30, 2026. We also repurchased 11,345 shares at a total cost of $1.6 million in connection with the vesting of certain share awards during the six months ended June 30, 2026. Repurchases made in connection with the vesting of share awards are not associated with any publicly announced stock repurchase plan. No shares were repurchased under a prior repurchase plan during the six months ended June 30, 2025, though we repurchased 19,033 shares at a total cost of $2.7 million in connection with the vesting of certain share awards during the six months ended June 30, 2025. Under the Basel III Capital Rules, Cullen/Frost may not repurchase or redeem any of its preferred stock or subordinated notes and, in some cases, its common stock without the prior approval of the Federal Reserve Board.
+Dividend Restrictions. In the ordinary course of business, Cullen/Frost is dependent upon dividends from Frost Bank to provide funds for the payment of dividends to shareholders and to provide for other cash requirements, including to repurchase its common stock. Banking regulations may limit the amount of dividends that may be paid. Approval by regulatory authorities is required if the effect of dividends declared would cause the regulatory capital of Frost Bank to fall below specified minimum levels. Approval is also required if dividends declared exceed the net profits for that year combined with the retained net profits for the preceding two years. Under the foregoing dividend restrictions and while maintaining its "well-capitalized" status, at June 30, 2026, Frost Bank could pay aggregate dividends of up to $772.5 million to Cullen/Frost without prior regulatory approval.
+Under the terms of the junior subordinated deferrable interest debentures that Cullen/Frost has issued to Cullen/Frost Capital Trust II, Cullen/Frost has the right at any time during the term of the debentures to defer the payment of interest for one or more extension periods not exceeding 20 consecutive quarterly periods with respect to each extension period. In the event that we have elected to defer interest on the debentures, we may not, with certain exceptions, declare or pay any dividends or distributions on our capital stock or purchase or acquire any of our capital stock.
+Under the terms of the Series B Preferred Stock, in the event that we do not declare and pay dividends on the Series B Preferred Stock for the most recent dividend period, we may not, with certain exceptions, declare or pay dividends on, or purchase, redeem or otherwise acquire, shares of our common stock or any of our securities that rank junior to the Series B Preferred Stock.
+Note 7 - Derivative Financial Instruments
+The fair value of derivative positions outstanding is included in accrued interest receivable and other assets and accrued interest payable and other liabilities in the accompanying consolidated balance sheets and in the net change in each of these financial statement line items in the accompanying consolidated statements of cash flows.
+Interest Rate Derivatives. We utilize interest rate swaps, caps, and floors to mitigate exposure to interest rate risk and to facilitate the needs of our customers. Our objectives for utilizing our currently outstanding derivative positions are described below:
+During the first quarter of 2026, we entered into and designated a forward&#8209;starting, pay-fixed, receive-variable interest rate swap as a fair value hedge under the portfolio layer method of ASC 815 to mitigate changes in the fair value of a designated hedged layer of a closed portfolio of $500.0 million of fixed-rate, available-for-sale municipal securities attributable solely to changes in the Secured Overnight Financing Rate ("SOFR"), the benchmark interest rate being hedged. Under this designation, changes in the fair value of the swap and the corresponding SOFR-related changes in the fair value of the hedged layer are recognized in interest income on tax-exempt securities, with basis adjustments recorded to the carrying amount of the hedged layer. The cumulative basis adjustments included in the hedged layer totaled $5.3 million at June 30, 2026. The hedge is intended to assist in managing the duration of our securities portfolio as its mix and maturity profile evolve over time. The swap has a notional amount of $500.0 million and a forward start date of January 1, 2028, at which time we will pay a fixed rate of approximately 3.53% and receive a floating rate indexed to SOFR. Changes in the fair value of the hedged layer not attributable to SOFR will continue to be recognized in other comprehensive income, net of tax, or in accordance with other applicable accounting guidance in the case of credit impairment.
+25
+Table of Contents
+We also have entered into certain interest rate derivative contracts that are not designated as hedging instruments to accommodate the business needs of our customers. These derivative contracts relate to transactions in which we enter into an interest rate swap, cap and/or floor with a customer while at the same time entering into an offsetting interest rate swap, cap and/or floor with a third-party financial institution. In connection with each swap transaction, we agree to pay interest to the customer on a notional amount at a variable interest rate and receive interest from the customer on a similar notional amount at a fixed interest rate. At the same time, we agree to pay a third-party financial institution the same fixed interest rate on the same notional amount and receive the same variable interest rate on the same notional amount. The transaction allows our customer to effectively convert a variable rate loan to a fixed rate. Because we act as an intermediary for our customers, changes in the fair value of the underlying derivative contracts largely offset each other and do not materially impact our results of operations.
+The notional amounts and estimated fair values of interest rate derivative contracts outstanding are presented in the following table. The fair values of these contracts are estimated utilizing internal valuation methods with observable market data inputs, or as determined by the Chicago Mercantile Exchange ("CME") for centrally cleared derivative contracts. CME rules legally characterize variation margin payments for centrally cleared derivatives as settlements of the derivatives' exposure rather than collateral. As a result, the variation margin payment and the related derivative instruments are considered a single unit of account for accounting and financial reporting purposes. Variation margin, as determined by the CME, is settled daily. As a result, derivative contracts that clear through the CME have a negligible fair value.
+June 30, 2026 | December 31, 2025 |
+Notional
+Amount | Estimated
+Fair Value | Notional
+Amount | Estimated
+Fair Value |
+Derivatives designated as hedges of fair value: |
+Financial institution counterparties: |
+Securities interest rate swap - assets | $ | 500,000 | $ | 410 | $ | -- | $ | -- |
+Non-hedging interest rate derivatives: |
+Financial institution counterparties: |
+Loan/lease interest rate swaps - assets | 1,565,474 | 43,439 | 783,022 | 34,835 |
+Loan/lease interest rate swaps - liabilities | 741,949 | (7,539) | 1,341,227 | (20,598) |
+Loan/lease interest rate caps - assets | 315,142 | 3,869 | 251,075 | 3,230 |
+Customer counterparties: |
+Loan/lease interest rate swaps - assets | 741,949 | 7,539 | 1,341,227 | 20,598 |
+Loan/lease interest rate swaps - liabilities | 1,565,474 | (43,435) | 783,022 | (34,835) |
+Loan/lease interest rate caps - liabilities | 315,142 | (3,872) | 251,075 | (3,232) |
+The weighted-average rates paid and received for active interest rate swaps outstanding at June 30, 2026, were as follows:
+Weighted-Average |
+Interest
+Rate
+Paid | Interest
+Rate
+Received |
+Interest rate swaps: |
+Non-hedging interest rate swaps - financial institution counterparties | 5.20 | % | 5.38 | % |
+Non-hedging interest rate swaps - customer counterparties | 5.38 | 5.20 |
+The weighted-average strike rate for outstanding interest rate caps was 4.04% at June 30, 2026.
+Commodity Derivatives. We enter into certain commodity derivative contracts that are not designated as hedging instruments to accommodate the business needs of our customers. Upon the origination of a commodity derivative contract with a customer, we simultaneously enter into an offsetting contract with a third-party financial institution to mitigate our exposure to fluctuations in commodity prices. Because we act as an intermediary for our customers, changes in the fair value of the underlying derivative contracts largely offset each other and do not materially impact our results of operations.
+26
+Table of Contents
+The notional amounts and estimated fair values of non-hedging commodity derivative contracts outstanding are presented in the following table. The fair values of these contracts are estimated utilizing internal valuation methods with observable market data inputs.
+June 30, 2026 | December 31, 2025 |
+Notional
+Units | Notional
+Amount | Estimated
+Fair Value | Notional
+Amount | Estimated
+Fair Value |
+Financial institution counterparties: |
+Oil - assets | Barrels | 2,255 | $ | 7,871 | 7,842 | $ | 42,594 |
+Oil - liabilities | Barrels | 9,388 | (42,809) | 1,913 | (968) |
+Natural gas - assets | MMBTUs | 31,743 | 10,006 | 29,288 | 7,678 |
+Natural gas - liabilities | MMBTUs | 3,699 | (150) | 8,000 | (938) |
+Customer counterparties: |
+Oil - assets | Barrels | 9,430 | 44,126 | 1,928 | 1,091 |
+Oil - liabilities | Barrels | 2,214 | (7,475) | 7,828 | (41,265) |
+Natural gas - assets | MMBTUs | 5,821 | 310 | 8,000 | 1,001 |
+Natural gas - liabilities | MMBTUs | 29,621 | (9,743) | 29,288 | (7,427) |
+Foreign Currency Derivatives. We enter into foreign currency derivative contracts that are not designated as hedging instruments to accommodate the business needs of our customers and to mitigate our exposure to foreign currency risk. Upon the origination of a foreign currency derivative contract with a customer, we simultaneously enter into an offsetting contract with a third-party financial institution to mitigate our exposure to fluctuations in foreign currency exchange rates. Because we act as an intermediary for our customers, changes in the fair value of the underlying derivative contracts largely offset each other and do not materially impact our results of operations. We also utilize foreign currency derivative contracts that are not designated as hedging instruments to mitigate the economic effect of fluctuations in foreign currency exchange rates on foreign currency holdings and certain short-term, non-U.S. dollar-denominated loans. The fair values of these contracts are estimated utilizing internal valuation methods with observable market data inputs. There were no foreign currency derivative contracts outstanding as of June 30, 2026 or December 31, 2025.
+Gains, Losses and Derivative Cash Flows. For the fair value hedge of securities, all cash flows and changes in the fair value of the derivative hedging instrument, as well as SOFR-related changes in the fair value of the hedged layer of municipal securities, are recorded in interest income on tax-exempt securities. For non-hedging derivative instruments, gains and losses due to changes in fair value and all cash flows are included in other non-interest income and other non-interest expense, as presented in the table below.
+Three Months Ended
+June 30, | Six Months Ended
+
+----- [line 2127] -----
+Table of Contents
+Capital and Liquidity
+Capital. Shareholders' equity totaled $4.6 billion at both June 30, 2026 and December 31, 2025. Sources of capital during the six months ended June 30, 2026 included net income of $343.0 million and $10.6 million related to stock-based compensation. Uses of capital during the six months ended June 30, 2026 included $163.2 million of treasury stock purchases, $132.1 million of dividends paid on preferred and common stock, and other comprehensive loss, net of tax, of $8.7 million.
+The accumulated other comprehensive income/loss component of shareholders' equity totaled a net, after-tax, unrealized loss of $851.7 million at June 30, 2026, compared to a net, after-tax, unrealized loss of $843.0 million at December 31, 2025. The increase in the net, after-tax, unrealized loss was primarily due to a $9.0 million net, after-tax, decrease in the fair value of securities available for sale. Under the Basel III Capital Rules, we have elected to opt-out of the requirement to include most components of accumulated other comprehensive income/loss in regulatory capital. Accordingly, amounts reported as accumulated other comprehensive income/loss do not increase or reduce regulatory capital and are excluded from the calculation of our regulatory capital ratios. Bank regulatory agencies utilize capital guidelines designed to measure capital and take into consideration the risk inherent in both on-balance-sheet and off-balance-sheet exposures. See Note 6 - Capital and Regulatory Matters in the accompanying notes to consolidated financial statements included elsewhere in this report.
+Details of dividends declared and paid are presented in the table below. Our ability to declare or pay dividends on, or purchase, redeem or otherwise acquire, shares of our capital stock may be impacted by certain restrictions described in Note 6 - Capital and Regulatory Matters in the accompanying notes to consolidated financial statements included elsewhere in this report.
+2026 | 2025 |
+Dividends Per Share | Dividend Payout Ratio | Dividends Per Share | Dividend Payout Ratio |
+1st quarter | $ | 1.00 | 37.8 | % | $ | 0.95 | 41.3 | % |
+2nd quarter | 1.03 | 38.0 | 1.00 | 41.8 |
+Year-to-date | $ | 2.03 | 37.9 | $ | 1.95 | 41.6 |
+On March 19, 2026, U.S. bank regulatory agencies jointly issued a Notice of Proposed Rulemaking ("NPR") that would revise certain elements of the regulatory capital framework applicable to standardized&#8209;approach banking organizations, including Cullen/Frost and Frost Bank. The proposal, which was open for public comment through June 18, 2026, is intended to enhance risk sensitivity while maintaining overall framework simplicity. Key provisions would revise risk weights for corporate and retail loans, introduce more granular loan&#8209;to&#8209;value&#8209;based risk weights for residential mortgages, replace the deduction of mortgage servicing assets with a 250% risk weight, and refine methodologies for calculating exposure amounts and risk&#8209;weighted assets related to counterparty credit risk, securitizations, and synthetic risk transfer transactions, including adjustments to the recognition of credit risk mitigants. We are currently evaluating the potential effects of the proposal on our regulatory capital ratios, capital planning processes, and risk&#8209;weighted assets; however, because the NPR has not been finalized and may change as a result of comments received, the ultimate impact cannot yet be determined. Based on our preliminary assessment, the proposed recalibration of risk weights for corporate, retail, and residential mortgage exposures would be expected to modestly reduce our total risk&#8209;weighted assets. Management will continue to monitor regulatory developments and assess implications for our capital structure, capital planning, and business strategy.
+Stock Repurchase Plans. From time to time, our board of directors has authorized stock repurchase plans. In general, stock repurchase plans allow us to proactively manage our capital levels and provide management with the flexibility to repurchase shares of our common stock opportunistically when management believes the market price undervalues our company. Such plans also provide us with the ability to repurchase shares of common stock to be used to satisfy obligations related to stock compensation awards and thereby mitigate the dilutive effect of such awards. For additional details, see Note 6 - Capital and Regulatory Matters in the accompanying notes to consolidated financial statements and Part II, Item 2 - Unregistered Sales of Equity Securities and Use of Proceeds, each included elsewhere in this report.
+Liquidity. As more fully discussed in our 2025 Form 10-K, our liquidity position is continuously monitored, and adjustments are made to the balance between sources and uses of funds as deemed appropriate. Liquidity risk management is an important element in our asset/liability management process. We regularly model liquidity stress scenarios to assess potential liquidity outflows or funding pressures resulting from economic disruptions, volatility in the financial markets, unexpected credit events or other significant occurrences deemed problematic by management. These scenarios are incorporated into our contingency funding plan, which provides the basis for the identification of our liquidity requirements. Our principal source of funding has been customer deposits, supplemented by short-term and long-term borrowings as well as maturities of securities and loan amortization. As of June 30, 2026, we had approximately $5.7 billion held in an interest-bearing account at the Federal Reserve. We also have the ability to borrow funds as a member of the FHLB. As of June 30, 2026, based upon available, pledgeable
+67
+Table of Contents
+collateral, our total borrowing capacity with the FHLB was approximately $7.3 billion. Furthermore, at June 30, 2026, we had approximately $12.2 billion in securities that were available to pledge and could be used to support additional borrowings, as needed, through repurchase agreements or the Federal Reserve discount window. As of June 30, 2026, management is not aware of any events that have occurred that are reasonably likely to have a material adverse effect on our liquidity, capital resources or operations. In addition, management is not aware of any regulatory recommendations regarding liquidity that would have a material adverse effect on us on a consolidated basis.
+Since Cullen/Frost is a holding company and does not conduct operations, its primary sources of liquidity are dividends received from Frost Bank and borrowings from outside sources. Banking regulations may limit the amount of dividends that may be paid by Frost Bank. See Note 6 - Capital and Regulatory Matters in the accompanying notes to consolidated financial statements included elsewhere in this report regarding such dividends. At June 30, 2026, Cullen/Frost had liquid assets, primarily consisting of cash on deposit at Frost Bank, totaling $232.6 million.
+Accounting Standards Updates
+See Note 16 - Accounting Standards Updates in the accompanying notes to consolidated financial statements included elsewhere in this report for details of recently issued accounting pronouncements and their expected impact on our financial statements.
+68
+Table of Contents
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+The disclosures set forth in this item are qualified by, and should be read in conjunction with, the section captioned "Forward-Looking Statements and Factors that Could Affect Future Results" included in Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations of this report, as well as other cautionary statements set forth elsewhere in this report.
+Refer to the discussion of market risks included in Item 7A. Quantitative and Qualitative Disclosures About Market Risk in the 2025 Form 10-K. There has been no material change in the types of market risks we face since December 31, 2025.
+We utilize an earnings simulation model as the primary quantitative tool to measure interest rate risk associated with changes in market rates. The model quantifies the effects of various interest rate scenarios on projected net interest income and net income over the next 12 months. The model measures the impact on net interest income relative to a flat&#8209;rate base&#8209;case scenario under hypothetical interest rate fluctuations over the same period. These simulations incorporate assumptions regarding balance sheet growth and mix, pricing, and the repricing and maturity characteristics of the existing and projected balance sheet. The impact of interest rate derivatives, such as interest rate swaps, caps, and floors, is also included in the model. Other interest rate&#8209;related risks, such as prepayment, basis, and option risk, are also considered.
+Our model simulations as of June 30, 2026 indicate that our projected balance sheet is slightly less asset-sensitive compared to our balance sheet as of December 31, 2025. For modeling purposes, as of June 30, 2026, the model simulations projected that 100 and 200 basis point ratable increases in interest rates would result in positive variances in net interest income of 1.3% and 2.4%, respectively, relative to the flat-rate case over the next 12 months, while 100 and 200 basis point ratable decreases in interest rates would result in negative variances in net interest income of 0.9% and 2.8%, respectively, relative to the flat-rate case over the next 12 months. For modeling purposes, as of December 31, 2025, the model simulations projected that 100 and 200 basis point ratable increases in interest rates would result in positive variances in net interest income of 1.5% and 3.0%, respectively, relative to the flat-rate case over the next 12 months, while 100 and 200 basis point ratable decreases in interest rates would result in negative variances in net interest income of 1.3% and 3.4%, respectively, relative to the flat-rate case over the next 12 months.
+We do not currently pay interest on a significant portion of our commercial demand deposits. Whether interest may be paid on these deposits in the future would depend on a variety of factors, some of which are beyond our control. Our June 30, 2026 and December 31, 2025, model simulations did not assume any payment of interest on commercial demand deposits (those not already receiving an earnings credit). Management believes, based on experience during prior interest rate cycles, that it is not likely we will pay interest on these deposits as rates increase.
+As of June 30, 2026, the effects of a 200 basis point increase and a 200 basis point decrease in interest rates on our derivative holdings would not result in a material variance in our net interest income.
+The effects of hypothetical fluctuations in interest rates on our securities classified as "trading" under ASC Topic 320, "Investments--Debt and Equity Securities," are not material. Accordingly, separate quantitative disclosure is not presented.
+Item 4. Controls and Procedures
+As of the end of the period covered by this Quarterly Report on Form 10-Q, an evaluation was conducted by management, with the participation of its Chief Executive Officer and Chief Financial Officer, of the effectiveness of our disclosure controls and procedures (as defined in Rule 13a-15(e) under the Securities Exchange Act of 1934). Based upon that evaluation, the Chief Executive Officer and Chief Financial Officer concluded that the disclosure controls and procedures were effective as of the end of the period covered by this report. No change in our internal control over financial reporting (as defined in Rule 13a-15(f) under the Securities Exchange Act of 1934) occurred during the last fiscal quarter that materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+69
+Table of Contents
+Part II. Other Information
+Item 1. Legal Proceedings
+We are subject to various claims and legal actions that have arisen in the course of conducting business. Management does not expect the ultimate disposition of these matters to have a material adverse impact on our financial statements.
+Item 1A. Risk Factors
+There has been no material change in the risk factors disclosed under Item 1A. of our 2025 Form 10-K.
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+The following table provides information with respect to purchases we made or were made on our behalf or any "affiliated purchaser" (as defined in Rule 10b-18(a)(3) under the Securities Exchange Act of 1934), of our common stock during the three months ended June 30, 2026. Dollar amounts in thousands.
+Period | Total Number of
+Shares Purchased | Average Price
+Paid Per Share | Total Number of
+Shares Purchased
+as Part of Publicly
+Announced Plan | Maximum
+Number of Shares
+(or Approximate
+Dollar Value)
+That May Yet Be
+Purchased Under
+the Plan at the
+End of the Period(1)
+April 1, 2026 to April 30, 2026 | -- | $ | -- | -- | $ | 230,003 |
+May 1, 2026 to May 31, 2026 | 654,955 | 137.42 | 654,955 | 140,000 |
+June 1, 2026 to June 30, 2026 | -- | -- | -- | 140,000 |
+Total | 654,955 | 654,955 |
+(1)On January 28, 2026, Cullen/Frost announced that our board of directors authorized a $300.0 million stock repurchase program, allowing us to repurchase shares of our common stock over a one-year period expiring on January 27, 2027.
+Item 3. Defaults Upon Senior Securities
+None.
+Item 4. Mine Safety Disclosures
+None.
+Item 5. Other Information
+Insider Trading Policies and Procedures. Our board of directors has adopted the Cullen/Frost Bankers, Inc. Insider Trading Policy which governs the purchase, sale, and/or other dispositions of our securities by directors, officers and employees, or by Cullen/Frost itself. This policy has been reasonably designed to promote compliance with insider trading laws, rules and regulations, and applicable NYSE listing standards.
+Rule 10b5-1 and Non-Rule 10b5-1 Trading Arrangements. None.
+70
+Table of Contents
+Item 6. Exhibits
+(a) Exhibits
+Exhibit
+Number | Description |
+31.1 | Rule 13a-14(a) Certification of the Corporation's Chief Executive Officer
+31.2 | Rule 13a-14(a) Certification of the Corporation's Chief Financial Officer
+32.1(1)
+Section 1350 Certification of the Corporation's Chief Executive Officer
+32.2(1)
+Section 1350 Certification of the Corporation's Chief Financial Officer
+101.INS(2)
+Inline XBRL Instance Document |
+101.SCH | Inline XBRL Taxonomy Extension Schema Document |
+101.CAL | Inline XBRL Taxonomy Extension Calculation Linkbase Document |
+101.DEF | Inline XBRL Taxonomy Extension Definition Linkbase Document |
+101.LAB | InlineXBRL Taxonomy Extension Label Linkbase Document |
+101.PRE | Inline XBRL Taxonomy Extension Presentation Linkbase Document |
+104(3)

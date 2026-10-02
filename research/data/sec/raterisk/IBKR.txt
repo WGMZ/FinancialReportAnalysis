@@ -1,0 +1,234 @@
+# IBKR 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/1381197/000138119726000147/ibkr-20260630.htm
+# full_doc_chars=255914
+
+
+----- [line 1288] -----
+Table of Contents
+Interactive Brokers Group, Inc. and Subsidiaries
+Notes to Unaudited Condensed Consolidated Financial Statements
+3. Trading Activities and Related Risks
+Trading activities expose the Company to market and credit risks. These risks are managed in accordance with established risk management policies and procedures. To accomplish this, management has established a risk management process that includes:
+&#8226;a regular review of the risk management process by executive management as part of its oversight role;
+&#8226;defined risk management policies and procedures supported by a rigorous analytic framework; and
+&#8226;articulated risk tolerance levels as defined by executive management that are regularly reviewed to ensure that the Company's risk&#8209;taking is consistent with its business strategy, its capital structure, and current and anticipated market conditions.
+Market Risk
+The Company is exposed to various market risks. Exposures to market risks arise from equity price risk, foreign currency exchange rate fluctuations and changes in interest rates. The Company seeks to mitigate market risk associated with trading inventories by employing hedging strategies that correlate rate, price and spread movements of trading inventories and related financing and hedging activities. The Company uses a combination of cash instruments and exchange-traded derivatives to hedge its market exposures. The Company does not apply hedge accounting. The following discussion describes the types of market risk faced:
+Equity Price Risk
+Equity price risk arises from the possibility that equity security prices will fluctuate, affecting the value of equity securities and other instruments that derive their value from a particular stock, a defined basket of stocks, or a stock index. The Company is subject to equity price risk primarily in financial instruments owned, at fair value and financial instruments sold, but not yet purchased, at fair value. The Company attempts to limit such risks by continuously reevaluating prices and by diversifying its portfolio across many different options, futures and underlying securities and avoiding concentrations of positions based on the same underlying security.
+Interest Rate Risk
+Interest rate risk arises from the possibility that changes in interest rates will affect the value of financial instruments. The Company is exposed to interest rate risk on cash and margin balances, positions carried in equity and fixed income securities, options, futures and on its borrowings. These risks are managed through investment policies and by entering into interest rate futures contracts.
+Currency Risk
+Currency risk arises from the possibility that fluctuations in foreign exchange rates will impact the value of financial instruments. The Company manages this risk using spot (i.e., cash) currency transactions, currency futures contracts and currency forward contracts. The Company actively manages its currency exposure using a currency diversification strategy that is based on a defined basket of ten currencies internally referred to as the "GLOBAL." These strategies minimize the fluctuation of the Company's equity as expressed in GLOBALs, thereby diversifying its risk in alignment with these global currencies, weighted by the Company's view of their importance. As the Company's financial results are reported in U.S. dollars, the change in the value of the GLOBAL as expressed in U.S. dollars affects the Company's earnings. The impact of this currency diversification strategy in the Company's earnings is reported in "Other income" in the condensed consolidated statements of comprehensive income.
+Credit Risk
+The Company is exposed to the risk of loss if a customer, counterparty or issuer fails to perform its obligations under contractual terms ("default risk"). Both cash instruments and derivatives expose the Company to default risk. The Company has established policies and procedures for mitigating credit risk on principal transactions, including reviewing and establishing limits for credit exposure, maintaining collateral and continually assessing the creditworthiness of counterparties.
+15
+Table of Contents
+Interactive Brokers Group, Inc. and Subsidiaries
+Notes to Unaudited Condensed Consolidated Financial Statements
+The Company's exposure to credit risk is limited as contracts entered into are settled directly at securities and commodities clearing houses or are settled through member firms and banks with substantial financial and operational resources. Over-the-counter transactions, such as securities lending and contracts for differences ("CFDs"), are marked to market daily and are conducted with counterparties that have undergone a thorough credit review. The Company seeks to control the risks associated with its customer margin activities by requiring customers to maintain collateral in compliance with regulatory and internal guidelines.
+In the normal course of business, the Company executes, settles and finances various customer securities transactions. Execution of these transactions includes the purchase and sale of securities which exposes the Company to default risk arising from the potential that customers or counterparties may fail to satisfy their obligations. In these situations, the Company may be required to purchase or sell financial instruments at unfavorable market prices to satisfy obligations to customers or counterparties. Liabilities to other brokers and dealers related to unsettled transactions (i.e., securities fails to receive) are recorded at the amount for which the securities were purchased, and are paid upon receipt of the securities from other brokers or dealers. In the case of aged securities fails to receive, the Company may purchase the underlying security in the market and seek reimbursement for any losses from the counterparty.
+For cash management purposes, the Company enters into short&#8209;term securities purchased under agreements to resell and securities sold under agreements to repurchase transactions ("repos") in addition to securities borrowing and lending arrangements, all of which may result in credit exposure in the event the counterparty to a transaction is unable to fulfill its contractual obligations. Repos are collateralized by securities with a market value in excess of the obligation under the contract. Similarly, securities lending agreements are collateralized by deposits of cash or securities. The Company attempts to minimize credit risk associated with these activities by monitoring collateral values daily and requiring additional collateral to be deposited with or returned to the Company as permitted under contractual provisions.
+Concentrations of Credit Risk
+The Company's exposure to credit risk associated with its trading and other activities is measured on an individual counterparty basis, as well as by groups of counterparties that share similar attributes. Concentrations of credit risk can be affected by changes in political, industry, or economic factors. To reduce the potential for risk concentration, credit limits are established and exposure is monitored in light of changing counterparty and market conditions. As of June 30, 2026, the Company did not have any material concentrations of credit risk outside the ordinary course of business.
+Off&#8209;Balance Sheet Risks
+The Company may be exposed to a risk of loss not reflected in the condensed consolidated financial statements to settle futures and certain over&#8209;the&#8209;counter contracts at contracted prices, which may require repurchase or sale of the underlying products in the market at prevailing prices. Accordingly, these transactions result in off&#8209;balance sheet risk as the Company's cost to liquidate such contracts may exceed the amounts reported in the condensed consolidated statements of financial condition.
+4. Equity and Earnings per Share
+In connection with IBG, Inc.'s initial public offering of Class A common stock ("IPO") in May 2007, it purchased 10.0% of the membership interests in IBG LLC from IBG Holdings LLC ("Holdings"), became the sole managing member of IBG LLC and began to consolidate IBG LLC's financial results into its financial statements. Holdings owns all of IBG, Inc.'s Class B common stock, which has voting rights in proportion to its ownership interests in IBG LLC. The table below presents the amount of IBG LLC membership interests held by IBG, Inc. and Holdings as of June 30, 2026.
+IBG, Inc.
+Holdings
+Total
+Ownership %
+26.5%
+73.5%
+100.0%
+Membership interests
+450,671,113
+1,250,737,416
+1,701,408,529
+These condensed consolidated financial statements reflect the results of operations and financial position of IBG, Inc., including consolidation of its investment in IBG LLC and its subsidiaries. The noncontrolling interests in IBG LLC attributable to Holdings are reported as a component of "Total equity" in the condensed consolidated statements of financial condition.
+16
+Table of Contents
+Interactive Brokers Group, Inc. and Subsidiaries
+Notes to Unaudited Condensed Consolidated Financial Statements
+Recapitalization and Post&#8209;IPO Capital Structure
+Immediately before and immediately following the consummation of the IPO, IBG, Inc., Holdings, IBG LLC and the members of IBG LLC consummated a series of transactions collectively referred to herein as the "Recapitalization." In connection with the Recapitalization, IBG, Inc., Holdings and the historical members of IBG LLC entered into an exchange agreement, dated as of May 3, 2007 (the "Exchange Agreement"), under which the historical members of IBG LLC received membership interests in Holdings in exchange for their membership interests in IBG LLC. Additionally, IBG, Inc. became the sole managing member of IBG LLC.
+In connection with the consummation of the IPO, Holdings used the net proceeds to redeem 10.0% of members' interests in Holdings in proportion to their interests. Immediately following the Recapitalization and IPO, Holdings owned approximately 90% of IBG LLC and 100% of IBG, Inc.'s Class B common stock.
+Since the consummation of the IPO and Recapitalization, IBG, Inc.'s equity capital structure has been comprised of Class A and Class B common stock. All shares of common stock have a par value of $0.01 per share and have identical rights to earnings and dividends and in liquidation. The below table presents the authorized, issued, and outstanding shares for the periods indicated.
+June 30, 2026
+December 31, 2025
+Authorized
+Issued
+Outstanding
+Authorized
+Issued
+Outstanding
+Class A common stock
+4,000,000,000
+451,188,893
+450,571,783
+4,000,000,000
+446,130,605
+445,413,716
+Class B common stock
+1,000
+400
+400
+1,000
+400
+400
+
+----- [line 4357] -----
+Our income tax expense, deferred tax assets and liabilities, and reserves for unrecognized tax benefits are based on enacted tax laws and reflect management's best assessment of estimated future taxes to be paid. We are subject to income taxes in both the U.S. and numerous foreign jurisdictions. Determining income tax expense requires significant judgment and estimates.
+Deferred income tax assets and liabilities arise from temporary differences between the tax and financial statement recognition of the underlying assets and liabilities. In evaluating our ability to recover our deferred tax assets within the jurisdictions from which they arise, we consider all available positive and negative evidence, including scheduled reversals of deferred tax liabilities, projected future taxable income, tax-planning strategies, and results of recent operations.
+In projecting future taxable income, historical results are adjusted for changes in accounting policies and incorporate assumptions including the amount of future state, federal and foreign pre-tax operating income, the reversal of temporary differences, and the implementation of feasible and prudent tax&#8209;planning strategies. These assumptions require significant judgment about the forecasts of future taxable income and are consistent with the plans and estimates we are using to manage the underlying businesses. In evaluating the objective evidence that historical results provide, three years of cumulative operating income (loss) are considered. Deferred income taxes have not been provided for U.S. tax liabilities or for additional foreign taxes on the unremitted earnings of foreign subsidiaries that have been indefinitely reinvested.
+The calculation of our tax liabilities involves dealing with uncertainties in the application of complex tax laws and regulations in a multitude of jurisdictions across our global operations. Changes in tax laws and rates could also affect recorded deferred tax assets and liabilities in the future. For example, a number of jurisdictions, including the European Union countries, have enacted legislation to implement the Pillar Two framework established by the Organization for Economic Cooperation and Development, which generally imposes a minimum effective tax rate of 15% in each such jurisdiction. We record tax liabilities in accordance with Financial Accounting Standards Board ("FASB") ASC Topic 740 and adjust these liabilities when management's judgment changes as a result of the evaluation of new information not previously available. Because of the complexity of some of these uncertainties, the ultimate resolution may result in payments that are different from the current estimates of these tax liabilities. These differences will be reflected as increases or decreases to income tax expense in the period in which new information becomes available.
+We recognize that a tax benefit from an uncertain tax position may be recognized only when it is more likely than not that the position will be sustained upon examination, including resolutions of any related appeals or litigation processes, based on the technical merits. A tax position that meets this standard is measured at the largest amount of benefit that will more likely than not be realized on settlement.
+Accounting Pronouncements Issued but Not Yet Adopted
+For additional information regarding FASB Accounting Standards Updates ("ASU" s) that have been issued but not yet adopted and that may impact the Company, refer to Note 2 - "Significant Accounting Policies" to the unaudited condensed consolidated financial statements in Part I, Item 1 of this Quarterly Report on form 10-Q.
+61
+Table of Contents
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+We are exposed to various market risks. Our exposures to market risks arise from assumptions built into our pricing models, equity price risk, foreign currency exchange rate fluctuations related to our international operations, changes in interest rates and risks relating to the extension of margin credit to our customers.
+Market risk refers to the risk that a change in the level of one or more market prices, rates, indices, implied volatilities (the price volatility of the underlying instrument imputed from option prices), correlations or other market factors, such as market liquidity, will result in losses for a position or portfolio. Generally, we incur trading&#8209;related market risk as a result of our remaining market making activities, where the substantial majority of our Value&#8209;at&#8209;Risk ("VaR") for market risk exposures is generated. In addition, we incur non&#8209;trading&#8209;related market risk primarily from investment activities and from foreign currency exposure held in the equity of our foreign subsidiaries, i.e., our non&#8209;U.S. brokerage subsidiaries and information technology subsidiaries, and held to meet target balances in our currency diversification strategy.
+We use various risk management tools in managing our market risk, which are embedded in our real&#8209;time market making systems. We employ certain hedging and risk management techniques to protect us from a severe market dislocation. Our risk management policies are developed and implemented by our Steering Committee, which is chaired by our Chief Executive Officer and comprised of senior executives of our various operating subsidiaries. The strategy of our remaining market making activities is to calculate quotes a few seconds ahead of the market and execute small trades at a tiny but favorable differential as a result. This strategy is made possible by our proprietary pricing model, which evaluates and monitors the risks inherent in our portfolio, assimilates external market data and reevaluates the outstanding quotes in our portfolio many times per second. Our model automatically rebalances our positions throughout each trading day to manage risk exposures on our options and futures positions and the underlying securities and will price the increased risk that a position would add to the overall portfolio into the bid and offer prices we post. Under risk management policies implemented and monitored primarily through our computer systems, reports to management, including risk profiles, profit and loss analysis and trading performance, are prepared on a real&#8209;time basis as well as daily and periodical bases. Although our remaining market making activities are completely automated, the trading process and our risk are monitored by a team of individuals who, in real time, observe various risk parameters of our consolidated positions. Our assets and liabilities are marked&#8209;to&#8209;market daily for financial reporting purposes and re&#8209;valued continuously throughout the trading day for risk management and asset/liability management purposes.
+We use a covariant VaR methodology to measure, monitor and review the market risk of our market making portfolios, with the exception of fixed income products, and our currency exposures. The risk of fixed income products, which comprise primarily U.S. government securities, is measured using a stress test.
+Pricing Model Exposure
+As described above, our proprietary pricing model, which continuously evaluates and monitors the risks inherent in our portfolio, assimilates external market data and reevaluates the outstanding quotes in our entire portfolio many times per second. Certain aspects of the model rely on historical prices of securities. If the behavior of price movements of individual securities diverges substantially from what their historical behavior would predict, we might incur trading losses. We attempt to limit such risks by diversifying our portfolio across many different options, futures and underlying securities and avoiding concentrations of positions based on the same underlying security. Historically, our losses from these events have been immaterial in comparison to our annual trading profits.
+Foreign Currency Exposure
+As a result of our international activities and accumulated earnings in our non-U.S. subsidiaries, our income and equity are exposed to fluctuations in foreign exchange rates. For example, our non-U.S. subsidiaries are exposed to foreign exchange risks as described below:
+&#8226;Some of our non-U.S. subsidiaries support customer transactions in financial instruments, carry bank balances, and borrow and lend securities in various currencies in their regular course of business. At the end of each accounting period, these non-U.S. subsidiaries' assets and liabilities are revalued into their respective functional currencies for presentation in their financial statements. The resulting foreign currency gains or losses are reported in their income statements and, as translated into U.S. dollars for U.S. GAAP purposes, in our condensed consolidated statements of comprehensive income, as a component of "Other income."
+&#8226;These non-U.S. subsidiaries' financial statements are presented in their respective functional currencies, as noted above. For U.S. GAAP purposes, at the end of each accounting period, each non-U.S. subsidiary's equity is translated at the then prevailing exchange rate into U.S. dollars and the resulting translation gain or loss is reported as OCI in our condensed consolidated statements of financial condition and condensed consolidated statements of comprehensive income.
+62
+Table of Contents
+By periodically converting currency balances into functional currency, we substantially reduce the foreign currency exposures for each of these non-U.S. subsidiaries, which minimizes the impact of exchange rate changes to its income statement. However, historically, we have taken the approach of not hedging our consolidated foreign currency exposures to the U.S. dollar, based on the notion that the cost of constantly hedging over the years would amount to more than the random impact of rate changes on our non&#8209;U.S. dollar balances.
+Instead, because we conduct business in many countries and territories, in many currencies, and because we consider ourselves a global enterprise based in a diversified basket of currencies rather than a U.S. dollar-based company, we actively manage our global currency exposure by maintaining our equity in GLOBALs, a basket of currencies. Our risk management systems incorporate cash forex to hedge our currency exposure at little or no cost. Currency spot positions entered into as part of our currency diversification strategy are held by the parent holding company, IBG LLC.
+The U.S. dollar value of the GLOBAL decreased 0.83% as of June 30, 2026 compared to June 30, 2025. As of June 30, 2026, approximately 25% of our equity was denominated in currencies other than the U.S. dollar.
+The effects of our currency diversification strategy appear in two places in the condensed consolidated financial statements: (1) as a component of "Other income" in the condensed consolidated statements of comprehensive income and (2) as OCI in the condensed consolidated statements of financial condition and the condensed consolidated statements of comprehensive income. The full effect of the GLOBAL is captured in the condensed consolidated statements of comprehensive income.
+The table below presents a comparison of the U.S. dollar equivalent of the GLOBAL for the periods indicated.
+As of 6/30/2025
+As of 6/30/2026
+GLOBAL in
+% of
+Net Equity
+GLOBAL in
+% of
+Net Equity
+CHANGE in
+Currency
+Composition
+FX Rate
+USD Equiv.
+Comp.
+(in USD millions)
+FX Rate
+USD Equiv.
+Comp.
+(in USD millions)
+% of Comp.
+USD
+0.72
+1.0000
+0.720
+74.8%
+$
+13,856
+1.0000
+0.720
+75.4%
+$
+16,788
+0.6%
+EUR
+0.09
+1.1788
+0.106
+11.0%
+2,042
+1.1422
+0.103
+10.8%
+2,397
+-0.3%
+JPY
+
+----- [line 4513] -----
+0.5%
+104
+0.0%
+0.962
+100.0%
+$
+18,518
+0.954
+100.0%
+$
+22,250
+0.0%
+Interest Rate Risk
+We had no variable-rate debt outstanding as of June 30, 2026.
+We pay our customers interest based on benchmark overnight interest rates in various currencies, when interest rates are above a benchmark rate plus a small spread, on cash balances above $10 thousand (or equivalent) in securities accounts holding more than $100 thousand and at lower, tiered rates for accounts holding less than $100 thousand (or equivalent) net asset value. In currencies, if any, with negative rates, we pass through the cost of holding certain cash balances to our customers; therefore, we charge our customers interest on these cash balances. In a normal rate environment, we typically invest a portion of these funds in U.S. government securities with maturities of up to two years, although given the current interest rate environment, at this time all such investments mature within three months. If interest rates were to increase rapidly and substantially, our net interest income would not increase proportionally with the interest rates for the portion of the funds invested at fixed yields. In addition, the mark-to-market changes in the value of these fixed rate securities will be reflected in other income, instead of net interest income. Our margin balances are priced to a benchmark rate plus a spread, with a minimum charge of 0.75% in U.S. dollars and most foreign currencies.
+Based on customer balances and investments outstanding as of June 30, 2026, and assuming reinvestment of maturing instruments in instruments of short-term duration, an increase of 0.25% over current U.S. dollar interest rate levels would increase our net interest income by $81 million on an annualized basis, assuming the full effect of reinvestment at higher rates. A 0.25% increase in all the relevant non-U.S. dollar benchmark rates would increase our net interest income by $38 million on an annualized basis. Our interest rate sensitivity estimate contains separate assumptions for U.S. dollar rates from other currencies' rates and it isolates the effects of a rate increase on reinvestments. We do not approximate mark-to-market impact from interest rate changes; if U.S. government securities whose prices were to fall under these scenarios were held to maturity, as intended, then the reduction in other income would be temporary, as the securities would mature at par value. If such securities were sold prior to maturity, the loss would be realized and the proceeds reinvested at prevailing higher interest rates.
+63
+Table of Contents
+We also face the potential for reduced net interest income from customer deposits and margin loans if benchmark rates were to fall. Based on customer balances and investments outstanding as of June 30, 2026, and assuming reinvestment of maturing instruments in instruments of short-term duration, a decrease in U.S. dollar interest rates of 0.25% would decrease our net interest income by $81 million on an annualized basis, assuming the full effect of reinvestment at lower rates. A 0.25% decrease in all the relevant non-U.S. dollar benchmark rates would decrease our net interest income by $38 million on an annualized basis.
+We also face interest rate risk due to positions carried for our remaining market making activities to the extent that long or short stock positions may have been established for future or forward dates on options or futures contracts and the value of such positions is impacted by interest rates. The amount of such risk cannot be quantified, however, the current low level of market making positions does not indicate a material potential exposure.
+Dividend Risk
+We face dividend risk in our remaining market making activities as we derive revenues and incur expenses in the form of dividend income and expense, respectively, from our inventory of equity securities, and must make payments in lieu of dividends on short positions in equity securities within our portfolio. Projected future dividends are an important component of pricing equity options and other derivatives, and incorrect projections may lead to trading losses. The amount of such risk cannot be quantified, however, the current low level of market making positions does not indicate a material potential exposure.
+Margin Loans
+We extend margin loans to our customers, which are subject to various regulatory requirements. Margin loans are collateralized by cash and securities in the customers' accounts. The risks associated with margin credit increase during periods of fast market movements or in cases where collateral is concentrated and market movements occur. During such times, customers who utilize margin loans and who have collateralized their obligations with securities may find that the securities have a rapidly depreciating value and may not be sufficient to cover their obligations in the event of a liquidation. We are also exposed to credit risk when our customers execute transactions, such as short sales of options and equities that can expose them to risk beyond their invested capital.
+We expect this kind of exposure to increase with the growth of our overall business. Because we indemnify and hold harmless our clearing houses and counterparties from certain liabilities or claims, the use of margin loans and short sales may expose us to significant off&#8209;balance&#8209;sheet risk if collateral requirements are not sufficient to fully cover losses that customers may incur and those customers fail to satisfy their obligations. As of June 30, 2026, we had $108.9 billion in margin loans extended to our customers. The amount of risk to which we are exposed from the margin loans we extend to our customers and from short sale transactions by our customers is unlimited and not quantifiable as the risk is dependent upon analysis of a potentially significant and undeterminable rise or fall in stock prices. Our account level margin requirements meet or exceed those required by Regulation T of the Board of Governors of the Federal Reserve and FINRA portfolio margin rules, as applicable. As a matter of practice, we enforce real&#8209;time margin compliance monitoring and liquidate customers' positions if their equity falls below required margin requirements.
+We have a comprehensive policy implemented in accordance with regulatory standards to assess and monitor the suitability of investors to engage in various trading activities. To mitigate our risk, we also continuously monitor customer accounts to detect excessive concentration, large orders or positions, patterns of day trading and other activities that indicate increased risk to us.
+Our credit exposure is to a great extent mitigated by our real-time margining system, which automatically evaluates each account throughout the trading day and closes out positions automatically for accounts that are found to be under&#8209;margined. While this methodology is effective in most situations, it may not be effective in situations where no liquid market exists for the relevant securities or commodities or where, for any reason, automatic liquidation for certain accounts has been disabled. Our Market Risk Committee continually monitors and evaluates our risk management policies, including the implementation of policies and procedures to enhance the detection and prevention of potential events to mitigate margin loan losses.
+64
+Table of Contents
+Value&#8209;at&#8209;Risk
+We estimate VaR using a historical approach, which uses the historical daily price returns of underlying assets as well as estimates of the end of day implied volatility for options. Our one&#8209;day VaR is defined as the unrealized loss in portfolio value that, based on historically observed market risk factors, would have been exceeded with a frequency of one percent, based on a calculation with a confidence interval of 99%.
+Our VaR model generally takes into account exposures to equity and commodity price risk and foreign exchange rates.
+We use VaR as one of a range of risk management tools. Among their benefits, VaR models permit the estimation of a portfolio's aggregate market risk exposure, incorporating a range of varied market risks and portfolio assets. One key element of the VaR model is that it reflects risk reduction due to portfolio diversification or hedging activities. However, VaR has various strengths and limitations, which include, but are not limited to: use of historical changes in market risk factors, which may not be accurate predictors of future market conditions, and may not fully incorporate the risk of extreme market events that are outsized relative to observed historical market behavior or reflect the historical distribution of results beyond the confidence interval; and reporting of losses in a single day, which does not reflect the risk of positions that cannot be liquidated or hedged in one day. A small proportion of market risk generated by trading positions is not included in VaR. The modeling of the risk characteristics of some positions relies on approximations that, under certain circumstances, could produce significantly different results from those produced using more precise measures. VaR is most appropriate as a risk measure for trading positions in liquid financial markets and will understate the risk associated with severe events, such as periods of extreme illiquidity.
+The VaR calculation simulates the performance of the portfolio based on several years of daily price changes of the underlying assets and determines the VaR as the calculated loss that occurs at the 99th percentile.
+Since the reported VaR statistics are estimates based on historical data, VaR should not be viewed as predictive of our future revenues or financial performance or of our ability to monitor and manage risk. There can be no assurance that our actual losses on a particular day will not exceed the indicated VaR or that such losses will not occur more than one time in 100 trading days. VaR does not predict the magnitude of losses which, should they occur, may be significantly greater than the VaR amount.
+Stress Test
+We estimate the market risk of our fixed income portfolio using a risk analysis model provided by a leading external vendor. For corporate bonds, this stress test is configured to calculate the change in value of each fixed income security in the portfolio over one day in five scenarios each of which represents a parallel shift of the U.S. Treasury yield curve. The scenarios are shifts of +/&#8722;100 and +/&#8722;200 basis points. For U.S. government securities, the stress test is configured to calculate the change in value of each fixed income security in the portfolio over one day in three scenarios each of which represents a parallel shift of the U.S. Treasury yield curve. The scenarios are shifts of +/&#8722;50 basis points.
+65
+Table of Contents
+ITEM 4. CONTROLS AND PROCEDURES
+Evaluation of Disclosure Controls and Procedures
+Our management, including our Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of our disclosure controls and procedures pursuant to Rule 13a-15 under the Exchange Act as of the end of the period covered by this report. Based on that evaluation, our Chief Executive Officer and Chief Financial Officer have concluded that, as of the end of the period covered by this quarterly report, our disclosure controls and procedures (as defined in Rule 13a-15(e) under the Exchange Act) are effective, in all material respects, to ensure that information we are required to disclose in reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in Securities and Exchange Commission rules and forms, and that such information is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure.
+In addition, no change in our internal control over financial reporting (as defined in Rule 13a-15(f) under the Exchange Act) occurred during the period covered by this report quarter that has materially affected, or is likely to materially affect, our internal control over financial reporting. We have not experienced any material impact to our internal controls over financial reporting related to our employees working remotely.
+66
+Table of Contents
+PART II OTHER INFORMATION
+ITEM 1. LEGAL PROCEEDINGS
+There have been no material changes to the legal proceedings disclosed under Part 1, Item 3 of our Annual Report on Form 10-K filed with the SEC on February 27, 2026, except as updated in Note 13 - "Commitments, Contingencies, and Guarantees" to the unaudited condensed consolidated financial statements in Part I, Item 1 of this Quarterly Report on Form 10-Q for the quarter ended June 30, 2026.
+ITEM 1A. RISK FACTORS
+There have been no material changes to the risk factors disclosed in Part 1, Item 1A of our Annual Report on Form 10-K filed with the SEC on February 27, 2026.
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+The summary of the Company's stock repurchase activity for the three months ended June 30, 2026, is as follows:
+Total Number
+Maximum
+of Shares
+Number of Shares that
+Total Number of
+Average
+Purchased as Part of
+May yet be Purchased
+Shares
+Price Paid
+Publicly Announced
+Under the
+Period
+Purchased
+per Share
+Plans or Programs
+Plans or Programs
+May 1 - May 31
+Employee Transactions 1
+1,729,969
+$84.42
+N/A
+N/A
+1.All shares were repurchased from employees who elected to have shares withheld to satisfy their tax withholding obligations related to the May 8, 2026 vesting of the Company's Stock Incentive Plan. The Company sold these shares in open market transactions. See Note 10 - "Employee Incentive Plans" to the unaudited condensed consolidated financial statements in Item 1, Part 1 of this Quarterly Report on Form 10-Q for more information regarding the Company's Stock Incentive Plan.
+The Company provides employees with two options to pay for their withholding tax obligations which become due when restricted stock units vest: either (1) reimburse the Company via cash payment, or (2) elect to have IBG LLC withhold a portion of the vesting shares. In the case of employees who elect to have IBG LLC withhold shares to cover their tax obligations, those shares are transferred to IBG LLC, which in turn, sells those shares in open market transactions to recover the amount paid to the tax authorities on the employees' behalf. During the three months ended June 30, 2026, the Company sold 1,729,969 shares of its Class A common stock (with a fair value of $150 million) in open market transactions. The proceeds were used to reimburse the Company for withholding taxes paid by the Company on the employees' behalf.
+On October 13, 2015, the Company filed a Post-Effective Amendment to multiple Registration Statements filed under the Securities Act of 1933, as amended on Form S-8 that registered shares of the Company's Class A common stock, $0.01 par value, for issuance under the Company's amended Stock Incentive Plan. As per General Instruction C of Form S-8, the sale of the shares described above constitutes a resale or reoffer of the Company's Class A common stock. The Post-Effective Amendment contains a reoffer prospectus that registers 25,600,000 shares of the Company's Class A common stock. The reoffer prospectus allows for future sales by IBG LLC, on a continuous or delayed basis, to the public without restriction.
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES

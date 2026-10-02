@@ -1,0 +1,709 @@
+# PNC 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/713676/000162828026053170/pnc-20260630.htm
+# full_doc_chars=543224
+
+
+----- [line 190] -----
+25 | Senior and Subordinated Debt
+30
+26 | Primary Contingent Liquidity Sources
+30
+27 | PNC Bank Notes Redeemed
+31
+28 | Parent Company Notes Issued
+32
+29 | Credit Ratings and Outlook
+33
+30 | Basel III Capital
+34
+31 | Net Interest Income Sensitivity Analysis
+35
+32 | Economic Value of Equity Sensitivity Analysis
+36
+33 | Equity Investments Summary
+36
+34 | Average Consolidated Balance Sheet and Net Interest Analysis
+38
+35 | Reconciliation of Taxable-Equivalent Net Interest Income (non-GAAP)
+40
+36 | Reconciliation of Noninterest Expense Guidance, Excluding Integration Costs and Significant Items (non-GAAP)
+40
+37 | Reconciliation of Noninterest Income Guidance, Excluding Integration Costs and Significant Items (non-GAAP)
+40
+38 | Reconciliation of Revenue Guidance, Excluding Integration Costs and Significant Items (non-GAAP)
+41
+39 | Key Macroeconomic Variables in CECL Weighted-Average Scenarios
+42
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS TABLE REFERENCE |
+Table | Description | Page |
+40 | Acquisition Consideration
+53
+41 | Fair Value and Unpaid Principal Balance of Loans from the FirstBank Acquisition
+53
+42 | PCD Loan Activity
+54
+43 | PSL Activity
+54
+44 | Investment Securities Summary
+55
+45 | Gross Unrealized Loss and Fair Value of Securities Available-for-Sale Without an Allowance for Credit Losses
+56
+46 | Gains (Losses) on Sales of Securities Available-for-Sale
+56
+47 | Contractual Maturity of Debt Securities
+57
+48 | Fair Value of Securities Pledged and Accepted as Collateral
+57
+49 | Analysis of Loan Portfolio
+59
+50 | Nonperforming Assets
+60
+51 | Commercial Credit Quality Indicators
+61
+52 | Credit Quality Indicators for Residential Real Estate and Home Equity Loan Classes
+62
+53 | Credit Quality Indicators for Automobile, Credit Card and Other Consumer Loan Classes
+64
+54 | Loan Modifications Granted to Borrowers Experiencing Financial Difficulty
+66
+55 | Financial Effect of Commercial FDMs
+67
+56 | Delinquency Status of Commercial FDMs
+67
+57 | Consumer FDMs
+68
+58 | Rollforward of Allowance for Credit Losses
+69
+59 | Loan Sale and Servicing Activities
+70
+60 | Principal Balance, Delinquent Loans and Net Charge-offs Related to Serviced Loans For Others
+71
+
+----- [line 392] -----
+&#8226;Net interest income of $4.1 billion increased $146 million, or 4%, and included the benefit of commercial loan growth and higher noninterest-bearing deposit balances.
+&#8226;Net interest margin increased 1 basis point to 2.96%.
+&#8226;Noninterest income of $2.8 billion increased $564 million, or 26%, reflecting higher capital markets and advisory revenue as well as $6 million of integration costs related to the FirstBank acquisition and second quarter significant items including:
+&#8226;A $448 million gain resulting from PNC's participation in the Visa exchange program;
+&#8226;A securities loss of $139 million related to the repositioning of the available-for-sale investment securities portfolio; and
+&#8226;Visa derivative adjustments of negative $85 million, driven by the extension of anticipated litigation resolution timing.
+&#8226;Provision for credit losses was $191 million in the second quarter of 2026 and reflected portfolio activity as well as updates to macroeconomic factors. The first quarter of 2026 included a provision for credit losses of $210 million.
+&#8226;Noninterest expense increased $330 million, or 9%, and included higher personnel costs as a result of increased business activity as well as second quarter of 2026 integration expenses related to the FirstBank acquisition of $121 million and a PNC Foundation contribution expense of $140 million pre-tax. The first quarter of 2026 included $97 million of FirstBank integration expenses.
+Net income of $3.8 billion or $8.94 per diluted common share, for the first six months of 2026 increased $685 million, or 22%, compared to $3.1 billion, or $7.37 per diluted common share, for the same period in 2025, reflecting higher net interest income and noninterest income, partially offset by increased noninterest expense.
+&#8226;For the six months ended June 30, 2026 compared to the six months ended June 30, 2025:
+&#8226;Total revenue increased $1.9 billion, or 17%.
+&#8226;Net interest income increased $1.0 billion, or 15%, reflecting the benefit of FirstBank, loan growth and lower funding costs.
+&#8226;Net interest margin increased 17 basis points and included the continued benefit of fixed rate asset repricing.
+&#8226;Noninterest income increased $890 million, or 22%, reflecting higher capital markets and advisory revenue as well as $7 million of integration costs related to the FirstBank acquisition and second quarter 2026 significant items including:
+&#8226;A $448 million gain resulting from PNC's participation in the Visa exchange program;
+&#8226;A securities loss of $139 million related to the repositioning of the available-for-sale investment securities portfolio; and
+&#8226;Visa derivative adjustments of negative $117 million in the first six months of 2026, driven by the extension of anticipated litigation resolution timing.
+&#8226;Provision for credit losses was $401 million for the first six months of 2026, and reflected portfolio activity as well as updates to macroeconomic factors. The first six months of 2025 included a provision for credit losses of $473 million.
+&#8226;Noninterest expense increased $1.1 billion, or 16%, compared to the first six months of 2025, reflecting FirstBank operating expenses, higher personnel costs as a result of increased business activity and $218 million of integration expenses related to the FirstBank acquisition, as well as a PNC Foundation contribution expense of $140 million pre-tax.
+For additional detail, see the Consolidated Income Statement Review section of this Financial Review.
+Balance Sheet Highlights
+Our balance sheet was well positioned at June 30, 2026. In comparison to December 31, 2025:
+&#8226;Total assets of $616.0 billion increased $42.5 billion, or 7%, reflecting higher loans and securities balances, including the impact of the FirstBank acquisition, partially offset by lower balances held with the FRB.
+&#8226;Total loans of $368.0 billion increased $36.5 billion, or 11%.
+&#8226;Total commercial loans increased $31.4 billion, or 14%, to $263.9 billion, reflecting new production and higher utilization of loan commitments as well as the addition of FirstBank loans.
+&#8226;Total consumer loans increased $5.1 billion, or 5%, to $104.1 billion, primarily driven by the benefit of acquired FirstBank residential mortgage loans, partially offset by declines in the automobile portfolio as paydowns outpaced originations.
+&#8226;Investment securities increased $11.3 billion, or 8%, to $149.5 billion, including net purchase activity of agency residential mortgage-backed securities and the acquisition of FirstBank investment securities in both the available-for-sale and held-to-maturity portfolios.
+&#8226;Total deposits increased $8.9 billion, or 2%, primarily driven by higher noninterest-bearing deposits, and included the addition of FirstBank deposits.
+&#8226;Borrowed funds increased $28.6 billion, or 50%, to $85.7 billion, primarily due to higher FHLB advances.
+The PNC Financial Services Group, Inc. - Form 10-Q 3
+For additional detail, see the Consolidated Balance Sheet Review section of this Financial Review.
+Credit Quality Highlights
+In the second quarter of 2026, PNC maintained strong credit quality performance.
+&#8226;At June 30, 2026 compared to December 31, 2025:
+&#8226;Nonperforming assets of $2.2 billion decreased $211 million, or 9%, driven by lower commercial nonperforming loans.
+&#8226;Overall loan delinquencies of $1.4 billion were stable.
+&#8226;The ACL related to loans, which consists of the ALLL and the allowance for unfunded lending related commitments, totaled $5.5 billion at June 30, 2026, compared to $5.2 billion at December 31, 2025. The increase was primarily driven by portfolio activity, including the addition of FirstBank loans. ACL to total loans was 1.48% at June 30, 2026, compared to 1.58% at December 31, 2025.
+&#8226;Net loan charge-offs of $226 million, or 0.25% of average loans, decreased $27 million compared to the first quarter of 2026, primarily due to FirstBank acquired net loan charge-offs of $45 million recognized in the first quarter.
+For additional detail see the Credit Risk Management portion of the Risk Management section of this Financial Review.
+Capital and Liquidity Highlights
+We maintained our strong capital and liquidity positions.
+&#8226;Common shareholders' equity of $58.1 billion at June 30, 2026, increased $3.3 billion, or 6%, compared to December 31, 2025, primarily due to the benefit of net income and common stock issuances related to the FirstBank acquisition, partially offset by common dividends paid, common share repurchases and a decline in AOCI.
+&#8226;In the second quarter of 2026, PNC returned $1.3 billion of capital to shareholders, reflecting $0.7 billion of dividends on common shares and $0.6 billion of common share repurchases.
+&#8226;On July 6, 2026, the PNC Board of Directors raised the quarterly cash dividend on common stock to $2.00 per share, an increase of 30 cents, or 18%. The dividend is payable on August 5, 2026 to shareholders of record at the close of business July 20, 2026.
+&#8226;Our CET1 ratio was 9.9% at June 30, 2026 and 10.6% at December 31, 2025.
+For additional information on our liquidity and capital actions as well as our capital ratios, see Capital Management in the Risk Management section in this Financial Review, the Recent Regulatory Developments section in this Financial Review and the Supervision and Regulation section in our 2025 Form 10-K.
+Business Outlook
+Statements regarding our business outlook are forward-looking within the meaning of the Private Securities Litigation Reform Act of 1995. Our forward-looking financial statements are subject to the risk that economic and financial market conditions will be substantially different than those we are currently expecting and do not take into account potential legal and regulatory contingencies. These statements are based on our views that:
+&#8226;PNC's baseline forecast remains for continued expansion in 2026, with economic growth expected to remain resilient despite oil prices that are up from early 2026, supported by strong AI-related capex, tax refunds, and an improving labor market. We expect real GDP growth of 2.1% in 2026, with continued modest job gains and the unemployment rate holding roughly steady, ending the year at around 4.3%. Inflation risks have eased somewhat but we still expect inflation to remain elevated, with CPI inflation staying above 3% through year-end. Risks to our growth and inflation outlook include a sudden reversal in AI-related sentiment, which would have knock-on effects on both capex and wealth-driven consumer spending, as well as any further sharp rise in oil prices.
+&#8226;Our baseline forecast is for the Federal Reserve to keep the federal funds rate unchanged throughout 2026 and into 2027, in a range between 3.50% and 3.75%. However, risks remain skewed toward tighter monetary policy given persistent above-target inflation and inflationary pressures from higher energy prices and continued strength in capital spending.
+Consistent with the forward guidance we provided on July 15, 2026, for the third quarter of 2026, compared to the second quarter of 2026, we expect:
+&#8226;Average loans to be up 1% to 2%,
+&#8226;Net interest income to be up 3% to 3.5%,
+&#8226;Fee income to be down 5% to 5.5%,
+&#8226;Other noninterest income to be $150 million to $200 million,
+&#8226;Noninterest expense to be down 7% to 8 %,
+&#9702;Noninterest expense, excluding integration costs and significant items, to be down 2% to 3%, and
+&#8226;Net loan charge-offs to be approximately $225 million.
+4 The PNC Financial Services Group, Inc. - Form 10-Q
+Consistent with the forward guidance we provided on July 15, 2026, for the full year of 2026, compared to the full year of 2025, we expect:
+&#8226;Average loans to be up approximately 12.5%,
+&#8226;Net interest income to be up 15% to 15.5%,
+&#8226;Noninterest income to be up approximately 11%
+&#9702;Noninterest income, excluding integration costs and significant items, to be up approximately 9%,
+&#8226;Total revenue to be up approximately 14%,
+&#9702;Total revenue, excluding integration costs and significant items, to be up approximately 13%,
+&#8226;Noninterest expense to be up approximately 11.5%,
+&#9702;Noninterest expense, excluding integration costs and significant items, to be up approximately 8.5%, and
+&#8226;Effective tax rate to be approximately 19.5%.
+The guidance for noninterest expense, excluding integration costs and significant items, excludes our expectation for non-recurring merger and integration expenses of approximately $325 million, $218 million of which was recognized in the first half of 2026 and approximately $50 million of which we expect to incur in the third quarter of 2026. It also excludes the pre-tax impacts of the $140 million expense in the second quarter of 2026 related to a contribution to the PNC Foundation.
+The 2026 guidance for noninterest income and total revenue excludes integration costs, $7 million of which was recognized in the first half of 2026, as well as $224 million of second quarter significant items ($448 million gain on Visa exchange, $(85) million Visa Class B-3 derivative adjustment, and $139 million of securities losses). See the Reconciliation of Noninterest income guidance, excluding integration costs and significant items (non-GAAP) and the Reconciliation of Revenue guidance, excluding integration costs and significant items (non-GAAP) sections of this Report. Other noninterest income, noninterest income and revenue guidance does not forecast net securities gains or losses and other Visa activity.
+We are unable to provide a meaningful or accurate reconciliation of forward-looking non-GAAP measures, without unreasonable effort, to their most directly comparable GAAP financial measures, except for full year Noninterest income and Revenue guidance, excluding integration costs and significant items, and full year Noninterest expense guidance, excluding integration costs and significant items. This is due to the inherent difficulty of forecasting the timing and amounts necessary for the reconciliation, when such amounts are subject to events that cannot be reasonably predicted, as noted in our Cautionary Statement. Accordingly, we cannot address the probable significance of unavailable information.
+
+----- [line 523] -----
+Borrowed funds | 70,949 | 4.65 | % | 1,653 | 64,901 | 5.28 | % | 1,716 |
+Total interest-bearing liabilities/interest expense | $ | 427,339 | 2.38 | % | 5,070 | $ | 393,962 | 2.73 | % | 5,369 |
+Interest rate spread | 2.43 | % | 2.19 | % |
+Impact of noninterest-bearing sources | 0.53 | 0.60 |
+Net interest margin/income (non-GAAP) | 2.96 | % | 8,124 | 2.79 | % | 7,087 |
+Taxable-equivalent adjustments | (56) | (56) |
+Net interest income (GAAP) | $ | 8,068 | $ | 7,031 |
+(a)Interest income calculated as taxable-equivalent interest income. To provide more meaningful comparisons of interest income and yields for all interest-earning assets, as well as net interest margins, we use interest income on a taxable-equivalent basis in calculating average yields and net interest margins by increasing the interest income earned on tax-exempt assets to make it fully equivalent to interest income earned on taxable investments. This adjustment is not permitted under GAAP on the Consolidated Income Statement. For more information, see Table 35 Reconciliation of Taxable-Equivalent Net Interest Income (non-GAAP).
+(b)Interest income from Interest-earning deposits with banks primarily includes interest earned on our balances held with the FRB and is reported as Other interest income on our Consolidated Income Statement.
+Changes in net interest income and net interest margin result from the interaction of the volume and composition of interest-earning assets and related yields, interest-bearing liabilities and related rates paid and noninterest-bearing sources of funding. See Table 34 Average Consolidated Balance Sheet and Net Interest Analysis for additional information.
+Net interest income increased $146 million, or 4%, compared to the first quarter of 2026, and included the benefit of commercial loan growth and higher noninterest-bearing deposit balances. Net interest income increased $1.0 billion, or 15%, for the first six months of 2026 compared to the same period in 2025 and reflected the benefit of FirstBank, loan growth and lower funding costs. Net interest
+6 The PNC Financial Services Group, Inc. - Form 10-Q
+margin increased 1 basis point compared to the first quarter of 2026. Compared to the first six months of 2025, net interest margin increased 17 basis points and included the continued benefit of fixed rate asset repricing.
+Average investment securities increased $2.6 billion, or 2%, compared to the first quarter of 2026, and $3.8 billion, or 3%, compared to the first six months of 2025, reflecting higher residential mortgage-backed securities. The increase compared to the first six months of 2025 was partially offset by a decline in U.S. Treasury securities. Average investment securities represented 27% of average interest-earning assets for both the second and first quarters of 2026, and 27% for the first six months of 2026 compared to 28% for the same period of 2025.
+Average loans increased $12.3 billion, or 4%, compared to the first quarter of 2026, and $37.4 billion, or 12%, compared to the first six months of 2025. In both comparisons, the increase was primarily due to growth in commercial loans, driven by strong new production. Compared to the first six months of 2025, the increase also reflected the addition of FirstBank loans. Average loans represented 65% of average interest-earning assets for both the second and first quarters of 2026 and 65% for the first six months of 2026 compared to 63% for the same period of 2025.
+Average interest-bearing deposits decreased $5.7 billion, or 2%, compared to the first quarter of 2026, driven by lower commercial deposits and a decline in brokered time deposits. Average interest-bearing deposits increased $27.3 billion, or 8%, compared to the first six months of 2025, reflecting growth in consumer and commercial balances, including the addition of FirstBank deposits, partially offset by lower brokered time deposits. In total, average interest-bearing deposits represented 82% of average interest-bearing liabilities for the second quarter of 2026 compared to 85% for the first quarter of 2026, and 83% for the first six months of 2026 compared to 84% for the first six months of 2025.
+Average borrowed funds increased $16.1 billion, or 26%, and $6.0 billion, or 9%, compared to the first quarter of 2026 and the first six months of 2025, respectively. In both comparisons, the increase was primarily due to higher FHLB advances. Compared to the first six months of 2025, the increase also included higher senior debt outstanding.
+Further details regarding average loans and deposits are included in the Business Segments Review section of this Financial Review.
+Noninterest Income
+Table 4: Noninterest Income
+Three months ended | Six months ended |
+June 30 | March 31 | Change | June 30 | June 30 | Change |
+Dollars in millions | 2026 | 2026 | $ | % | 2026 | 2025 | $ | % |
+Noninterest income |
+Asset management and brokerage | $ | 440 | $ | 420 | $ | 20 | 5 | % | $ | 860 | $ | 782 | $ | 78 | 10 | % |
+Capital markets and advisory | 577 | 463 | 114 | 25 | % | 1,040 | 627 | 413 | 66 | % |
+Card and cash management | 772 | 738 | 34 | 5 | % | 1,510 | 1,429 | 81 | 6 | % |
+Lending and deposit services | 346 | 340 | 6 | 2 | % | 686 | 633 | 53 | 8 | % |
+Residential and commercial mortgage | 144 | 118 | 26 | 22 | % | 262 | 262 | -- | -- | % |
+Other income |
+Gain on Visa shares exchange program | 448 | -- | 448 | * | 448 | -- | 448 | * |
+Securities gains (losses) | (139) | 28 | (167) | * | (111) | (2) | (109) | * |
+Other | 180 | 97 | 83 | * | 277 | 351 | (74) | * |
+Other income | 489 | 125 | 364 | 291 | % | 614 | 349 | 265 | 76 | % |
+Total noninterest income | $ | 2,768 | $ | 2,204 | $ | 564 | 26 | % | $ | 4,972 | $ | 4,082 | $ | 890 | 22 | % |
+*-Not meaningful
+Noninterest income as a percentage of total revenue was 40% for the second quarter of 2026 compared to 36% for the first quarter of 2026 and 38% for the first six months of 2026 compared to 37% for the same period in 2025.
+Asset management and brokerage fees increased compared to the first quarter of 2026 and the first six months of 2025. In both comparisons, the increase was a result of higher average equity markets and increased client activity. PNC's discretionary client assets under management of $247 billion at June 30, 2026 increased from $230 billion at March 31, 2026, and $217 billion at June 30, 2025. In both comparisons, the increase included the impact from higher spot equity markets and positive net flows.
+Capital markets and advisory fees increased compared to the first quarter of 2026 and the first six months of 2025, driven by growth across capital markets businesses, including strong merger and acquisition advisory activity.
+Card and cash management revenue increased compared to the first quarter of 2026, as a result of seasonally higher consumer
+The PNC Financial Services Group, Inc. - Form 10-Q 7
+transaction volumes and growth in treasury management product revenue. The increase compared to the first six months of 2025 included increased consumer transaction volumes as well as higher treasury management product revenue.
+Lending and deposit services increased compared to the first quarter of 2026 primarily due to increased customer activity. Compared to the first six months of 2025, the increase reflected the addition of FirstBank customer activity.
+Residential and commercial mortgage increased compared to the first quarter of 2026 primarily driven by negative residential mortgage valuations, net of economic hedge, recognized in the first quarter of 2026. Residential and commercial mortgage revenue was stable compared to the first six months of 2025.
+Other noninterest income increased in both the quarterly and year-to-date comparisons. The second quarter of 2026 included the impact of a $448 million gain resulting from PNC's participation in the Visa exchange program, partially offset by a securities loss of $139 million related to the repositioning of the available-for-sale investment securities portfolio and $6 million of integration costs related to the FirstBank acquisition. The second quarter of 2026 also included Visa derivative adjustments, primarily related to the extension of anticipated litigation resolution timing of negative $85 million, compared to negative $32 million of Visa derivative adjustments in the first quarter of 2026. The first six months of 2026 included negative $117 million of Visa derivative adjustments, compared to negative $38 million for the same period in 2025.
+Noninterest Expense
+Table 5: Noninterest Expense
+Three months ended | Six months ended |
+June 30 | March 31 | Change | June 30 | June 30 | Change |
+Dollars in millions | 2026 | 2026 | $ | % | 2026 | 2025 | $ | % |
+Noninterest expense |
+Personnel | $ | 2,273 | $ | 2,106 | $ | 167 | 8 | % | $ | 4,379 | $ | 3,779 | $ | 600 | 16 | % |
+Occupancy | 252 | 262 | (10) | (4) | % | 514 | 480 | 34 | 7 | % |
+Equipment | 435 | 415 | 20 | 5 | % | 850 | 778 | 72 | 9 | % |
+Marketing | 110 | 87 | 23 | 26 | % | 197 | 184 | 13 | 7 | % |
+Other | 1,028 | 898 | 130 | 14 | % | 1,926 | 1,549 | 377 | 24 | % |
+Total noninterest expense
+$ | 4,098 | $ | 3,768 | $ | 330 | 9 | % | $ | 7,866 | $ | 6,770 | $ | 1,096 | 16 | % |
+Noninterest expense increased compared to the first quarter of 2026 and included higher personnel costs as a result of increased business activity as well as second quarter of 2026 integration expenses related to the FirstBank acquisition of $121 million and a PNC Foundation contribution expense of $140 million pre-tax. The first quarter of 2026 included $97 million of FirstBank integration expenses.
+Compared to the first six months of 2025, noninterest expense increased reflecting FirstBank operating expenses, higher personnel costs as a result of increased business activity and $218 million of integration expenses related to the FirstBank acquisition, as well as a $140 million pre-tax expense related to a PNC Foundation contribution.
+Effective Income Tax Rate
+The effective income tax rate was 20.5% for the second quarter of 2026 compared to 19.0% for the first quarter of 2026 and 19.8% for the first six months of 2026 compared to 18.8% for the first six months of 2025.
+Provision For Credit Losses
+Table 6: Provision for Credit Losses
+Three months ended | Six months ended |
+June 30 | March 31 | Change | June 30 | June 30 | Change |
+Dollars in millions | 2026 | 2026 | $ | 2026 | 2025 | $ |
+Provision for (recapture of) credit losses |
+Loans and leases | $ | 213 | $ | 188 | $ | 25 | $ | 401 | $ | 431 | $ | (30) |
+Unfunded lending related commitments | (20) | 14 | (34) | (6) | 38 | (44) |
+Investment securities | (1) | -- | (1) | (1) | 2 | (3) |
+Other financial assets | (1) | 8 | (9) | 7 | 2 | 5 |
+
+----- [line 665] -----
+Agency commercial mortgage-backed | 7,961 | 7,842 | 4,486 | 4,472 |
+Non-agency commercial mortgage-backed (c) | 310 | 311 | 584 | 582 |
+Asset-backed (d) | 3,651 | 3,683 | 4,087 | 4,177 |
+Other (e) | 4,503 | 4,512 | 4,594 | 4,597 |
+Total investment securities (f) | $ | 151,613 | $ | 146,622 | $ | 140,002 | $ | 136,114 |
+(a)Of our total securities portfolio, 97% were rated AAA/AA at both June 30, 2026 and December 31, 2025.
+(b)Amortized cost is presented net of the allowance for investment securities, which totaled $65 million at June 30, 2026 and primarily related to non-agency commercial mortgage-backed securities. The comparable amount at December 31, 2025 was $66 million.
+(c)Collateralized primarily by multifamily housing, office buildings, retail properties, lodging properties and industrial properties.
+(d)Collateralized primarily by consumer credit products, corporate debt and government guaranteed education loans.
+(e)Includes state and municipal securities and corporate bonds.
+(f)Includes available-for-sale and held-to-maturity securities, which are recorded on our balance sheet at fair value and amortized cost, respectively.
+Table 9 presents our investment securities portfolio by amortized cost and fair value. The difference between fair value and amortized cost at June 30, 2026 primarily reflected the impact of interest rate changes on the valuation of fixed-rate securities. We continually monitor the credit risk in our portfolio and maintain the allowance for investment securities at an appropriate level to absorb expected credit losses on our investment securities portfolio for the remaining contractual term of the securities adjusted for expected prepayments. See Note 3 Investment Securities for additional details regarding the allowance for investment securities.
+The duration of investment securities was 3.6 years and 3.5 years at June 30, 2026 and December 31, 2025, respectively. We estimate that at June 30, 2026 the effective duration of investment securities was 3.6 years for an immediate 50 basis points parallel increase in interest rates and 3.5 years for an immediate 50 basis points parallel decrease in interest rates. Comparable amounts at December 31, 2025 for the effective duration of investment securities were 3.5 years and 3.4 years, respectively.
+Based on expected prepayment speeds, the weighted-average expected maturity of the investment securities portfolio was 5.3 years and 5.2 years at June 30, 2026 and December 31, 2025, respectively.
+Table 10: Weighted-Average Expected Maturities of Mortgage and Asset-Backed Debt Securities
+June 30, 2026 | Years |
+Agency residential mortgage-backed | 6.7 |
+Non-agency residential mortgage-backed | 9.9 |
+Agency commercial mortgage-backed | 4.1 |
+Non-agency commercial mortgage-backed | 0.8 |
+Asset-backed | 2.1 |
+Additional information regarding our investment securities portfolio is included in Note 3 Investment Securities and Note 12 Fair Value.
+The PNC Financial Services Group, Inc. - Form 10-Q 11
+Funding Sources
+Table 11: Details of Funding Sources
+June 30 | December 31 | Change |
+Dollars in millions | 2026 | 2025 | $ | % |
+Deposits |
+Noninterest-bearing | $ | 99,356 | $ | 91,748 | $ | 7,608 | 8 | % |
+Interest-bearing |
+Money market | 77,737 | 79,334 | (1,597) | (2) | % |
+Demand | 134,687 | 137,469 | (2,782) | (2) | % |
+Savings | 105,462 | 98,312 | 7,150 | 7 | % |
+Time deposits | 32,550 | 34,003 | (1,453) | (4) | % |
+Total interest-bearing deposits | 350,436 | 349,118 | 1,318 | -- | % |
+Total deposits | 449,792 | 440,866 | 8,926 | 2 | % |
+Borrowed funds |
+Federal Home Loan Bank advances | 40,416 | 13,000 | 27,416 | 211 | % |
+Senior debt | 38,144 | 38,642 | (498) | (1) | % |
+Subordinated debt | 4,396 | 3,016 | 1,380 | 46 | % |
+Other | 2,767 | 2,443 | 324 | 13 | % |
+Total borrowed funds | 85,723 | 57,101 | 28,622 | 50 | % |
+Total funding sources | $ | 535,515 | $ | 497,967 | $ | 37,548 | 8 | % |
+Deposits are considered an attractive source of funding due to their stability and relatively low cost to fund. Compared to December 31, 2025, our funding source composition included higher borrowed funds outstanding and higher deposit balances. Funding costs decreased compared to the fourth quarter of 2025 as growth in funding sources was more than offset by the impact of lower funding rates.
+Total deposits increased compared to December 31, 2025, primarily driven by higher noninterest-bearing deposits, and included the addition of FirstBank deposits. Interest-bearing deposits were stable and reflected higher consumer balances, offset by a seasonal decline in commercial balances and lower brokered time deposits. Our total brokered deposit balance was $2.1 billion at June 30, 2026 compared to $5.1 billion at December 31, 2025, and was significantly below both our internal and regulatory guidelines and limits.
+Borrowed funds increased primarily due to higher FHLB advances.
+The level and composition of borrowed funds fluctuates over time based on many factors, including market conditions, capital considerations, and funding needs, which are primarily driven by changes in loan, deposit and investment securities balances. While our largest source of liquidity on a consolidated basis is the customer deposit base generated by our banking businesses, we also manage our borrowed funds to provide a reliable source of liquidity for our banking and other activities, considering our LCR and NSFR requirements and other internal and external guidelines and constraints. See the Liquidity and Capital Management portion of the Risk Management section and the Recent Regulatory Developments section in this Financial Review and the first quarter 2026 Form 10-Q, as well as the Supervision and Regulation section and Note 19 Regulatory Matters of our 2025 Form 10-K for additional information regarding our liquidity and capital activities. See Note 8 Borrowed Funds in this Report and Note 9 Borrowed Funds in our 2025 Form 10-K for additional information related to our borrowings. See the Average Consolidated Balance Sheet and Net Interest Analysis section of this Financial Review for additional information on volume and related funding cost changes.
+Shareholders' Equity
+Total shareholders' equity of $64.0 billion at June 30, 2026 increased $3.4 billion, or 6%, compared to December 31, 2025, primarily due to the benefit of net income of $3.8 billion and stock issuances related to the FirstBank acquisition of $3.0 billion, partially offset by dividends paid of $1.5 billion, common share repurchases of $1.3 billion and a decline in AOCI of $0.7 billion.
+12 The PNC Financial Services Group, Inc. - Form 10-Q
+BUSINESS SEGMENTS REVIEW
+We have three reportable business segments: Retail Banking, Corporate & Institutional Banking and the Asset Management Group. Our reportable business segments are defined by the nature of products and services, types of customers, methods used to distribute products or provide services and similar financial performance.
+Total business segment financial results differ from our consolidated reporting due to the remaining corporate operations, or other activities, that do not meet the criteria for disclosure as a separate reportable business segment. These other activities include residual activities such as asset and liability management activities, including net securities gains or losses, ACL for investment securities, certain trading activities, certain runoff consumer loan portfolios, private equity investments, intercompany eliminations, corporate overhead net of allocations, tax adjustments that are not allocated to business segments, exited businesses and the residual impact from FTP operations. See Table 87 in Note 15 Segment Reporting for additional information.
+Certain amounts included in this Business Segments Review differ from those amounts shown in Note 15, primarily due to the presentation in this Financial Review of business net interest income on a taxable-equivalent basis.
+See Note 15 Segment Reporting for additional information on our business segments, including a description of each business.
+The PNC Financial Services Group, Inc. - Form 10-Q 13
+Retail Banking
+Retail Banking's core strategy is to build lifelong, primary relationships by creating a sense of financial well-being and ease for our clients. Over time, we seek to deepen those relationships by meeting the broad range of our clients' financial needs across savings, liquidity, lending, payments, investment and retirement solutions. We work to deliver these solutions in the most seamless and efficient way possible, meeting our customers where they are--whether in a branch, through digital channels, at an ATM or through our phone-based customer contact centers--while continuously optimizing the cost to sell and service. We believe that, over time, we can grow our customer base, enhance the breadth and depth of our client relationships and improve our efficiency through differentiated products and leading digital channels.
+Table 12: Retail Banking Table
+(Unaudited) |
+Six months ended June 30 | Change |
+Dollars in millions, except as noted | 2026 | 2025 | $ | % |
+Income Statement |
+Net interest income (a) | $ | 6,528 | $ | 5,883 | $ | 645 | 11 | % |
+Noninterest income | 1,997 | 1,488 | 509 | 34 | % |
+Total revenue (a) | 8,525 | 7,371 | 1,154 | 16 | % |
+Provision for credit losses | 244 | 251 | (7) | (3) | % |
+Noninterest expense |
+Personnel | 1,122 | 1,077 | 45 | 4 | % |
+Segment allocations (b) | 2,178 | 1,945 | 233 | 12 | % |
+Depreciation and amortization | 270 | 173 | 97 | 56 | % |
+Other (c) | 656 | 597 | 59 | 10 | % |
+
+----- [line 1351] -----
+7.2 | % |
+(a)As permitted, PNC and PNC Bank have elected to exclude AOCI related to both available-for-sale securities and pension and other post-retirement plans from CET1 capital.
+(b)Basel III standardized approach risk-weighted assets are based on the Basel III standardized approach rules and include credit and market risk-weighted assets.
+(c)The supplementary leverage ratio is calculated based on tier 1 capital divided by supplementary leverage exposure, which takes into account the quarterly average of both on balance sheet assets as well as certain off-balance sheet items, including loan commitments and potential future exposure under derivative contracts.
+(d)The leverage ratio is calculated based on tier 1 capital divided by average quarterly adjusted total assets.
+PNC's regulatory risk-based capital ratios are calculated using the standardized approach for determining risk-weighted assets. Under the standardized approach for determining credit risk-weighted assets, exposures are generally assigned a pre-defined risk weight. Exposures to high volatility commercial real estate, nonaccruals, FDMs, past due exposures and equity exposures are generally subject to higher risk weights than other types of exposures.
+At June 30, 2026, PNC and PNC Bank were considered "well capitalized" based on applicable U.S. regulatory capital ratio requirements. To qualify as "well capitalized," PNC must have Basel III capital ratios of at least 6% for tier 1 risk-based capital and 10% for total risk-based capital, and PNC Bank must have Basel III capital ratios of at least 6.5% for common equity tier 1 risk-based capital, 8% for tier 1 risk-based capital, 10% for total risk-based capital and a leverage ratio of at least 5%.
+Federal banking regulators have stated that they expect the largest U.S. BHCs, including PNC, to have a level of regulatory capital well in excess of the regulatory minimum and have required the largest U.S. BHCs, including PNC, to have a capital buffer sufficient to withstand losses and allow them to meet the credit needs of their customers through estimated stress scenarios. We seek to manage our capital consistent with these regulatory principles, and we believe that our June 30, 2026 capital levels were aligned with them.
+We provide additional information regarding regulatory capital requirements and some of their potential impacts, including the proposed rules to adjust the Basel III framework, in the Supervision and Regulation section of Item 1 Business, Item 1A Risk Factors and Note 19 Regulatory Matters in our 2025 Form 10-K.
+34 The PNC Financial Services Group, Inc. - Form 10-Q
+Market Risk Management
+See the Market Risk Management portion of the Risk Management section in our 2025 Form 10-K for additional discussion regarding market risk.
+Market Risk Management - Interest Rate Risk
+Interest rate risk results primarily from our traditional banking activities of gathering deposits and extending loans. Many factors, including economic and financial conditions, movements in interest rates and consumer preferences, affect the difference between the interest that we earn on assets, the interest that we pay on liabilities and the level of our noninterest-bearing funding sources. Due to the repricing term mismatches and embedded options inherent in certain of these products, changes in market interest rates not only affect expected near-term earnings, but also the economic values of these assets and liabilities.
+Our Asset and Liability Management group centrally manages interest rate risk as prescribed in our market risk-related risk management policies, which are approved by management's ALCO and the Risk Committee of the Board of Directors.
+PNC utilizes sensitivities of NII and EVE to a set of interest rate scenarios to identify and measure its short-term and long-term structural interest rate risks.
+The following table includes NII sensitivity results as of June 30, 2026 and 2025.
+Table 31: Net Interest Income Sensitivity Analysis
+June 30, 2026 | June 30, 2025 |
+Net Interest Income Sensitivity Simulation (a) |
+Effect on NII in first year from shocked interest rate: |
+200 basis point instantaneous increase | -- | % | 0.9 | % |
+200 basis point instantaneous decrease | (1.6) | % | (2.0) | % |
+(a)The effect on NII in the first year from a 100 basis point increase is approximately equal to the disclosed results for the 200 basis point scenario. The impact of a 100 basis point decrease is approximately one third of the disclosed results for the 200 basis point scenario.
+When forecasting NII, we make certain key assumptions that can materially impact the resulting sensitivities, including the following:
+Future Balance Sheet Composition: Our balance sheet composition is dynamic and based on our forecasted expectations. The projected balance sheet composition by the end of year one is generally consistent with the spot composition at June 30, 2026.
+Balance Sheet Forecast: Our balance sheet forecast is based on various assumptions that include key interest rate risk aspects such as loan and deposit growth, as well as mix, and is consistent with our guidance.
+Deposit Betas: Deposit pricing changes are primarily driven by changes in the Federal Funds rate. PNC's cumulative deposit beta was 47% through June 2026. We define the cumulative deposit beta as the change in deposit rate paid on total interest-bearing deposits divided by the change in the upper level of the average stated Federal Funds rate range since August 2024, the start of the current easing rate cycle. For rate sensitivity purposes, PNC assumes the cumulative deposit beta will decrease slightly from the current level. For interest rate risk modeling, PNC uses dynamic beta models to adjust assumed repricing sensitivity depending on market rate levels as well as other factors. The dynamic beta assumptions reflect historical experience as well as future expectations, and are periodically updated to reflect the current view of future expectations. Actual deposit rates paid may differ from modeled projections due to variables such as competition for deposits and customer behavior.
+Asset Prepayments: PNC includes prepayment assumptions for both loan and investment portfolios. Mortgage and home equity portfolios utilize an industry standard model to drive estimated prepayments that increase in lower rate environments. Commercial and other consumer loan portfolios assume static constant prepayment rates that are consistent across rate scenarios, as those portfolios historically do not exhibit significantly different prepayment behaviors based upon the level of market rates.
+Impact of Derivatives: As part of our risk management strategy, PNC uses interest rate derivatives, some of which are forward starting, to hedge floating rate commercial loans. PNC had $78.3 billion in active and forward starting receive fix / pay float swaps used to hedge floating rate commercial loans as of June 30, 2026, with a weighted average duration of 2.5 years and an average fixed rate of 3.75%. Additionally, PNC utilizes receive fix / pay float swaps to hedge fixed rate debt, as well as pay fix / receive float swaps to hedge the investment securities portfolio. See Note 13 Financial Derivatives for additional information on how we use derivatives to hedge these financial instruments.
+The PNC Financial Services Group, Inc. - Form 10-Q 35
+The following table includes EVE sensitivity results as of June 30, 2026 and 2025.
+Table 32: Economic Value of Equity Sensitivity Analysis
+June 30, 2026 | June 30, 2025 |
+Economic Value of Equity Sensitivity Simulation |
+200 basis point instantaneous increase | (3.7) | % | (1.8) | % |
+200 basis point instantaneous decrease | (1.8) | % | (3.5) | % |
+.
+EVE measures the present value of all projected future cash flows associated with a point-in-time balance sheet and does not include projected new volume. EVE sensitivity to interest rate changes is a complementary metric to NII sensitivity analysis and represents an estimation of long-term interest rate risk. PNC calculates its EVE sensitivity by measuring the changes in the economic value of assets, liabilities and off-balance sheet instruments in response to an instantaneous +/-200 bps parallel shift in interest rates. Similar to the NII sensitivity analysis, we incorporate dynamic deposit repricing and loan prepayment assumptions. Directionally, higher deposit beta assumptions result in increasing liability sensitivity whereas lower deposit betas increase asset sensitivity. Conceptually similar, higher loan prepayment assumptions cause an increase in asset sensitivity and lower prepayments result in an increase in liability sensitivity. These behavioral modeling assumptions are largely consistent between the EVE and NII sensitivity analyses, and also share the same starting balance sheet position as of June 30, 2026. Deposit attrition is also a significant contributor to EVE sensitivity. Deposit attrition is projected based on a dynamic model developed using long-term historical deposit behavior in addition to management assumptions. PNC performs various sensitivity analyses to understand the impact of faster and slower deposit attrition, loan prepayments and deposit betas on our risk metrics, with the results reported to ALCO.
+Compared to the second quarter of 2025, there have been no material changes to our NII sensitivity and EVE sensitivity assumptions, including data sources that drive assumptions setting.
+Market Risk Management - Customer-Related Trading Risk
+We engage in fixed income securities, derivatives and foreign exchange transactions to support our customers' investing and hedging activities. These transactions, related hedges and the credit and funding valuation adjustment related to our customer derivatives portfolio are marked-to-market daily and reported as customer-related trading activities. We do not engage in proprietary trading of these products.
+We use VaR as the primary means to measure and monitor market risk in customer-related trading activities. VaR is used to estimate the probability of portfolio losses based on the statistical analysis of historical market risk factors. A diversified VaR reflects empirical
+correlations across different asset classes. VaR is computed with positions and market risk factors updated daily to ensure each portfolio is operating within its acceptable limits. See the Market Risk Management - Customer-Related Trading Risk section of our 2025 Form 10-K for more information on our models used to calculate VaR and our backtesting process.
+Customer-related trading revenue was $176 million for the six months ended June 30, 2026, compared to $91 million for the same period in 2025, and is recorded in Capital markets and advisory noninterest income and Other interest income on our Consolidated Income Statement. The increase was primarily due to higher derivative customer-related trading revenue.
+Market Risk Management - Equity And Other Investment Risk
+Equity investment risk is the risk of potential losses associated with investing in both private and public equity markets. In addition to extending credit, taking deposits, underwriting securities and trading financial instruments, we make and manage direct investments in a variety of transactions, including management buyouts, recapitalizations and growth financings in a variety of industries. We also have investments in affiliated and non-affiliated funds that make similar investments in private equity, consistent with regulatory limitations. The economic and/or book value of these investments and other assets are directly affected by changes in market factors.
+Various PNC business units manage our equity and other investment activities. Our businesses are responsible for making investment decisions within the approved policy limits and associated guidelines.
+A summary of our equity investments follows:
+Table 33: Equity Investments Summary
+June 30, 2026 | December 31, 2025 | Change |
+Dollars in millions | $ | % |
+Tax credit investments | $ | 5,881 | $ | 5,578 | $ | 303 | 5 | % |
+Private equity and other | 5,854 | 5,212 | 642 | 12 | % |
+Total | $ | 11,735 | $ | 10,790 | $ | 945 | 9 | % |
+36 The PNC Financial Services Group, Inc. - Form 10-Q
+Tax Credit Investments
+Included in our equity investments are direct tax credit investments and equity investments held by consolidated entities. These tax credit investment balances included unfunded commitments totaling $3.2 billion and $3.4 billion at June 30, 2026 and December 31, 2025, respectively. These unfunded commitments are included in Other liabilities on our Consolidated Balance Sheet.
+Note 4 Loan Sale and Servicing Activities and Variable Interest Entities in our 2025 Form 10-K has further information on tax credit investments.
+Private Equity and Other
+The largest component of our other equity investments is our private equity portfolio. The private equity portfolio is an illiquid portfolio consisting of mezzanine and equity investments that vary by industry, stage and type of investment. Private equity investments carried at estimated fair value totaled $2.7 billion and $2.8 billion at June 30, 2026 and December 31, 2025, respectively. As of June 30, 2026, $2.4 billion was invested directly in a variety of companies, and $0.3 billion was invested indirectly through various private equity funds. Changes in fair value of private equity investments are recognized in Other noninterest income.
+Our other equity investments at June 30, 2026, also included Visa Class B-3 common shares, which are recorded at cost, and Visa Class C and Class A common shares recorded at fair value. During the second quarter of 2026, PNC participated in the Visa exchange program, allowing PNC to convert its Visa Class B-2 common shares into 0.9 million of Visa Class B-3 common shares and 0.3 million of Visa Class C common shares. The Visa Class B-3 common shares remain subject to the same restrictions that were imposed on the Visa Class B-2 common shares. Participation in the exchange required PNC to agree to a make-whole agreement that subjects PNC to the same indemnity obligations to Visa as prior to participation in the exchange program. In the second quarter of 2026, we recorded a $448 million gain related to the Visa Class C common shares received. At June 30, 2026, PNC held its remaining Class C common shares and Class A common shares representing a portion of PNC's converted Class C common shares related to the donation to the PNC Foundation collectively totaling approximately $0.3 billion in fair value.
+Visa Class B-3 common shares that we own are transferable only under limited circumstances until the resolution of the pending interchange litigation or Visa launches another exchange program allowing PNC to convert a portion of its Visa Class B-3 common shares into freely transferable Visa Class C common shares. The estimated value of our total investment in the Visa Class B-3 common shares was approximately $0.5 billion, while our cost basis was insignificant. The estimated value does not represent fair value of the Visa Class B-3 common shares given the shares' limited transferability and the lack of observable transactions in the marketplace. See Note 14 Fair Value and Note 20 Legal Proceedings in our 2025 Form 10-K for additional information regarding our Visa agreements.
+We also have certain other equity investments, the majority of which represent investments in affiliated and non-affiliated funds with both traditional and alternative investment strategies. Net gains related to these investments were $16 million and $5 million for the six months ended June 30, 2026 and June 30, 2025, respectively.
+Financial Derivatives
+See the Risk Management section in our 2025 Form 10-K for discussion of our use of financial derivatives as a part of the risk management process. Further information on our financial derivatives is presented in Note 12 Fair Value and Note 13 Financial Derivatives in this Report and Note 1 Accounting Policies in our 2025 Form 10-K.
+The PNC Financial Services Group, Inc. - Form 10-Q 37
+AVERAGE CONSOLIDATED BALANCE SHEET AND NET INTEREST ANALYSIS
+The following tables show PNC's average consolidated balance sheet results and analysis of net interest income:
+Table 34: Average Consolidated Balance Sheet and Net Interest Analysis (a) (b) (c)
+Six months ended June 30 |
+2026 | 2025 |
+Taxable-equivalent basis
+Dollars in millions | Average
+Balances | Interest Income/Expense | Average Yields/Rates | Average
+Balances | Interest Income/
+Expense | Average Yields/
+Rates |
+Assets |
+Interest-earning assets: |
+Investment securities |
+Securities available-for-sale |
+Residential mortgage-backed | $ | 36,000 | $ | 681 | 3.78 | % | $ | 34,182 | $ | 636 | 3.72 | % |
+U.S. Treasury and government agencies | 28,230 | 559 | 3.99 | % | 24,880 | 562 | 4.56 | % |
+Other | 8,456 | 169 | 4.00 | % | 7,663 | 141 | 3.67 | % |
+Total securities available-for-sale | 72,686 | 1,409 | 3.89 | % | 66,725 | 1,339 | 4.03 | % |
+Securities held-to-maturity |
+Residential mortgage-backed | 45,799 | 746 | 3.26 | % | 40,243 | 578 | 2.87 | % |
+U.S. Treasury and government agencies | 19,679 | 158 | 1.61 | % | 27,910 | 210 | 1.52 | % |
+Other | 7,656 | 164 | 4.30 | % | 7,180 | 157 | 4.37 | % |
+Total securities held-to-maturity | 73,134 | 1,068 | 2.92 | % | 75,333 | 945 | 2.51 | % |
+Total investment securities | 145,820 | 2,477 | 3.41 | % | 142,058 | 2,284 | 3.22 | % |
+Loans |
+Commercial and industrial | 217,569 | 5,915 | 5.41 | % | 187,796 | 5,394 | 5.71 | % |
+Commercial real estate | 34,714 | 1,004 | 5.75 | % | 32,450 | 975 | 5.97 | % |
+Consumer | 55,408 | 1,915 | 6.97 | % | 53,637 | 1,895 | 7.12 | % |
+Residential real estate | 49,383 | 988 | 4.00 | % | 45,823 | 864 | 3.77 | % |
+Total loans | 357,074 | 9,822 | 5.49 | % | 319,706 | 9,128 | 5.70 | % |
+
+----- [line 1522] -----
+Subordinated debt | 4,544 | 58 | 5.16 | % | 3,686 | 53 | 5.69 | % |
+Other | 6,843 | 71 | 4.08 | % | 7,146 | 76 | 4.24 | % |
+Total borrowed funds | 78,933 | 905 | 4.57 | % | 65,293 | 870 | 5.31 | % |
+Total interest-bearing liabilities/interest expense | 432,473 | 2,587 | 2.39 | % | 395,126 | 2,715 | 2.74 | % |
+Noninterest-bearing liabilities and equity: |
+Noninterest-bearing deposits | 103,479 | 93,142 |
+Accrued expenses and other liabilities | 16,848 | 16,942 |
+Equity | 63,470 | 56,476 |
+Total liabilities and equity | $ | 616,270 | $ | 561,686 |
+Interest rate spread | 2.43 | % | 2.19 | % |
+Impact of noninterest-bearing sources | 0.53 | 0.61 |
+Net interest income/margin | $ | 4,134 | 2.96 | % | $ | 3,583 | 2.80 | % |
+(a)Nonaccrual loans are included in loans, net of unearned income. The impact of financial derivatives used in interest rate risk management is included in the interest income/expense and average yields/rates of the related assets and liabilities. Fair value adjustments related to hedged items are included in noninterest-earning assets and noninterest-bearing liabilities. Average balances of securities are based on amortized historical cost (excluding adjustments to fair value and unsettled activity, which are included in noninterest-earning assets).
+(b)Loan fees for the three months ended June 30, 2026 and 2025 were $56 million and $42 million, respectively. Loan fees for the six months ended June 30, 2026 and 2025 were $98 million and $85 million, respectively.
+(c)Interest income calculated as taxable-equivalent interest income. See Reconciliation of Taxable-Equivalent Net Interest Income in this Financial Review for more information.
+The PNC Financial Services Group, Inc. - Form 10-Q 39
+NON-GAAP FINANCIAL INFORMATION
+PNC reports certain financial measures that are not in accordance with GAAP. These non-GAAP financial measures are provided as supplemental information to the financial measures in this Report that are calculated and presented in accordance with GAAP. While we believe that these non-GAAP measures are useful tools for the purpose of evaluating certain financial results, they should not be considered superior to and are not intended to be considered in isolation or as a substitute for the related GAAP financial measures presented in this Report.
+Table 35: Reconciliation of Taxable-Equivalent Net Interest Income (non-GAAP) (a)
+Six months ended | Three months ended |
+In millions | June 30, 2026 | June 30, 2025 | June 30, 2026 | June 30, 2025 |
+Net interest income (GAAP) | $ | 8,068 | $ | 7,031 | $ | 4,107 | $ | 3,555 |
+Taxable-equivalent adjustments | 56 | 56 | 27 | 28 |
+Net interest income (non-GAAP) | $ | 8,124 | $ | 7,087 | $ | 4,134 | $ | 3,583 |
+(a)The interest income earned on certain interest-earning assets is completely or partially exempt from federal income tax. As such, these tax-exempt instruments typically yield lower returns than taxable investments. To provide more meaningful comparisons of net interest income, we use interest income on a taxable-equivalent basis by increasing the interest income earned on tax-exempt assets to make it fully equivalent to interest income earned on taxable investments. This adjustment is not permitted under GAAP.
+Table 36: Reconciliation of Noninterest Expense Guidance, Excluding Integration Costs and Significant Items (non-GAAP) (a)(b)(c)
+Actual
+Outlook - Low End | Outlook - High End |
+Three months ended | Three months ended |
+Three months ended
+June 30, 2026 | September 30, 2026 | September 30, 2026 |
+Dollars in millions | % Change | % Change |
+Noninterest expense | $ | 4,098 | (8) | % | (7) | % |
+Less incurred integration costs | (121) |
+Less significant items: |
+PNC Foundation contribution expense | (140) |
+Total integration costs and significant items | $ | (261) |
+Noninterest expense, excluding integration costs and significant items (non-GAAP) | $ | 3,837 | (3) | % | (2) | % |
+Actual
+Outlook |
+Dollars in millions | Year ended December 31, 2025 | Year ended December 31, 2026 | Approximate % Change |
+Noninterest expense | $ | 13,834 | 11.5 | % |
+Less incurred integration costs | -- | $ | (218) |
+Less significant items: |
+PNC Foundation contribution expense | -- | (140) |
+Total integration costs and significant items | $ | -- | $ | (358) |
+Noninterest expense, excluding integration costs and significant items (non-GAAP) | $ | 13,834 | 8.5 | % |
+(a)We believe Noninterest expense, excluding integration costs and significant items to be a useful tool for comparison of noninterest expense recognized during the normal course of business.
+(b)The guidance range for noninterest expense, as adjusted for the three months ended September 30, 2026, excludes our expectation for non-recurring merger and integration costs of approximately $50 million. Actual expenses may differ based on the timing, scope and execution of integration-related activities.
+(c)The guidance range for noninterest expense, as adjusted for the full year of 2026, excludes an anticipated $325 million of integration costs for the full year, $218 million of which was recognized in the first half of 2026. Actual expenses may differ based on the timing, scope and execution of integration-related activities.
+Table 37: Reconciliation of Noninterest Income Guidance, Excluding Integration Costs and Significant Items (non-GAAP) (a)
+Actual
+Outlook |
+Dollars in millions | Year ended December 31, 2025 | Year ended December 31, 2026 | Approximate % Change |
+Noninterest income | $ | 8,689 | 11 | % |
+Less incurred integration costs | -- | $ | (7) |
+Less significant items: |
+Gain on Visa shares exchange program | -- | 448 |
+Visa Class B-3 derivative adjustments | -- | (85) |
+Loss on sale of securities | -- | (139) |
+Total integration costs and significant items | $ | -- | $ | 217 |
+Noninterest income, excluding integration costs and significant items (non-GAAP) | $ | 8,689 | 9 | % |
+(a)The guidance for noninterest income, as adjusted for the full year of 2026, excludes our expected non-recurring merger and integration costs for the second half of 2026. Actual costs may differ based on the timing, scope and execution of integration-related activities.
+40 The PNC Financial Services Group, Inc. - Form 10-Q
+Table 38: Reconciliation of Revenue Guidance, Excluding Integration Costs and Significant Items (non-GAAP) (a)
+Actual
+Outlook |
+Dollars in millions | Year ended December 31, 2025 | Year ended December 31, 2026 | Approximate % Change |
+Revenue | $ | 23,099 | 14 | % |
+Less incurred integration costs | -- | $ | (7) |
+Less significant items: |
+Gain on Visa shares exchange program | -- | 448 |
+
+----- [line 2662] -----
+Related unpaid principal balance of loans serviced at June 30 | $ | 294,011 | $ | 294,675 | $ | 208,949 | $ | 189,216 |
+Servicing advances June 30 | $ | 690 | $ | 707 | $ | 103 | $ | 110 |
+(a)Represents decrease in MSR value due to passage of time, which includes the impact from regularly scheduled loan principal payments, prepayments and loans that were paid off during the period.
+(b)Includes MSR value changes resulting from changes in interest rates and other market-driven conditions.
+72 The PNC Financial Services Group, Inc. - Form 10-Q
+Sensitivity Analysis
+The fair value of commercial and residential MSRs and significant inputs to the valuation models as of June 30, 2026 and December 31, 2025 are shown in Tables 63 and 64. The expected and actual rates of mortgage loan prepayments are significant factors driving the fair value. Management uses both internal proprietary models and a third-party model to estimate future commercial mortgage loan prepayments and a third-party model to estimate future residential mortgage loan prepayments. These models have been refined based on current market conditions and management judgment. Future interest rates are another important factor in the valuation of MSRs. Management utilizes market implied forward interest rates to estimate the future direction of mortgage and discount rates. The forward rates utilized are derived from the current yield curve for U.S. dollar interest rate swaps and are consistent with pricing of capital markets instruments. Changes in the shape and slope of the forward curve in future periods may result in volatility in the fair value estimate.
+A sensitivity analysis of the hypothetical effect on the fair value of MSRs to adverse changes in key assumptions is presented in Tables 63 and 64. These sensitivities do not include the impact of the related hedging activities. Changes in fair value generally cannot be extrapolated because the relationship of the change in the assumption to the change in fair value may not be linear. Also, the effect of a variation in a particular assumption on the fair value of the MSRs is calculated independently without changing any other assumption. Changes in one factor may result in changes in another (e.g., changes in mortgage interest rates, which drive changes in prepayment rate estimates, could result in changes in the interest rate spread), which could either magnify or counteract the sensitivities.
+The following tables set forth the fair value of commercial and residential MSRs and the sensitivity analysis of the hypothetical effect on the fair value of MSRs to immediate adverse changes of 10% and 20% in those assumptions.
+Table 63: Commercial Mortgage Servicing Rights - Key Valuation Assumptions
+Dollars in millions | June 30, 2026 | December 31, 2025 |
+Fair value | $ | 1,039 | $ | 1,021 |
+Weighted-average life (years) | 3.6 | 3.8 |
+Weighted-average constant prepayment rate | 4.51 | % | 4.43 | % |
+Decline in fair value from 10% adverse change | $ | 7 | $ | 8 |
+Decline in fair value from 20% adverse change | $ | 15 | $ | 16 |
+Effective discount rate | 10.94 | % | 10.60 | % |
+Decline in fair value from 10% adverse change | $ | 31 | $ | 30 |
+Decline in fair value from 20% adverse change | $ | 61 | $ | 61 |
+Table 64: Residential Mortgage Servicing Rights - Key Valuation Assumptions
+Dollars in millions
+June 30, 2026 | December 31, 2025 |
+Fair value | $ | 2,762 | $ | 2,638 |
+Weighted-average life (years) | 7.4 | 7.7 |
+Weighted-average constant prepayment rate | 6.77 | % | 6.73 | % |
+Decline in fair value from 10% adverse change | $ | 65 | $ | 64 |
+Decline in fair value from 20% adverse change | $ | 125 | $ | 124 |
+Weighted-average option adjusted spread | 708 | bps | 734 | bps |
+Decline in fair value from 10% adverse change | $ | 80 | $ | 82 |
+Decline in fair value from 20% adverse change | $ | 156 | $ | 159 |
+Fees from mortgage loan servicing, which include contractually specified servicing fees, late fees and ancillary fees were $0.2 billion for both the three months ended June 30, 2026 and 2025, and $0.4 billion for both the six months ended June 30, 2026 and 2025. We also generate servicing fees from activities provided to others for which we do not have an associated servicing asset. Fees from commercial and residential MSRs are reported within Residential and commercial mortgage noninterest income on our Consolidated Income Statement.
+The PNC Financial Services Group, Inc. - Form 10-Q 73
+NOTE 7 LEASES
+PNC's lessor arrangements primarily consist of direct financing, sales-type and operating leases for equipment. Lease agreements may include options to renew and for the lessee to purchase the leased equipment at the end of the lease term. For more information on lease accounting, see Note 1 Accounting Policies and Note 6 Leases in our 2025 Form 10-K.
+The following table provides details on our income from lessor arrangements.
+Table 65: Lessor Income
+Three months ended June 30 | Six months ended June 30 |
+In millions | 2026 | 2025 | 2026 | 2025 |
+Sales-type and direct financing leases (a) | $ | 91 | $ | 85 | $ | 183 | $ | 170 |
+Operating leases (b) | 7 | 8 | 15 | 17 |
+Lease income | $ | 98 | $ | 93 | $ | 198 | $ | 187 |
+(a)Included in Loans interest income on our Consolidated Income Statement.
+(b)Included in Lending and deposit services noninterest income on our Consolidated Income Statement.
+NOTE 8 BORROWED FUNDS
+The following table shows the carrying value of total borrowed funds at June 30, 2026 (including adjustments related to accounting hedges, purchase accounting and unamortized original issuance discounts) by remaining contractual maturity.
+Table 66: Borrowed Funds
+In millions |
+Less than 1 year | $ | 21,005 |
+1 to 2 years | 16,236 |
+2 to 3 years | 20,954 |
+3 to 4 years | 6,172 |
+4 to 5 years | 2,646 |
+Over 5 years | 18,710 |
+Total | $ | 85,723 |
+The following table presents the contractual rates and maturity dates of our FHLB advances, senior debt and subordinated debt as of June 30, 2026, and the carrying values as of June 30, 2026 and December 31, 2025.
+Table 67: FHLB Advances, Senior Debt and Subordinated Debt
+Stated Rate | Maturity | Carrying Value |
+Dollars in millions | June 30, 2026 | June 30, 2026 | June 30, 2026 | December 31, 2025 |
+Parent Company |
+Senior debt | 1.15% - 6.88%
+2026 - 2036 | $ | 35,165 | $ | 32,650 |
+Subordinated debt | 4.63% - 5.42%
+2033 - 2041 | 2,278 | 808 |
+Junior subordinated debt | 4.49%
+2028 | 206 | 206 |
+Total Parent Company | 37,649 | 33,664 |
+Bank |
+Federal Home Loan Bank advances (a) | 3.25% - 4.21%
+2026 - 2031 | 40,416 | 13,000 |
+Senior debt | 3.10% - 4.43%
+2027 - 2043 | 2,979 | 5,992 |
+Subordinated debt | 2.70% - 4.05%
+2028 - 2029 | 1,912 | 2,002 |
+Total Bank | 45,307 | 20,994 |
+Total | $ | 82,956 | $ | 54,658 |
+(a)FHLB advances are generally collateralized by residential mortgage loans, other mortgage-related loans and investment securities.
+In Table 67, the carrying values for parent company senior and subordinated debt include basis adjustments of $(423) million and $(65) million, respectively, whereas Bank senior and subordinated debt include basis adjustments of $(42) million and $(84) million, respectively, related to fair value accounting hedges as of June 30, 2026.
+Certain borrowings are reported at fair value. Refer to Note 12 Fair Value for more information on those borrowings.
+For further information regarding junior subordinated debentures, refer to Note 9 Borrowed Funds in our 2025 Form 10-K.
+74 The PNC Financial Services Group, Inc. - Form 10-Q
+NOTE 9 COMMITMENTS
+In the normal course of business, we have various commitments outstanding, certain of which are not included on our Consolidated Balance Sheet. The following table presents our outstanding commitments to extend credit along with other commitments as of June 30, 2026 and December 31, 2025, respectively.
+Table 68: Commitments to Extend Credit and Other Commitments
+
+----- [line 3195] -----
+474 | Consensus pricing (c) | Cumulative default rate | 3.6% - 100.0% (52.7%)
+Loss severity | 5.0% weighted-average
+Discount rate | 5.5% - 7.5% (5.7%)
+Equity investments | 2,503 | Multiple of adjusted earnings | Multiple of earnings | 5.5x - 24.0x (10.8x)
+Residential mortgage servicing rights | 2,638 | Discounted cash flow | Constant prepayment rate | 0.0% - 41.4% (6.7%)
+Spread over the benchmark curve (b) | 314bps - 3,270bps (734bps)
+Commercial mortgage servicing rights | 1,021 | Discounted cash flow | Constant prepayment rate | 4.3% - 7.0% (4.4%)
+Discount rate | 8.7% - 10.9% (10.6%)
+Insignificant Level 3 assets, net of
+liabilities (d) | 164 |
+Total Level 3 assets, net of liabilities (e) | $ | 7,456 |
+(a)Unobservable inputs were weighted by the relative fair value of the instruments.
+(b)The assumed yield spread over the benchmark curve for each instrument is generally intended to incorporate non-interest rate risks, such as credit and liquidity risks.
+(c)Consensus pricing refers to fair value estimates that are generally internally developed using information such as dealer quotes or other third-party provided valuations or comparable asset prices.
+(d)Represents the aggregate amount of Level 3 assets and liabilities measured at fair value on a recurring basis that are individually and in the aggregate insignificant. The amount includes certain financial derivative assets and liabilities, certain debt securities available-for-sale, government insured residential real estate loans, home equity loans, other assets, other borrowed funds and other liabilities. At June 30, 2026, this amount also includes residential mortgage loans held for sale.
+(e)Consists of total Level 3 assets of $7.6 billion and total Level 3 liabilities of $0.2 billion as of June 30, 2026 and $7.7 billion and $0.2 billion as of December 31, 2025, respectively.
+Financial Assets Accounted for at Fair Value on a Nonrecurring Basis
+We may be required to measure certain financial assets at fair value on a nonrecurring basis. These adjustments to fair value usually result from the application of lower of amortized cost or fair value accounting or write-downs of individual assets due to impairment and are included in Table 77. For more information regarding the valuation methodologies of our financial assets measured at fair value on a nonrecurring basis, see Note 14 Fair Value in our 2025 Form 10-K.
+84 The PNC Financial Services Group, Inc. - Form 10-Q
+Assets measured at fair value on a nonrecurring basis follow:
+Table 77: Fair Value Measurements - Nonrecurring (a) (b) (c)
+Fair Value | Gains (Losses)
+Three months ended | Gains (Losses)
+Six months ended |
+In millions | June 30
+2026 | December 31
+2025 | June 30
+2026 | June 30
+2025 | June 30
+2026 | June 30
+2025 |
+Assets |
+Nonaccrual loans | $ | 366 | $ | 510 | $ | (33) | $ | (38) | $ | (52) | $ | (93) |
+Equity investments | 253 | 147 | 5 | (2) | 5 | (2) |
+Loans held for sale | -- | 13 | (33) | -- | (33) | -- |
+OREO, foreclosed and other assets | 48 | 49 | (1) | (1) | (1) | (1) |
+Long-lived assets | 9 | 6 | (1) | (3) | (1) | (3) |
+Total assets | $ | 676 | $ | 725 | $ | (63) | $ | (44) | $ | (82) | $ | (99) |
+(a)All Level 3 for the periods presented except for $13 million included in Loans held for sale categorized as Level 2 at December 31, 2025.
+(b)Valuation techniques applied are fair value of property or collateral and discounted cash flow.
+(c)Unobservable inputs used are appraised value/sales price, broker opinions, market rate of return or projected income/required improvement costs. Additional quantitative information is not meaningful for the periods presented.
+The PNC Financial Services Group, Inc. - Form 10-Q 85
+Financial Instruments Accounted for under Fair Value Option
+We elect the fair value option to account for certain financial instruments. For more information on these financial instruments for
+which the fair value option election has been made, see Note 14 Fair Value in our 2025 Form 10-K.
+Fair values and aggregate unpaid principal balances of items for which we elected the fair value option are as follows:
+Table 78: Fair Value Option - Fair Value and Principal Balances
+June 30, 2026 | December 31, 2025 |
+In millions | Fair Value (a) | Aggregate Unpaid
+Principal Balance | Difference | Fair Value (a) | Aggregate Unpaid
+Principal Balance | Difference |
+Assets |
+Residential mortgage loans held for sale |
+Accruing loans less than 90 days past due | $ | 726 | $ | 720 | $ | 6 | $ | 641 | $ | 636 | $ | 5 |
+Accruing loans 90 days or more past due | 8 | 8 | -- | 5 | 5 | -- |
+Nonaccrual loans | 13 | 15 | (2) | 14 | 15 | (1) |
+Total | $ | 747 | $ | 743 | $ | 4 | $ | 660 | $ | 656 | $ | 4 |
+Commercial mortgage loans held for sale (b) (c) |
+Accruing loans less than 90 days past due | $ | 558 | $ | 555 | $ | 3 | $ | 1,059 | $ | 1,059 | $ | -- |
+Loans |
+Accruing loans less than 90 days past due | $ | 695 | $ | 774 | $ | (79) | $ | 716 | $ | 796 | $ | (80) |
+Accruing loans 90 days or more past due | 182 | 195 | (13) | 159 | 172 | (13) |
+Nonaccrual loans | 216 | 301 | (85) | 237 | 327 | (90) |
+Total | $ | 1,093 | $ | 1,270 | $ | (177) | $ | 1,112 | $ | 1,295 | $ | (183) |
+Other assets | $ | 142 | $ | 126 | $ | 16 | $ | 162 | $ | 154 | $ | 8 |
+Liabilities |
+Interest-bearing deposits | $ | 783 | $ | 784 | $ | (1) | $ | 3,642 | $ | 3,641 | $ | 1 |
+Other borrowed funds | $ | 37 | $ | 38 | $ | (1) | $ | 31 | $ | 32 | $ | (1) |
+Other liabilities with contractual unpaid principal balance | $ | 30 | $ | 33 | $ | (3) | $ | 23 | $ | 25 | $ | (2) |
+Other liabilities without contractual unpaid principal balance | $ | 110 | $ | -- | $ | 110 | $ | 122 | $ | -- | $ | 122 |
+(a)Amounts exclude accrued interest.
+(b)There were no accruing loans 90 days or more past due within this category at June 30, 2026 or December 31, 2025.
+
+----- [line 3746] -----
+AOCI | Accumulated other comprehensive income | LLC | Limited liability company |
+ASC | Accounting Standards Codification | LTV | Loan-to-value ratio |
+ASU | Accounting Standards Update | MSR | Mortgage servicing right |
+BHC | Bank holding company | NII | Net interest income |
+bps | Basis points | NMTC
+New market tax credit
+CCAR | Comprehensive Capital Analysis and Review | NSFR | Net stable funding ratio |
+CECL | Current Expected Credit Losses | OCC | Office of the Comptroller of the Currency |
+CET1 | Common equity tier 1 | OCI | Other comprehensive income |
+CODM | Chief operating decision maker | OREO | Other real estate owned |
+CPI | Consumer Price Index | OTC | Over-the-counter |
+CRA | Community Reinvestment Act | PAM | Proportional amortization method |
+EVE | Economic value of equity | PCD | Purchased credit deteriorated |
+FDIC | Federal Deposit Insurance Corporation | PD | Probability of default |
+FDM | Financial difficulty modification | PSL | Purchased Seasoned Loan |
+FHLB | Federal Home Loan Bank | ROAP | Removal of account provisions |
+FHLMC | Federal Home Loan Mortgage Corporation | SCB | Stress capital buffer |
+FICO | Fair Isaac Corporation (credit score) | SEC | Securities and Exchange Commission |
+FNMA | Federal National Mortgage Association | S&P | Standard & Poor's |
+FRB | Federal Reserve Bank | SOFR | Secured Overnight Financing Rate |
+FTP | Funds transfer pricing | SPE | Special purpose entity |
+GAAP | Accounting principles generally accepted in the United States of America | U.S. | United States of America |
+GDP | Gross domestic product | VaR | Value-at-risk |
+GNMA | Government National Mortgage Association | VIE | Variable interest entity |
+PART II - OTHER INFORMATION
+ITEM 1. LEGAL PROCEEDINGS
+See the information set forth in Note 14 Legal Proceedings, which is incorporated by reference in response to this item.
+ITEM 1A. RISK FACTORS
+There are no material changes from any of the risk factors previously disclosed in our 2025 Form 10-K in response to Part I, Item 1A.
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+Unregistered Sales of Equity Securities
+None.
+102 The PNC Financial Services Group, Inc. - Form 10-Q
+Equity Security Repurchases
+Details of our repurchases of PNC common stock during the second quarter of 2026 are included in the following table.
+2026 period
+In thousands, except per share data | Total shares purchased (a) | Average price paid per share | Total shares purchased as part of publicly announced programs (b) | Maximum number of shares that may yet be purchased under the programs (b) |
+April 1 - 30 | 1,140 | $ | 216.21 | 1,119 | 30,431 |
+May 1 - 31 | 816 | $ | 217.74 | 816 | 29,615 |
+June 1 - 30 | 800 | $ | 233.27 | 799 | 28,816 |
+Total | 2,756 | $ | 223.37 | 2,734 |
+(a)Includes PNC common stock purchased in connection with our various employee benefit plans generally related to forfeitures of unvested restricted stock awards and shares used to cover employee payroll tax withholding requirements. See Note 16 Employee Benefit Plans and Note 17 Stock Based Compensation Plans in our 2025 Form 10-K, which include additional information regarding our employee benefit and equity compensation plans that use PNC common stock.
+(b)The SCB framework permits capital return in amounts in excess of SCB minimum levels. Consistent with this framework, PNC had approximately 29% of the 100 million common shares still available for repurchase at June 30, 2026 under the repurchase program previously approved by our Board of Directors. Share repurchase activity in the third quarter of 2026 is expected to approximate second quarter of 2026 share repurchase levels. PNC may adjust share repurchase activity depending on market and economic conditions, as well as other factors. PNC's SCB will be maintained at the regulatory minimum of 2.5% through September 30, 2027.
+ITEM 5. OTHER INFORMATION
+Director or Executive Officer Rule 10b5-1 and Non-Rule 10b5-1 Trading Arrangements
+During the three months ended June 30, 2026, none of PNC's directors or executive officers adopted, terminated or modified a Rule 10b5-1 trading arrangement or non-Rule 10b5-1 trading arrangement.
+ITEM 6. EXHIBITS
+The following exhibit index lists Exhibits filed or furnished with this Quarterly Report on Form 10-Q.
+EXHIBIT INDEX
+10.37 | 2026 Form of Performance Share Units Award Agreement
+10.38 | 2026 Form of Restricted Share Units Award Agreement
+10.39 | 2026 Form of Restricted Share Units Award Agreement - Senior Leader Program
+22 | Subsidiary Issuers of Guaranteed Securities
+31.1 | Certification of Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+31.2 | Certification of Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+32.1 | Certification by Chief Executive Officer pursuant to 18 U.S.C. Section 1350
+32.2 | Certification by Chief Financial Officer pursuant to 18 U.S.C. Section 1350
+101.INS | Inline XBRL Instance Document* |
+101.SCH | Inline XBRL Taxonomy Extension Schema Document |
+101.CAL | Inline XBRL Taxonomy Extension Calculation Linkbase Document |
+101.LAB | Inline XBRL Taxonomy Extension Label Linkbase Document |
+101.PRE | Inline XBRL Taxonomy Extension Presentation Linkbase Document |
+101.DEF | Inline XBRL Taxonomy Extension Definition Linkbase Document |
+104 | Cover Page Interactive Data File (formatted as inline XBRL and contained in Exhibit 101) |
+*The instance document does not appear in the interactive data file because its XBRL tags are embedded within the inline XBRL.
+You can obtain copies of these Exhibits electronically at the SEC's website at www.sec.gov. The Exhibits are also available as part of this Form 10-Q on PNC's corporate website at www.pnc.com/secfilings. Shareholders and bondholders may also obtain copies of Exhibits, without charge, by contacting PNC Investor Relations at 800-843-2206 or via e-mail at investor.relations@pnc.com. The Interactive Data File (XBRL) exhibit is only available electronically.
+The PNC Financial Services Group, Inc. - Form 10-Q 103
+CORPORATE INFORMATION
+The PNC Financial Services Group, Inc.
+Internet Information
+The PNC Financial Services Group, Inc.'s financial reports and information about its products and services are available on the internet at www.pnc.com. We provide information for investors on our corporate website under "About - Investor Relations." We use our account with X, @pncnews, as an additional way of disseminating to the public information that may be relevant to investors.
+We generally post the following under "About - Investor Relations" shortly before or promptly following its first use or release: financially-related press releases, including earnings releases and supplemental financial information, various SEC filings, including annual, quarterly and current reports and proxy statements, presentation materials associated with earnings and other investor conference calls or events, and access to live and recorded audio from earnings and other investor conference calls or events. In some cases, we may post the presentation materials for other investor conference calls or events several days prior to the call or event. For earnings and other conference calls or events, we generally include in our posted materials a cautionary statement regarding forward-looking and non-GAAP financial information and we provide GAAP reconciliations when we include non-GAAP financial information. Such GAAP reconciliations may be in materials for the applicable presentation, in materials for prior presentations or in our annual, quarterly or current reports.

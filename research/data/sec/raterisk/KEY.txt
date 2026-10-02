@@ -1,0 +1,804 @@
+# KEY 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/91576/000162828026052671/key-20260630.htm
+# full_doc_chars=458535
+
+
+----- [line 195] -----
+This section reviews the financial condition and results of operations of KeyCorp and its subsidiaries for the quarterly periods ended June 30, 2026, and June 30, 2025. Some tables may include additional periods to comply with disclosure requirements or to illustrate trends in greater depth. When you read this discussion, you should also refer to the consolidated financial statements and related notes in this report. The page locations of specific sections and notes that we refer to are presented in the Table of Contents.
+References to our "2025 Form 10-K" refer to our Form 10-K for the year ended December 31, 2025, which has been filed with the SEC and is available on its website (www.sec.gov) and on our website (www.key.com/ir).
+Terminology
+Throughout this discussion, references to "Key," "we," "our," "us," and similar terms refer to the consolidated entity consisting of KeyCorp and its subsidiaries. "KeyCorp" refers solely to the parent holding company, and "KeyBank" refers solely to KeyCorp's subsidiary bank, KeyBank National Association. "KeyBank (consolidated)" refers to the consolidated entity consisting of KeyBank and its subsidiaries.
+We want to explain some industry-specific terms at the outset so you can better understand the discussion that follows.
+&#8226;We use the phrase continuing operations in this document to mean all of our businesses other than our government-guaranteed and private education lending business, which are accounted for as discontinued operations.
+&#8226;We engage in capital markets activities primarily through business conducted by our Commercial Bank segment. These activities encompass a variety of products and services. Among other things, we trade securities as a dealer, enter into derivative contracts (both to accommodate clients' financing needs and to mitigate certain risks), and conduct transactions in foreign currencies (to accommodate clients' needs).
+&#8226;For regulatory purposes, capital is divided into Common Equity Tier 1 capital, Tier 1 capital, and Tier 2 capital. These components of regulatory capital serve as bases for several measures of capital adequacy, which is an important indicator of financial stability and condition. The "Capital" section of this report under the heading "Capital adequacy" provides more information on total capital, Tier 1 capital, and the Regulatory Capital Rules, including Common Equity Tier 1, and describes how these measures are calculated.
+4
+Table of contents
+The acronyms and abbreviations identified below are used in the Management's Discussion & Analysis of Financial Condition & Results of Operations as well as in the Notes to Consolidated Financial Statements (Unaudited). You may find it helpful to refer back to this page as you read this report.
+ABO: Accumulated benefit obligation.
+ALCO: Asset/Liability Management Committee.
+ALLL: Allowance for loan and lease losses.
+A/LM: Asset/liability management.
+AML: Anti-money laundering.
+AOCI: Accumulated other comprehensive income (loss).
+ASC: Accounting Standards Codification.
+ASU: Accounting Standards Update.
+ATMs: Automated teller machines.
+BSA: Bank Secrecy Act.
+BHCA: Bank Holding Company Act of 1956, as amended.
+BHCs: Bank holding companies.
+Board: KeyCorp Board of Directors.
+CAPM: Capital Asset Pricing Model.
+CCAR: Comprehensive Capital Analysis and Review.
+CECL: Current Expected Credit Losses.
+CFPB: Consumer Financial Protection Bureau, also known as the Bureau of Consumer Financial Protection.
+CFTC: Commodities Futures Trading Commission.
+CMBS: Commercial mortgage-backed securities.
+CMO: Collateralized mortgage obligation.
+Common Shares: KeyCorp common shares, $1 par value.
+DCF: Discounted cash flow.
+DIF: Deposit Insurance Fund of the FDIC.
+Dodd-Frank Act: Dodd-Frank Wall Street Reform and
+Consumer Protection Act of 2010.
+EAD: Exposure at default.
+EBITDA: Earnings before interest, taxes, depreciation, and
+amortization.
+EPS: Earnings per share.
+ERBA: Expanded risk-based approach.
+ERISA: Employee Retirement Income Security Act of 1974.
+ERM: Enterprise risk management.
+EVE: Economic value of equity.
+FASB: Financial Accounting Standards Board.
+FDIA: Federal Deposit Insurance Act, as amended.
+FDIC: Federal Deposit Insurance Corporation.
+Federal Reserve: Board of Governors of the Federal Reserve
+System.
+FHLB: Federal Home Loan Bank of Cincinnati.
+FHLMC: Federal Home Loan Mortgage Corporation.
+FICO: Fair Isaac Corporation.
+FINRA: Financial Industry Regulatory Authority.
+FNMA: Federal National Mortgage Association.
+FSOC: Financial Stability Oversight Council.
+FTP: Funds transfer pricing.
+FVA: Fair value of employee benefit plan assets.
+GAAP: U.S. generally accepted accounting principles.
+GNMA: Government National Mortgage Association.
+IDI: Insured depository institution.
+IRS: Internal Revenue Service.
+ISDA: International Swaps and Derivatives Association.
+KBCM: KeyBanc Capital Markets, Inc.
+KCC: Key Capital Corporation.
+KCDC: Key Community Development Corporation.
+KCIC: Key Community Investment Capital LLC.
+LCR: Liquidity coverage ratio.
+LGD: Loss given default.
+LIHTC: Low-income housing tax credit.
+LTV: Loan-to-value.
+Moody's: Moody's Investor Services, Inc.
+MTRM: Market & Treasury Risk Management.
+N/A: Not applicable.
+NAV: Net asset value.
+NFA: National Futures Association.
+N/M: Not meaningful.
+NMTC: New market tax credit.
+NYSE: New York Stock Exchange.
+OBBBA: One Big Beautiful Bill Act.
+OCC: Office of the Comptroller of the Currency.
+OCI: Other comprehensive income (loss).
+OREO: Other real estate owned.
+PBO: Projected benefit obligation.
+PCCR: Purchased credit card relationship.
+PCD: Purchased credit deteriorated.
+PD: Probability of default.
+RMBS: Residential mortgage-backed securities.
+S&P: Standard and Poor's Ratings Services, a Division of The McGraw-Hill Companies, Inc.
+SEC: U.S. Securities & Exchange Commission.
+Scotiabank: The Bank of Nova Scotia
+SIFIs: Systemically important financial institutions, including large, interconnected BHCs and nonbank financial companies designated by FSOC for supervision by the Federal Reserve.
+SOFR: Secured Overnight Financing Rate.
+TE: Taxable-equivalent.
+TROC: Treasury Risk Oversight Committee.
+U.S. Treasury: United States Department of the Treasury.
+VaR: Value at risk.
+VEBA: Voluntary Employee Beneficiary Association.
+VIE: Variable interest entity.
+Forward-looking Statements
+From time to time, we have made or will make forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements do not relate strictly to historical or current facts. Forward-looking statements usually can be identified by the use of words such as "goal," "objective," "plan," "expect," "assume," "anticipate," "intend," "project," "believe," "estimate," "will," "would," "should," "could," or other words of similar meaning. Forward-looking statements provide our current expectations or forecasts of future events, circumstances, results or aspirations. Our disclosures in this report contain forward-looking statements. We may also make forward-looking statements in other documents filed with or furnished to the SEC. In addition, we may make forward-looking statements orally to analysts, investors, representatives of the media and others.
+Forward-looking statements, by their nature, are subject to assumptions, risks, and uncertainties, many of which are outside of our control. Our actual results may differ materially from those set forth in our forward-looking statements. There is no assurance that any list of risks and uncertainties or risk factors is complete. In addition, no assurance can be given that any plan, initiative, projection, goal, commitment, expectation, or prospect set forth in this report
+5
+Table of contents
+
+----- [line 301] -----
+&#8226;operational or risk management failures by us or critical third parties;
+&#8226;breaches of security or failures of our technology systems due to technological or other factors and cybersecurity threats;
+&#8226;an ineffective risk management framework;
+&#8226;negative outcomes from claims, litigation, arbitration, investigations, or governmental proceedings;
+&#8226;failure or circumvention of our controls and procedures;
+&#8226;our exposure to a wide range of climate-related physical risks across different geographical areas;
+&#8226;evolving capital and liquidity standards under applicable regulatory rules;
+&#8226;disruption of the U.S. and global financial system and markets, including the impact of inflation, tariffs or other trade policies, political instability, a prolonged shutdown of the U.S. government, a potential global economic downturn or recession, and extended military conflicts;
+&#8226;unanticipated changes in our liquidity position, including but not limited to, changes in our access to or the cost of funding and our ability to secure alternative funding sources;
+&#8226;our ability to receive dividends from our subsidiaries, including KeyBank;
+&#8226;downgrades in our credit ratings or those of KeyBank;
+&#8226;a worsening of the U.S. economy due to financial, political or other shocks;
+&#8226;our ability to anticipate interest rate changes and manage interest rate risk;
+&#8226;deterioration of economic conditions in the geographic regions where we operate;
+&#8226;the soundness of other financial institutions, including instability in the financial industry;
+&#8226;our concentrated credit exposure in commercial and industrial loans;
+&#8226;deterioration of commercial real estate market fundamentals;
+&#8226;defaults by our loan clients or counterparties;
+&#8226;adverse changes in credit quality trends;
+&#8226;declining asset prices;
+&#8226;deterioration of asset quality and an increase in credit losses;
+&#8226;geopolitical destabilization, including ongoing military conflicts;
+&#8226;labor shortages, increases in unemployment rates, and supply chain constraints;
+&#8226;our ability to develop and effectively use the quantitative models we rely upon in our business planning;
+&#8226;our ability to timely and effectively implement our strategic initiatives;
+&#8226;damage to our reputation;
+&#8226;increased competitive pressure;
+&#8226;our ability to adapt our products and services to industry standards and consumer preferences;
+&#8226;our ability to attract and retain talented executives and employees;
+&#8226;unanticipated adverse effects of strategic partnerships or acquisitions and dispositions of assets or businesses;
+&#8226;the potential impact of Scotiabank's significant equity interest in our business;
+&#8226;inaccurate assumptions or estimates underlying our consolidated financial statements;
+&#8226;changes in accounting policies, standards, and interpretations; and
+&#8226;impairment of goodwill.
+Any forward-looking statements made by us or on our behalf speak only as of the date they are made, and we do not undertake any obligation to update any forward-looking statement to reflect the impact of subsequent events or circumstances, except as required by applicable securities laws. Before making an investment decision, you should carefully consider all risks and uncertainties disclosed in our 2025 Form 10-K, in Part II, Item 1A. "Risk Factors" of this report, and in any subsequent reports filed with the SEC by Key, as well as our registration statements under the Securities Act of 1933, as amended, all of which are or will upon filing be accessible on the SEC's website at www.sec.gov and on our website at www.key.com/ir.
+6
+Table of contents
+Executive Overview
+Key reported $472 million in net income from continuing operations attributable to Key common shareholders, or diluted earnings per share of $0.44, in the second quarter of 2026.
+Our actions and results during the second quarter of 2026 support our corporate strategy described in the "Introduction" section under the "Corporate strategy" heading on page 51 of our 2025 Form 10-K.
+&#8226;Relationship households increased approximately 3% year-over-year and commercial clients increased approximately 2% year-over-year, reflecting continued client acquisition and relationship deepening.
+&#8226;Our priority fee-based businesses -- investment banking, commercial payments, and wealth management - continued to contribute to revenue diversification, collectively growing 8% in the first half of 2026 compared with the prior-year period.
+&#8226;We announced an agreement to acquire Clearwater U.K., which is expected to expand our middle-market mergers and acquisitions ("M&A") advisory capabilities internationally and further support our priority fee-based business growth strategy.
+&#8226;Our Assets Under Management were $74.2 billion for the second quarter of 2026, up 15.5% year-over-year, reflecting favorable market impacts as well as continued momentum in our wealth management business.
+&#8226;Our continuous focus on maintaining our risk discipline has and should continue to position us to perform well through all business cycles. While nonperforming assets increased from idiosyncratic exposures, the broader portfolio performance remained within management's expectations. Net charge-offs were 42 basis points in the second quarter and year-to-date charge-offs remained at the low end of the full-year outlook.
+&#8226;We continued to deploy capital in a disciplined manner to support organic client growth, invest in the franchise, and return capital to shareholders. During the second quarter, we repurchased $341 million of common shares and remained on pace to complete at least $1.3 billion of share repurchases in 2026, while maintaining a strong capital position with a CET1 ratio of 11.2%(a), which positions us to continue to support existing and prospective clients.
+(a) June 30, 2026 capital ratios are estimates
+Business outlook
+We increased our full-year 2026 outlook for revenue, net interest income, average loans, and average commercial loans to reflect stronger-than-expected commercial loan growth through the first half of the year, continued client acquisition and relationship expansion, and healthy commercial loan pipelines. Our outlook also assumes a stable competitive deposit environment, continued benefit from fixed-rate asset repricing and swap maturities, and disciplined deposit and balance sheet management. Actual results may differ from this outlook due to changes in interest rates, deposit pricing, client activity, credit performance, capital markets activity, and broader macroeconomic conditions. Consistent with the forward guidance we provided on July 21, 2026, we expect these current year results, that is, full year 2026 vs. full year 2025:
+Category | 2025 Baseline | FY2026 (vs FY 2025)(a)
+Revenue (TE)(b)
+$7,513 Million | up 7 - 8% (previously up ~7%)
+Net interest income (TE) (b)
+$4,671 Million | up 9 - 11% (previously up 9 - 10%)
+Net interest margin | 4Q exit rate: 3.00 - 3.05%(c)
+Noninterest income | $2,842 Million | up 3 - 4% |
+Noninterest income on an adjusted basis(b)(d)
+$2,495 Million | up 5 - 6% |
+Adjusted noninterest expense(b)
+$4,729 Million | up 3 - 4% |
+Average loans | $105.7 Billion | up 4 - 5% (previously up 2 - 4%)
+Average Commercial Loans | $74.5 Billion | up 8 - 10% (previously up 6 - 8%)
+Net charge-offs to average loans | 40 to 45 basis points |
+Effective tax rate | ~22% |
+Tax-equivalent Effective Rate(e)
+~23% |
+(a) Ranges are shown on an operating basis.
+(b) Key is unable to provide a reconciliation of forward-looking non-GAAP financial measures to their most directly related GAAP financial measures due to the difficulty in forecasting when future amounts may occur. Such unavailable information could be significant for future results.
+(c) Average earning assets growing $1Bn - $2Bn from 2Q26 (previously shown as 4Q exit rate: ~3.05% and average earning assets stable to 1Q26).
+(d) Excluding commercial mortgage servicing fees, operating lease income and other leasing gains, other income, and net securities gains (losses).
+(e) Reflects the estimated full year taxable-equivalent adjustment.
+7
+Table of contents
+We have established the following medium-term targets reflecting expected run rates by the end of 2027:
+Return on tangible common equity(a)
+15.0%+ | Net Interest Margin | 3.25%+ |
+(a) Key is unable to provide a reconciliation of forward-looking non-GAAP financial measures to their most directly related GAAP financial measures due to the difficulty in forecasting when future amounts may occur. Such unavailable information could be significant for future results.
+Demographics
+Our management structure and basis of presentation is divided into two business segments, Consumer Bank and Commercial Bank. Note 17 ("Business Segment Reporting") describes the products and services offered by each of these business segments and provides more detailed financial information pertaining to the segments.
+The Consumer Bank serves individuals and small businesses throughout our 15-state branch footprint and through our digital brand by offering a variety of deposit and investment products, personal finance and financial wellness services, lending, student loan refinancing, mortgage and home equity, credit card, treasury services, and business advisory services. In addition, wealth management and investment services are offered to assist non-profit and high-net-worth clients with their banking, trust, portfolio management, charitable giving, and related needs.
+The Commercial Bank consists of the Commercial and Institutional operating segments. The Commercial operating segment is a full-service, commercial banking platform that focuses primarily on serving the borrowing, cash management, and capital markets needs of middle market clients within Key's 15-state branch footprint. The Institutional operating segment operates nationally in providing lending, equipment financing, and banking products and services to large corporate and institutional clients. The industry coverage and product teams have established expertise in the following sectors: Consumer, Energy, Healthcare, Industrial, Public Sector, Real Estate, and Technology. It is also a significant, national, commercial real estate lender and third-party master and special servicer of commercial mortgage loans. The operating segment includes the KBCM platform which provides a broad suite of capital markets products and services including syndicated finance, debt and equity underwriting, fixed income and equity sales and trading, derivatives, foreign exchange, mergers & acquisition and other advisory, and public finance.
+Supervision and regulation
+The following discussion provides a summary of recent regulatory developments and should be read in conjunction with the disclosure included in our 2025 Form 10-K under the heading "Supervision and Regulation" in Item 1. Business and under the heading "V. Compliance Risk" in Item 1A. Risk Factors as well as the disclosure included in Part II, Item 1A. "Risk Factors" of this report.
+Regulatory capital requirements
+KeyCorp and KeyBank are subject to regulatory capital requirements that are based largely on the Basel III international capital framework ("Basel III"). The Basel III capital framework and the U.S. implementation of the Basel III capital framework ("Regulatory Capital Rules") are discussed in more detail in Item 1. Business of our 2025 Form 10-K under the heading "Supervision and Regulation -- Regulatory Capital and Liquidity Requirements."
+Under the Regulatory Capital Rules, standardized approach banking organizations, such as KeyCorp and KeyBank, are required to meet the minimum capital and leverage ratios set forth in Figure 1 below. At June 30, 2026, KeyCorp's ratios under the fully phased-in Regulatory Capital Rules were as set forth in Figure 1.
+Figure 1. Minimum Capital Ratios and KeyCorp Ratios Under the Regulatory Capital Rules
+Ratios (including stress capital buffer) | Regulatory Minimum Requirement | Stress Capital Buffer (b)
+Regulatory Minimum Stress Capital Buffer | KeyCorp
+June 30, 2026 (c)
+Common Equity Tier 1 | 4.50 | % | 3.20 | % | 7.70 | % | 11.17 | % |
+Tier 1 Capital | 6.00 | 3.20 | 9.20 | 12.78 |
+Total Capital | 8.00 | 3.20 | 11.20 | 14.82 |
+Leverage (a)
+4.00 | N/A | 4.00 | 10.32 |
+(a)As a Category IV banking organization, KeyCorp is not subject to the 3% supplementary leverage ratio requirement.
+(b)Stress capital buffer must consist of Common Equity Tier 1 capital. As a Category IV banking organization, KeyCorp is not subject to the countercyclical capital buffer of up to 2.5% imposed upon an advanced approaches banking organization or a Category III banking organization under the Regulatory Capital Rules. KeyCorp's buffer is 3.20% as of October 1, 2025.
+(c)June 30, 2026 capital ratios are estimates.
+8
+Table of contents
+Revised prompt corrective action framework
+The federal Prompt Corrective Action ("PCA") framework under the FDIA groups FDIC-insured depository institutions into one of five prompt corrective action capital categories: "well capitalized," "adequately capitalized," "undercapitalized," "significantly undercapitalized," and "critically undercapitalized." In addition to implementing the Basel III capital framework in the United States, the Regulatory Capital Rules also revised the PCA capital category threshold ratios applicable to FDIC-insured depository institutions such as KeyBank. The revised PCA framework table in Figure 2 identifies the capital category threshold ratios for a "well capitalized" and an "adequately capitalized" institution under the PCA framework.
+Figure 2. "Well Capitalized" and "Adequately Capitalized" Capital Category Ratios under Revised Prompt Corrective Action Framework
+Prompt Corrective Action | Capital Category |
+Ratio | Well Capitalized (a)
+Adequately Capitalized |
+Common Equity Tier 1 Risk-Based | 6.50 | % | 4.50 | % |
+Tier 1 Risk-Based | 8.00 | 6.00 |
+
+----- [line 418] -----
+On June 25, 2026, the FDIC proposed revisions to the resolution plan rules applicable to KeyBank and certain other insured depository institutions. Under the proposal, KeyBank would continue to file a full resolution plan with the FDIC every three years, but would no longer be required to file an interim supplement in years in which a full resolution plan is not required. The content requirements applicable to full resolution plan filings would also be modified and streamlined, to allow the FDIC to focus on information that most directly supports the FDIC's ability to resolve an institution in a cost-effective manner. In connection with the proposal, the FDIC also approved an exemption from 2026 or 2027 FDIC resolution plan filing requirements for all insured depository institutions, including KeyBank.
+FDIC Deposit Insurance Assessments
+On June 25, 2026, the FDIC proposed revisions to its deposit insurance assessment regulations. The proposal would decrease KeyBank's initial base assessment rate by one basis point, and would provide for a further decrease of up to an additional one basis point based on a "resolution readiness adjustment." The resolution readiness adjustment would be voluntary and would have two components: (1) a virtual data room component that would test KeyBank's ability to quickly populate a virtual data room with complete, timely and accurate information and (2) a data access component under which KeyBank would agree to provide the FDIC with access to KeyBank's service providers and/or internal systems. For each component, compliance would result in a 0.5 basis point reduction in KeyBank's initial base assessment rate. Because the two components would be considered separately, KeyBank could elect to voluntarily comply with one of them without being required to comply with the other.
+9
+Table of contents
+Results of Operations
+Earnings overview
+The following chart provides a reconciliation of net income (loss) from continuing operations attributable to Key common shareholders for the three months ended June 30, 2025, to the three months ended June 30, 2026 (dollars in millions):
+Net interest income
+One of our principal sources of revenue is net interest income. Net interest income is the difference between interest income received on earning assets (such as loans and securities) and loan-related fee income, and interest expense paid on deposits and borrowings. There are several factors that affect net interest income, including:
+&#8226;the volume, pricing, mix, and maturity of earning assets and interest-bearing liabilities;
+&#8226;the volume and value of net free funds, such as noninterest-bearing deposits and equity capital;
+&#8226;the use of derivative instruments to manage interest rate risk;
+&#8226;interest rate fluctuations and competitive conditions within the marketplace;
+&#8226;asset quality; and
+&#8226;fair value accounting of acquired earning assets and interest-bearing liabilities.
+To make it easier to compare both the results across several periods and the yields on various types of earning assets (some taxable, some not), we present net interest income in this discussion on a "TE basis" (i.e., as if all income were taxable and at the same rate). For example, $100 of tax-exempt income would be presented as $126, an amount that, if taxed at the statutory federal income tax rate of 21%, would yield $100.
+10
+Table of contents
+Net interest income (TE) was $1.26 billion for the second quarter of 2026 and the net interest margin was 2.89%. Compared to the second quarter of 2025, net interest income (TE) increased $108 million and net interest margin increased by 23 basis points. These increases were driven by a reduction in deposit costs as a result of declining interest rates and proactive deposit beta management, the reinvestment of proceeds from maturing low-yielding investment securities and fixed-rate swaps into higher yielding investments, and a shift in the balance sheet composition to a more favorable mix of higher-yielding commercial and industrial loans. These benefits were partially offset by the impact of lower interest rates on repricing earning assets.
+For the six months ended June 30, 2026, net interest income (TE) was $2.5 billion and the net interest margin was 2.88%. Compared to the same period in 2025, net interest income (TE) increased $233 million and net interest margin increased by 26 basis points. These increases were driven by a reduction in deposit costs as a result of declining interest rates and proactive deposit beta management, the reinvestment of proceeds from maturing low-yielding investment securities and fixed-rate swaps into higher yielding investments, and a shift in the balance sheet composition to a more favorable mix of higher-yielding commercial and industrial loans, partially offset by the impact of lower interest rates on repricing earning assets.
+Average loans were $110.1 billion for the second quarter of 2026, an increase of $4.4 billion compared to the second quarter of 2025. Average commercial loans increased by $6.7 billion, primarily due to an increase in commercial and industrial loans. Average consumer loans declined by $2.3 billion, reflective of the intentional run-off of low-yielding loans.
+Average deposits totaled $147.6 billion for the second quarter of 2026, an increase of $131 million compared to the year-ago quarter, reflecting growth in demand deposits, partially offset by a decline in time deposits.
+Figure 3 shows the various components of our balance sheet that affect interest income and expense and their respective yields or rates for the current period and comparative year-ago period. This figure also presents a reconciliation of TE net interest income to net interest income reported in accordance with GAAP for each of those quarters. The net interest margin, which is an indicator of the profitability of the earning assets portfolio less the cost of funding, is calculated by dividing annualized TE net interest income by average earning assets.
+11
+Table of contents
+Figure 3. Consolidated Average Balance Sheets, Net Interest Income, and Yields/Rates and Components of Net Interest Income Changes from Continuing Operations(g)
+Three months ended June 30, 2026 | Three months ended June 30, 2025 | Change in Net interest income due to |
+Dollars in millions | Average
+Balance
+Interest (a)
+Yield/
+Rate (a)
+Average
+Balance | Interest (a)
+Yield/
+Rate (a)
+Volume | Yield/Rate | Total |
+ASSETS |
+Loans (b), (c)
+Commercial and industrial (d)
+$ | 62,134 | $ | 896 | 5.78 | % | $ | 55,604 | $ | 838 | 6.04 | % | $ | 95 | $ | (37) | $ | 58 |
+Real estate -- commercial mortgage | 13,911 | 197 | 5.68 | 13,311 | 200 | 6.02 | 9 | (12) | (3) |
+Real estate -- construction | 2,816 | 46 | 6.53 | 2,873 | 50 | 6.95 | (1) | (3) | (4) |
+Commercial lease financing | 2,117 | 20 | 3.77 | 2,524 | 22 | 3.59 | (4) | 2 | (2) |
+Total commercial loans | 80,978 | 1,159 | 5.73 | 74,312 | 1,110 | 5.99 | 99 | (50) | 49 |
+Real estate -- residential mortgage | 18,305 | 153 | 3.35 | 19,446 | 162 | 3.34 | (10) | 1 | (9) |
+Home equity loans | 5,470 | 73 | 5.33 | 6,091 | 86 | 5.63 | (8) | (5) | (13) |
+Other consumer loans | 4,410 | 57 | 5.18 | 4,946 | 63 | 5.09 | (7) | 1 | (6) |
+Credit cards | 909 | 29 | 12.67 | 920 | 31 | 13.44 | -- | (2) | (2) |
+Total consumer loans | 29,094 | 312 | 4.29 | 31,403 | 342 | 4.36 | (25) | (5) | (30) |
+Total loans | 110,072 | 1,471 | 5.35 | 105,715 | 1,452 | 5.51 | 74 | (55) | 19 |
+Loans held for sale | 1,085 | 15 | 5.68 | 770 | 11 | 5.72 | 4 | -- | 4 |
+Securities available for sale (b), (e)
+38,518 | 367 | 3.58 | 40,714 | 411 | 3.76 | (22) | (22) | (44) |
+Held-to-maturity securities (b)
+9,425 | 95 | 4.05 | 7,038 | 61 | 3.46 | 23 | 11 | 34 |
+Trading account assets | 797 | 10 | 5.30 | 1,259 | 16 | 5.32 | (6) | -- | (6) |
+Short-term investments | 10,705 | 101 | 3.79 | 13,489 | 157 | 4.67 | (29) | (27) | (56) |
+Other investments | 1,214 | 8 | 2.66 | 1,015 | 8 | 3.41 | 1 | (1) | -- |
+Total earning assets | 171,816 | 2,067 | 4.75 | 170,000 | 2,116 | 4.90 | 45 | (94) | (49) |
+Allowance for loan and lease losses | (1,442) | (1,424) |
+Accrued income and other assets | 17,926 | 18,224 |
+Discontinued assets | 192 | 239 |
+Total assets | $ | 188,492 | $ | 187,039 |
+LIABILITIES |
+Money market deposits | $ | 42,843 | $ | 225 | 2.11 | % | $ | 42,586 | $ | 276 | 2.60 | % | $ | 2 | $ | (53) | $ | (51) |
+Demand deposits | 61,013 | 280 | 1.84 | 57,155 | 309 | 2.17 | 20 | (49) | (29) |
+Savings deposits | 4,406 | 1 | 0.04 | 4,631 | 1 | 0.06 | -- | -- | -- |
+Time deposits | 11,749 | 94 | 3.21 | 15,601 | 144 | 3.70 | (32) | (18) | (50) |
+Total interest-bearing deposits | 120,011 | 600 | 2.01 | 119,973 | 730 | 2.44 | (10) | (120) | (130) |
+Federal funds purchased and securities sold under repurchase agreements
+2,002 | 19 | 3.71 | 415 | 4 | 4.28 | 15 | -- | 15 |
+Bank notes and other short-term borrowings
+4,179 | 35 | 3.33 | 3,288 | 34 | 4.27 | 8 | (7) | 1 |
+Long-term debt (f)
+10,694 | 155 | 5.84 | 12,088 | 198 | 6.55 | (22) | (21) | (43) |
+Total interest-bearing liabilities | 136,886 | 809 | 2.37 | 135,764 | 966 | 2.86 | (9) | (148) | (157) |
+Noninterest-bearing deposits | 27,566 | 27,473 |
+Accrued expense and other liabilities | 3,901 | 4,295 |
+
+----- [line 984] -----
+Dollars in millions | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025 | June 30, 2025 |
+Commercial real estate loans | $ | 588,546 | $ | 580,860 | $ | 566,567 | $ | 569,430 | $ | 576,703 |
+Residential mortgage | 11,459 | 11,488 | 11,419 | 11,440 | 11,383 |
+Education loans | 136 | 143 | 152 | 161 | 170 |
+Commercial lease financing | 1,542 | 1,639 | 1,719 | 1,815 | 1,815 |
+Commercial loans | 570 | 572 | 576 | 585 | 589 |
+Consumer direct | 227 | 242 | 258 | 273 | 290 |
+Consumer indirect | 31 | 53 | 83 | 122 | 174 |
+Total | $ | 602,511 | $ | 594,997 | $ | 580,774 | $ | 583,826 | $ | 591,124 |
+In the event of default by a borrower, we are subject to recourse with respect to approximately $8.2 billion of the $602.5 billion of loans administered or serviced at June 30, 2026. These are primarily associated with commercial real estate loans administered or serviced. Additional information about this recourse arrangement is included in Note 14 ("Contingent Liabilities and Guarantees") under the heading "Recourse agreement with FNMA."
+We derive income from several sources when retaining the right to administer or service loans that are sold. We earn noninterest income (recorded as "Consumer mortgage income" and "Commercial mortgage servicing fees") from fees for servicing or administering loans. This fee income is reduced by the amortization of related servicing assets. In addition, we earn interest income from investing funds generated by escrow deposits collected in connection with the servicing loans. Additional information about our mortgage servicing assets is included in Note 8 ("Mortgage Servicing Assets").
+Securities
+We manage our securities portfolio according to the following priorities: 1) store of liquidity, 2) interest rate risk management tool, and 3) source of earnings. In keeping with the first priority, the portfolio provides securities to meet our pledging requirements. Our securities portfolio totaled $48.0 billion at June 30, 2026, compared to $48.2 billion at December 31, 2025. Available-for-sale securities were $38.5 billion at June 30, 2026, compared to $39.6 billion at December 31, 2025. Held-to-maturity securities were $9.5 billion at June 30, 2026, and $8.6 billion at December 31, 2025.
+24
+Table of contents
+Securities available for sale
+The majority of our securities available-for-sale portfolio consists of federal agency mortgage-backed securities and CMOs. CMOs are debt securities secured by a pool of mortgages or mortgage-backed securities.
+Figure 14 shows the composition, yields, and remaining maturities of our securities available for sale. For more information about these securities, including gross unrealized gains and losses by type of security and securities pledged, see Note 6 ("Securities").
+Figure 14. Securities Available for Sale
+Dollars in millions | U.S. Treasury, Agencies, and Corporations | Agency Residential Collateralized Mortgage Obligations(a)
+Agency Residential Mortgage-backed Securities(a)
+Agency Commercial Mortgage-backed Securities(a)
+Total | Weighted-Average Yield(c)
+June 30, 2026 |
+Remaining maturity: |
+One year or less | $ | 3,237 | $ | 4 | $ | 43 | $ | 67 | $ | 3,351 | 4.30 | % |
+After one through five years | 3,728 | 1,108 | 3,331 | 1,144 | 9,311 | 3.37 |
+After five through ten years | 41 | 6,470 | 11,971 | 2,188 | 20,670 | 3.65 |
+After ten years | 69 | 413 | 4,263 | 382 | 5,127 | 4.12 |
+Fair value | $ | 7,075 | $ | 7,995 | $ | 19,608 | $ | 3,781 | $ | 38,459 |
+Amortized cost(b)
+$ | 7,102 | $ | 9,726 | $ | 20,028 | $ | 4,148 | $ | 41,004 | 3.70 | % |
+Weighted-average yield(c)
+4.11 | % | 1.92 | % | 4.59 | % | 2.90 | % | 3.70 | % | -- |
+Weighted-average maturity | 1.3 years | 7.7 years | 10.3 years | 6.6 years | 7.8 years | -- |
+December 31, 2025 |
+Fair value | $ | 7,886 | $ | 8,565 | $ | 19,195 | $ | 3,950 | $ | 39,596 |
+Amortized cost | 7,842 | 10,269 | 19,451 | 4,284 | 41,846 | 3.67 | % |
+(a)Maturity is based upon expected average lives rather than contractual terms.
+(b)Excluded from the amortized cost of securities available for sale are basis adjustments for securities designated in active fair value hedges. Basis adjustments totaled $(26) million and $99 million as of June 30, 2026 and December 31, 2025, respectively. The securities being hedged are primarily U.S. Treasuries, Agency RMBS, and Agency CMBS.
+(c)Weighted-average yields are calculated based on amortized cost. Such yields have been adjusted to a TE basis using the statutory federal income tax rate in effect that calendar year.
+Held-to-maturity securities
+The majority of our held-to-maturity portfolio consists of Federal agency CMOs and mortgage-backed securities. This portfolio is also comprised of asset-backed securities and foreign bonds. Figure 15 shows the composition, yields, and remaining maturities of these securities.
+25
+Table of contents
+Figure 15. Held-to-Maturity Securities
+Dollars in millions | Agency Residential Collateralized Mortgage Obligations (a)
+Agency Residential Mortgage-backed Securities(a)
+Agency Commercial Mortgage-backed Securities(a)
+Asset-backed securities | Other
+Securities | Total | Weighted-Average Yield(b)
+June 30, 2026 |
+Remaining maturity: |
+One year or less | $ | 19 | $ | -- | $ | 245 | $ | 17 | $ | 9 | $ | 290 | 2.94 | % |
+After one through five years | 1,018 | 484 | 558 | 2 | 12 | 2,074 | 3.64 |
+After five through ten years | 2,667 | 3,389 | 191 | -- | -- | 6,247 | 4.44 |
+After ten years | 50 | 62 | 792 | -- | -- | 904 | 3.31 |
+Amortized cost | $ | 3,754 | $ | 3,935 | $ | 1,786 | $ | 19 | $ | 21 | $ | 9,515 | 4.11 | % |
+Fair value | $ | 3,548 | $ | 3,896 | $ | 1,642 | $ | 18 | $ | 20 | $ | 9,124 |
+Weighted-average yield(b)
+3.79 | % | 4.92 | % | 3.03 | % | 1.88 | % | 4.48 | % | 4.11 | % | -- |
+Weighted-average maturity | 6.3 years | 6.2 years | 9.3 years | 0.9 years | 1.2 years | 6.8 years | -- |
+December 31, 2025 |
+Amortized cost | $ | 4,026 | $ | 2,374 | $ | 2,121 | $ | 77 | $ | 24 | $ | 8,622 | 3.87 | % |
+Fair value | 3,858 | 2,373 | 1,983 | 75 | 24 | 8,313 |
+(a)Maturity is based upon expected average lives rather than contractual terms.
+(b)Weighted-average yields are calculated based on amortized cost. Such yields have been adjusted to a TE basis using the statutory federal income tax rate in effect that calendar year.
+Deposits and other sources of funds
+Figure 16. Breakdown of Deposits at June 30, 2026
+The following table presents the breakdown of our deposits by product for the noted periods.
+Dollars in billions | June 30, 2026 | December 31, 2025 |
+Money market deposits | $ | 43.2 | $ | 42.7 |
+
+----- [line 1137] -----
+(a)Net of capital surplus.
+(b)The ALLL included in Tier 2 capital is limited by regulation to 1.25% of the institution's standardized total risk-weighted assets (excluding its standardized market risk-weighted assets). The ALLL includes $9 million and $11 million of allowance classified as "discontinued assets" on the balance sheet at June 30, 2026, and December 31, 2025, respectively.
+(c)This ratio is Tier 1 capital divided by average quarterly total assets as defined by the Federal Reserve less: (i) goodwill, (ii) the disallowed intangible and deferred tax assets, and (iii) other deductions from assets for leverage capital purposes.
+(d)June 30, 2026 capital ratios and risk weighted assets are estimates.
+29
+Table of contents
+Risk Management
+Overview
+Like all financial services companies, we engage in business activities that come with related risks. The most significant risks we face are credit, compliance, operational, liquidity, market, strategic, model, and technology risks. We manage such risks across the entire enterprise to maintain safety and soundness and maximize profitable growth. Certain of these risks are defined and discussed in greater detail in the remainder of this section. Our definition, philosophy, and approach to risk management have not materially changed from the discussion presented under the heading "Risk Management" beginning on page 74 of our 2025 Form 10-K.
+Market risk management
+Market risk is the risk that movements in market risk factors, including interest rates, foreign exchange rates, equity prices, commodity prices, credit spreads, and volatilities, will reduce Key's income and the value of its portfolios. These factors influence prospective yields, values, or prices associated with the instrument. We are exposed to market risk both in our trading and nontrading activities, which include asset and liability management activities. Information regarding our fair value policies, procedures, and methodologies is provided in Note 1 ("Summary of Significant Accounting Policies") under the heading "Fair Value Measurements" on page 111 of our 2025 Form 10-K and Note 5 ("Fair Value Measurements") in this report.
+Trading market risk
+Key incurs market risk as a result of trading activities that are used in support of client facilitation and hedging activities, principally within our investment banking and capital markets businesses. Key has exposures to a wide range of risk factors including interest rates, equity prices, foreign exchange rates, credit spreads, and commodity prices, as well as the associated implied volatilities and spreads. Our primary market risk exposures are a result of trading and hedging activities in the derivative and fixed income markets, including securitization exposures. At June 30, 2026, we did not have any re-securitization positions. We maintain modest trading inventories to facilitate customer flow, make markets in securities, and hedge certain risks including but not limited to credit spread risk and interest rate risk. The risks associated with these activities are mitigated in accordance with the Market Risk policies. The majority of our positions are traded in active markets.
+Market risk management is an integral part of Key's risk culture. The Joint KeyCorp and KeyBank National Association Risk Committee ("Board Risk Committee") provides oversight of trading market risks. The ALCO and the Market Risk Committee regularly review and discuss market risk exposures and results of monitoring activities. Market risk policies and procedures have been defined and take into account our tolerance for risk and consideration for the business environment. The Market Risk Committee approves market risk policies and recommends our significant market risk policy to the ALCO and the Board Risk Committee for approval. For more information regarding monitoring of trading positions and the activities related to Market Risk Rule compliance, see "Market Risk Management" beginning on page 77 of our 2025 Form 10-K.
+VaR and stressed VaR. VaR is the estimate of the maximum amount of loss on an instrument or portfolio due to adverse market conditions during a given time interval within a stated confidence level. Stressed VaR is used to assess extreme conditions on market risk within our trading portfolios. MTRM calculates VaR and stressed VaR at various confidence levels daily, and the results are closely monitored. VaR and stressed VaR results are also provided to our regulators and utilized in regulatory capital calculations. For more information regarding our VaR model, its governance, and assumptions, see "Market Risk Management" on page 77 of our 2025 Form 10-K.
+MTRM backtests the VaR model on a daily basis to evaluate its predictive power. The test compares VaR model results at the 99% confidence level to daily held profit and loss. Backtesting exceptions occur when daily held profit and loss exceeds VaR. There was one backtesting exception for KeyCorp during the past 250 trading days ended June 30, 2026, generally caused by interest rate volatility. All KeyCorp backtesting exceptions are thoroughly reviewed in the context of VaR model use and performance.
+The aggregate VaR at the 99% confidence level with a one day holding period for all covered positions was less than $1 million at June 30, 2026, and $2.4 million at June 30, 2025. Figure 20 summarizes our VaR at the 99% confidence level with a one day holding period for significant portfolios of covered positions for the three months ended June 30, 2026, and June 30, 2025.
+30
+Table of contents
+Figure 20. VaR for Significant Portfolios of Covered Positions
+2026 | 2025 |
+Three months ended June 30, | Three months ended June 30, |
+Dollars in millions | High | Low | Mean | June 30, | High | Low | Mean | June 30, |
+Trading account assets: |
+Fixed income | $ | .6 | $ | 0.2 | $ | 0.3 | $ | 0.3 | $ | 2.3 | $ | 1.2 | $ | 1.7 | $ | 2.1 |
+Derivatives: |
+Interest rate | $ | 0.2 | $ | 0.1 | $ | 0.2 | $ | 0.2 | $ | 0.2 | $ | 0.1 | $ | 0.1 | $ | 0.2 |
+Stressed VaR is calculated by running the portfolios through a predetermined stress period which is approved by the Market Risk Committee and is calculated at the 99% confidence level using the same model and assumptions used for general VaR. The aggregate stressed VaR for all covered positions was $1.2 million at June 30, 2026, and $4.4 million at June 30, 2025. Figure 21 summarizes our stressed VaR at the 99% confidence level with a one-day holding period for significant portfolios of covered positions for the three months ended June 30, 2026, and June 30, 2025. Changes in VaR are dependent on portfolio composition, inventory levels, and other market factors.
+Figure 21. Stressed VaR for Significant Portfolios of Covered Positions
+2026 | 2025 |
+Three months ended June 30, | Three months ended June 30, |
+Dollars in millions | High | Low | Mean | June 30, | High | Low | Mean | June 30, |
+Trading account assets: |
+Fixed income | $ | 2.1 | $ | .6 | $ | 1.0 | $ | .8 | $ | 5.2 | $ | 2.9 | $ | 3.7 | $ | 4.0 |
+Derivatives: |
+Interest rate | $ | 0.3 | $ | 0.1 | $ | 0.2 | $ | 0.2 | $ | 0.2 | $ | 0.1 | $ | 0.1 | $ | 0.2 |
+Market risk is a component of our internal capital adequacy assessment. Our risk-weighted assets include a market risk-equivalent asset amount, which consists of a VaR component, stressed VaR component, a de minimis exposure amount, and a specific risk add-on including the securitization positions. The aggregate market value of the securitization positions as defined by the Market Risk Rule was zero at June 30, 2026. Specific risk is the price risk of individual financial instruments, which is not accounted for by changes in broad market risk factors and is measured through a standardized approach. Market risk weighted assets, including the specific risk calculations, are run quarterly by MTRM in accordance with the Market Risk Rule.
+Nontrading market risk
+Most of our nontrading market risk is derived from interest rate fluctuations and its impacts on our traditional loan and deposit products, as well as investments, hedging relationships, long-term debt, and certain short-term borrowings. Interest rate risk, which is inherent in the banking industry, is measured by the potential for fluctuations in net interest income and the EVE. Such fluctuations may result from changes in interest rates and differences in the repricing and maturity characteristics of interest-earning assets and interest-bearing liabilities. We manage the exposure to changes in net interest income and the EVE in accordance with our risk appetite and in accordance with the Board-approved ERM policy.
+Interest rate risk positions are influenced by a number of factors, including the balance sheet positioning that arises out of customer preferences for loan and deposit products, economic conditions, the competitive environment within our markets, changes in market interest rates that affect client activity, and our hedging, investing, funding, and capital positions. The primary components of interest rate risk exposure consist of reprice risk, basis risk, yield curve risk, and option risk.
+&#8226;"Reprice risk" is the exposure to changes in the level of interest rates and occurs when the volume of interest-bearing liabilities and the volume of interest-earning assets they fund (e.g., deposits used to fund loans) do not mature or reprice at the same time.
+&#8226;"Yield curve risk" is the exposure to nonparallel changes in the slope of the yield curve (where the yield curve depicts the relationship between the yield on a particular type of security and its term to maturity) and occurs when interest-bearing liabilities and the interest-earning assets that they fund do not price or reprice to the same term point on the yield curve.
+&#8226;"Option risk" is the exposure to a customer or counterparty's ability to take advantage of the interest rate environment and terminate or reprice one of our assets, liabilities, or off-balance sheet instruments prior to
+31
+Table of contents
+contractual maturity. Option risk occurs when exposures to customer and counterparty early withdrawals or prepayments are not mitigated with an offsetting position or appropriate compensation.
+&#8226;"Basis risk" is the exposure to asymmetrical changes in interest rate indexes and occurs when floating-rate assets and floating-rate liabilities reprice at the same time, but in response to different market factors or indexes.
+The management of nontrading market risk is centralized within Corporate Treasury. The Risk Committee of our Board provides oversight of nontrading market risk. The ERM Committee, the ALCO, and the Treasury Risk Oversight Committee ("TROC") review reports on the interest rate risk exposures described above. In addition, the ALCO and the TROC review reports on stress tests and sensitivity analyses related to interest rate risk. These committees review and monitor strategies to manage nontrading market risk and oversee compliance with established tolerance ranges. The A/LM policy provides the framework for the oversight and management of interest rate risk and is administered by the ALCO. The MTRM, as the second line of defense, provides additional oversight.
+Net interest income simulation analysis. The primary tool we use to measure our interest rate risk is simulation analysis. For purposes of this analysis, we estimate our net interest income based on the current and projected composition of our on- and off-balance sheet positions, accounting for recent and anticipated trends in customer activity. The analysis also incorporates assumptions for the current and projected interest rate environments and balance sheet growth projections based on a most likely macroeconomic outlook. The modeling incorporates investment portfolio and swap portfolio balances consistent with management's desired interest rate risk positioning. The simulation model estimates the amount of net interest income at risk by simulating the change in net interest income that would occur if rates were to gradually diverge from market expectations over the next 12 months (subject to a floor on market interest rates at zero).
+Figure 22 presents the results of the simulation analysis at June 30, 2026, and June 30, 2025. At June 30, 2026, our simulated exposure to changes in interest rates remained neutral. The exposure to declining rates has changed from (0.48)% as of June 30, 2025 to 0.15% as of June 30, 2026, while the exposure to rising rates has changed from 0.78% as of June 30, 2025 to 0.17% as of June 30, 2026.
+We are actively managing the balance sheet to maintain desired IRR positioning in the current environment. Tolerance levels for risk management require the development of remediation plans to maintain residual risk within tolerance if simulation modeling demonstrates that a gradual, parallel 200 basis point increase or 200 basis point decrease in interest rates over the next 12 months would reduce net interest income over the same period by more than 5.0%. Current modeled exposure is within Board-approved tolerances.
+Figure 22. Simulated Change in Net Interest Income
+June 30, 2026 | June 30, 2025 |
+Basis point change assumption | -200 | +200 | -200 | +200 |
+Tolerance level | (5.00) | % | (5.00) | % | (5.00) | % | (5.00) | % |
+Interest rate risk assessment | 0.15 | % | 0.17 | % | (0.48) | % | 0.78 | % |
+Simulation analyses produce an estimate of interest rate exposure based on assumption inputs within the model. Assumptions are tailored to the specific interest rate environment and validated on a regular basis. However, actual results may differ from those derived in simulation analyses due to unanticipated changes to the balance sheet composition, consumer behavior, product pricing, market interest rates, changes in management's desired interest rate risk positioning, investment, funding and hedging activities, or repercussions from exogenous events.
+Regular sensitivity analyses are performed on the model inputs that could materially change the resulting risk assessments. Assessments are performed using different yield curve shapes, including steepenings or flattenings of the curve, immediate changes in market interest rates, and changes in the relationship of money market interest rates. Assessments are also performed on changes to the following assumptions: loan and deposit balances, the pricing of deposits without contractual maturities, changes in lending spreads, prepayments on loans and securities, investment, funding and hedging activities, and liquidity and capital management strategies.
+The results of additional assessments indicate that net interest income could increase or decrease from the base simulation results presented in Figure 22. Net interest income is highly dependent on the timing, magnitude, frequency, and path of interest rate changes and the associated assumptions for deposit repricing relationships, lending spreads, and the balance behavior of transaction accounts. If fixed-rate assets increase by $1 billion, or
+32
+Table of contents
+fixed-rate liabilities decrease by $1 billion, then the potential benefit to declining rates would increase by approximately 21 basis points. A five percentage point increase or decrease in the interest-bearing deposit beta assumption changes the current simulation results by approximately 99 basis points.
+The current interest rate risk position could fluctuate to higher or lower levels of risk depending on the competitive environment and client behavior that may affect the actual volume, mix, maturity, and repricing characteristics of loan and deposit flows. Corporate Treasury's discretionary activities related to funding, investing, and hedging may also change as a result of changes in customer business flows or changes in management's desired interest rate risk positioning. As changes occur to both the configuration of the balance sheet and the outlook for the economy, management proactively evaluates hedging opportunities that may change the interest rate risk profile.
+Simulations are also conducted that measure the effect of changes in market interest rates in the second and third years of a three-year horizon. These simulations are conducted in a similar manner to those based on a 12-month horizon. To capture longer-term exposures, changes in the EVE are calculated as discussed in the following section.
+Economic value of equity modeling. EVE complements net interest income simulation analysis as it estimates risk exposure beyond 12-, 24-, and 36-month horizons. EVE modeling measures the extent to which the economic values of assets, liabilities, and off-balance sheet instruments may change in response to fluctuations in interest rates. EVE is calculated by subjecting the balance sheet to an immediate increase or decrease in interest rates, measuring the resulting change in the values of assets, liabilities, and off-balance sheet instruments, and comparing those amounts with the base case of the current interest rate environment. EVE policy limits are measured against a +/-200 basis point scenario subject to a floor on market interest rates at zero. This analysis is highly dependent upon assumptions applied to assets and liabilities with non-contractual maturities. Those assumptions are based on historical behaviors, as well as forward expectations. Remediation plans are similarly developed if the analysis indicates that the EVE will decrease by 15% or more in response to an instantaneous increase or decrease in interest rates. The position is within these guidelines as of June 30, 2026.
+Management of interest rate exposure. The results of the various interest rate risk analyses are used to formulate A/LM strategies to achieve the desired risk profile while managing to objectives for capital adequacy and liquidity risk exposures. Specifically, risk positions are managed by purchasing or selling securities, issuing term debt with floating or fixed interest rates, and using derivatives. Interest rate swaps and options are predominantly used, which modify the interest rate characteristics of certain assets and liabilities.
+Figure 23 shows all swap positions held for A/LM purposes. These positions are used to convert the contractual interest rate index of agreed-upon amounts of assets and liabilities (i.e., notional amounts) to another interest rate index. For example, fixed-rate debt is converted to a floating rate through a "receive fixed/pay variable" interest rate swap. The volume, maturity, and mix of portfolio swaps change frequently to reflect broader A/LM objectives and the balance sheet positions to be hedged. For more information about how interest rate swaps are used to manage the risk profile, see Note 7 ("Derivatives and Hedging Activities").
+Figure 23. Portfolio Swaps by Interest Rate Risk Management Strategy
+June 30, 2026 |
+Weighted-Average | December 31, 2025 |
+Dollars in millions | Notional
+Amount | Fair Value(a)
+Maturity
+(Years) | Receive
+Rate | Pay
+Rate | Notional
+Amount | Fair Value(a)
+Receive fixed/pay variable -- conventional loans | $ | 40,250 | $ | (262) | 1.6 | 3.4 | % | 3.6 | % | $ | 37,050 | $ | 66 |
+Receive fixed/pay variable -- conventional debt | 8,921 | (292) | 4.4 | 2.9 | 3.7 | 8,722 | (198) |
+Receive fixed/pay variable -- forward loans | 3,250 | 9 | 4.2 | 4.0 | 3.6 | 2,200 | 40 |
+Pay fixed/receive variable -- conventional debt | 50 | 1 | 2.0 | 3.9 | 3.6 | 50 | -- |
+Pay fixed/receive variable -- securities | 10,281 | 25 | 2.2 | 3.6 | 4.0 | 10,194 | (100) |
+Total portfolio swaps | $ | 62,752 | $ | (519) | 2.2 | 3.4 | % | 3.7 | % | $ | 58,216 | $ | (192) |
+Floors -- forward purchased | $ | -- | $ | -- | -- | -- | % | -- | % | $ | 3,250 | $ | -- |
+Floors -- forward sold | -- | -- | -- | -- | -- | 3,250 | -- |
+Total floors | $ | -- | $ | -- | -- | -- | % | -- | % | $ | 6,500 | $ | -- |
+(a)Excludes accrued interest of $271 million at June 30, 2026, and accrued interest of $173 million at December 31, 2025.
+Liquidity risk management
+Liquidity risk, which is inherent in the banking industry, is measured by our ability to accommodate liability maturities and deposit withdrawals, meet contractual obligations, and fund new business opportunities at a reasonable cost, in
+33
+Table of contents
+a timely manner, and without adverse consequences. Liquidity management involves maintaining sufficient and diverse sources of funding to accommodate planned, as well as unanticipated, changes in cash flows of assets and liabilities under both normal and adverse conditions.
+Governance structure
+We manage liquidity for all of our affiliates on a consolidated basis. This approach considers the funding sources available to each entity, as well as each entity's capacity to manage through adverse conditions.
+The management of consolidated liquidity risk is centralized within Corporate Treasury. Oversight and governance is provided by the Board, the ALCO, the TROC, and the Chief Risk Officer. The Asset Liability Management Policy provides the framework for the oversight and management of liquidity risk and is administered by the ALCO. The Corporate Treasury Oversight group within the MTRM, as the second line of defense, provides additional oversight. Our current liquidity risk management practices are in compliance with the Federal Reserve Board's Enhanced Prudential Standards.
+These committees mentioned above regularly review liquidity and funding summaries, liquidity trends, peer comparisons, variance analyses, liquidity projections, internal liquidity stress tests, and goal tracking reports. The reviews generate a discussion of positions, trends, and directives on liquidity risk and shape a number of our decisions. When liquidity pressure is elevated, positions are monitored more closely and reporting is more frequent. To ensure that emerging issues are identified, we monitor an extensive set of systemic and idiosyncratic early warning indicators daily.
+Factors affecting liquidity
+Our liquidity could be adversely affected by both direct and indirect events. An example of a direct event would be a downgrade in our credit ratings by a rating agency. Examples of indirect events (events unrelated to us) that could impair our access to liquidity would be an act of terrorism or war, natural disasters, global pandemics, disruptive political events, or the default or bankruptcy of a major corporation, mutual fund, or hedge fund. Similarly, market speculation, or rumors about us or the banking industry in general, may adversely affect the cost and availability of normal funding sources. For a discussion of certain risks which may impact our liquidity, see Part I, Item 1A. "Risk Factors" on pages 25-43 of our 2025 Form 10-K. For more information on recent liquidity activity, see the header "Our liquidity position and recent activity" in this report below.
+Our credit ratings and rating agency outlooks at June 30, 2026, are shown in Figure 24. While we believe these credit ratings, under normal conditions in the capital markets, will enable KeyCorp or KeyBank to issue fixed income securities to investors, downgrades in our credit ratings could increase our cost of funds, trigger additional collateral or funding requirements, and decrease the number of investors and counterparties willing to lend to us.
+Figure 24. Credit Ratings
+June 30, 2026 | Outlook | Short-Term
+Borrowings | Long-Term
+Deposits (a)
+Senior
+Long-Term
+Debt | Subordinated
+Long-Term
+Debt | Capital
+Securities | Preferred
+Stock |
+KEYCORP |
+Standard & Poor's | Positive | A-2 | N/A | BBB | BBB- | BB | BB |
+Moody's | Stable | P-2 | N/A | Baa2 | Baa2 | Baa3 | Ba1 |
+Fitch Ratings, Inc. | Stable | F1 | N/A | A- | N/A | BB+ | BB+ |
+DBRS, Inc. | Stable | R-1 (low) | N/A | A (low) | BBB (high) | BBB (high) | BBB (low) |
+KEYBANK |
+Standard & Poor's | Positive | A-2 | N/A | BBB+ | BBB | N/A | N/A |
+Moody's | Stable | P-2 | P-1/A2 | Baa1 | Baa2 | N/A | N/A |
+Fitch Ratings, Inc. | Stable | F1 | F1/A+ | A- | BBB+ | N/A | N/A |
+DBRS, Inc. | Stable | R-1 (low) | A | A | A (low) | N/A | N/A |
+(a)P-1 rating assigned by Moody's is specific to KeyBank's short-term bank deposit ratings. F1 assigned by Fitch Ratings, Inc. is specific to KeyBank's short-term deposit ratings.
+On July 15, 2026, Moody's upgraded all long-term ratings and assessments of KeyCorp (long-term issuer rating to "Baa1" from "Baa2") and its subsidiaries. The upgrades also include KeyBank's Baseline Credit Assessment (BCA) to "a3" from "baa1" and its long-term deposit rating to "A1" from "A2". The outlook on Key's long-term issuer and senior unsecured ratings was changed to "stable" from "ratings under review".
+34
+Table of contents
+Managing liquidity risk
+Most of our liquidity risk is derived from our business model, which involves taking in deposits, many of which can be withdrawn at any time, and lending them out in the form of illiquid loan assets. The assessments of liquidity risk are measured under the assumption of normal operating conditions as well as under stressed environments. We manage these exposures in accordance with our risk appetite, and within Board-approved policy limits.
+We regularly monitor our liquidity position and funding sources and measure our capacity to obtain funds in a variety of hypothetical scenarios in an effort to maintain an appropriate mix of available and affordable funding. In the normal course of business, we perform a monthly internal liquidity stress test at the consolidated KeyCorp level. From time to time, we may conduct internal liquidity stress tests more frequently, and use assumptions to reflect the changed market environment. Internal liquidity stress tests analyze potential liquidity scenarios under various funding constraints and time periods. Ultimately, they determine the periodic effects that major direct and indirect events would have on our access to funding markets and our ability to fund our normal operations. To compensate for the effect of these assumed liquidity pressures, we consider alternative sources of liquidity and maturities over different time periods to project how funding needs would be managed.
+Our primary source of funding for KeyBank are customer deposits resulting in a consolidated loan-to-deposit ratio of 73% as of June 30, 2026. If the cash flows needed to support operating and investing activities are not satisfied by deposit balances, we rely on wholesale funding or on-balance sheet liquid reserves. Additionally, excess cash generated by operating, investing, and deposit-gathering activities may be used to repay outstanding debt or invest in liquid assets.
+We maintain a Contingency Funding Plan that outlines the process for addressing a liquidity crisis. As part of the plan, we maintain on-balance sheet liquid reserves referred to as our liquid asset portfolio, which consists of high quality liquid assets. During a stress period, that reserve could be used as a source of funding to provide time to develop and execute a longer-term strategy. Figure 25 shows our available contingent liquidity at June 30, 2026, and December 31, 2025. As of June 30, 2026, our secured term borrowings were $4.3 billion, an increase compared to the fourth quarter 2025. The change reflected a shift in wholesale funding mix, while overall wholesale funding continued to supplement client deposit funding to support seasonal deposit activity and strong loan growth during the quarter.
+Figure 25. Available Contingent Liquidity
+Dollars in billions | June 30, 2026 | December 31, 2025 |
+Available contingent liquidity: |
+Unpledged securities | $ | 29.9 | $ | 29.4 |
+Net balances of federal funds sold and balances in our Federal Reserve account | 11.7 | 9.3 |
+Unused secured borrowing capacity at the Federal Reserve Bank of Cleveland | 38.1 | 39.5 |
+Unused secured borrowing capacity at the FHLB | 14.4 | 18.9 |
+Total | $ | 94.1 | $ | 97.0 |
+Liquidity programs
+We have several liquidity programs, which are described in "Liquidity Risk Management" beginning on page 82 of our 2025 Form 10-K, that are designed to enable KeyCorp and KeyBank to raise funds in the public and private debt markets. The proceeds from most of these programs can be used for general corporate purposes, including acquisitions. These liquidity programs are reviewed from time to time by the Board and are renewed and replaced, as necessary. There are no restrictive financial covenants in any of these programs.
+Liquidity for KeyCorp
+The primary sources of liquidity for KeyCorp are dividends from KeyBank and the proceeds from the issuance of debt and capital securities. KeyCorp has sufficient liquidity when it can service its debt; support customary corporate operations and activities (including acquisitions); support occasional guarantees of subsidiaries' obligations in transactions with third parties at a reasonable cost, in a timely manner, and without adverse consequences; and fund capital distributions in the form of dividends and share buybacks.
+We use a parent cash coverage months metric as the primary measure to assess parent company liquidity. The parent cash coverage months metric measures the number of months into the future where projected obligations
+35
+Table of contents
+can be met with the current quantity of liquidity. We generally issue term debt to supplement dividends from KeyBank to manage our liquidity position at or above our targeted levels. The parent company generally maintains cash and short-term investments in an amount sufficient to meet projected debt maturities and dividends for the next 24 months. At June 30, 2026, KeyCorp held $5.3 billion in cash and short-term investments, which we projected to be sufficient to meet our projected obligations, including the repayment of our maturing debt obligations for the periods prescribed by our risk tolerance.
+Typically, KeyCorp meets its liquidity requirements through regular dividends from KeyBank, supplemented with the proceeds from term debt issuances. Federal banking law limits the amount of capital distributions that a bank can make to its holding company without prior regulatory approval. A national bank's dividend-paying capacity is affected by several factors, including net profits (as defined by statute) for the two previous calendar years and for the current year, up to the date of dividend declaration. During the second quarter of 2026, KeyBank paid $600 million in cash dividends to KeyCorp. As of June 30, 2026, KeyBank had regulatory capacity to pay $797 million in dividends to KeyCorp without prior regulatory approval.
+During the second quarter, there were no notes issued under the Medium-Term Note ("MTN") Program. Effective June 10, 2026, a new MTN Program was established, which has $15.0 billion available for issuance as of June 30, 2026.
+There were no bank note issuances during the second quarter. At June 30, 2026, there is $20.0 billion available for issuance under the KeyBank Bank Note Program.
+Our liquidity position and recent activity
+Our liquid asset portfolio, which includes overnight and short-term investments, as well as unencumbered, high quality liquid securities held as protection against a range of potential liquidity stress scenarios, continues to exceed the amount that we estimate would be necessary to manage through an adverse liquidity event by providing sufficient time to develop and execute a longer-term solution.
+From time to time, KeyCorp or KeyBank may seek to retire, repurchase, or exchange outstanding debt, capital securities, preferred shares, or common shares through cash purchase, privately negotiated transactions or other means. Additional information on repurchases of Common Shares by KeyCorp is included in Part II, Item 5. Market for the Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities beginning on page 48 of our 2025 Form 10-K and Part II, Item 2 of this report. Such transactions depend on prevailing market conditions, our liquidity and capital requirements, contractual restrictions, regulatory requirements, and other factors. The amounts involved may be material, individually or collectively.
+The Consolidated Statements of Cash Flows summarize our sources and uses of cash by type of activity for the six-month periods ended June 30, 2026, and June 30, 2025.
+For more information regarding liquidity governance structure, management of liquidity risk at KeyBank and KeyCorp, long-term liquidity strategies, and other liquidity programs, see "Liquidity Risk Management" beginning on page 82 of our 2025 Form 10-K as well as the disclosure included in Part II, Item 1A. "Risk Factors" of this report.
+Credit risk management
+
+----- [line 2755] -----
+For the three months ended June 30, 2026, we recognized no gross realized gains or losses from the sale of securities available for sale. For the three months ended June 30, 2025, we recognized no gross realized gains or losses from the sale of securities available for sale.
+For the six months ended June 30, 2026, we recognized no gross realized gains or losses from the sale of securities available for sale. For the six months ended June 30, 2025, we recognized no gross realized gains or losses from the sale of securities available for sale.
+At June 30, 2026 and December 31, 2025, securities available for sale and held-to-maturity securities totaling $18.0 billion and $18.7 billion, respectively, were pledged to secure securities sold under repurchase agreements, to secure public and trust deposits, to facilitate access to secured funding, and for other purposes required or permitted by law.
+The following table shows our securities by remaining maturity at June 30, 2026. CMOs, other mortgage-backed securities, and asset-backed securities in the available for sale portfolio and held-to-maturity portfolio are presented based on their expected average lives. The remaining securities, in both the available-for-sale and held-to-maturity portfolios, are presented based on their remaining contractual maturity. Actual maturities may differ from expected or contractual maturities since borrowers have the right to prepay obligations with or without prepayment penalties.
+June 30, 2026 | Securities Available for Sale | Held to Maturity Securities |
+Dollars in millions | Amortized Cost | Fair Value | Amortized Cost | Fair Value |
+Due in one year or less | $ | 3,347 | $ | 3,351 | $ | 290 | $ | 286 |
+Due after one through five years | 9,715 | 9,311 | 2,074 | 2,007 |
+Due after five through ten years | 22,458 | 20,670 | 6,247 | 6,048 |
+Due after ten years | 5,484 | 5,127 | 904 | 783 |
+Total | $ | 41,004 | $ | 38,459 | $ | 9,515 | $ | 9,124 |
+7. Derivatives and Hedging Activities
+We are a party to various derivative instruments, mainly through our subsidiary, KeyBank. The primary derivatives that we use are interest rate swaps, caps, floors, forwards, and futures; foreign exchange contracts; commodity derivatives; and credit derivatives. Generally, these instruments help us manage exposure to interest rate risk, mitigate the credit risk inherent in our loan portfolio, hedge against changes in foreign currency exchange rates, and facilitate client financing and hedging needs.
+Additional information regarding our accounting policies for derivatives is provided in Note 1 ("Summary of Significant Accounting Policies") under the heading "Derivatives and Hedging" beginning on page 113 of our 2025 Form 10-K. Our derivative strategies and related risk management objectives are described in Note 7 ("Derivatives and Hedging Activities") beginning on page 139 of our 2025 Form 10-K.
+Fair Values, Volume of Activity, and Gain/Loss Information Related to Derivative Instruments
+The following table summarizes the fair values of our derivative instruments on a gross and net basis as of June 30, 2026, and December 31, 2025. Total derivative assets and liabilities are adjusted to take into account the impact of legally enforceable master netting agreements that allow us to settle all derivative contracts with a single counterparty on a net basis and to offset the net derivative position with the related cash collateral. Securities collateral related to legally enforceable master netting agreements is not offset on the balance sheet. Our derivative instruments are included in "accrued income and other assets" or "accrued expenses and other liabilities" on the Consolidated Balance Sheets, as follows:
+68
+Table of contents
+June 30, 2026 | December 31, 2025 |
+Fair Value(a)
+Fair Value(a)
+Dollars in millions | Notional
+Amount | Derivative
+Assets
+Derivative
+Liabilities
+Notional
+Amount
+Derivative
+Assets
+Derivative
+Liabilities
+Derivatives designated as hedging instruments: |
+Interest rate | $ | 62,787 | $ | (22) | $ | 10 | $ | 64,228 | $ | (13) | $ | 4 |
+Derivatives not designated as hedging instruments: |
+Interest rate | 74,644 | 126 | 625 | 74,994 | 145 | 573 |
+Foreign exchange | 6,437 | 99 | 95 | 5,767 | 83 | 80 |
+Commodity | 6,058 | 284 | 273 | 5,553 | 249 | 237 |
+Credit | 88 | -- | 5 | 107 | -- | 8 |
+Other (b)
+5,409 | 56 | 9 | 4,217 | 8 | 25 |
+Total derivatives not designated as hedging instruments: | 92,636 | 565 | 1,007 | 90,638 | 485 | 923 |
+Total derivatives | 155,423 | 543 | 1,017 | 154,866 | 472 | 927 |
+Netting adjustments (c)
+-- | (347) | (323) | -- | (297) | (274) |
+Net derivatives in the balance sheet | 155,423 | 196 | 694 | 154,866 | 175 | 653 |
+Other collateral (d)
+-- | -- | -- | -- | (22) | (1) |
+Net derivative amounts | $ | 155,423 | $ | 196 | $ | 694 | $ | 154,866 | $ | 153 | $ | 652 |
+(a)We take into account bilateral collateral and master netting agreements that allow us to settle all derivative contracts held with a single counterparty on a net basis, and to offset the net derivative position with the related cash collateral when recognizing derivative assets and liabilities. As a result, we could have derivative contracts with negative fair values included in derivative assets and contracts with positive fair values included in derivative liabilities.
+(b)Other derivatives include interest rate lock commitments related to our residential and commercial banking activities, forward sale commitments related to our residential mortgage banking activities, forward purchase and sales contracts consisting of contractual commitments associated with "to be announced" securities and when-issued securities, and other customized derivative contracts.
+(c)Netting adjustments represent the amounts recorded to convert our derivative assets and liabilities from a gross basis to a net basis in accordance with the applicable accounting guidance. As of June 30, 2026, excess collateral that has not been offset against net derivative instrument positions totaled $122 million of cash collateral and $225 million of securities collateral posted as well as $11 million of cash collateral held. As of December 31, 2025, excess collateral that has not been offset against net derivative instrument positions totaled $165 million of cash collateral and $218 million of securities collateral posted as well as $3 million of cash collateral and $78 million of securities collateral held.
+(d)Other collateral represents the amount that cannot be used to offset our derivative assets and liabilities from a gross basis to a net basis in accordance with the applicable accounting guidance. The other collateral consists of securities and is exchanged under bilateral collateral and master netting agreements that allow us to offset the net derivative position with the related collateral. The application of the other collateral cannot reduce the net derivative position below zero. Therefore, excess other collateral, if any, is not reflected above.
+Fair value hedges. During the six months ended June 30, 2026, we did not exclude any portion of fair value hedging instruments from the assessment of hedge effectiveness.
+The following tables summarize the amounts that were recorded on the balance sheet as of June 30, 2026, and December 31, 2025, related to cumulative basis adjustments for fair value hedges.
+June 30, 2026 |
+Dollars in millions | Balance sheet line item in which the hedge item is included | Carrying amount of hedged item (a)
+Hedge accounting basis adjustment - active hedges | Hedge accounting basis adjustment - discontinued hedges |
+Interest rate contracts | Long-term debt | $ | 8,609 | $ | (292) | $ | (3) |
+Interest rate contracts | Securities Available for Sale(b)
+12,830 | 25 | 14 |
+December 31, 2025 |
+Balance sheet line item in which the hedge item is included | Carrying amount of hedged item (a)
+Hedge accounting basis adjustment - active hedges | Hedge accounting basis adjustment - discontinued hedges |
+Interest rate contracts | Long-term debt | $ | 8,504 | $ | (199) | $ | (3) |
+Interest rate contracts | Securities Available for Sale(b)
+12,843 | (100) | 14 |
+(a)The carrying amount represents the portion of the asset or liability designated as the hedged item.
+(b)Certain amounts are designated as fair value hedges under the portfolio layer method. The carrying amount represents the amortized costs basis of the prepayable financial assets used to designate hedging relationships in which the hedged item is the last layer expected to be remaining at the end of the relationship. At June 30, 2026, and December 31, 2025, the amortized costs of the closed portfolios in these hedging relationships was $8.1 billion and $6.7 billion, respectively, of which $5.8 billion and $4.9 billion, respectively, were designated in a portfolio layer hedging relationship. At June 30, 2026, the cumulative basis adjustments associated with these amounts totaled $46 million, which is comprised of $32 million in active hedging relationships and $14 million for discontinued hedging relationships. At December 31, 2025, the cumulative basis adjustments associated with these amounts totaled $(35) million, which is comprised of $(50) million in active hedging relationships and $14 million for discontinued hedging relationships.
+Cash flow hedges. During the six-month period ended June 30, 2026, we did not exclude any portion of cash flow hedging instruments from the assessment of hedge effectiveness.
+Considering the interest rates, yield curves, and notional amounts as of June 30, 2026, we expect to reclassify an estimated $136 million of after-tax net losses on derivative instruments designated as cash flow hedges from AOCI to income during the next 12 months. In addition, we do not expect to reclassify any net gains related to terminated cash flow hedges from AOCI to income during the next 12 months. These reclassified amounts could differ from actual amounts recognized due to changes in interest rates, hedge de-designations and the addition of other hedges subsequent to June 30, 2026. As of June 30, 2026, the maximum length of time over which we hedge forecasted transactions is 4.30 years.
+The following tables summarize the effect of fair value and cash flow hedge accounting on the income statement for the three- and six-month periods ended June 30, 2026, and June 30, 2025.
+
+----- [line 3129] -----
+Table of contents
+12. Acquisitions & Discontinued Operations
+Acquisitions
+Clearwater Corporate Finance LLP. On April 22, 2026, KeyCorp announced a definitive agreement to acquire Clearwater Corporate Finance LLP (Clearwater UK), a leading UK-based middle market investment banking advisory firm. The acquisition closed on August 3, 2026.
+Discontinued Operations
+Discontinued operations primarily includes our government-guaranteed and private education lending business. At June 30, 2026, and December 31, 2025, approximately $182 million and $205 million, respectively, of education loans are included in discontinued assets on the Consolidated Balance Sheets. Net interest income after provision for credit losses for this business is not material and is included in income (loss) from discontinued operations, net of taxes on the Consolidated Statements of Income.
+13. Borrowings
+The following table presents a summary of our short-term borrowings:
+Dollars in millions | June 30, 2026 | December 31, 2025 |
+Securities sold under repurchase agreements | $ | 5 | $ | 13 |
+Other short-term borrowings | 3,680 | 1,071 |
+Long-term borrowings
+The following table presents the contractual rates and maturity dates of our long-term debt as of June 30, 2026 and the carrying values as of June 30, 2026 and December 31, 2025. We use interest rate swaps and caps, which modify the repricing characteristics of certain long-term debt, to manage interest rate risk. For more information about such financial instruments, see Note 7 ("Derivatives and Hedging Activities").
+June 30, 2026 | June 30, 2026 | December 31, 2025 |
+Dollars in millions | Stated Rate | Maturity | Carrying Value |
+Parent Company |
+Senior notes | 2.25% - 6.40%
+2027 - 2037
+$ | 5,358 | $ | 4,659 |
+Junior subordinated debentures | 4.69% - 7.75%
+2028 - 2037
+445 | 447 |
+Total parent company | $ | 5,803 | $ | 5,106 |
+Subsidiaries |
+Senior notes | 3.76% - 5.85%
+2027 - 2039
+$ | 2,210 | $ | 2,229 |
+Subordinated notes | 3.90% - 6.95%
+2028 - 2032
+1,322 | 1,932 |
+Federal Home Loan Bank advances | 1.39% - 7.36%
+2026 - 2042
+1,556 | 560 |
+Other long-term debt(a)
+76 | 90 |
+Total subsidiaries | $ | 5,164 | $ | 4,811 |
+Total long-term debt | $ | 10,967 | $ | 9,917 |
+(a)Includes debt associated with secured borrowings, investment fund financing, and capital lease obligations.
+14. Contingent Liabilities and Guarantees
+Legal Proceedings
+Litigation. From time to time, in the ordinary course of business, we and our subsidiaries are subject to various litigation, investigations, and administrative proceedings. Private, civil litigation may range from individual actions involving a single plaintiff to putative or actual class action lawsuits with potentially thousands of class members, as well as arbitrations and mass arbitrations. Investigations may involve both formal and informal proceedings, by both government agencies and self-regulatory bodies. These matters may involve claims for substantial monetary or non-monetary relief. At times, these matters may present novel claims or legal theories. Due to the complex nature
+78
+Table of contents
+of these various other matters, it may be years before some matters are resolved. While it is impossible to ascertain the ultimate resolution or range of financial liability, based on information presently known to us, we do not believe there is any matter to which we are a party, or involving any of our properties, that, individually or in the aggregate, would reasonably be expected to have a material adverse effect on our financial condition. We continually monitor and reassess the potential materiality of these litigation matters. We note, however, that in light of the inherent uncertainty in legal proceedings there can be no assurance that the ultimate resolution will not exceed established accruals. As a result, the outcome of a particular matter, or a combination of matters, may be material to our results of operations for a particular period, depending upon the size of the loss or our income for that particular period.
+On at least a quarterly basis, we assess our liabilities and contingencies in connection with outstanding legal proceedings utilizing the latest information available. Where it is probable that we will incur a loss and the amount of the loss can be reasonably estimated, we record a liability in our consolidated financial statements. These legal accruals may be increased or decreased to reflect any relevant developments on a quarterly basis. Where a loss is not probable or the amount of the loss is not estimable, we have not accrued a liability for said loss, consistent with applicable accounting guidance. Based on information currently available to us and advice of counsel, we believe that our established accruals are adequate and the liabilities arising from the legal proceedings will not have a material adverse effect on our consolidated financial condition.
+Guarantees
+We are a guarantor in various agreements with third parties. The following table shows the types of guarantees that we had outstanding at June 30, 2026. Information pertaining to the basis for determining the liabilities recorded in connection with these guarantees is included in Note 1 ("Summary of Significant Accounting Policies") under the heading "Contingencies and Guarantees" beginning on page 115 of our 2025 Form 10-K.
+June 30, 2026 | Maximum Potential Undiscounted Future Payments | Liability Recorded |
+Dollars in millions |
+Financial guarantees: |
+Standby letters of credit | $ | 6,934 | $ | 72 |
+Recourse agreement with FNMA | 8,200 | 62 |
+Residential mortgage reserve | 3,431 | 7 |
+Written options (a)
+4,000 | 35 |
+Total | $ | 22,565 | $ | 176 |
+(a)The maximum potential undiscounted future payments represent notional amounts of derivatives qualifying as guarantees.
+We determine the payment/performance risk associated with each type of guarantee described below based on the probability that we could be required to make the maximum potential undiscounted future payments shown in the preceding table. We use a scale of low (0% to 30% probability of payment), moderate (greater than 30% to 70% probability of payment), or high (greater than 70% probability of payment) to assess the payment/performance risk, and have determined that the payment/performance risk associated with each type of guarantee outstanding at June 30, 2026, is low. Information pertaining to the nature of each of the guarantees listed below is included in Note 19 ("Commitments, Contingent Liabilities, and Guarantees") under the heading "Guarantees" beginning on page 166 of our 2025 Form 10-K.
+Standby letters of credit. At June 30, 2026, our standby letters of credit had a remaining weighted-average life of 2.1 years, with remaining actual lives ranging from less than 1 year to 10.0 years.
+Recourse agreement with FNMA. At June 30, 2026, the outstanding commercial mortgage loans in this program had a weighted-average remaining term of 5.5 years, and the unpaid principal balance outstanding of loans sold by us as a participant was $25.1 billion. The maximum potential amount of undiscounted future payments that we could be required to make under this program, as shown in the preceding table, is equal to approximately 32.7% of the principal balance of loans outstanding at June 30, 2026. FNMA delegates responsibility for originating, underwriting, and servicing mortgages, and we assume a limited portion of the risk of loss during the remaining term on each commercial mortgage loan that we sell to FNMA. We maintain a reserve for such potential losses of $62 million that we believe approximates the fair value of our liability for the guarantee as described in Note 4 ("Asset Quality").
+Residential Mortgage Banking. At June 30, 2026, the unpaid principal balance outstanding of loans sold by us in this program was $11.4 billion. The maximum potential amount of undiscounted future payments that we could be required to make under this program, as shown in the preceding table, is equal to approximately 30% of the principal balance of loans outstanding at June 30, 2026.
+79
+Table of contents
+Our liability for estimated repurchase obligations on loans sold, which is included in "accrued expenses and other liabilities" on the Consolidated Balance Sheets, was $7 million at June 30, 2026. For more information on our residential mortgages, see Note 8 ("Mortgage Servicing Assets").
+Written options. In the ordinary course of business, we "write" put options for clients that wish to mitigate their exposure to changes in interest rates and commodity prices. At June 30, 2026, our written put options had an average life of 1.3 years. These written put options are accounted for as derivatives at fair value, as further discussed in Note 7 ("Derivatives and Hedging Activities").
+Written put options where the counterparty is a broker-dealer or bank are accounted for as derivatives at fair value but are not considered guarantees since these counterparties typically do not hold the underlying instruments. In addition, we are a purchaser and seller of credit derivatives, which are further discussed in Note 7 ("Derivatives and Hedging Activities").
+Other Off-Balance Sheet Risk
+Other off-balance sheet risk stems from financial instruments that do not meet the definition of a guarantee as specified in the applicable accounting guidance, and from other relationships. Additional information pertaining to types of other off-balance sheet risk is included in Note 19 ("Commitments, Contingent Liabilities, and Guarantees") under the heading "Other Off-Balance Sheet Risk" on page 167 of our 2025 Form 10-K.
+15. Accumulated Other Comprehensive Income
+Our changes in AOCI for the three and six months ended June 30, 2026, and June 30, 2025, are as follows:
+Dollars in millions | Unrealized gains (losses) on securities available for sale | Unrealized gains (losses) on derivative financial instruments | Net pension and postretirement benefit costs | Total |
+Balance at March 31, 2026 | $ | (1,888) | $ | (98) | $ | (235) | $ | (2,221) |
+Other comprehensive income (loss) before reclassification, net of income taxes | (51) | (103) | (1) | (155) |
+Amounts reclassified from AOCI, net of income taxes (a)
+-- | 20 | 2 | 22 |
+Net current-period other comprehensive income (loss), net of income taxes | (51) | (83) | 1 | (133) |
+Balance at June 30, 2026 | $ | (1,939) | $ | (181) | $ | (234) | $ | (2,354) |
+Balance at March 31, 2025 | $ | (2,310) | $ | (241) | $ | (236) | $ | (2,787) |
+Other comprehensive income (loss) before reclassification, net of income taxes | 152 | 64 | (1) | 215 |
+Amounts reclassified from AOCI, net of income taxes (a)
+-- | 69 | 2 | 71 |
+Net current-period other comprehensive income (loss), net of income taxes | 152 | 133 | 1 | 286 |
+Balance at June 30, 2025 | $ | (2,158) | $ | (108) | $ | (235) | $ | (2,501) |
+Balance at December 31, 2025 | $ | (1,716) | $ | (7) | $ | (237) | $ | (1,960) |
+Other comprehensive income (loss) before reclassification, net of income taxes | (223) | (223) | -- | (446) |
+Amounts reclassified from AOCI, net of income taxes (a)
+-- | 49 | 3 | 52 |
+Net current-period other comprehensive income (loss), net of income taxes | (223) | (174) | 3 | (394) |
+Balance at June 30, 2026 | $ | (1,939) | $ | (181) | $ | (234) | $ | (2,354) |
+Balance at December 31, 2024 | $ | (2,734) | $ | (434) | $ | (302) | $ | (3,470) |
+Other comprehensive income (loss) before reclassification, net of income taxes | 576 | 186 | 66 | 828 |
+Amounts reclassified from AOCI, net of income taxes (a)
+-- | 140 | 1 | 141 |
+Net current-period other comprehensive income (loss), net of income taxes | 576 | 326 | 67 | 969 |
+Balance at June 30, 2025 | $ | (2,158) | $ | (108) | $ | (235) | $ | (2,501) |
+(a)See table below for details about these reclassifications.
+80
+Table of contents
+Our reclassifications out of AOCI for the three and six months ended June 30, 2026, and June 30, 2025, are as follows:
+Three months ended June 30, | Affected Line Item in the Consolidated Statement of Income |
+Dollars in millions | 2026 | 2025 |
+Unrealized gains (losses) on derivative financial instruments |
+Interest rate | $ | (28) | $ | (90) | Interest income -- Loans |
+Interest rate | -- | (1) | Interest expense -- Long-term debt |
+Interest rate | 1 | -- | Investment banking and debt placement fees |
+(27) | (91) | Income (loss) from continuing operations before income taxes |
+(7) | (22) | Income taxes |
+$ | (20) | $ | (69) | Income (loss) from continuing operations |
+Net pension and postretirement benefit costs |
+Amortization of losses | $ | (3) | $ | (2) | Other expense |
+Amortization of unrecognized prior service credit | 1 | -- | Other expense |
+(2) | (2) | Income (loss) from continuing operations before income taxes |
+-- | -- | Income taxes |
+$ | (2) | $ | (2) | Income (loss) from continuing operations |
+Six months ended June 30, | Affected Line Item in the Consolidated Statement of Income |
+Dollars in millions | 2026 | 2025 |
+Unrealized gains (losses) on derivative financial instruments |
+Interest rate | $ | (64) | $ | (183) | Interest income -- Loans |
+
+----- [line 3274] -----
+5.625% Fixed Rate Perpetual Non-Cumulative Series G
+450 | 435 | 450,000 | 1 | 1,000 | 1/40th | 25 | .351563 |
+6.200% Fixed Rate Reset Perpetual Non-Cumulative Series H
+600 | 590 | 600,000 | 1 | 1,000 | 1/40th | 25 | .387500 |
+17. Business Segment Reporting
+The following is a description of the segments and their primary businesses at June 30, 2026.
+Consumer Bank
+The Consumer Bank serves individuals and small businesses throughout our 15 state branch footprint as well as healthcare professionals nationally through our digital channel by offering a variety of deposit and investment products, personal finance and financial wellness services, lending, mortgage and home equity, student loan refinancing, credit card, treasury services, and business advisory services. In addition, wealth management and investment services are offered to assist institutional, non-profit, and high-net-worth clients with their banking, trust, portfolio management, charitable giving, and related needs.
+Commercial Bank
+The Commercial Bank is an aggregation of our Institutional and Commercial operating segments. The Commercial operating segment is a full-service corporate bank focused principally on serving the borrowing, cash management, and capital markets needs of middle market clients within Key's 15 state branch footprint. The Institutional operating segment operates nationally, providing lending, equipment financing, and banking products and services to large corporate and institutional clients. The industry coverage and product teams have established expertise in the following sectors: Consumer, Energy, Healthcare, Industrial, Public Sector, Real Estate, and Technology. It is also a significant, national, commercial real estate lender and third-party master and special servicer of commercial mortgage loans. The operating segment also includes the KBCM platform which provides a broad suite of capital markets products and services including syndicated finance, debt and equity underwriting, fixed income and equity sales and trading, derivatives, foreign exchange, mergers & acquisition and other advisory, and public finance.
+Other
+Other includes various corporate treasury activities such as management of our investment securities portfolio, long-term debt, short-term liquidity and funding activities, and balance sheet risk management, our principal investing unit, and various exit portfolios as well as reconciling items, which primarily represent the unallocated portion of nonearning assets of corporate support functions.
+We use an internal FTP framework to measure the performance of its operating segments. Under this framework, business segments receive funding credits for liabilities generated and incur funding charges for assets held, based on market&#8209;based funding assumptions, in order to isolate business operating performance from interest rate risk.
+Interest rate risk is managed centrally. Because differences exist in the timing and repricing characteristics of assets and liabilities across the balance sheet, a residual impact from centrally managed interest rate risk is not allocated to the operating segments and is reflected within the Other segment.
+Effective January 1, 2026, we revised our segment reporting presentation to reflect this residual impact within the Other segment. Previously, these residual amounts were included in net interest income for the Consumer and
+82
+Table of contents
+Commercial Bank segments. This change aligns segment reporting with how management evaluates performance and manages interest rate risk on a centralized basis and affects only the presentation of segment results. Prior period segment results have been recast to reflect this change in segment reporting presentation. There was no impact on the Company's consolidated financial statements for any period presented.
+Developing and applying the methodologies that we use to allocate items among our lines of business is a dynamic process. Accordingly, financial results may be revised periodically to reflect enhanced alignment of expense base allocation drivers, changes in the risk profile of a particular business, or changes in our organizational structure.
+The table below shows selected financial data for our business segments for the three- and six-month periods ended June 30, 2026, and June 30, 2025. Capital is assigned to each business segment based on a combination of regulatory and economic equity.
+Three months ended June 30, | Consumer Bank | Commercial Bank | Other | Total Key |
+Dollars in millions | 2026 | 2025 | 2026 | 2025 | 2026 | 2025 | 2026 | 2025 |
+SUMMARY OF OPERATIONS |
+Net interest income (TE) | $ | 757 | $ | 731 | $ | 697 | $ | 649 | $ | (196) | $ | (230) | $ | 1,258 | $ | 1,150 |
+Noninterest income | 253 | 235 | 411 | 425 | 42 | 30 | 706 | 690 |
+Total revenue (TE) (a)
+1,010 | 966 | 1,108 | 1,074 | (154) | (200) | 1,964 | 1,840 |
+Provision for credit losses | 26 | 55 | 67 | 84 | (1) | (1) | 92 | 138 |
+Personnel expense | 239 | 222 | 203 | 179 | 344 | 304 | 786 | 705 |
+Other direct noninterest expense | 138 | 140 | 75 | 69 | 218 | 240 | 431 | 449 |
+Support and overhead | 339 | 331 | 225 | 203 | (564) | (534) | -- | -- |
+Income (loss) from continuing operations before income taxes (TE)
+268 | 218 | 538 | 539 | (151) | (209) | 655 | 548 |
+Allocated income taxes and TE adjustments
+65 | 53 | 115 | 116 | (33) | (44) | 147 | 125 |
+Income (loss) from continuing operations | 203 | 165 | 423 | 423 | (118) | (165) | 508 | 423 |
+Income (loss) from discontinued operations, net of taxes
+-- | -- | -- | -- | 1 | 2 | 1 | 2 |
+Net income (loss) | $ | 203 | $ | 165 | $ | 423 | $ | 423 | $ | (117) | $ | (163) | $ | 509 | $ | 425 |
+AVERAGE BALANCES (b)
+Loans and leases | $ | 33,263 | $ | 36,138 | $ | 76,238 | $ | 69,089 | $ | 571 | $ | 488 | $ | 110,072 | $ | 105,715 |
+Total assets (a)
+36,630 | 39,156 | 85,793 | 78,624 | 65,877 | 69,019 | 188,300 | 186,800 |
+Deposits | 87,399 | 88,002 | 58,895 | 55,927 | 1,283 | 3,517 | 147,577 | 147,446 |
+(a)Substantially all revenue generated by our major business segments is derived from clients that reside in the United States. Substantially all long-lived assets, including premises and equipment, capitalized software, and goodwill held by our major business segments, are located in the United States.
+(b)From continuing operations.
+Six months ended June 30, | Consumer Bank | Commercial Bank | Other | Total Key |
+Dollars in millions | 2026 | 2025 | 2026 | 2025 | 2026 | 2025 | 2026 | 2025 |
+SUMMARY OF OPERATIONS |
+Net interest income (TE) | $ | 1,495 | $ | 1,437 | $ | 1,371 | $ | 1,288 | $ | (378) | $ | (470) | $ | 2,488 | $ | 2,255 |
+Noninterest income | 492 | 460 | 856 | 835 | 81 | 63 | 1,429 | 1,358 |
+Total revenue (TE) (a)
+1,987 | 1,897 | 2,227 | 2,123 | (297) | (407) | 3,917 | 3,613 |
+Provision for credit losses | 66 | 97 | 137 | 159 | (5) | -- | 198 | 256 |
+Personnel expense | 471 | 440 | 398 | 368 | 660 | 577 | 1,529 | 1,385 |
+Other direct noninterest expense | 271 | 283 | 141 | 146 | 457 | 471 | 869 | 900 |
+Support and overhead | 682 | 645 | 437 | 402 | (1,119) | (1,047) | -- | -- |
+Income (loss) from continuing operations before income taxes (TE)
+497 | 432 | 1,114 | 1,048 | (290) | (408) | 1,321 | 1,072 |
+Allocated income taxes and TE adjustments
+120 | 105 | 239 | 225 | (68) | (87) | 291 | 243 |
+Income (loss) from continuing operations | 377 | 327 | 875 | 823 | (222) | (321) | 1,030 | 829 |
+Income (loss) from discontinued operations, net of taxes
+-- | -- | -- | -- | 1 | 1 | 1 | 1 |
+Net income (loss) | 377 | 327 | 875 | 823 | (221) | (320) | 1,031 | 830 |
+AVERAGE BALANCES (b)
+Loans and leases | $ | 33,630 | $ | 36,476 | $ | 74,692 | $ | 68,077 | $ | 589 | $ | 486 | $ | 108,911 | $ | 105,039 |
+Total assets (a)
+36,984 | 39,479 | 84,133 | 77,725 | 66,163 | 69,242 | 187,280 | 186,446 |
+Deposits | 87,598 | 88,153 | 58,912 | 56,657 | 929 | 3,180 | 147,438 | 147,990 |
+(a)Substantially all revenue generated by our major business segments is derived from clients that reside in the United States. Substantially all long-lived assets, including premises and equipment, capitalized software, and goodwill held by our major business segments, are located in the United States.
+(b)From continuing operations.
+83
+Table of contents
+18. Revenue from Contracts with Customers
+The following table represents a disaggregation of revenue from contracts with customers, by business segment, for the three- and six-month periods ended June 30, 2026, and June 30, 2025. The development and application of the methodologies that we use to allocate items among our business segments is a dynamic process. Accordingly, financial results may be revised periodically to reflect enhanced alignment of expense base allocations drivers, changes in the risk profile of a particular business, or changes in our organizational structure.
+Three months ended June 30, 2026 | Three months ended June 30, 2025 |

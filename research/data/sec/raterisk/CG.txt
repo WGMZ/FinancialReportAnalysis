@@ -1,0 +1,78 @@
+# CG 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/1527166/000152716626000045/cg-20260630.htm
+# full_doc_chars=511547
+
+
+----- [line 6668] -----
+exit value of $245 billion declined 23% quarter-over-quarter, and the 595 companies divested globally represented the lowest
+quarterly count since 2020. However, median exit EBITDA multiples continued to improve, rising to a range of 14.7x to 17.6x
+for deals exited in the fourth quarter of 2025 and first quarter of 2026 (the latest data available), compared to a range of 11.0x to
+13.0x over much of 2022 through 2024. Meanwhile, initial public offering ("IPO") activity was a bright spot, with 39 operating
+company IPOs on U.S. exchanges generating $117 billion in proceeds, an 86% increase in transaction count versus Q1 2026.
+SpaceX's $86 billion IPO--22 years after founding--was emblematic of broader structural trends: private markets are
+capturing an increasing share of value creation before listing, while passive investing is exerting a growing influence on public
+market behavior.
+Credit markets demonstrated broad resilience during the quarter, with improving conditions across most sectors even
+as differentiation increased. Broader credit quality continued to improve: leveraged loan defaults plus distressed exchanges fell
+to their lowest level in over three years at 2.77%, while the weighted average bid on the U.S. leveraged loan market ended the
+quarter at 94.96, modestly below its year-end 2025 level of 96.64 but essentially unchanged from 95 at the end of the first
+quarter. Amendment activity (repricings and extensions) also remained relatively steady from the first quarter, as a more than
+doubling of extensions largely offset a decline in refinancings. Notably, weakness remained concentrated rather than broad-
+based. Excluding software, the average secondary bid firmed by roughly 0.4 points over the quarter, while software loans fell
+approximately 1.9 points, widening the gap between software and the rest of the index to a historically wide 9.6 points. CLO
+71
+Table of Contents
+new issuance moderated from last year's pace amid tight loan spreads and continued uncertainty around software and energy
+exposures.
+In the second quarter of 2026, we deployed $14.3 billion across our platform and $53.0 billion over the last twelve
+months. In our traditional carry funds, we realized proceeds of $6.7 billion in the second quarter of 2026 and $36.8 billion over
+the last twelve months, including $2.9 billion and $15.3 billion, respectively, in our corporate private equity strategy. We had
+$16.8 billion in inflows in the second quarter of 2026 and $55.8 billion in inflows over the last twelve months as of June 30,
+2026. Inflows over the last twelve months include $7.3 billion in our evergreen wealth products, which had $20.1 billion in
+assets under management as of June 30, 2026, a 64% increase from one year ago.
+Our carry fund portfolio appreciated 3% in the second quarter. Within our Global Private Equity segment in the second
+quarter, our corporate private equity funds appreciated 2% as market price decreases in certain publicly traded positions offset
+appreciation elsewhere, our infrastructure & natural resources funds appreciated 6% driven by our international energy funds
+and appreciation in the NGP Carry funds, and our real estate funds were flat. Our Global Credit carry funds, which represent
+approximately 11% of the total Global Credit remaining fair value as of June 30, 2026, appreciated 4% in the second quarter.
+Carry funds in our Carlyle AlpInvest segment appreciated 3% in the second quarter.
+Notable Developments
+Dividends
+In July 2026, our Board of Directors declared a quarterly dividend of $0.35 per share to common stockholders of record
+at the close of business on August 17, 2026, payable on August 26, 2026.
+Global Private Equity Structured Investment Vehicle
+During the second quarter of 2026, the Company completed the structuring of an investment vehicle in our Global Private
+Equity segment, which created liquidity for our fund investors and raised capital earmarked for our next vintage U.S. buyout
+fund. In connection with the transaction, the Company recognized portfolio advisory and transaction fees in our Global Credit
+segment results during the quarter. Additionally, the Company transferred interests in certain fund-related entities to the vehicle,
+which are reflected as a component of non-controlling interests in consolidated entities on our condensed consolidated balance
+sheet as of June 30, 2026.
+72
+Table of Contents
+Key Financial Measures
+Our key financial measures and operating metrics are discussed in the following pages. Additional information regarding
+U.S. GAAP measures and our other significant accounting policies can be found in Note 2, Summary of Significant Accounting
+Policies, to the condensed consolidated financial statements included in this Quarterly Report on Form 10-Q.
+Revenues
+Revenues primarily consist of Fund management fees, Incentive fees, Investment income (including Performance
+allocations, realized and unrealized gains of our investments in our funds, and other principal investments), as well as Interest
+and other income.
+Fund management fees. Fund management fees include management fees and transaction and portfolio advisory fees. We
+earn management fees for advisory services we provide to funds in which we hold a general partner interest or to funds or
+certain portfolio companies with which we have an investment advisory or investment management agreement. These fees are
+largely from either traditional closed-end, long-dated funds, which are highly predictable and stable, or Perpetual Capital
+products as defined below. Management fees also include catch-up management fees, which are episodic in nature and
+represent management fees charged to fund investors in subsequent closings of a fund which apply to the time period between
+the fee initiation date and the subsequent closing date. We also earn management fees on our CLOs and other structured
+products.
+Transaction and portfolio advisory fees generally include capital markets fees generated by Carlyle Global Capital
+Markets in connection with activities related to the underwriting, issuance and placement of debt and equity securities, and loan
+syndication for our portfolio companies and third-party clients, which are generally not subject to rebate offsets as described
+below. Underwriting fees include gains, losses, and fees arising from securities offerings in which we participate in the
+underwriter syndicate.
+Transaction and portfolio advisory fees also include fees we receive for the transaction and portfolio advisory services we
+provide to our portfolio companies. When covered by separate contractual agreements, we recognize transaction and portfolio
+advisory fees for these services when the performance obligation has been satisfied and collection is reasonably assured. We are
+generally required to offset our fund management fees by the transaction and advisory fees earned, which we refer to as "rebate
+offsets."
+The recognition of portfolio advisory fees, transactions fees, and capital markets fees can be volatile as they are primarily

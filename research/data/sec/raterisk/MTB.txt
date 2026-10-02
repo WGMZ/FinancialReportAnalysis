@@ -1,0 +1,830 @@
+# MTB 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/36270/000003627026000050/mtb-20260630.htm
+# full_doc_chars=401409
+
+
+----- [line 109] -----
+Taxable-equivalent Net Interest Income
+49
+Provision for Credit Losses
+58
+Other Income
+66
+Other Expense
+69
+Income Taxes
+70
+Liquidity Risk
+70
+Market Risk and Interest Rate Sensitivity
+73
+Capital
+75
+Segment Information
+77
+Critical Accounting Estimates and Recent Accounting Developments
+83
+Forward-Looking Statements
+83
+Quarterly Trends
+85
+Reconciliation of Quarterly GAAP to Non-GAAP Measures
+86
+- 2 -
+Table of Contents, continued |
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+87
+Item 4.
+Controls and Procedures
+87
+Part II. Other Information
+Item 1.
+Legal Proceedings
+88
+Item 1A.
+Risk Factors
+88
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+88
+Item 3.
+Defaults Upon Senior Securities
+88
+Item 4.
+Mine Safety Disclosures
+88
+Item 5.
+Other Information
+88
+Item 6.
+Exhibits
+89
+Signatures
+90
+- 3 -
+Glossary of Terms
+The following listing includes acronyms and terms used throughout the document.
+Term | Definition |
+2025 Annual Report
+Form 10-K for the year ended December 31, 2025
+Bayview Financial | Bayview Financial Holdings, L.P. together with its affiliates |
+BLG | Bayview Lending Group, LLC |
+Capital Rules | Capital adequacy standards established by the federal banking agencies |
+CET1 | Common Equity Tier 1 |
+Common Securities | Common securities issued in connection with the issuance of Junior Subordinated Debentures |
+Company | M&T Bank Corporation and its consolidated subsidiaries |
+DOJ | U.S. Department of Justice |
+DUS | Delegated Underwriting and Servicing |
+ERBA | Expanded risk-based approach |
+EVE | Economic value of equity |
+Exchange Act | Securities Exchange Act of 1934 |
+Executive ALCO Committee | Executive Asset-Liability Liquidity Capital Committee |
+FDIC | Federal Deposit Insurance Corporation |
+Federal Reserve | Board of Governors of the Federal Reserve System |
+FHLB | Federal Home Loan Bank |
+FOMC | Federal Open Market Committee |
+FRB | Federal Reserve Bank |
+GAAP | Accounting principles generally accepted in the U.S. |
+GDP | Gross Domestic Product |
+Junior Subordinated Debentures | Fixed and variable rate junior subordinated deferrable interest debentures |
+LCR | Liquidity coverage ratio |
+LTV | Loan-to-value |
+M&T | M&T Bank Corporation |
+M&T Bank | Manufacturers and Traders Trust Company |
+Mid-Atlantic | Region includes Delaware, Maryland, New Jersey, Pennsylvania, Virginia and the District of Columbia |
+NDFI | Nondepository Financial Institution |
+New England | Region includes Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island and Vermont |
+OAS | Option adjusted spread |
+Preferred Capital Securities | Preferred capital securities issued in connection with the issuance of Junior Subordinated Debentures |
+RWA | Risk-weighted assets |
+SCB | Stress capital buffer |
+SEC | Securities and Exchange Commission |
+SOFR | Secured Overnight Financing Rate |
+U.S. | United States of America |
+Wilmington Trust, N.A. | Wilmington Trust, National Association |
+- 4 -
+Part I. Financial Information
+Item 1. Financial Statements (Unaudited).
+M&T Bank Corporation and Subsidiaries
+Consolidated Balance Sheet (Unaudited)
+(Dollars in millions, except per share) | June 30,
+2026 | December 31,
+2025 |
+Assets |
+Cash and due from banks | $ | 1,939 | $ | 1,701 |
+Interest-bearing deposits at banks | 15,499 | 17,068 |
+Investment securities: |
+Available for sale (cost: $25,495 at June 30, 2026;
+$22,994 at December 31, 2025)
+25,370 | 23,202 |
+Held to maturity (fair value: $11,119 at June 30, 2026;
+$11,715 at December 31, 2025)
+11,908 | 12,430 |
+Equity and other securities (cost: $1,093 at June 30, 2026;
+$1,016 at December 31, 2025)
+1,096 | 1,017 |
+Total investment securities | 38,374 | 36,649 |
+Loans (a) | 143,193 | 138,702 |
+Allowance for loan losses | (2,176) | (2,116) |
+Net loans | 141,017 | 136,586 |
+Premises and equipment | 1,726 | 1,629 |
+Goodwill | 8,465 | 8,465 |
+Core deposit and other intangible assets | 48 | 64 |
+Accrued interest and other assets | 12,193 | 11,348 |
+Total assets | $ | 219,261 | $ | 213,510 |
+Liabilities |
+Noninterest-bearing deposits | $ | 48,295 | $ | 46,509 |
+Savings and interest-checking deposits | 105,602 | 107,173 |
+Time deposits | 14,988 | 13,227 |
+
+----- [line 1224] -----
+(b)Included in Interest income in the Consolidated Statement of Income.
+(c)Included in Other costs of operations in the Consolidated Statement of Income.
+Accumulated other comprehensive income (loss), net during the six months ended June 30, 2026 and 2025 consisted of the following.
+(Dollars in millions) | Investment Securities | Cash Flow Hedges | Defined Benefit Plans | Other | Total |
+Balance -- January 1, 2026 | $ | 155 | $ | 67 | $ | 61 | $ | (6) | $ | 277 |
+Net gain (loss) during period | (248) | (118) | (2) | (1) | (369) |
+Balance -- June 30, 2026 | $ | (93) | $ | (51) | $ | 59 | $ | (7) | $ | (92) |
+Balance -- January 1, 2025 | $ | (153) | $ | (101) | $ | 98 | $ | (8) | $ | (164) |
+Net gain (loss) during period | 214 | 164 | (3) | 4 | 379 |
+Balance -- June 30, 2025 | $ | 61 | $ | 63 | $ | 95 | $ | (4) | $ | 215 |
+- 32 -
+11. Derivative financial instruments
+As part of managing interest rate risk, the Company enters into interest rate swap agreements to modify the repricing characteristics of certain portions of the Company's portfolios of earning assets and interest-bearing liabilities. The Company designates interest rate swap agreements utilized in the management of interest rate risk as either fair value hedges or cash flow hedges. Interest rate swap agreements are generally entered into with counterparties that meet established credit standards and most contain master netting, collateral and/or settlement provisions protecting the at-risk party.
+Information about interest rate swap agreements entered into for interest rate risk management purposes summarized by type of financial instrument those agreements were intended to hedge follows.
+Notional
+Amount | Weighted-Average
+Maturity
+(In years) | Weighted-
+Average Rate
+Fair Value
+Gain (Loss) (a) |
+(Dollars in millions) | Fixed
+Variable
+June 30, 2026 |
+Fair value hedges: |
+Fixed rate long-term borrowings (b) | $ | 6,100 | 4.3 | 3.56 | % | 3.79 | % | $ | (10) |
+Cash flow hedges: |
+Interest payments on variable rate commercial real estate and commercial
+and industrial loans (b) (c) | 26,200 | 1.1 | 3.70 | 3.63 | (7) |
+Total | $ | 32,300 | 1.7 | $ | (17) |
+December 31, 2025 |
+Fair value hedges: |
+Fixed rate long-term borrowings (b) (d) | $ | 6,100 | 4.8 | 3.56 | % | 4.02 | % | $ | (9) |
+Cash flow hedges: |
+Interest payments on variable rate commercial real estate and commercial
+and industrial loans (b) (e) | 24,900 | 1.3 | 3.63 | 3.81 | (6) |
+Total | $ | 31,000 | 2.0 | $ | (15) |
+__________________________________________________________________________________
+(a)Certain clearinghouse exchanges consider payments by counterparties for variation margin on derivative instruments to be settlements of those positions. The impact of such payments for interest rate swap agreements designated as fair value hedges was a net settlement of losses of $92 million and $6 million at June 30, 2026 and December 31, 2025, respectively. The impact of such payments on interest rate swap agreements designated as cash flow hedges was a net settlement of losses of $61 million and of gains of $96 million at June 30, 2026 and December 31, 2025, respectively.
+(b)Under the terms of these agreements, the Company receives settlement amounts at a fixed rate and pays at a variable rate.
+(c)Includes notional amount and terms of $10.2 billion of forward-starting interest rate swap agreements that become effective in 2026 and 2027.
+(d)Includes notional amount and terms of $1.8 billion of forward-starting interest rate swap agreements that became effective in 2026.
+(e)Includes notional amount and terms of $9.7 billion of forward-starting interest rate swap agreements that become effective in 2026 and 2027.
+The Company utilizes commitments to sell residential and commercial real estate loans to hedge the exposure to changes in fair value of real estate loans held for sale. Such commitments have generally been designated as fair value hedges. The Company also utilizes commitments to sell real estate loans to offset the exposure to changes in the fair value of certain commitments to originate real estate loans for sale. Changes in unrealized gains and losses as a result of such activities are included in Mortgage banking revenues in the Company's Consolidated Statement of Income and, in general, are realized in subsequent periods as the related loans are sold and commitments satisfied.
+As described in note 1, the Company elected to prospectively measure its residential mortgage loan servicing right assets at fair value. In preparation for this election, on December 31, 2025 the Company began economically hedging the risk of fair value changes in those residential mortgage loan servicing right assets through the use of various interest rate and other derivative contracts with a total notional value of $1.4 billion and $1.6 billion at June 30, 2026 and December 31, 2025, respectively. Changes in the fair value of such derivative contracts in 2026 are included in Mortgage banking revenues in the Company's Consolidated Statement of Income.
+Other derivative financial instruments not designated as hedging instruments included interest rate contracts, foreign exchange and other option and futures contracts. Interest rate contracts not designated as hedging instruments had notional values of $48.5 billion and $43.0 billion at June 30, 2026 and December 31, 2025, respectively. The notional amounts of foreign currency and other option and futures contracts not designated as hedging instruments aggregated $2.4 billion at each of June 30, 2026 and December 31, 2025.
+- 33 -
+11. Derivative financial instruments, continued
+Information about the fair values of derivative instruments in the Company's Consolidated Balance Sheet and Consolidated Statement of Income follows.
+Asset Derivatives | Liability Derivatives |
+Fair Value | Fair Value |
+(Dollars in millions) | June 30,
+2026 | December 31,
+2025 | June 30,
+2026 | December 31,
+2025 |
+Derivatives designated and qualifying as hedging instruments (a) |
+Interest rate swap agreements | $ | -- | $ | -- | $ | 17 | $ | 15 |
+Commitments to sell real estate loans | -- | 1 | 1 | 1 |
+-- | 1 | 18 | 16 |
+Derivatives not designated and qualifying as hedging instruments (a) |
+Mortgage banking: |
+Commitments to originate real estate loans for sale | 9 | 17 | 4 | 21 |
+Commitments to sell real estate loans | 8 | 24 | 2 | 6 |
+Interest rate and other contracts (b) | 7 | 13 | 3 | 2 |
+24 | 54 | 9 | 29 |
+Other: |
+Interest rate contracts (b) | 196 | 173 | 456 | 394 |
+Foreign exchange and other option and futures contracts | 22 | 17 | 20 | 15 |
+218 | 190 | 476 | 409 |
+Total derivatives | $ | 242 | $ | 245 | $ | 503 | $ | 454 |
+__________________________________________________________________________________
+(a)Asset derivatives are included in Accrued interest and other assets and liability derivatives are included in Accrued interest and other liabilities in the Consolidated Balance Sheet.
+
+----- [line 1370] -----
+Total | $ | 454 | $ | (33) | $ | (8) | $ | 413 |
+__________________________________________________________________________________
+(a)Includes postings of cash and investment securities only and excludes initial margin amounts posted to clearinghouses.
+(b)The fair value of derivative assets and derivative liabilities subject to clearinghouse settlements are presented net of the variation margin payments in the Consolidated Balance Sheet.
+(c)The fair value of derivative assets and derivative liabilities not subject to master netting agreements predominantly relate to transactions with commercial customers.
+12. Variable interest entities and asset securitizations
+The Company's securitization activities include securitizing loans originated for sale into government-issued or guaranteed mortgage-backed securities. Additionally, M&T Bank and its subsidiaries have issued asset-backed notes secured by equipment finance loans and leases, automobile loans or recreational finance loans. Those loans and leases were sold into special purpose trusts which in turn issued asset-backed notes to investors. The loans and leases continue to be serviced by the Company. The senior-most notes in those securitizations were purchased by third parties whereas the residual interests of the trusts were retained by the Company. As a result of the retention of the residual interests and its continued role as servicer of the loans and leases, the Company is considered to be the primary beneficiary of the securitization trusts and, accordingly, the trusts have been included in the Company's consolidated financial statements. Assets held in each special purpose trust may only be used to settle the respective obligations of the asset-backed notes issued by that trust and the holders of the asset-backed notes have no recourse to the Company. The outstanding balances of those asset-backed notes issued to third party investors are included in Long-term borrowings in the Company's Consolidated Balance Sheet.
+- 36 -
+12. Variable interest entities and asset securitizations, continued
+Information about the asset-backed notes issued to investors and the respective special purpose trust at June 30, 2026 and December 31, 2025 are included in the following table.
+(Dollars in millions) | June 30, 2026
+December 31, 2025
+Issue Date | Collateral Type | Remaining Loan Collateral Balance | Asset-Backed Notes to Investors | Weighted-Average Life (In years) | Weighted-Average Rate | Remaining Loan Collateral Balance | Asset-Backed Notes to Investors |
+August 2023 | Equipment finance loans and leases | $ | 177 | $ | 78 | 0.4 | 5.74 | % | $ | 244 | $ | 141 |
+March 2024 | Automobile loans | 197 | 183 | 1.0 | 5.20 | 252 | 239 |
+August 2024 | Equipment finance loans and leases | 383 | 315 | 1.1 | 4.82 | 483 | 396 |
+February 2025 | Automobile loans | 424 | 407 | 1.2 | 4.71 | 529 | 513 |
+May 2025 | Equipment finance loans and leases | 461 | 373 | 1.5 | 4.77 | 546 | 441 |
+February 2026 | Recreational finance loans | 514 | 452 | 4.6 | 4.35 | -- | -- |
+May 2026 | Automobile loans | 976 | 971 | 1.6 | 4.43 | -- | -- |
+$ | 2,779 | $ | 1,730 |
+M&T has issued Junior Subordinated Debentures payable to various trusts that have issued Preferred Capital Securities and Common Securities. M&T owns the Common Securities of those trust entities. The Company is not considered to be the primary beneficiary of those entities and, accordingly, the trusts are not included in the Company's consolidated financial statements. At each of June 30, 2026 and December 31, 2025, the Company included the Junior Subordinated Debentures in Long-term borrowings in the Company's Consolidated Balance Sheet and recognized $16 million in Accrued interest and other assets for its "investment" in the Common Securities of the trusts that will be concomitantly repaid to M&T by the respective trust from the proceeds of M&T's repayment of the Junior Subordinated Debentures associated with the Preferred Capital Securities.
+The Company has invested as a limited partner in various partnerships that collectively had total assets of approximately $10.7 billion at each of June 30, 2026 and December 31, 2025. Those partnerships generally construct or acquire properties, including properties and facilities that produce renewable energy, for which the investing partners are eligible to receive certain federal income tax credits in accordance with government guidelines. Such investments may also provide tax deductible losses to the partners. The partnership investments also assist the Company in achieving its community reinvestment initiatives. The Company, in its position as a limited partner, does not direct the activities that most significantly impact the economic performance of the partnerships and, therefore, the partnership entities are not included in the Company's consolidated financial statements. Information on the Company's carrying amount of its investments in tax equity partnerships and its related future funding commitments are presented in the following table.
+(Dollars in millions) | June 30, 2026 | December 31, 2025 |
+Affordable housing projects: |
+Carrying amount (a) | $ | 1,816 | $ | 1,867 |
+Amount of future funding commitments included in carrying amount (b) | 806 | 889 |
+Contingent commitments | 108 | 109 |
+Renewable energy: |
+Carrying amount (a) | 96 | 67 |
+Amount of future funding commitments included in carrying amount (b) | 35 | 66 |
+Other: |
+Carrying amount (a) | 45 | 33 |
+Amount of future funding commitments included in carrying amount | -- | -- |
+__________________________________________________________________________________
+(a)Included in Accrued interest and other assets in the Company's Consolidated Balance Sheet.
+(b)Included in Accrued interest and other liabilities in the Company's Consolidated Balance Sheet.
+- 37 -
+12. Variable interest entities and asset securitizations, continued
+The reduction to income tax expense recognized from the Company's investments in partnerships accounted for using the proportional amortization method was $16 million (net of $50 million of investment amortization) and $10 million (net of $45 million of investment amortization) for the three months ended June 30, 2026 and 2025, respectively, and $32 million (net of $99 million of investment amortization) and $20 million (net of $89 million of investment amortization) for the six months ended June 30, 2026 and 2025, respectively. The net reduction to income tax expense has been reported in Net change in other accrued income and expense in the Consolidated Statement of Cash Flows. While the Company has elected to apply the proportional amortization method for renewable energy credit investments, at June 30, 2026 no such investments met the eligibility criteria for application of that method. The reduction to income tax expense recognized from renewable energy credit investments was $5 million and $11 million for the three-month and six-month periods ended June 30, 2026, respectively, and $6 million and $12 million for the three-month and six-month periods ended June 30, 2025, respectively. As a limited partner, there is no recourse to the Company by creditors of the partnerships. However, the tax credits that result from the Company's investments in such partnerships are generally subject to recapture should a partnership fail to comply with the respective government regulations. The Company has not provided financial or other support to the partnerships that was not contractually required. Although the Company currently estimates that no material losses are probable, its maximum exposure to loss from its investments in such partnerships as of June 30, 2026 was $2.3 billion, including possible recapture of certain tax credits.
+The Company serves as investment advisor for certain registered money-market funds. The Company has no explicit arrangement to provide support to those funds, but may waive portions of its allowable management fees as a result of market conditions.
+13. Fair value measurements
+GAAP permits an entity to choose to measure eligible financial instruments and other items at fair value. Effective January 1, 2026 the Company has elected to account for its residential mortgage loan servicing right assets at fair value. Further information about this election is included in note 1. The Company has not made any other fair value elections at June 30, 2026.
+Pursuant to GAAP, fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. A three-level hierarchy exists in GAAP for fair value measurements based upon the inputs to the valuation of an asset or liability.
+&#8226;Level 1 -- Valuation is based on quoted prices in active markets for identical assets and liabilities.
+&#8226;Level 2 -- Valuation is determined from quoted prices for similar assets or liabilities in active markets, quoted prices for identical or similar instruments in markets that are not active or by model-based techniques in which all significant inputs are observable in the market.
+&#8226;Level 3 -- Valuation is derived from model-based and other techniques in which at least one significant input is unobservable and which may be based on the Company's own estimates about the assumptions that market participants would use to value the asset or liability.
+When available, the Company attempts to use quoted market prices in active markets to determine fair value and classifies such items as Level 1 or Level 2. If quoted market prices in active markets are not available, fair value is often determined using model-based techniques incorporating various assumptions including interest rates, prepayment speeds and credit losses. Assets and liabilities valued using model-based techniques are classified as either Level 2 or Level 3, depending on the lowest level classification of an input that is considered significant to the overall valuation. A description of the valuation methodologies used for the Company's assets and liabilities that are measured at fair value on a recurring basis and on a nonrecurring basis is included in notes 1 and 19 of Notes to Financial Statements in M&T's 2025 Annual Report.
+- 38 -
+13. Fair value measurements, continued
+Recurring fair value measurements
+The following tables present assets and liabilities at June 30, 2026 and December 31, 2025 measured at fair value on a recurring basis.
+(Dollars in millions) | Fair Value Measurements | Level 1 | Level 2 | Level 3 |
+June 30, 2026 |
+Investment securities available for sale: |
+U.S. Treasury | $ | 3,227 | $ | -- | $ | 3,227 | $ | -- |
+Mortgage-backed securities: |
+Government issued or guaranteed: |
+Commercial | 4,755 | -- | 4,755 | -- |
+Residential | 17,387 | -- | 17,387 | -- |
+Other | 1 | -- | 1 | -- |
+Total investment securities available for sale | 25,370 | -- | 25,370 | -- |
+Equity securities | 245 | 245 | -- | -- |
+Real estate loans held for sale | 515 | -- | 515 | -- |
+Residential mortgage loan servicing rights | 540 | -- | -- | 540 |
+Other assets | 332 | 13 | 315 | 4 |
+Total assets | $ | 27,002 | $ | 258 | $ | 26,200 | $ | 544 |
+Other liabilities | $ | 503 | $ | -- | $ | 503 | $ | -- |
+Total liabilities | $ | 503 | $ | -- | $ | 503 | $ | -- |
+December 31, 2025 |
+Investment securities available for sale: |
+U.S. Treasury | $ | 6,343 | $ | -- | $ | 6,343 | $ | -- |
+
+----- [line 1772] -----
+Net interest spread | 3.03 | 2.81 |
+Contribution of interest-free funds | .67 | .83 |
+Net interest income/margin on earning assets | $ | 3,567 | 3.70 | % | $ | 3,429 | 3.64 | % |
+Total deposits | $ | 163,848 | $ | 1,161 | 1.43 | % | $ | 162,175 | $ | 1,378 | 1.71 | % |
+__________________________________________________________________________________
+(a)Includes nonaccrual loans.
+(b)Includes available-for-sale securities at amortized cost.
+(c)Primarily government issued or guaranteed.
+(d)The yield on state and political subdivision investment securities for the six-month period ended June 30, 2025 reflects $18 million of lower taxable-equivalent interest income resulting from an alignment of amortization periods for certain municipal bonds obtained from the acquisition of People's United Financial, Inc.
+- 50 -
+Taxable-equivalent net interest income can be impacted by changes in the composition of the Company's earning assets and interest-bearing liabilities, as discussed herein, as well as changes in interest rates and spreads. The FOMC lowered its federal funds target interest rate by a total of 75 basis points in the last four months of 2025 and maintained its target through the second quarter of 2026.
+Taxable-equivalent net interest income increased $41 million in the recent quarter as compared with the first quarter of 2026 reflective of an additional calendar day in the recent quarter, an increase in interest income on nonaccrual loans and higher average earning assets. The net interest margin remained unchanged at 3.70% reflecting a 5 basis-point increase in yields received on earning assets offset by a 4 basis-point increase in rates paid on interest-bearing liabilities and a 1 basis-point decrease in the contribution of interest-free funds.
+Taxable-equivalent net interest income for the first six months of 2026 increased $138 million as compared with the same 2025 period. That increase reflects a 6 basis-point widening of the net interest margin driven by a 35 basis-point decrease in the cost of interest-bearing liabilities, partially offset by a 13 basis-point decline in yields received on earning assets. Contributing to those changes was the aforementioned FOMC interest rate reductions in 2025. The yields received on earning assets in the first six months of 2026 reflect a comparatively favorable impact from interest rate swap agreements entered into for interest rate risk purposes on yields received on commercial and industrial and commercial real estate loans. Partially offsetting the overall decline in yields received on earning assets was an increase in the yields received on investment securities from the deployment of liquidity into fixed rate investment securities throughout 2025 and the first six months of 2026 that yielded higher rates than investment securities that matured or were sold. The 22 basis-point increase in net interest spread was partially offset by a 16 basis-point reduction in the contribution of interest-free funds, reflecting a lower rate environment.
+Future changes in market interest rates or spreads, as well as changes in the composition of the Company's portfolios of earning assets and interest-bearing liabilities that result in changes to spreads, could impact the Company's net interest income and net interest margin. Future changes in the levels of net interest-free funds and the interest rates used to value such funds could also impact the Company's net interest margin.
+Interest rate swap agreements
+Management assesses the potential impact of future changes in interest rates and spreads by projecting net interest income under several interest rate scenarios. In managing interest rate risk, the Company has utilized interest rate swap agreements to modify the repricing characteristics of certain portions of its earning assets and interest-bearing liabilities. Under the terms of those interest rate swap agreements, the Company generally received payments based on the outstanding notional amount at fixed rates and made payments at variable rates. Periodic settlement amounts arising from these agreements are reflected in either the yields received on earning assets or the rates paid on interest-bearing liabilities. The Company enters into forward-starting interest rate swap agreements predominantly to hedge interest rate exposures expected in future periods. The following table summarizes information about interest rate swap agreements entered into for interest rate risk management purposes at June 30, 2026 and December 31, 2025.
+- 51 -
+INTEREST RATE SWAP AGREEMENTS - DESIGNATED AS HEDGES
+Notional Amount | Weighted-Average
+Maturity
+(In years) | Weighted-
+Average Rate
+(Dollars in millions) | Fixed
+Variable
+June 30, 2026 |
+Fair value hedges: |
+Fixed rate long-term borrowings -- active | $ | 6,100 | 4.3 | 3.56 | % | 3.79 | % |
+Total fair value hedges | 6,100 | 4.3 |
+Cash flow hedges: |
+Variable rate commercial real estate and commercial and industrial loans: |
+Active | 16,000 | 0.7 | 3.82 | 3.63 |
+Forward-starting | 10,200 | 1.8 | 3.52 | 3.62 |
+Total cash flow hedges | 26,200 | 1.1 |
+Total | $ | 32,300 | 1.7 |
+December 31, 2025 |
+Fair value hedges: |
+Fixed rate long-term borrowings -- active | $ | 4,350 | 3.9 | 3.52 | % | 4.09 | % |
+Fixed rate long-term borrowings -- forward-starting | 1,750 | 7.1 | 3.68 | 3.84 |
+Total fair value hedges | 6,100 | 4.8 |
+Cash flow hedges: |
+Variable rate commercial real estate and commercial and industrial loans: |
+Active | 15,200 | 0.7 | 3.81 | 3.78 |
+Forward-starting | 9,700 | 2.0 | 3.37 | 3.84 |
+Total cash flow hedges | 24,900 | 1.3 |
+Total | $ | 31,000 | 2.0 |
+Information regarding the fair value of interest rate swap agreements designated as fair value hedges and cash flow hedges is presented in note 11 of Notes to Financial Statements. The average notional amounts of interest rate swap agreements entered into for interest rate risk management purposes (excluding forward-starting interest rate swap agreements not in effect during the quarter), the related effect on net interest income and margin, and the weighted-average interest rates received or paid on those swap agreements are presented in the table that follows.
+INTEREST RATE SWAP AGREEMENTS - EFFECT ON NET INTEREST INCOME
+Three Months Ended | Six Months Ended |
+June 30, 2026 | March 31, 2026 | June 30, 2026 | June 30, 2025 |
+(Dollars in millions) | Amount | Rate (a) | Amount | Rate (a) | Amount | Rate (a) | Amount | Rate (a) |
+Increase (decrease) in: |
+Interest income | $ | 8 | .02 | % | $ | 5 | .01 | % | $ | 13 | .01 | % | $ | (86) | -.09 | % |
+Interest expense | 3 | .01 | 4 | .01 | 7 | .01 | 20 | .03 |
+Net interest income/margin | $ | 5 | .01 | % | $ | 1 | -- | % | $ | 6 | .01 | % | $ | (106) | -.11 | % |
+Average notional amount (b) | $ | 21,265 | $ | 20,926 | $ | 21,096 | $ | 22,072 |
+Rate received (c) | 3.75 | % | 3.76 | % | 3.76 | % | 3.42 | % |
+Rate paid (c) | 3.68 | 3.74 | 3.71 | 4.38 |
+__________________________________________________________________________________
+(a)Computed as an annualized percentage of average earning assets or interest-bearing liabilities.
+(b)Excludes forward-starting interest rate swap agreements not in effect during the period.
+(c)Weighted-average rate received or paid on interest rate swap agreements in effect during the period.
+- 52 -
+Lending activities
+The following table summarizes changes in the components of average loans.
+AVERAGE LOANS
+Three Months Ended | Six Months Ended |
+(Dollars in millions) | June 30,
+2026 | March 31,
+2026 | Percentage Change | June 30,
+2026 | June 30,
+2025 | Percentage Change
+Commercial and industrial | $ | 66,069 | $ | 63,804 | 4 | % | $ | 64,942 | $ | 61,046 | 6 | % |
+Real estate - commercial | 23,553 | 23,496 | -- | 23,525 | 25,794 | -9 |
+Real estate - residential | 25,086 | 24,817 | 1 | 24,952 | 23,431 | 6 |
+Consumer: |
+Home equity lines and loans | 4,846 | 4,792 | 1 | 4,819 | 4,582 | 5 |
+Recreational finance | 14,483 | 14,075 | 3 | 14,280 | 12,991 | 10 |
+Automobile | 4,992 | 5,084 | -2 | 5,038 | 5,061 | -- |
+Other | 2,398 | 2,355 | 2 | 2,377 | 2,222 | 7 |
+Total consumer | 26,719 | 26,306 | 2 | 26,514 | 24,856 | 7 |
+Total | $ | 141,427 | $ | 138,423 | 2 | % | $ | 139,933 | $ | 135,127 | 4 | % |
+Average loans totaled $141.4 billion in the second quarter of 2026, up $3.0 billion from the first quarter of 2026.
+&#8226;Average commercial and industrial loans increased $2.3 billion reflecting growth that spanned most industry types.
+&#8226;Commercial real estate loans increased $57 million, reflecting an increase of $243 million in average permanent commercial real estate loans, partially offset by a reduction of $186 million in average construction commercial real estate loans.
+&#8226;Average residential real estate loans increased $269 million reflecting purchases in the second quarter of 2026 and the retention of originated residential mortgage loans.
+&#8226;Average consumer loans increased $413 million reflecting higher average balances of recreational finance loans of $408 million.
+In the first six months of 2026, average loans increased $4.8 billion from the corresponding 2025 period.
+&#8226;Average commercial and industrial loans increased $3.9 billion reflecting growth that spanned most industry types.
+&#8226;Average commercial real estate loans declined $2.3 billion as the Company executed various strategies to reduce its relative concentration of such loans designated as criticized. Average permanent and construction commercial real estate loans decreased by $134 million and $2.1 billion, respectively. The decline in average commercial real estate construction loans reflects the sale of $661 million of out-of-footprint residential builder and developer loans in June 2025.
+&#8226;Average residential real estate loans increased $1.5 billion reflecting the retention of originated residential mortgage loans and purchases.
+&#8226;Average consumer loans increased $1.7 billion reflecting growth in average recreational finance loans of $1.3 billion and home equity loans and lines of credit of $237 million.
+- 53 -
+Commercial and industrial borrowers in the financial and insurance industry include real estate investment trusts and other specialty lending businesses including fund banking companies and mortgage warehouse lending businesses. At June 30, 2026 and December 31, 2025, approximately 91% and 89% of loans to the financial and insurance industry, respectively, and 7% of loans to the services industry, at each of those dates, were designated as loans to NDFIs as prescribed in regulatory guidance applicable to the Company. The following table presents commercial and industrial commitments and outstanding balances of loans to NDFIs at June 30, 2026 and December 31, 2025.
+COMMERCIAL AND INDUSTRIAL COMMITMENTS AND LOANS TO NDFIs
+June 30, 2026 | December 31, 2025 |
+(Dollars in millions)
+Commitment Amount | Outstanding Balance | Commitment Amount | Outstanding Balance |
+Mortgage credit intermediaries (a) | $ | 12,204 | $ | 6,555 | $ | 10,216 | $ | 5,610 |
+Private equity funds (b) | 5,912 | 3,537 | 5,981 | 3,287 |
+Business credit intermediaries (c) | 3,883 | 2,127 | 3,288 | 1,770 |
+Consumer credit intermediaries (d) | 935 | 521 | 1,145 | 731 |
+Other | 2,646 | 941 | 3,269 | 1,139 |
+Total | $ | 25,580 | $ | 13,681 | $ | 23,899 | $ | 12,537 |
+__________________________________________________________________________________
+(a)Includes real estate investment trust credit facilities, residential mortgage warehouse lines of credit and mortgage loan servicing rights secured financing.
+(b)Primarily subscription credit facilities.
+(c)Includes credit facilities to wholesale lender finance and leasing companies and business development companies.
+(d)Includes credit facilities to consumer lender finance and leasing companies.
+Investing activities
+The Company's investment securities portfolio is primarily comprised of government-issued or guaranteed residential and commercial mortgage-backed securities and U.S. Treasury securities, but also includes municipal and other securities. When purchasing investment securities, the Company considers its liquidity position and its overall interest rate risk profile as well as the adequacy of expected returns relative to risks assumed, including prepayments. The Company may occasionally sell investment securities as a result of movements in interest rates and spreads, changes in liquidity needs, actual or anticipated prepayments, credit risk associated with a particular security, or as a result of restructuring its investment securities portfolio. The amounts of investment securities held by the Company are influenced by such factors as available yield in comparison with alternative investments, demand for loans, which generally yield more than investment securities, ongoing repayments, the levels of deposits, and management of liquidity and balance sheet size and resulting capital ratios. Information about the Company's average investment securities portfolio is presented in the following table.
+AVERAGE INVESTMENT SECURITIES
+Three Months Ended | Six Months Ended |
+(Dollars in millions) | June 30,
+2026 | March 31,
+2026 | Percentage Change | June 30,
+2026 | June 30,
+2025 | Percentage Change |
+Investment securities available for sale: |
+U.S. Treasury | $ | 3,227 | $ | 5,391 | -40 | % | $ | 4,303 | $ | 7,980 | -46 | % |
+Mortgage-backed securities (a) | 22,213 | 18,995 | 17 | 20,613 | 12,395 | 66 |
+Other | 1 | 1 | -- | 1 | 3 | -69 |
+Total available for sale | 25,441 | 24,387 | 4 | 24,917 | 20,378 | 22 |
+Investment securities held to maturity: |
+U.S. Treasury | 397 | 404 | -2 | 401 | 541 | -26 |
+Mortgage-backed securities (a) | 9,550 | 9,761 | -2 | 9,655 | 10,626 | -9 |
+State and political subdivisions | 2,057 | 2,104 | -2 | 2,080 | 2,293 | -9 |
+Other | 1 | 1 | -3 | 1 | 1 | -13 |
+Total held to maturity | 12,005 | 12,270 | -2 | 12,137 | 13,461 | -10 |
+Equity and other securities | 1,282 | 1,188 | 8 | 1,235 | 1,070 | 15 |
+Total investment securities | $ | 38,728 | $ | 37,845 | 2 | % | $ | 38,289 | $ | 34,909 | 10 | % |
+__________________________________________________________________________________
+(a)Primarily government issued or guaranteed.
+- 54 -
+The investment securities portfolio averaged $38.7 billion in the second quarter of 2026, up $883 million from the first quarter of 2026, and $38.3 billion for the six months ended June 30, 2026, an increase of $3.4 billion from the similar 2025 period. Those increases reflect the Company's deployment of liquidity into primarily fixed-rate mortgage-backed investment securities classified as available for sale. In the first quarter of 2026 the Company sold $2.5 billion of U.S. Treasury securities, all of which had maturity dates in 2026. There were no significant sales of debt investment securities in the second quarter of 2026. As a result of the purchases of higher-yielding securities and sales, paydowns and maturities of lower-yielding securities, the weighted-average current yield for total investment securities available for sale increased to 4.73% and 4.71% at June 30, 2026 and March 31, 2026, respectively, from 4.50% at June 30, 2025. The weighted-average duration of that portfolio was 3.1 years at each of June 30, 2026 and March 31, 2026 as compared with 2.6 years at June 30, 2025. The increase in the weighted-average duration from June 30, 2025 reflects the sale of U.S. Treasury securities near maturity and purchase of fixed-rate mortgage-backed investment securities with longer maturity dates. In July 2026, the Company transferred $8.3 billion of residential mortgage-backed securities from the available-for-sale portfolio to the held-to-maturity portfolio with gross unrealized gains of $32 million and gross unrealized losses of $24 million at the time of transfer. The Company routinely adjusts its holdings of capital stock of the FHLB of New York and the FRB of New York based on amounts of outstanding borrowings and available lines of credit with those entities.
+The Company regularly reviews its debt investment securities for declines in value below amortized cost that might be indicative of credit-related losses. There were no credit-related losses on debt investment securities recognized in each of the six months ended June 30, 2026 and June 30, 2025. Additional information about the investment securities portfolio is included in notes 3 and 13 of Notes to Financial Statements.
+Other earning assets are comprised primarily of interest-bearing deposits at banks. Other earning assets averaged $15.1 billion and $16.3 billion during the three months ended June 30, 2026 and March 31, 2026, respectively, and $15.7 billion and $19.8 billion during the six months ended June 30, 2026 and 2025, respectively. The amounts of other earning assets at those respective dates were primarily comprised of deposits held at the FRB of New York. The Company considers such deposits to be an immediate source of funds in its liquidity management processes. In general, the levels of those deposits often fluctuate due to changes in deposits of retail and commercial customers, trust-related deposits and brokered deposits, lending activities and additions to or maturities of investment securities or borrowings.
+Funding activities - deposits
+The most significant source of funding for the Company is core deposits from its customer base. The Company considers noninterest-bearing deposits, savings and interest-checking deposits and time deposits of $250,000 or less as core deposits. The Company's domestic banking network is its principal source of core deposits, which generally carry lower interest rates than wholesale funds of comparable maturities. Average core deposits represented 79% of average earning assets for each of the quarters ended June 30, 2026 and March 31, 2026 and for the six months ended June 30, 2026 and 78% for the six months ended June 30, 2025. The Company also utilizes brokered deposits as a component of its wholesale funding strategy. Depending on market conditions, including demand by customers and other investors, and the cost of funds available from alternative sources, the Company may change the amount or composition of brokered deposits in the future. The following table provides an analysis of changes in the components of average deposits.
+- 55 -
+AVERAGE DEPOSITS
+Three Months Ended | Six Months Ended |
+(Dollars in millions) | June 30, 2026 | March 31, 2026 | Percentage Change | June 30, 2026 | June 30, 2025 | Percentage Change |
+Noninterest-bearing deposits | $ | 43,964 | $ | 44,547 | -1 | % | $ | 44,254 | $ | 45,294 | -2 | % |
+Savings and interest-checking deposits (a) | 100,243 | 97,066 | 3 | 98,664 | 92,791 | 6 |
+Time deposits of $250,000 or less | 9,967 | 9,951 | -- | 9,959 | 10,463 | -5 |
+Total core deposits (a) | 154,174 | 151,564 | 2 | 152,877 | 148,548 | 3 |
+Time deposits greater than $250,000 | 2,865 | 2,814 | 2 | 2,839 | 3,005 | -5 |
+Brokered savings and interest-checking deposits (a) | 5,509 | 9,504 | -42 | 7,495 | 9,950 | -25 |
+Brokered time deposits | 976 | 294 | 233 | 637 | 672 | -5 |
+Total deposits | $ | 163,524 | $ | 164,176 | -- | % | $ | 163,848 | $ | 162,175 | 1 | % |
+__________________________________________________________________________________
+(a)During the second quarter of 2026, certain savings and interest-checking deposit arrangements were redesignated as core deposits consistent with regulatory presentation. The resulting increase in average core deposits and decrease in average brokered deposits was $3.5 billion for the quarter ended June 30, 2026 and $1.8 billion for the six months ended June 30, 2026.
+Total deposits averaged $163.5 billion in the recent quarter, down $652 million from the first quarter of 2026. Lower average noninterest-bearing deposits of $583 million and average brokered savings and interest-checking deposits were partially offset by an increase in average brokered time deposits of $682 million.
+In the first six months of 2026, total average deposits increased $1.7 billion from the corresponding 2025 period. Average core deposits increased $4.3 billion reflecting growth in average savings and interest-checking deposits from commercial customers and the redesignation of certain deposit arrangements in the second quarter of 2026. Partially offsetting that increase was lower average noninterest-bearing deposits predominantly from commercial customers.
+The accompanying table summarizes the components of average total deposits by reportable segment for the three months ended June 30, 2026 and March 31, 2026 and the six months ended June 30, 2026 and 2025.
+AVERAGE DEPOSITS BY REPORTABLE SEGMENT
+(Dollars in millions) | Commercial Bank | Retail Bank | Institutional Services and Wealth Management | All Other | Total |
+Three Months Ended June 30, 2026 |
+Noninterest-bearing deposits | $ | 9,689 | $ | 24,843 | $ | 8,766 | $ | 666 | $ | 43,964 |
+Savings and interest-checking deposits | 38,555 | 52,402 | 9,882 | 4,913 | 105,752 |
+Time deposits | 330 | 12,444 | 57 | 977 | 13,808 |
+Total | $ | 48,574 | $ | 89,689 | $ | 18,705 | $ | 6,556 | $ | 163,524 |
+Three Months Ended March 31, 2026 |
+Noninterest-bearing deposits | $ | 10,247 | $ | 24,249 | $ | 9,518 | $ | 533 | $ | 44,547 |
+Savings and interest-checking deposits | 38,906 | 52,174 | 10,102 | 5,388 | 106,570 |
+Time deposits | 294 | 12,422 | 49 | 294 | 13,059 |
+Total | $ | 49,447 | $ | 88,845 | $ | 19,669 | $ | 6,215 | $ | 164,176 |
+Six Months Ended June 30, 2026 |
+Noninterest-bearing deposits | $ | 9,967 | $ | 24,547 | $ | 9,140 | $ | 600 | $ | 44,254 |
+Savings and interest-checking deposits | 38,730 | 52,289 | 9,991 | 5,149 | 106,159 |
+Time deposits | 312 | 12,433 | 53 | 637 | 13,435 |
+Total | $ | 49,009 | $ | 89,269 | $ | 19,184 | $ | 6,386 | $ | 163,848 |
+Six Months Ended June 30, 2025 |
+Noninterest-bearing deposits | $ | 11,320 | $ | 24,335 | $ | 9,118 | $ | 521 | $ | 45,294 |
+Savings and interest-checking deposits | 34,053 | 52,244 | 9,714 | 6,730 | 102,741 |
+Time deposits | 329 | 13,103 | 34 | 674 | 14,140 |
+Total | $ | 45,702 | $ | 89,682 | $ | 18,866 | $ | 7,925 | $ | 162,175 |
+- 56 -
+Funding activities - borrowings
+The following table summarizes the average balances utilized from the Company's short-term and long-term borrowing facilities and note programs.
+AVERAGE BORROWINGS
+Three Months Ended | Six Months Ended |
+(Dollars in millions) | June 30,
+2026 | March 31,
+2026 | June 30,
+2026 | June 30,
+2025 |
+Short-term borrowings: |
+Federal funds purchased and repurchase agreements | $ | 470 | $ | 205 | $ | 338 | $ | 143 |
+FHLB advances | 7,546 | 5,490 | 6,524 | 2,957 |
+Total short-term borrowings | 8,016 | 5,695 | 6,862 | 3,100 |
+Long-term borrowings: |
+Senior notes | 8,427 | 7,534 | 7,983 | 8,100 |
+
+----- [line 2293] -----
+2026 | March 31,
+2026 | December 31, 2025 | June 30,
+2025 |
+Assets under management at period end |
+Trust assets under management (excluding proprietary funds) (a) | $ | 84,705 | $ | 68,298 | $ | 68,104 | $ | 66,199 |
+Proprietary mutual funds | 15,216 | 16,169 | 16,075 | 14,543 |
+Total assets under management | $ | 99,921 | $ | 84,467 | $ | 84,179 | $ | 80,742 |
+__________________________________________________________________________________
+(a)The increase in trust assets under management from March 31, 2026 to June 30, 2026 predominantly reflects managed assets related to a single customer construction project.
+Trust income increased $14 million in the recent quarter as compared with the first quarter of 2026. Institutional Services trust income increased $8 million reflecting higher sales and fund management fees and Wealth Management trust income rose $6 million reflecting annual tax service fees received in the recent quarter and comparatively favorable market performance associated with managed assets.
+For the six months ended June 30, 2026 trust income increased $21 million as compared with the similar 2025 period. Institutional Services trust income rose $10 million reflecting higher sales and fund management fees and Wealth Management trust income increased $11 million reflecting comparatively higher assets under management and favorable market performance associated with those assets.
+Trading account and other non-hedging derivative gains
+The Company enters into interest rate swap agreements and foreign exchange contracts with customers who need such services and concomitantly enters into offsetting trading positions with third parties to minimize the risks involved with these types of transactions. Information about the notional amount of interest rate, foreign exchange and other non-hedging contracts entered into by the Company is included in note 11 of Notes to Financial Statements and herein under the heading "Market Risk and Interest Rate Sensitivity." The $8 million and $15 million increase in trading account and other non-hedging derivative gains in the three and six months ended June 30, 2026 as compared with the first quarter of 2026 and first half of 2025, respectively, reflects higher revenues from interest rate swap transactions with commercial customers.
+- 68 -
+Other revenues from operations
+The components of other revenues from operations are presented in the accompanying table.
+OTHER REVENUES FROM OPERATIONS
+Three Months Ended | Change | Six Months Ended | Change |
+(Dollars in millions) | June 30,
+2026 | March 31,
+2026 | Amount | % | June 30,
+2026 | June 30,
+2025 | Amount | % |
+Letter of credit and other credit-related fees | $ | 55 | $ | 54 | $ | 1 | -- | % | $ | 109 | $ | 107 | $ | 2 | 2 | % |
+Merchant discount and credit card fees | 47 | 41 | 6 | 17 | 88 | 89 | (1) | -2 |
+Bank owned life insurance revenue | 20 | 18 | 2 | 5 | 38 | 35 | 3 | 8 |
+Equipment operating lease income | 11 | 11 | -- | 1 | 22 | 25 | (3) | -12 |
+BLG income (a) | 47 | 33 | 14 | 43 | 80 | -- | 80 | -- |
+Other | 33 | 30 | 3 | 11 | 63 | 77 | (14) | -17 |
+Total other revenues from operations | $ | 213 | $ | 187 | $ | 26 | 14 | % | $ | 400 | $ | 333 | $ | 67 | 20 | % |
+__________________________________________________________________________________
+(a)During 2017, the operating losses of BLG resulted in M&T reducing the carrying value of its investment in BLG to zero. Subsequently, M&T has received cash distributions from BLG each year that resulted in the recognition of income by M&T. M&T expects cash distributions from BLG in the future, but the timing and amount of those distributions are not within M&T's control. BLG is entitled to receive distributions from its affiliates that provide asset management and other services that are available for distribution to M&T. Information about the Company's relationship with BLG and its affiliates is included in note 16 of Notes to Financial Statements.
+Other revenues from operations increased $26 million in the second quarter of 2026 as compared with the first quarter of 2026 reflecting a $47 million distribution from M&T's investment in BLG in the recent quarter as compared with a $33 million distribution in the first quarter of 2026 and a rise in merchant discount and credit card fees.
+Higher other revenues from operations in the first half of 2026 as compared with the first six months of 2025 reflected $80 million in distributions received from M&T's investment in BLG in the first six months of 2026, partially offset by gains on the sales of an out-of-footprint residential builder and developer loan portfolio of $15 million and a subsidiary that specialized in institutional services of $10 million in the first half of 2025.
+Other Expense
+The components of other expense are presented in the accompanying table.
+OTHER EXPENSE
+Three Months Ended | Change | Six Months Ended | Change |
+(Dollars in millions) | June 30,
+2026 | March 31,
+2026 | Amount | % | June 30,
+2026 | June 30,
+2025 | Amount | % |
+Salaries and employee benefits | $ | 826 | $ | 914 | $ | (88) | -10 | % | $ | 1,740 | $ | 1,700 | $ | 40 | 2 | % |
+Equipment and net occupancy | 129 | 133 | (4) | -2 | 262 | 262 | -- | -- |
+Outside data processing and software | 154 | 144 | 10 | 8 | 298 | 274 | 24 | 9 |
+Professional and other services | 89 | 93 | (4) | -5 | 182 | 170 | 12 | 7 |
+FDIC assessments | 18 | 23 | (5) | -27 | 41 | 45 | (4) | -10 |
+Advertising and marketing | 27 | 21 | 6 | 31 | 48 | 47 | 1 | 1 |
+Amortization of core deposit and other
+intangible assets | 7 | 9 | (2) | -26 | 16 | 22 | (6) | -27 |
+Other costs of operations | 99 | 101 | (2) | -2 | 200 | 231 | (31) | -13 |
+Total other expense | $ | 1,349 | $ | 1,438 | $ | (89) | -6 | % | $ | 2,787 | $ | 2,751 | $ | 36 | 1 | % |
+Average full-time equivalent employees | 21,686 | 21,990 | (304) | -1 | % | 21,815 | 22,316 | (501) | -2 | % |
+Full-time equivalent employees at period end | 21,662 | 21,866 | (204) | -1 | 21,662 | 22,590 | (928) | -4 |
+- 69 -
+Salaries and employee benefits
+Salaries and employee benefits expense decreased $88 million in the recent quarter as compared with the first quarter of 2026 reflecting seasonally higher stock-based compensation, payroll-related taxes and other employee benefits expense in the first quarter of 2026 and lower average staffing levels in the recent quarter, partially offset by the full-quarter impact of annual merit increases awarded in the first quarter of 2026 and an additional working day in the recent quarter.
+Salaries and employee benefits expense increased $40 million in the six months ended June 30, 2026 as compared with the year-earlier period reflecting higher salaries expense from annual merit and other increases and an increase in stock-based incentive compensation. Also contributing to the increase was higher employee benefits expense, reflecting a rise in medical benefits expense and retirement savings plan expense. A decline in average staffing levels partially offset those salaries and employee benefits expenses.
+Nonpersonnel expenses
+Nonpersonnel expenses of $523 million in the recent quarter declined nominally from $524 million in the first quarter of 2026 as lower FDIC assessments, professional and other services expense and equipment and net occupancy costs were largely offset by an increase in outside data processing and software expense related to enhancements to the Company's technology infrastructure, cybersecurity and financial recordkeeping and reporting systems.
+Nonpersonnel expenses aggregated $1.05 billion in each of the six months ended June 30, 2026 and 2025, declining nominally and reflecting lower other costs of operations of $31 million driven by amortization associated with residential mortgage loan servicing right assets of $51 million in the first half of 2025, partially offset by higher costs associated with the Company's supplemental executive retirement savings plan in the first six months of 2026 due to market performance. Largely offsetting the lower other costs of operations was a rise in outside data processing and software costs of $24 million reflecting enhancements to the Company's technology infrastructure, cybersecurity and financial recordkeeping and reporting systems, and higher professional and other services expense of $12 million, reflecting higher legal and review costs.
+Income Taxes
+The Company's effective income tax rate was 23.1% for each of the second quarter of 2026 and the six months ended June 30, 2026 compared with 23.0% for the first quarter of 2026 and 23.3% for the six months ended June 30, 2025. The Company's effective tax rate is affected by the level of income earned that is exempt from tax relative to the overall level of pre-tax income, the amount of income allocated to the various state and local jurisdictions where the Company operates, because tax rates differ among such jurisdictions, and the impact of any large discrete or infrequently occurring items. The Company's effective tax rate in future periods may also be affected by any change in income tax laws or regulations and interpretations of income tax regulations that differ from the Company's interpretations by any of the various tax authorities that may examine tax returns filed by M&T or any of its subsidiaries.
+Liquidity Risk
+As a financial intermediary, the Company is exposed to various risks, including liquidity and market risk. Liquidity refers to the Company's ability to ensure that sufficient cash flow and liquid assets are available to satisfy current and future obligations, including demands for loans and deposit withdrawals, funding operating costs and other corporate purposes. Liquidity risk arises whenever the cash flows associated with financial instruments included in assets and liabilities differ.
+The most significant source of funding for the Company is core deposits, which are generated from a large base of consumer, corporate and institutional customers. That customer base has become more geographically diverse as a result of expansion of the Company's businesses over time. Nevertheless, the Company faces competition in offering products and services from a large array of financial market participants, including banks, thrifts, mutual funds, securities dealers and others. Core deposits totaled $158.6 billion at June 30, 2026, up from $153.3 billion at December 31, 2025. The higher level of core deposits at June 30, 2026 reflects an increase in savings and interest-
+- 70 -
+checking deposits, inclusive of the redesignation of certain brokered deposit arrangements that totaled $4.0 billion at March 31, 2026 as core deposits consistent with regulatory presentation, and growth of noninterest-bearing deposits.
+The Company supplements funding provided through core deposits with various short-term and long-term wholesale borrowings, including overnight federal funds purchases, repurchase agreements, advances from the FHLBs, brokered deposits and longer-term borrowings. M&T Bank has access to additional funding sources through secured borrowings from the FHLB of New York and the FRB of New York. M&T Bank is also a counterparty to the FRB of New York standing repurchase agreement facility, which allows it to enter into overnight repurchase transactions using eligible investment securities. At June 30, 2026 and December 31, 2025, long-term borrowings aggregated $13.6 billion and $10.9 billion, respectively, and short-term borrowings aggregated $4.6 billion and $2.1 billion, respectively. The higher balance of short-term borrowings at June 30, 2026 reflects the Company's wholesale funding strategy and liquidity considerations. Information about the Company's borrowings is included in note 5 of Notes to Financial Statements.
+The Company's wholesale funding sources include the placement of brokered deposits. Such deposits were comprised of savings and interest-checking and time deposit accounts that totaled 4% of the Company's total deposit base at June 30, 2026, compared with 7% at December 31, 2025. The lower level of brokered deposits reflects the redesignation of certain savings and interest-checking deposit arrangements as core deposits consistent with regulatory presentation, partially offset by higher brokered time deposits. The Company actively adjusts its wholesale funding sources in consideration of the competitive landscape for customer deposits and maintenance of its liquidity profile.
+Total uninsured deposits were estimated to be $78.6 billion at June 30, 2026 and $78.9 billion at December 31, 2025. Approximately $9.6 billion and $9.0 billion of those uninsured deposits were collateralized by the Company at June 30, 2026 and December 31, 2025, respectively. The Company maintains available liquidity sources, which at June 30, 2026 represented approximately 124% of uninsured deposits that were not collateralized by the Company.
+In addition to deposits and borrowings, other sources of liquidity include maturities and repayments of investment securities, loans and other earning assets, as well as cash generated from operations, such as fees collected for services. The Company also has the ability to securitize or sell certain financial assets, including various loan types, to provide other liquidity alternatives. U.S. Treasury and government-issued or guaranteed mortgage-backed securities comprised 94% of the Company's debt securities portfolio at June 30, 2026. The weighted-average durations of debt investment securities available for sale and held to maturity at June 30, 2026 were 3.1 years and 4.6 years, respectively.
+The Company's ability to obtain funding from these sources could be negatively impacted should the Company experience a substantial deterioration in its financial condition or its debt ratings or should the availability of funding become restricted due to a disruption in the financial markets. The Company attempts to quantify such risks by conducting scenario analyses that estimate the liquidity impact resulting from a debt ratings downgrade and other market events. Such impact is estimated by attempting to measure the effect on available unsecured lines of credit, available capacity from secured borrowing sources and securitizable assets. On May 12, 2026, Fitch upgraded its ratings of M&T Bank's long-term deposits from A+ to AA- and short-term deposits from F1 to F1+.
+The Company enters into contractual obligations in the normal course of business that require future cash payments. Such obligations include, among others, payments related to deposits, borrowings, leases and other contractual commitments. Off-balance sheet commitments to customers may impact liquidity, including commitments to extend credit, standby letters of credit, commercial letters of credit, financial guarantees and indemnification contracts and commitments to sell real estate loans. Because many of these commitments or contracts expire without being funded in whole or in part, the contract amounts are not necessarily indicative of future cash flows. Further discussion of these commitments is provided in note 14 of Notes to Financial Statements.
+M&T's primary source of funds to pay for operating expenses, shareholder dividends and treasury stock repurchases has historically been the receipt of dividends from its bank subsidiaries, which are subject to various regulatory limitations. Dividends from any bank subsidiary to M&T are limited by the amount of earnings of the subsidiary in the current year and the two preceding years. For purposes of that test, at June 30, 2026 approximately $1.65 billion was available for payment of dividends to M&T from bank subsidiaries. M&T may also obtain funding through
+- 71 -
+long-term borrowings and the repayment of advances to subsidiaries. Further information about the long-term outstanding borrowings of M&T is provided in note 5 of Notes to Financial Statements. As a bank holding company, M&T is obligated to serve as a managerial and financial source of strength to its bank subsidiaries as described in Part I, Item 1, "Business" of M&T's 2025 Annual Report and may provide advances to those subsidiaries. As its ability to access the capital markets may be affected by market disruptions, M&T maintains sufficient resources at its parent company to satisfy projected cash outflows for an extended period without reliance on dividends from subsidiaries or external financing. As of June 30, 2026, M&T's parent company liquidity, inclusive of the projected repayment of notes receivable from bank subsidiaries, covered projected cash outflows for 29 months, including dividends on common and preferred stock, debt service and scheduled debt maturities.
+The Company's Executive ALCO Committee closely monitors the Company's liquidity position on an ongoing basis for compliance with internal policies and regulatory expectations. As a Category IV institution, the Company adheres to enhanced liquidity standards which require the performance of internal liquidity stress testing. The stress testing is designed to ensure the Company has sufficient liquidity to withstand both institution-specific and market-wide stress scenarios. For each scenario, the Company applies liquidity stress which may include deposit run-off, increased draws on unfunded loan commitments, increased collateral need for margin calls, increased haircuts on investment security-based funding and reductions in unsecured and secured borrowing capacity. Stress scenarios are measured over various time frames ranging from overnight to twelve months. As required by regulation, the Company maintains a liquidity buffer comprised of cash and highly liquid unencumbered securities to cover a 30-day stress horizon. Liquidity stress events occurring over longer time horizons can be mitigated by the availability of secured funding sources at the FHLB of New York and FRB of New York. As described in Part I, Item 1, "Liquidity" of M&T's 2025 Annual Report, the Federal Reserve and other federal banking regulators established the LCR as a uniform measure to ensure banking organizations hold sufficient amounts of cash and unencumbered high-quality liquid assets to cover net cash outflows over a 30-day liquidity stress period. As a Category IV institution with less than a $50 billion balance of weighted short-term wholesale funding, M&T is not subject to the LCR. M&T, however, estimates that its LCR on June 30, 2026 was 106%, exceeding the regulatory minimum standards that would be applicable if it were a Category III institution subject to the Category III reduced LCR requirements.
+The table that follows is a summary of the Company's available sources of liquidity as of June 30, 2026 and December 31, 2025.
+AVAILABLE LIQUIDITY SOURCES
+(Dollars in millions) | June 30, 2026 | December 31, 2025 |
+Deposits at the FRB of New York | $ | 15,408 | $ | 16,966 |
+Unused secured borrowing facilities: |
+FRB of New York | 26,094 | 25,443 |
+FHLB of New York | 15,403 | 18,302 |
+Unencumbered investment securities (after estimated haircuts) | 28,633 | 27,241 |
+Total | $ | 85,538 | $ | 87,952 |
+Management continuously evaluates the use and mix of its various available funding alternatives, including short-term borrowings, issuances of long-term debt, the placement of brokered deposits and the securitization of certain loan products. Management does not anticipate engaging in any activities, either currently or in the long term, for which adequate funding would not be available and would therefore result in a significant strain on liquidity at either M&T or its subsidiary banks. In accordance with liquidity regulations, the Company maintains a contingency funding plan to facilitate on-going liquidity management in times of liquidity stress. The plan outlines various funding options available during a liquidity stress event and establishes a clear escalation protocol to be followed within the Company's Enterprise Risk Framework. The plan sets forth funding strategies and procedures that management can quickly leverage to assist in decision-making and specifies roles and responsibilities for departments impacted by a potential liquidity stress event.
+- 72 -
+Market Risk and Interest Rate Sensitivity
+Market risk is the risk of loss from adverse changes in the market prices and/or interest rates of the Company's financial instruments. A primary market risk the Company is exposed to is interest rate risk. Interest rate risk arises from the Company's core banking activities of lending and deposit-taking, because assets and liabilities reprice at different times and by different amounts as interest rates change. As a result, net interest income earned by the Company is subject to the effects of changing interest rates. The Company measures interest rate risk by calculating the variability of net interest income in future periods under various interest rate scenarios using projected balances for earning assets, interest-bearing liabilities and derivatives used to hedge interest rate risk. Management's philosophy toward interest rate risk management is to limit the variability of net interest income.
+The Company's Executive ALCO Committee monitors the sensitivity of the Company's net interest income to changes in interest rates with the aid of a computer model that forecasts net interest income under different interest rate scenarios. In modeling changing interest rates, the Company considers different yield curve shapes that contemplate both parallel (that is, when interest rates at each point of the yield curve change by the same magnitude) and non-parallel (that is, allowing interest rates at points on the yield curve to change by different amounts) shifts in the yield curve. The Company also contemplates instantaneous and gradual shifts in the yield curve over the scenario time horizon. In utilizing the model, market-implied forward interest rates over the subsequent twelve months are generally used to determine a base interest rate scenario for the net interest income simulation. That calculated base net interest income is then compared with the income calculated under the varying interest rate scenarios. The model considers the impact of ongoing lending and deposit-gathering activities, as well as interrelationships in the magnitude and timing of the repricing of financial instruments, including the effect of changing interest rates on expected prepayments and maturities.
+Management has taken actions to mitigate exposure to interest rate risk through the use of on- and off-balance sheet financial instruments and intends to do so in the future. Possible actions include, but are not limited to, changes in the pricing of loan and deposit products, modifying the composition of earning assets and interest-bearing liabilities, and adding to, modifying or terminating existing interest rate swap agreements or other financial instruments used for interest rate risk management purposes. At June 30, 2026, the aggregate notional amount of interest rate swap agreements entered into for interest rate risk management purposes that were currently in effect was $22.1 billion. In addition, the Company has entered into $10.2 billion of forward-starting interest rate swap agreements designated for hedging purposes. Information about interest rate swap agreements entered into for interest rate risk management purposes is included herein under the heading "Taxable-equivalent Net Interest Income" and in note 11 of Notes to Financial Statements.
+The accompanying table as of June 30, 2026 and December 31, 2025 displays the estimated impact on projected net interest income in the base scenarios described above resulting from changes in market interest rates. The scenarios presented in the table below assume a gradual and parallel change in interest rates across repricing categories during the first modeling year.
+SENSITIVITY OF NET INTEREST INCOME TO CHANGES IN INTEREST RATES
+Calculated Percentage Change
+in Projected Net Interest Income |
+June 30, 2026 | December 31, 2025 |
+Changes in interest rates |
++200 basis points | -.64 | % | -.54 | % |
++100 basis points | -.18 | -.12 |
+-100 basis points | .03 | .04 |
+-200 basis points | -.12 | -.27 |
+- 73 -
+The Company utilized many assumptions to calculate the impact that changes in interest rates may have on net interest income. The more significant of those assumptions included the rate of prepayments of mortgage-related assets, cash flows from derivative and other financial instruments, loan and deposit volumes, mix and pricing, and deposit maturities. Variations in amounts presented since December 31, 2025 reflect changes in the composition of the Company's earning assets and interest-bearing liabilities, as well as the level of market-implied forward interest rates and hedging actions taken by the Company. M&T's cumulative upward deposit pricing beta, which is the change in deposit pricing in response to a change in market interest rates, approximated 55% amidst a rising interest rate environment from the first quarter of 2022 through the second quarter of 2024. Reflecting the first cuts of the federal funds target interest rate since March 2020, the FOMC decreased that rate by 100 basis points during the last four months of 2024 and by an additional 75 basis points during the last four months of 2025. M&T's cumulative downward deposit pricing beta beginning in the third quarter of 2024 through the second quarter of 2026 approximated 56%. The assumptions used in interest rate sensitivity modeling are inherently uncertain and, as a result, the Company cannot precisely predict the impact of changes in interest rates on net interest income. Actual results may differ significantly from those presented due to the timing, magnitude and frequency of changes in interest rates and changes in market conditions and interest rate differentials (spreads) between maturity/repricing categories, as well as any actions, such as those previously described, which management may take to counter such changes.
+Management also uses an EVE model to supplement the modeling technique described above and provide a long-term interest rate risk metric. EVE is a point-in-time analysis of the economic sensitivity of existing assets, liabilities and off-balance sheet positions that incorporates all cash flows over their estimated remaining lives. The EVE reflects the present value of cash flows from existing assets, liabilities and off-balance sheet financial instruments, but does not incorporate any assumptions for future originations, renewals or issuances. Management measures the impact of changes in market values due to interest rates under a number of scenarios, including immediate shifts of the yield curve. The percentage impact to the EVE resulting from a 100 basis-point increase and a 100 basis-point decrease in market interest rates was -2.0% and -0.5%, respectively, at June 30, 2026, and -5.1% and 2.2%, respectively, at December 31, 2025. The reduced EVE sensitivity at June 30, 2026 reflects the incorporation of updated data into the EVE model and other refinements in the recent quarter.
+In addition to the effect of interest rates, changes in fair value of the Company's financial instruments can also result from a lack of trading activity for similar instruments in the financial markets. Information about the fair valuation of financial instruments is presented in note 13 of Notes to Financial Statements.
+The Company enters into interest rate and foreign exchange contracts to meet the financial needs of customers that it includes in its consolidated financial statements as other non-hedging derivatives within other assets and other liabilities. Financial instruments utilized for such activities consist primarily of interest rate swap agreements and forward and futures contracts related to foreign currencies. The Company generally mitigates the interest rate and foreign currency risk associated with customer activities by entering into offsetting positions with third parties that are also included in other assets and other liabilities. The fair values of non-hedging derivative positions associated with interest rate contracts and foreign currency and other option and futures contracts are presented in note 11 of Notes to Financial Statements. As with any non-government guaranteed financial instrument, the Company is exposed to credit risk associated with counterparties to its non-hedging derivative activities. Although the notional amounts of these contracts are not recorded in the Consolidated Balance Sheet, the unsettled fair values of such financial instruments are recorded in the Consolidated Balance Sheet. The fair values of such non-hedging derivative assets and liabilities recognized in the Consolidated Balance Sheet were $218 million and $476 million, respectively, at June 30, 2026 and $190 million and $409 million, respectively, at December 31, 2025. The amounts recorded in the Consolidated Balance Sheet associated with the Company's non-hedging derivative activities at June 30, 2026 and December 31, 2025 predominantly reflect changes in values associated with interest rate swap agreements entered into with commercial customers and financial institutions that are not subject to periodic variation margin settlement payments. Given the Company's policies and positions, management believes that the potential loss exposure to the Company resulting from market risk associated with other non-hedging derivative activities was not material at June 30, 2026, however, as previously noted, the Company is exposed to credit risk associated with counterparties to such activities. Information about the Company's use of derivative financial instruments is included in note 11 of Notes to Financial Statements.
+- 74 -
+Capital
+The following table presents components related to shareholders' equity and dividends.
+SHAREHOLDERS' EQUITY, DIVIDENDS AND SELECT RATIOS
+(Dollars in millions, except per share) | June 30, 2026 | December 31, 2025 | June 30, 2025 |
+Preferred stock | $ | 2,434 | $ | 2,834 | $ | 2,394 |
+Common shareholders' equity | 25,512 | 26,343 | 26,131 |
+Total shareholders' equity | $ | 27,946 | $ | 29,177 | $ | 28,525 |
+Per share: |
+Common shareholders' equity | $ | 176.03 | $ | 173.49 | $ | 166.94 |
+Tangible common shareholders' equity (a) | 117.41 | 117.45 | 112.48 |
+Ratios: |
+Total shareholders' equity to total assets | 12.75 | % | 13.67 | % | 13.48 | % |
+Common shareholders' equity to total assets | 11.64 | 12.34 | 12.35 |
+Tangible common shareholders' equity to tangible assets (a) | 8.07 | 8.70 | 8.67 |
+Cash dividends declared for quarter ended: |
+Common stock (b) | $ | 220 | $ | 230 | $ | 214 |
+Common stock per share | 1.50 | 1.50 | 1.35 |
+Preferred stock (b) | 35 | 39 | 35 |
+__________________________________________________________________________________
+(a)Reconciliations of total common shareholders' equity and tangible common equity and total assets and tangible assets as of each of those dates are presented in Table 2.
+(b)Cash dividends on common stock were $443 million and $436 million and preferred stock dividends were $78 million and $71 million for the six months ended June 30, 2026 and 2025, respectively.
+On March 30, 2026, M&T's Board of Directors authorized a program under which $5.0 billion of common shares may be repurchased. That authorization replaced and terminated the previous authorized share repurchase program effective as of the same date. M&T repurchased 2.1 million shares of its common stock in the recent quarter at a total cost of $465 million and 5.5 million shares of its common stock at a total cost of $1.25 billion in the first quarter of 2026. During the first six months of 2026 and 2025, M&T repurchased 7.6 million and 9.5 million shares of its common stock at a total cost of $1.71 billion and $1.74 billion, respectively. Discretion as to the amount and timing of authorized share repurchases in a given period has been delegated, through the authorization of the Board of Directors, to management and can be influenced by capital and liquidity requirements, including funding of future loan growth and other balance sheet management activities, as well as market and economic conditions. On February 1, 2026, M&T redeemed all 40,000 outstanding shares of its Perpetual Fixed Rate Reset Non-cumulative Preferred Stock, Series G, for $400 million. In July 2026, M&T issued 60,000 shares of Perpetual Fixed Rate Non-cumulative Preferred Stock, Series L, with a liquidation preference of $10,000 per share.
+Shareholders' equity reflects accumulated other comprehensive income or loss, which includes the net after-tax impact of unrealized gains or losses on investment securities classified as available for sale, gains or losses associated with interest rate swap agreements designated as cash flow hedges and adjustments to reflect the funded status of defined benefit pension and other postretirement plans. The components of accumulated other comprehensive income (loss) are presented in the following table.
+ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS) - NET OF INCOME TAX
+(Dollars in millions, except per share) | June 30, 2026 | December 31, 2025 | June 30, 2025 |
+Investment securities unrealized gains (losses), net (a) | $ | (93) | $ | 155 | $ | 61 |
+Cash flow hedges unrealized gains (losses), net (b) | (51) | 67 | 63 |
+Defined benefit plans adjustments, net (c) | 59 | 61 | 95 |
+Other, net | (7) | (6) | (4) |
+Accumulated other comprehensive income (loss), net | $ | (92) | $ | 277 | $ | 215 |
+Accumulated other comprehensive income (loss), net, per common share | $ | (0.64) | $ | 1.83 | $ | 1.37 |
+__________________________________________________________________________________
+(a)Refer to note 3 of Notes to Financial Statements.
+(b)Refer to note 11 of Notes to Financial Statements.
+(c)Refer to note 8 of Notes to Financial Statements.
+- 75 -
+M&T and its subsidiary banks are required to comply with applicable Capital Rules which prescribe minimum capital ratios. Capital Rules require buffers in addition to these minimum risk-based capital ratios. M&T is subject to an SCB requirement that is determined through the Federal Reserve's supervisory stress tests and M&T's bank subsidiaries are subject to a 2.5% capital conservation buffer requirement. The buffer requirement must be composed entirely of CET1 capital. In June 2026, the Federal Reserve released the results of its most recent supervisory stress tests, which would imply a reduction of M&T's SCB to the 2.5% minimum. In February 2026, however, the Federal Reserve announced that the previous SCB requirements would continue in effect through 2027. Accordingly, M&T's SCB remains 2.7%. The regulatory capital ratios of the Company and its bank subsidiaries, M&T Bank and Wilmington Trust, N.A., as of June 30, 2026 are presented in the accompanying table.
+REGULATORY CAPITAL RATIOS
+(Dollars in millions) | Regulatory Minimum (a) | M&T
+(Consolidated) | M&T
+Bank | Wilmington
+Trust, N.A. |
+CET1 capital | 4.50 | % | 10.19 | % | 11.81 | % | 274.44 | % |
+Tier 1 capital | 6.00 | 11.64 | 11.81 | 274.44 |
+Total capital | 8.00 | 13.73 | 13.87 | 274.58 |
+Tier 1 leverage | 4.00 | 9.39 | 9.51 | 86.89 |
+RWA | $ | 167,830 | $ | 167,243 | $ | 248 |
+__________________________________________________________________________________
+(a)Exclusive of required buffers as applicable.
+As a result of the accounting election on January 1, 2026 to prospectively measure residential mortgage loan servicing right assets at fair value, the Company recorded an increase in capitalized servicing assets included in accrued interest and other assets of $263 million and a corresponding after-tax increase to retained earnings of $197 million, representing an 8 basis-point increase to the CET1 capital ratio on the election date.
+Capital Rules generally require the deduction of goodwill and core deposit and other intangible assets, net of applicable deferred taxes, from the calculation of capital in the determination of the minimum capital ratios. As a result of previous business acquisitions, the Company recorded goodwill of $8.5 billion and core deposit and other intangible assets of $48 million at June 30, 2026. Goodwill, as required by GAAP, is not amortized, but rather is tested for impairment at least annually at the business reporting unit level. The Company completed its annual goodwill impairment test in the fourth quarter of 2025 and concluded the amount of goodwill was not impaired at the testing date. The Company has not identified events or circumstances that would more likely than not reduce the fair value of a business reporting unit below its carrying amount at June 30, 2026. Should a business reporting unit with assigned goodwill experience declines in revenue, increased credit losses or expenses, or other adverse developments due to economic, regulatory, competition or other factors, that would be material to that reporting unit, an impairment of goodwill could occur in a future period that could be material to the Company's Consolidated Balance Sheet and its Consolidated Statement of Income. Although a goodwill impairment charge would not have a significant impact on the Company's regulatory tangible capital ratios, it would reduce the capacity of its bank subsidiary, M&T Bank, to dividend earnings to M&T. As described herein under the heading "Liquidity Risk," M&T's parent company liquidity at June 30, 2026, inclusive of the projected repayment of notes receivables from bank subsidiaries, covered projected cash outflows for 29 months, including dividends on common and preferred stock, debt service and scheduled debt maturities.
+The Company is subject to the comprehensive regulatory framework applicable to bank and financial holding companies and their subsidiaries, which includes examinations by a number of regulators. Regulation of financial institutions such as M&T and its subsidiaries is intended primarily for the protection of depositors, the Deposit Insurance Fund of the FDIC and the banking and financial system as a whole, and generally is not intended for the protection of shareholders, investors or creditors other than insured depositors. Changes in laws, regulations and regulatory policies applicable to the Company's operations can increase or decrease the cost of doing business, limit or expand permissible activities or affect the competitive environment in which the Company operates, all of which could have a material effect on the business, financial condition or results of operations of the Company and on M&T's ability to pay dividends. For additional information concerning this comprehensive regulatory framework, refer to Part I, Item 1, "Supervision and Regulation of the Company" of M&T's 2025 Annual Report.
+- 76 -
+As described in Part I, Item 1, "Capital Requirements" of M&T's 2025 Annual Report, in July 2023 the federal banking agencies issued a notice of proposed rulemaking to modify the regulatory capital requirements applicable to large banking organizations with total assets exceeding $100 billion, like the Company. In March 2026, the federal banking agencies issued a reproposal of those requirements. Under the reproposed requirements, the Company would have the option of calculating its RWA using either a standardized approach or an ERBA. The reproposal would also require the Company to include certain components of accumulated other comprehensive income (loss) in its calculation of capital over a five-year transition period. Management continues to evaluate the impact of the reproposed rules on the regulatory capital requirements of M&T and its subsidiary banks. The Company estimates that its CET1 capital ratio of 10.33% at March 31, 2026 would have increased approximately 90 basis points under the standardized approach and an additional 10 to 20 basis points under the ERBA, excluding the impact of accumulated other comprehensive income (loss). At June 30, 2026, the inclusion of accumulated other comprehensive income (loss) components related to investment securities available for sale and defined benefit plan liability adjustments would have decreased the Company's CET1 capital ratio by 2 basis points.
+Segment Information
+Reportable segments have been determined based upon the Company's organizational structure which is primarily arranged around the delivery of products and services to similar customer types. Financial information about the Company's reportable segments is presented in note 15 of Notes to Financial Statements. The Company's reportable segments are Commercial Bank, Retail Bank and Institutional Services and Wealth Management. All other business activities that are not included in the three reportable segment results have been included in the "All Other" category.
+
+----- [line 2579] -----
+Noninterest-bearing | $ | 8,766 | $ | 9,518 | $ | (752) | -8 | % | $ | 9,140 | $ | 9,118 | $ | 22 | -- | % |
+Interest-bearing | 9,939 | 10,151 | (212) | -2 | 10,044 | 9,748 | 296 | 3 |
+Total deposits | $ | 18,705 | $ | 19,669 | $ | (964) | -5 | % | $ | 19,184 | $ | 18,866 | $ | 318 | 2 | % |
+The Institutional Services and Wealth Management segment's net income increased $8 million to $120 million in the second quarter of 2026 from $112 million in the first quarter of 2026.
+&#8226;Net interest income decreased $7 million reflecting a $964 million decrease in average deposits and a 6 basis-point narrowing of the net interest margin on those deposits.
+&#8226;Noninterest income increased $14 million reflecting higher sales and fund management fees from the segment's Institutional Services business and increased fee income from its Wealth Management business, reflecting market performance associated with managed assets and seasonal tax service fee income.
+- 81 -
+Net income for the Institutional Services and Wealth Management segment decreased $17 million for the six months ended June 30, 2026 as compared with the similar 2025 period.
+&#8226;Net interest income decreased $32 million predominantly due to a 45 basis-point narrowing of the net interest margin on deposits, partially offset by higher average balances of those deposits and an increase in average loans.
+&#8226;Noninterest income increased $22 million reflecting higher trust income resulting from higher sales and fund management fees from the segment's Institutional Services business and increased fee income from its Wealth Management business, reflecting favorable market performance associated with managed assets, partially offset by a $10 million gain on the sale of a subsidiary that specialized in institutional services in the second quarter of 2025.
+&#8226;Noninterest expense rose $17 million reflecting a rise in professional and other services expense driven by higher legal and review costs and an increase in personnel-related expenses.
+All Other
+The "All Other" category reflects other activities of the Company that are not directly attributable to the reported segments. Reflected in this category are the difference between the provision for credit losses and the calculated provision allocated to the reportable segments; goodwill and core deposit and other intangible assets resulting from the acquisitions of financial institutions; merger-related gains and expenses related to acquisitions; the net impact of the Company's internal funds transfer pricing methodology; eliminations of transactions between reportable segments; certain non-recurring transactions; and the residual effects of unallocated support systems and general and administrative expenses. The Company's investment securities portfolio, certain brokered deposits and short-term and long-term borrowings are generally included in the "All Other" category. In its management of interest rate risk, the Company utilizes interest rate swap agreements to modify the repricing characteristics of certain portfolios of earning assets and interest-bearing liabilities. The results of such activities are captured in the "All Other" category.
+ALL OTHER CATEGORY FINANCIAL SUMMARY
+Three Months Ended | Change | Six Months Ended | Change |
+(Dollars in millions) | June 30,
+2026 | March 31, 2026 | Amount | % | June 30,
+2026 | June 30,
+2025 | Amount | % |
+Income statement |
+Net interest income | $ | 110 | $ | 111 | $ | (1) | -- | % | $ | 221 | $ | 51 | $ | 170 | 330 | % |
+Noninterest income | 76 | 58 | 18 | 32 | 134 | 40 | 94 | 236 |
+Total revenue | 186 | 169 | 17 | 11 | 355 | 91 | 264 | 289 |
+Provision for credit losses | 27 | 29 | (2) | -3 | 56 | 4 | 52 | -- |
+Noninterest expense | 106 | 227 | (121) | -53 | 333 | 321 | 12 | 4 |
+Income (loss) before taxes | 53 | (87) | 140 | -- | (34) | (234) | 200 | -- |
+Income tax benefit | (14) | (45) | 31 | 70 | (59) | (101) | 42 | -- |
+Net income (loss) | $ | 67 | $ | (42) | $ | 109 | -- | % | $ | 25 | $ | (133) | $ | 158 | -- | % |
+The "All Other" category net income was $67 million in the second quarter of 2026 as compared with a net loss of $42 million in the first quarter of 2026.
+&#8226;Noninterest income rose $18 million reflecting a $47 million distribution from M&T's investment in BLG in the recent quarter as compared with a $33 million distribution from that investment in the first quarter of 2026.
+&#8226;Noninterest expense decreased $121 million reflecting seasonal stock-based compensation, payroll-related taxes and other employee benefits expense in the first quarter of 2026.
+- 82 -
+The net income recorded for the "All Other" category was $25 million for the first six months of 2026 as compared with a net loss of $133 million in the similar 2025 period.
+&#8226;Net interest income increased $170 million reflecting the comparatively favorable impact from each of interest rate swap agreements entered into for interest rate risk purposes and the Company's allocation methodologies for internal transfers related to funding charges and credits associated with earning assets and interest-bearing liabilities of the Company's reportable segments.
+&#8226;Noninterest income increased $94 million reflecting $80 million of distributions from M&T's investment in BLG in the first six months of 2026.
+&#8226;The provision for credit losses increased $52 million reflecting the net impact of the allocation of the provision to the reportable segments.
+Critical Accounting Estimates and Recent Accounting Developments
+A discussion of the Company's critical accounting estimates and significant accounting policies can be found in M&T's 2025 Annual Report. A summary of recent accounting developments is included in note 1 of Notes to Financial Statements, including the Company's election on January 1, 2026 to prospectively measure its residential mortgage loan servicing right assets at fair value, which the Company considers to be a critical accounting estimate. As residential mortgage loan servicing rights generally do not trade in an active market, the Company utilizes a model to estimate fair value which considers the present value of expected future cash flows associated with servicing rights using assumptions that market participants would consider in estimating future servicing income and expenses. Such assumptions include prepayment speeds, servicing costs, loan default rates and an appropriate discount rate representing an OAS over market implied forward SOFR. Significant assumptions and the resulting fair values are subject to independent review and challenge by the Company's Treasury Product Control Department through comparisons to available data including recent market activity, independent third-party valuations and industry trade information and surveys. The results of such independent review and challenge are reported to the Company's Executive ALCO Committee. Further information on the fair value of residential mortgage loan servicing right assets and the sensitivity of such value to changes in assumptions is included in note 13 of Notes to Financial Statements.
+Forward-Looking Statements
+"Management's Discussion and Analysis of Financial Condition and Results of Operations" and other sections of this quarterly report contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 and the rules and regulations of the SEC. Any statement that does not describe historical or current facts is a forward-looking statement, including statements based on current expectations, estimates and projections about the Company's business, and management's beliefs and assumptions.
+Statements regarding the potential effects of events or factors specific to the Company and/or the financial industry as a whole, as well as national and global events generally, on the Company's business, financial condition, liquidity and results of operations may constitute forward-looking statements. Such statements are subject to the risk that the actual effects may differ, possibly materially, from what is reflected in those forward-looking statements due to factors and future developments that are uncertain, unpredictable and in many cases beyond the Company's control.
+Forward-looking statements are typically identified by words such as "believe," "expect," "anticipate," "intend," "target," "estimate," "continue," or "potential," by future conditional verbs such as "will," "would," "should," "could," or "may," or by variations of such words or by similar expressions. These statements are not guarantees of future performance and involve certain risks, uncertainties and assumptions which are difficult to predict and may cause actual outcomes to differ materially from what is expressed or forecasted.
+- 83 -
+While there can be no assurance that any list of risks and uncertainties is complete, important factors that could cause actual outcomes and results to differ materially from those contemplated by forward-looking statements include the following, without limitation, as well as risks more fully discussed in Part I, Item 1A "Risk Factors" in the Company's 2025 Annual Report: economic conditions and growth rates, including inflation and market volatility; events, developments, and current conditions in the financial services industry, including trust, brokerage and investment management businesses; changes in interest rates, spreads on earning assets and interest-bearing liabilities, and interest rate sensitivity; prepayment speeds, loan originations, loan concentrations by type and industry, credit losses and market values on loans, collateral securing loans, and other assets; sources of liquidity; levels of client deposits; ability to contain costs and expenses; changes in the Company's credit ratings; domestic or international political developments and other geopolitical events, including trade and tariff policies and international conflicts and hostilities; changes and trends in the securities markets; common shares outstanding and common stock price volatility; fair value of and number of stock-based compensation awards to be issued in future periods; the impact of changes in market values on trust-, brokerage-, and investment management-related revenues; federal, state or local legislation and/or regulations affecting the financial services industry, or M&T and its subsidiaries individually or collectively, including tax policy; regulatory supervision and oversight, including monetary policy and capital requirements; governmental and public policy changes; political conditions, either nationally or in the states in which M&T and its subsidiaries do business; the initiation and outcome of potential, pending and future litigation, investigations and governmental proceedings, including tax-related examinations and other matters; operational risk events, including loss resulting from fraud by employees or persons outside M&T and breaches in data and cybersecurity; changes in accounting policies or procedures as may be required by the Financial Accounting Standards Board, regulatory agencies or legislation; increasing price, product and service competition by competitors, including new entrants; technological developments and changes; the ability to continue to introduce competitive new products and services on a timely, cost-effective basis; the mix of products and services; protection and validity of intellectual property rights; reliance on large customers; technological, implementation and cost/financial risks in large, multi-year contracts; continued availability of financing; financial resources in the amounts, at the times and on the terms required to support M&T and its subsidiaries' future businesses; and material differences in the actual financial results of merger, acquisition, divestment and investment activities compared with M&T's initial expectations, including the full realization of anticipated cost savings and revenue enhancements.
+These are representative of the factors that could affect the outcome of the forward-looking statements. In addition, as noted, such statements could be affected by general industry and market conditions and growth rates, general economic and political conditions, either nationally or in the states in which the Company does business, and other factors.
+The Company provides further detail regarding these risks and uncertainties in its 2025 Annual Report, including in the Risk Factors section of such report, as well as in other SEC filings. Forward-looking statements speak only as of the date they are made, and the Company assumes no duty and does not undertake to update forward-looking statements.
+- 84 -
+M&T Bank Corporation and Subsidiaries
+Table 1
+QUARTERLY TRENDS
+2026 Quarters | 2025 Quarters |
+Second | First | Fourth | Third | Second | First |
+(Dollars in millions, except per share) |
+Earnings and dividends |
+Interest income (taxable-equivalent basis) | $ | 2,632 | $ | 2,547 | $ | 2,648 | $ | 2,692 | $ | 2,618 | $ | 2,572 |
+Interest expense | 828 | 784 | 858 | 919 | 896 | 865 |
+Net interest income | 1,804 | 1,763 | 1,790 | 1,773 | 1,722 | 1,707 |
+Less: Provision for credit losses | 120 | 140 | 125 | 125 | 125 | 130 |
+Other income | 740 | 689 | 696 | 752 | 683 | 611 |
+Less: Other expense | 1,349 | 1,438 | 1,379 | 1,363 | 1,336 | 1,415 |
+Income before income taxes | 1,075 | 874 | 982 | 1,037 | 944 | 773 |
+Applicable income taxes | 245 | 199 | 212 | 233 | 219 | 177 |
+Taxable-equivalent adjustment | 12 | 11 | 11 | 12 | 9 | 12 |
+Net income | $ | 818 | $ | 664 | $ | 759 | $ | 792 | $ | 716 | $ | 584 |
+Net income available to common shareholders -- diluted | $ | 781 | $ | 620 | $ | 718 | $ | 754 | $ | 679 | $ | 547 |
+Per common share data: |
+Basic earnings | 5.35 | 4.16 | 4.71 | 4.85 | 4.26 | 3.33 |
+Diluted earnings | 5.32 | 4.13 | 4.67 | 4.82 | 4.24 | 3.32 |
+Cash dividends | 1.50 | 1.50 | 1.50 | 1.50 | 1.35 | 1.35 |
+Average common shares outstanding: |
+Basic | 145,891 | 149,225 | 152,666 | 155,558 | 159,221 | 164,209 |
+Diluted | 146,758 | 150,109 | 153,712 | 156,553 | 160,005 | 165,047 |
+Performance ratios |
+Annualized return on: |
+Average assets | 1.51 | % | 1.26 | % | 1.41 | % | 1.49 | % | 1.37 | % | 1.14 | % |
+Average common shareholders' equity | 12.30 | 9.67 | 10.87 | 11.45 | 10.39 | 8.36 |
+Net interest margin on average earning assets (taxable-equivalent basis) | 3.70 | 3.70 | 3.70 | 3.69 | 3.62 | 3.65 |
+Nonaccrual loans to total loans | .84 | .89 | .90 | 1.10 | 1.16 | 1.14 |
+Net operating (tangible) results (a) |
+Net operating income | $ | 823 | $ | 671 | $ | 767 | $ | 798 | $ | 724 | $ | 594 |
+Diluted net operating income per common share | 5.35 | 4.18 | 4.72 | 4.87 | 4.28 | 3.38 |
+Annualized return on: |
+Average tangible assets | 1.59 | % | 1.33 | % | 1.49 | % | 1.56 | % | 1.44 | % | 1.21 | % |
+Average tangible common shareholders' equity | 18.57 | 14.51 | 16.24 | 17.13 | 15.54 | 12.53 |
+Efficiency ratio (b) | 52.8 | 58.3 | 55.1 | 53.6 | 55.2 | 60.5 |
+Balance sheet data |
+Average balances: |
+Total assets (c) | $ | 216,532 | $ | 213,828 | $ | 212,891 | $ | 211,053 | $ | 210,261 | $ | 208,321 |
+Total tangible assets (c) | 208,033 | 205,323 | 204,379 | 202,533 | 201,733 | 199,791 |
+Earning assets | 195,216 | 192,594 | 192,366 | 190,920 | 190,535 | 189,116 |
+Investment securities | 38,728 | 37,845 | 36,705 | 36,559 | 35,335 | 34,480 |
+Loans | 141,427 | 138,423 | 137,600 | 136,527 | 135,407 | 134,844 |
+Deposits | 163,524 | 164,176 | 164,940 | 162,576 | 163,258 | 161,080 |
+Borrowings | 20,794 | 16,759 | 14,619 | 15,633 | 14,263 | 14,154 |
+Common shareholders' equity (c) | 25,505 | 26,072 | 26,279 | 26,189 | 26,272 | 26,604 |
+Tangible common shareholders' equity (c) | 17,006 | 17,567 | 17,767 | 17,669 | 17,744 | 18,074 |
+At end of quarter: |
+Total assets (c) | 219,261 | 214,736 | 213,510 | 211,277 | 211,584 | 210,321 |
+Total tangible assets (c) | 210,765 | 206,234 | 205,001 | 202,761 | 203,060 | 201,789 |
+Earning assets | 197,066 | 193,072 | 192,516 | 190,684 | 191,074 | 190,463 |
+Investment securities | 38,374 | 38,621 | 36,649 | 36,864 | 35,568 | 35,137 |
+Loans | 143,193 | 139,914 | 138,702 | 136,974 | 136,116 | 134,574 |
+Deposits | 168,885 | 163,741 | 166,909 | 163,426 | 164,453 | 165,409 |
+
+----- [line 2739] -----
+Total common equity |
+Total equity | $ | 27,946 | $ | 27,972 | $ | 29,177 | $ | 28,728 | $ | 28,525 | $ | 28,991 |
+Preferred stock | (2,434) | (2,434) | (2,834) | (2,394) | (2,394) | (2,394) |
+Common equity | 25,512 | 25,538 | 26,343 | 26,334 | 26,131 | 26,597 |
+Goodwill | (8,465) | (8,465) | (8,465) | (8,465) | (8,465) | (8,465) |
+Core deposit and other intangible assets | (48) | (55) | (64) | (74) | (84) | (93) |
+Deferred taxes | 17 | 18 | 20 | 23 | 25 | 26 |
+Total tangible common equity | $ | 17,016 | $ | 17,036 | $ | 17,834 | $ | 17,818 | $ | 17,607 | $ | 18,065 |
+__________________________________________________________________________________
+(a)After any related tax effect.
+- 86 -
+Item 3. Quantitative and Qualitative Disclosures About Market Risk.
+Refer to Part I, Item 2, "Management's Discussion and Analysis of Financial Condition and Results of Operations," under the captions "Liquidity Risk," "Market Risk and Interest Rate Sensitivity" and "Capital."
+Item 4. Controls and Procedures.
+(a) Evaluation of disclosure controls and procedures. Based upon an evaluation carried out as of the end of the period covered by this report under the supervision and with the participation of M&T's management, including its Chairman and Chief Executive Officer and its Chief Financial Officer, of the effectiveness of M&T's disclosure controls and procedures (as defined in Exchange Act rule 13a-15(e)), Ren&#233; F. Jones, Chairman of the Board and Chief Executive Officer, and Daryl N. Bible, Senior Executive Vice President and Chief Financial Officer, concluded that M&T's disclosure controls and procedures were effective as of June 30, 2026.
+(b) Changes in internal control over financial reporting. M&T regularly assesses and enhances its internal control over financial reporting. During the second quarter of 2026, the Company implemented a new general ledger platform which supports various operational, accounting and reporting activities. In conjunction therewith, certain of the Company's processes and internal controls over financial reporting have been appropriately modified to reflect changes in key business applications and financial processes resulting from this implementation. There were no other changes in the Company's internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) of the Exchange Act) that occurred during the period covered by this report that have materially affected, or are reasonably likely to materially affect, the Company's internal control over financial reporting.
+- 87 -
+Part II. Other Information
+Item 1. Legal Proceedings.
+Refer to note 14 of Notes to Financial Statements filed herewith in Part I, Item 1, "Financial Statements (Unaudited)" regarding legal proceedings.
+Item 1A. Risk Factors.
+There have been no material changes in risk factors relating to the Company to those disclosed in response to Part I, Item 1A of M&T's 2025 Annual Report.
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.
+(a) - (b) Not applicable.
+(c)
+Issuer Purchases of Common Equity Securities |
+(Dollars in millions, except per share) | Total Number
+of Common Shares
+Purchased (a) | Average Price Paid per
+Common Share (b) | Total Number of
+Common Shares
+Purchased as Part
+of Publicly
+Announced
+Programs (c) |
+Dollar Value
+of Common Shares
+that may yet
+be Purchased
+Under the
+Programs (c) |
+April 1 - April 30, 2026 | 504,060 | $ | 220.34 | 504,060 | $ | 4,889 |
+May 1 - May 31, 2026 | 915,922 | 215.04 | 915,831 | 4,692 |
+June 1 - June 30, 2026 | 701,079 | 224.02 | 698,758 | 4,535 |
+Total | 2,121,061 | 219.27 | 2,118,649 |
+__________________________________________________________________________________
+(a)The total number of shares purchased during the periods indicated includes shares purchased as part of publicly announced programs and/or shares deemed to have been received from employees who exercised stock options by attesting to previously acquired common shares in satisfaction of the exercise price, as is permitted under M&T's stock-based compensation plans.
+(b)Inclusive of share repurchase excise tax of 1%.
+(c)On March 30, 2026, M&T's Board of Directors authorized a program under which $5.0 billion of common shares may be repurchased with the exact number, timing, price and terms of such repurchases to be determined at the discretion of management and subject to all regulatory limitations. The authorization replaced and terminated, effective March 30, 2026, the prior $4.0 billion share repurchase program authorized by M&T's Board of Directors in January 2025.
+Item 3. Defaults Upon Senior Securities.
+None.
+Item 4. Mine Safety Disclosures.
+Not applicable.
+Item 5. Other Information.
+(a) - (b) Not applicable.
+(c) The following provides a description of Rule 10b5-1 trading arrangements (as defined in Item 408 of Regulation S-K under the Exchange Act) adopted during the three months ended June 30, 2026, by any director or executive officer who is subject to the filing requirements of Section 16 of the Exchange Act:
+On June 12, 2026, Ren&#233; F. Jones, Chairman of the Board and Chief Executive Officer, adopted a trading arrangement intended to satisfy the affirmative defense conditions of Rule 10b5-1(c). The arrangement will terminate on or before March 31, 2027. Under the arrangement, a maximum aggregate number of 19,396 shares may be sold. In addition, a maximum aggregate number of 16,770 vested stock options may be exercised, and the underlying shares will be held by Mr. Jones after the withholding of shares to cover the cost of the exercise price of the options and tax obligations (also known as a net exercise and hold settlement). Transactions under the trading arrangement will not commence until completion of the required cooling off period under Rule 10b5-1 and expiration of any prior trading arrangement.
+- 88 -
+No executive officers and no directors terminated or modified a Rule 10b5-1 trading arrangement in the three months ended June 30, 2026.
+Certain executive officers and directors have made elections to participate in, and are participating in, the Company's tax-qualified 401(k) plan and nonqualified deferred compensation plans, or have made, and may from time to time make, elections to reinvest dividends in M&T common stock, or have shares withheld to cover withholding taxes upon the vesting of equity awards or to pay the exercise price of options, each of which may be designed to satisfy the affirmative defense conditions of Rule 10b5-1(c) or may constitute non-Rule 10b5-1 trading arrangements (as defined in Item 408(c) of Regulation S-K).
+Item 6. Exhibits.
+The following exhibits are filed as a part of this report.
+Exhibit
+No. |
+10.1 | M&T Bank Corporation 2019 Equity Incentive Compensation Plan (amended and restated effective as of April 21, 2026). Incorporated by reference to Appendix B of the Proxy Statement filed March 10, 2026.*
+31.1 | Certification of Chief Executive Officer under Section 302 of the Sarbanes-Oxley Act of 2002. Filed herewith.
+31.2 | Certification of Chief Financial Officer under Section 302 of the Sarbanes-Oxley Act of 2002. Filed herewith.
+32.1 | Certification of Chief Executive Officer under 18 U.S.C. &#167;1350 pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. Filed herewith.
+32.2 | Certification of Chief Financial Officer under 18 U.S.C. &#167;1350 pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. Filed herewith.
+101.INS | Inline XBRL Instance Document. Filed herewith. |
+101.SCH | Inline XBRL Taxonomy Extension Schema With Embedded Linkbase Documents. Filed herewith. |
+104 | The cover page from M&T's Quarterly Report on Form 10-Q for the quarter ended June 30, 2026 has been formatted in Inline XBRL.

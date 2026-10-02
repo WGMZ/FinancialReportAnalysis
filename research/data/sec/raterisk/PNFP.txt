@@ -1,0 +1,495 @@
+# PNFP 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/2082866/000208286626000082/pnfp-20260630.htm
+# full_doc_chars=326334
+
+
+----- [line 60] -----
+Item 2. | Unregistered Sales of Equity Securities and Use of Proceeds | 68
+Item 3. | Defaults Upon Senior Securities | 68
+Item 4. | Mine Safety Disclosures | 68
+Item 5. | Other Information | 68
+Item 6. | Exhibits | 69
+Signatures | 70
+Table of Contents
+PINNACLE FINANCIAL PARTNERS, INC.
+INDEX OF DEFINED TERMS
+Throughout this discussion, references to "Pinnacle", "we", "our", "us", "the Company" and similar terms refer to the consolidated entity consisting of Pinnacle Financial Partners, Inc. and its subsidiaries unless the context indicates that we refer only to the Parent Company, Pinnacle Financial Partners, Inc. When we refer to the "Bank" or "Pinnacle Bank" we mean our only bank subsidiary, Pinnacle Bank.
+ACL - Allowance for credit losses (ALL, reserve on unfunded loan commitments, and reserve, if required, on debt securities and other receivables)
+AFS - Available for sale
+ALCO - Pinnacle's Asset Liability Management Committee
+ALL - Allowance for loan losses
+AOCI - Accumulated other comprehensive income (loss)
+ASC - Accounting Standards Codification
+ASU - Accounting Standards Update
+ATM - Automatic teller machine
+Basel III - The third Basel Accord developed by the Basel Committee on Banking Supervision to strengthen existing regulatory capital requirements
+BHG - Bankers Healthcare Group, LLC
+Board - Pinnacle's Board of Directors
+BOLI - Bank-owned life insurance policies
+bp(s) - Basis point(s)
+C&I - Commercial and industrial
+CCAR - Comprehensive Capital Analysis and Review
+CECL - Current expected credit losses
+CET1 - Common Equity Tier 1 Capital defined by Basel III capital rules
+CIB - Corporate and Investment Banking
+CMO - Collateralized mortgage obligation
+CODM - Chief operating decision maker
+Company - Pinnacle Financial Partners, Inc. and its wholly-owned subsidiaries, except where the context indicates otherwise
+Covered Litigation - Certain Visa litigation for which Visa is indemnified by Visa USA members
+CRA - Community Reinvestment Act
+CRE - Commercial real estate
+DCF - Discounted cash flow
+ERM - Enterprise risk management
+EVE - Economic value of equity
+Exchange Act - Securities Exchange Act of 1934, as amended
+FASB - Financial Accounting Standards Board
+FDIC - Federal Deposit Insurance Corporation
+FDM - Financial Difficulty Modification
+i
+Table of Contents
+Federal Reserve Bank - One of the 12 banks that are the operating arms of the U.S. central bank. They implement the policies of the Federal Reserve Board, supervise bank holding companies and certain banking institutions, and also conduct economic research
+Federal Reserve Board - The 7-member Board of Governors that oversees the Federal Reserve System, establishes monetary policy (interest rates, credit, etc.), and monitors the economic health of the country. Its members are appointed by the President, subject to Senate confirmation, and serve 14-year terms
+Federal Reserve System or Federal Reserve - The Federal Reserve Board plus 12 Federal Reserve Banks, with each one serving member banks in its own district. The Federal Reserve has broad regulatory powers over the money supply and the credit structure of the economy
+FFIEC - Federal Financial Institutions Examination Council
+FFIEC Retail Credit Classification Policy - FFIEC Uniform Retail Credit Classification and Account Management Policy
+FHLB - Federal Home Loan Bank
+FICO - Fair Isaac Corporation
+FOMC - Federal Open Market Committee
+FRB - Federal Reserve Bank
+FTP - Funds transfer pricing
+GA DBF - Georgia Department of Banking and Finance
+GAAP - Generally Accepted Accounting Principles in the United States of America
+HTM - Held to maturity
+Interagency Supervisory Guidance - Interagency Supervisory Guidance on Allowance for Loan and Lease Losses Estimation Practices for Loans and Lines of Credit Secured by Junior Liens on 1-4 Family Residential Properties
+Legacy Pinnacle - Pinnacle Financial Partners, Inc., a Tennessee corporation
+LIHTC - Low Income Housing Tax Credit
+LTV - Loan-to-collateral value ratio
+MBS - Mortgage-backed security
+Merger - The merger of Synovus and Legacy Pinnacle into Steel Newco, Inc., a Georgia corporation, on January 1, 2026, with the name of Steel Newco, Inc. changing thereafter to Pinnacle Financial Partners, Inc.
+MPS - Merchant processing servicer(s)
+NAICS - North American Industry Classification System
+nm - not meaningful
+NPA - Non-performing assets
+NPL - Non-performing loans
+NSF - Non-sufficient funds
+OCI - Other comprehensive income (loss)
+ORE - Other real estate
+Parent Company - Pinnacle Financial Partners, Inc.
+Pinnacle - Pinnacle Financial Partners, Inc., a Georgia corporation
+Pinnacle Bank - A Tennessee state-chartered bank and wholly-owned subsidiary of Pinnacle, through which Pinnacle conducts its banking operations
+Pinnacle's 2025 Form 10-K - Pinnacle's Annual Report on Form 10-K for the year ended December 31, 2025
+PCD - Purchase credit deteriorated
+PPNR - Pre-provision net revenue
+ii
+Table of Contents
+PSU - Performance share units
+Report - This Quarterly Report on Form 10-Q for the quarterly period ended June 30, 2026
+RSU - Restricted share units
+RWA - Risk weighted asset
+SBA - Small Business Administration
+SBIC - Small Business Investment Company
+SEC - U.S. Securities and Exchange Commission
+Securities Act - Securities Act of 1933, as amended
+SOFR - Secured Overnight Financing Rate
+Synovus - Synovus Financial Corp., a Georgia corporation
+Synovus Bank - A Georgia state-chartered bank and wholly-owned subsidiary of Synovus, through which Synovus conducted its banking operations that ceased operations subsequent to the Merger
+TDFI - Tennessee Department of Financial Institutions
+TE - Taxable equivalent
+Treasury - United States Department of Treasury
+UPB - Unpaid principal balance
+U.S. - United States
+Visa - The Visa U.S.A., Inc. card association or its affiliates, collectively
+Visa Class A shares - Class A shares of common stock issued by Visa are publicly traded shares which are not subject to restrictions on sale
+
+----- [line 496] -----
+Macroeconomic conditions are incorporated into the estimation process through forward&#8209;looking forecasts applied across multiple probability&#8209;weighted scenarios representing a range of plausible economic outcomes. Such variables may include, among others, unemployment rates, gross domestic product, commercial and residential property price indices, household debt and financial obligation ratios, and other relevant economic measures. Forecasts of these variables are obtained from independent third&#8209;party sources and used as inputs into the Company's credit loss models. Collectively, these inputs are used to estimate life&#8209;of&#8209;loan expected credit losses in a manner that is responsive to changes in portfolio composition, credit quality, and the economic environment.
+Reasonable and Supportable Forecast Period
+Expected credit losses are estimated over a period for which management is able to develop reasonable and supportable economic forecasts. For periods beyond the reasonable and supportable forecast horizon, the Company reverts expected credit losses to long&#8209;term historical averages using a straight&#8209;line methodology. The length of the reasonable and supportable forecast period and the reversion period are evaluated quarterly and may vary based on economic conditions, portfolio characteristics, and modeling considerations.
+Qualitative Adjustments
+Modeled expected credit losses are supplemented by qualitative adjustments to capture risks not fully reflected in the quantitative models. Qualitative factors may include, among others, changes in portfolio concentrations, lending policies, underwriting practices, competitive conditions, economic forecast limitations, loan maturity extensions, team member experience and turnover, independent loan review results, regulatory developments, and emerging risks that are not represented in historical loss data. These adjustments, in management's judgment, are necessary to reflect losses expected in the portfolio and are based on management's analysis of current and expected economic conditions and their impact to the portfolio.
+Individually Analyzed Loans
+Loans that do not share similar risk characteristics with collectively evaluated pools are evaluated on an individual basis. Individual evaluations are generally performed for loans that have experienced significant credit deterioration or where repayment is expected to be substantially dependent on the operation or sale of the underlying collateral.
+For individually analyzed loans, expected credit losses are measured using either the present value of expected future cash flows discounted at the loan's effective interest rate, or the fair value of the collateral, less estimated selling costs, when the loan is collateral&#8209;dependent.
+When management determines that a portion of an individually analyzed loan is uncollectible, the uncollectible amount is written off against the ACL.
+Loan Modifications to Borrowers Experiencing Financial Difficulty
+The Company modifies loans for borrowers experiencing financial difficulty in the normal course of business. An assessment of financial difficulty is made at the time of modification. Because the effects of most loan modifications are already incorporated into the ACL through the Company's modeling methodologies, a modification generally does not result in an additional allowance adjustment. When principal forgiveness is granted, the forgiven amount is deemed uncollectible and is written off against the ACL.
+Purchased Loans
+Loans acquired in a business combination are recognized on the acquisition date at their estimated fair value based on expected future cash flows discounted at a market-based rate of interest and inclusive of adjustments for credit risk, interest rate risk, liquidity and other factors. Acquired loans that have experienced more-than-insignificant deterioration in credit quality since origination are classified as PCD loans. An ACL is established for the initial estimate of expected credit losses on PCD loans as of the acquisition date and recorded through a gross-up adjustment to the loan's amortized cost basis, with no immediate impact to earnings. Subsequent changes in expected credit losses on PCD loans are recognized through the provision
+8
+Table of Contents
+for credit losses. In addition, we adopted ASU 2025-08 as of January 1, 2026, whereby non-PCD loans acquired in a business combination are deemed purchased seasoned loans with an ACL also established for the initial estimate of expected credit losses as of the acquisition date and recorded through a gross-up adjustment to the loans' amortized cost basis. See Note 2 - Business Combination for additional information on loans acquired in a business combination.
+Accrued Interest Receivable
+Accrued interest receivable is presented in other assets on the consolidated balance sheets. Consistent with ASC 326, the Company generally does not record an ACL for accrued interest receivable, as non&#8209;accrual policies result in timely write&#8209;off of uncollectible accrued interest.
+Independent Credit Review
+In assessing the adequacy of the ACL, management considers the results of internal and independent loan review processes, including reviews performed by third&#8209;party firms and regulatory examiners. These reviews assist management in identifying loans with elevated credit risk and in evaluating the overall risk profile of the loan portfolio.
+Estimation Uncertainty
+The estimation of expected credit losses is inherently subjective and requires the use of judgment. Actual credit losses may differ from management's estimates due to changes in economic conditions, borrower behavior, collateral values, or other factors beyond the Company's control. Accordingly, future provisions for credit losses may materially differ from those recorded in the current period.
+Allowance for Credit Losses on Off&#8209;Balance&#8209;Sheet Credit Exposures
+The Company maintains an allowance for credit losses on off&#8209;balance&#8209;sheet credit exposures, including unfunded loan commitments and letters of credit, unless the obligation is unconditionally cancellable by the Company. Expected credit losses are estimated over the contractual term of the exposure, considering the likelihood that the commitment will be funded and the expected credit loss occurs on the resulting funded balance. Loss assumptions for off&#8209;balance&#8209;sheet exposures are generally consistent with those used for similar on&#8209;balance&#8209;sheet loan segments. The allowance for off&#8209;balance&#8209;sheet credit exposures is included in other liabilities, with changes recognized through the provision for credit losses.
+9
+Table of Contents
+Recent Accounting Pronouncements
+The following table provides a brief description of accounting standards adopted in 2026 or recently issued and the estimated effect on the Company's financial statements.
+Standard | Description | Required date of adoption | Effect on Company's financial statements or other significant matters |
+Standards Adopted |
+ASU 2025-06 --Intangibles--Goodwill and Other--Internal-Use Software (Subtopic 350-40): Targeted Improvements to the Accounting for Internal-Use Software | In September 2025, the FASB issued ASU 2025-06 to clarify and modernize the accounting for costs related to internal-use software. The ASU removes all references to project stages throughout ASC 350-40 and clarifies the threshold entities should apply to begin capitalizing costs. The ASU addresses investor feedback that the current guidance for software costs is outdated and not relevant given the evolution of software development. The ASU requires disclosures under ASC 360-10 be applied to all capitalized software costs accounted for under ASC 350-40, regardless of how those costs are presented in the financial statements. Early adoption is permitted, including adoption in an interim period but must be applied as of the beginning of the annual period that includes that interim period. The ASU may be adopted prospectively, retrospectively; or on a modified transition approach. | January 1, 2028 | The Company has early adopted this standard on a prospective basis as of January 1, 2026 for both annual and interim reporting periods therein. The adoption of this standard did not have a material impact to the consolidated financial statements. |
+ASU 2025-08 --Financial Instruments--Credit Losses (Topic 326) --Purchased Loans | In November 2025, the FASB issued ASU 2025-08 to expand the population of acquired financial assets subject to the gross-up approach in Topic 326. In accordance with the amendments in this ASU, loans (excluding credit cards) acquired without credit deterioration and deemed "seasoned" are purchased seasoned loans and accounted for using the gross-up approach at acquisition. All non-purchased credit deteriorated ("non-PCD") loans (excluding credit cards) that are acquired in a business combination are deemed seasoned. Other non-PCD loans (excluding credit cards) are seasoned if they were purchased at least 90 days after origination and the acquirer was not involved in the origination of the loans. The amendments in this ASU are effective for all entities for annual reporting periods beginning after December 15, 2026, and interim reporting periods within those annual reporting periods. The amendments in this ASU should be applied prospectively to loans that are acquired on or after the initial application date. Early adoption is permitted in an interim or annual reporting period in which financial statements have not yet been issued or made available for issuance.
+January 1, 2027 | The Company has early adopted this standard on a prospective basis as of January 1, 2026 for both annual and interim reporting periods therein. Accordingly, the initial estimate of expected credit losses of $478 million for acquired Synovus loans recognized in the allowance for loan losses included both PCD and non-PCD loans. See Note 2 - Business Combination and Note 5 - Loans and Allowance for Loan Losses herein for more information.
+Standard | Description | Required date of adoption | Effect on Company's financial statements or other significant matters |
+Standards Issued But Not Yet Adopted |
+ASU 2024-03, Income Statement (Topic 220): Disaggregation of Income Statement Expenses | In November 2024, the FASB issued ASU 2024-03 to improve the disclosures over expenses and address requests from investors for more detailed information about the types of expenses in commonly presented expense captions. The ASU addresses investors requests for more disaggregated expense information to better understand an entity's performance, better assess the entity's prospects for future cash flows, and compare an entity's performance over time and with that of other entities. This ASU requires disclosure in the notes to the financial statements of specified information about certain costs and expenses. Retrospective application in all prior periods is permitted. | January 1, 2027 | The Company will prospectively adopt for annual periods beginning after December 15, 2026 and interim periods within fiscal years beginning after December 15, 2027. |
+10
+Table of Contents
+Note 2 - Business Combination
+Description of the Transaction
+On January 1, 2026, the transaction contemplated by the Merger Agreement dated as of July 24, 2025 (the Merger Agreement) by and among Pinnacle Financial Partners, a Tennessee corporation (Legacy Pinnacle), Synovus Financial Corp., and Steel Newco Inc., a newly formed Georgia corporation (Newco) closed. As such and pursuant to the terms and conditions of the Merger Agreement, Legacy Pinnacle and Synovus merged with and into Newco, with Newco continuing as the surviving corporation and subsequently being renamed Pinnacle Financial Partners, Inc. Upon completion of the Merger, the separate corporate existence of Legacy Pinnacle and Synovus ceased, and Newco (now Pinnacle Financial Partners, Inc.) became the parent company for the combined organization. Following the completion of the Merger and after Pinnacle Bank becoming a member bank of the Federal Reserve System on January 2, 2026, Synovus Bank merged with and into Pinnacle Bank, with Pinnacle Bank continuing as the surviving bank and the separate existence of Synovus Bank ceasing.
+Pursuant to the terms and conditions of the Merger Agreement, (a) each share of common stock, par value $1.00 per share, of Synovus (Synovus Common Stock) outstanding immediately prior to the effective time of the Merger was converted into the right to receive 0.5237 shares of the common stock of Newco (Newco Common Stock) and (b) each share of common stock, par value $1.00 per share, of Legacy Pinnacle outstanding immediately prior to the Merger was converted into the right to receive one share of Newco Common Stock. Holders of Synovus Common Stock received cash in lieu of fractional shares.
+Pursuant to the terms and conditions of the Merger Agreement (i) each share of Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series D, no par value, of Synovus outstanding immediately prior to the Merger was converted into the right to receive one share of Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series A, no par value, of Newco&#894; (ii) each share of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series E, no par value, of Synovus outstanding immediately prior to the Merger was converted into the right to receive one share of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B, no par value, of Newco&#894; (iii) each share of 6.75% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series C, no par value, of Legacy Pinnacle (Legacy Pinnacle Preferred Stock) outstanding immediately prior to the Merger was converted into the right to receive one share of 6.75% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series C, no par value, of Newco (Newco Series C Preferred Stock)&#894; and (iv) each outstanding depositary share representing a 1/40th interest in a share of Legacy Pinnacle Preferred Stock (Legacy Pinnacle Depositary Shares) was converted into a depositary share representing a 1/40th interest in a share of Newco Series C Preferred Stock.
+The transaction was accounted for as a business combination in accordance with Topic 805, Business Combinations, ASC 805, with Pinnacle as the accounting acquirer.
+Preliminary Purchase Price Allocation
+The purchase price has been allocated to the identifiable assets acquired and liabilities assumed based on their estimated fair values as of January 1, 2026. The purchase price allocation is preliminary as of June 30, 2026, and subject to adjustment during the measurement period (not to exceed one year from the acquisition date). While we believe the information available on January 1, 2026 provides a reasonable basis for estimating fair value, we may obtain additional information and evidence during the measurement period that would result in changes to the estimated fair value amounts. Valuations subject to change include, but are not limited to loans, premises, equipment, software, core deposits, certain identifiable intangible assets, certain deposits, deferred tax assets and liabilities, certain other assets and certain other liabilities. Any measurement period adjustments will be recorded retrospectively as adjustments to goodwill. As of June 30, 2026, the Company has recorded goodwill of $1.6 billion related to the Merger. Goodwill is calculated as the excess of the fair value of consideration transferred over the fair value of the net assets acquired and will not be deductible for tax purposes. The fair value of the net assets acquired is presented below and included an $848 million core deposit intangible asset (CDI) and a $262 million wealth customer relationship intangible asset which are included in "identifiable intangible assets". Refer to Note 6 - Goodwill and Other Intangible Assets in this Report for additional information.
+11
+Table of Contents
+(in millions) |
+Assets acquired: |
+Cash and cash equivalents | $ | 2,538 |
+Investment securities | 9,830 |
+Loans held for sale | 106 |
+Loans | 43,952 |
+Allowance for loan losses | (478) |
+Loans, net | 43,474 |
+Premises, equipment, and software | 561 |
+Cash surrender value of bank-owned life insurance | 941 |
+Identifiable intangible assets | 1,110 |
+Other assets | 2,772 |
+Total assets acquired | $ | 61,332 |
+Liabilities assumed: |
+Deposits | $ | 51,316 |
+Federal funds purchased, and securities sold under repurchase agreements | 49 |
+FHLB advances and other borrowings | 2,506 |
+Other liabilities | 1,516 |
+Total liabilities assumed | $ | 55,387 |
+Net assets acquired | $ | 5,945 |
+Consideration: |
+Fair value of common stock issued | $ | 6,940 |
+Fair value of preferred stock issued | 564 |
+Fair value of equity awards | 71 |
+
+----- [line 1256] -----
+Financial assets |
+Securities purchased with agreement to resell | $ | 96 | $ | 96 | $ | -- | $ | -- | $ | 96 |
+Investment securities held to maturity | 2,591 | 2,410 | 20 | 2,390 | -- |
+Loans held for sale | 97 | 98 | -- | 98 | -- |
+Loans, net | 38,712 | 38,288 | -- | -- | 38,288 |
+Financial liabilities |
+Deposits and securities sold under agreements to repurchase | $ | 47,717 | $ | 46,735 | $ | -- | $ | -- | $ | 46,735 |
+FHLB advances and other borrowings | 2,205 | 2,232 | -- | -- | 2,232 |
+(1) Estimated fair values are consistent with an exit price concept.
+32
+Table of Contents
+Note 9 - Derivative Instruments and Hedging Activities
+Pinnacle utilizes derivative instruments to manage its exposure to various types of interest rate risk, exposures related to liquidity and credit risk, and to facilitate client transactions. The primary types of derivative instruments utilized by Pinnacle consist of interest rate swaps and options, interest rate lock commitments made to prospective mortgage loan clients, commitments to sell fixed-rate mortgage loans, and foreign currency exchange contracts. Interest rate lock commitments represent derivative instruments since it is intended that such loans will be sold. Pinnacle also provides foreign currency exchange services, primarily forward contracts, with counterparties to allow commercial clients to mitigate exchange rate risk. Pinnacle covers its risk by entering into an offsetting foreign currency exchange forward contract. Pinnacle enters into risk participation agreements with financial institution counterparties where we are either a participant or a lead bank so that the risk of default on the interest rate swaps is shared. Pinnacle either pays or receives a fee depending on the participation type. As of June 30, 2026, Pinnacle has risk participation agreements with a total notional amount of $1.8 billion. Additionally, Pinnacle enters into swaps to facilitate customer transactions and meet their financing needs. Upon entering into these instruments to meet customer needs, Pinnacle enters into offsetting positions in order to minimize the risk to Pinnacle. These swaps qualify as derivatives, but are not designated as hedging instruments.
+On June 28, 2024, Pinnacle executed a credit default swap (CDS) with a counterparty with a notional amount of $87 million. The CDS notional amount is equal to 5% of a reference pool of $1.7 billion in first lien consumer real estate - mortgage loans whereby the counterparty will assume the first loss position for these loans up to approximately $87 million in aggregate losses. Pinnacle will pay to the counterparty an annual loss protection fee equal to 7.95% of the corresponding notional amount of the CDS for as long as the loans in the reference pool remain outstanding. The notional amount of the CDS will decline over time as the loans in the reference portfolio are paid down, mature or the counterparty absorbs the first loss portion of losses on those loans. On December 22, 2025, Pinnacle executed a CDS with a notional amount of $80 million. The CDS notional amount is equal to 12.5% of a reference pool of commercial subscription lines of credit whereby the counterparty will assume first loss position for these loans up to approximately $80 million in aggregate losses. Pinnacle will pay to the counterparty an annual loss protection fee equal to 4.94% of the corresponding notional amount until the scheduled termination date of December 22, 2030, subject to early termination criteria not being met. The notional amount of the CDS will fluctuate until the replenishment cut-off date, December 22, 2028, subject to early termination criteria not being met, at which time the reference pool will decline over time. Each CDS qualifies as a derivative, but is not designated as a hedging instrument.
+See "Part II - Item 8. Financial Statements and Supplementary Data - Note 1 - Summary of Significant Accounting Policies" to the consolidated financial statements of Pinnacle's 2025 Form 10-K for additional information regarding accounting policies for derivatives.
+Hedging Derivatives
+Cash flow hedging relationships mitigate exposure to the variability of future cash flows or other forecasted transactions. The hedging strategy converts the SOFR-based variable interest rate on forecasted borrowings to a fixed interest rate and is used in an effort to protect Pinnacle from floating interest rate variability. The contracts effectively modify Pinnacle's exposure to interest rate risk by utilizing receive fixed/pay index-based variable rate interest rate swaps and floors. Pinnacle also uses interest rate caps to mitigate the impact of changing deposit rates of federal funds based deposit accounts.
+For cash flow hedges, gain or loss on the derivative instrument is reported as a component of accumulated other comprehensive income (loss), net of the tax impact, and subsequently reclassified into earnings when the hedged transaction affects earnings with the impacts recorded in the same income statement line item used to present the earnings effect of the hedged item. When a cash flow hedge relationship is discontinued but the hedged cash flows, or forecasted transactions, are still expected to occur, gains or losses that were accumulated in OCI are amortized into earnings over the same periods in which the hedged transactions are still expected to affect earnings. If, however, it is probable the forecasted transactions will no longer occur, the remaining accumulated amounts in OCI for the impacted cash flow hedges are immediately recognized in earnings.
+Pinnacle utilizes interest rate swaps designated as fair value hedges to mitigate the effect of changing interest rates on the fair values of fixed rate callable securities available for sale. The hedging strategy on securities converts the fixed interest rates to variable interest rates based on SOFR or federal funds rates. These derivatives are designated as partial term hedges of selected cash flows covering specified periods of time prior to the call dates of the hedged securities. Pinnacle has also entered into portfolio layer method fair value hedges on certain available for sale securities. Under the portfolio layer method, the hedged item is designated as a hedged layer of a closed portfolio of available for sale securities that is anticipated to remain outstanding throughout the hedge period. Pinnacle also utilizes interest rate swaps designated as fair value hedges to mitigate the effect of changing interest rates on FHLB advances, other borrowings and deposits.The changes in fair value of the fair value hedges are recorded through earnings with an offset against changes in the fair value of the hedged item within net interest income in the consolidated statements of income. All components of each derivative instrument's gain (loss) are included in the assessment of hedge effectiveness.
+33
+Table of Contents
+Derivatives not designated as hedges include those that are entered into as either economic hedges to facilitate client needs or as part of Pinnacle's overall risk management strategy. Economic hedges are those that do not qualify to be treated as a fair value hedge or cash flow hedge for accounting purposes but are necessary to economically manage the risk exposure associated with the assets and liabilities of Pinnacle. For derivative instruments that are not designated as hedging instruments, changes in the fair value of the derivatives are recognized in earnings immediately.
+Counterparty Credit Risk and Collateral
+Entering into derivative contracts potentially exposes Pinnacle to the risk of counterparties' failure to fulfill their legal obligations, including, but not limited to, potential amounts due or payable under each derivative contract. Notional principal amounts are often used to express the volume of these transactions, but the amounts potentially subject to credit risk are much smaller. Pinnacle assesses the credit risk of its dealer counterparties by regularly monitoring publicly available credit rating information, evaluating other market indicators, and periodically reviewing detailed financials. Dealer collateral requirements are determined via risk-based policies and procedures and in accordance with existing agreements. Pinnacle seeks to minimize dealer credit risk by dealing with highly rated counterparties and by obtaining collateral for exposures above certain predetermined limits. Management closely monitors credit conditions within the client swap portfolio, which management deems to be of higher risk than dealer counterparties. Collateral is secured at origination and credit-related fair value adjustments are recorded against the asset value of the derivative as deemed necessary based upon an analysis, which includes consideration of the current asset value of the swap, client risk rating, collateral value, and client standing with regards to its swap contractual obligations and other related matters. Such asset values fluctuate based upon changes in interest rates regardless of changes in notional amounts and changes in client specific risk.
+Collateral Requirements
+Pinnacle's derivative instruments with certain counterparties contain legally enforceable netting that allow multiple transactions to be settled into a single amount. The fair value hedge and interest rate swaps (swaps) assets and liabilities are presented at gross fair value before the application of bilateral collateral and master netting agreements, but after the initial margin posting and daily variation margin payments made with central clearinghouse organizations. Total fair value hedge and swaps assets and liabilities are adjusted to take into consideration the effects of legally enforceable master netting agreements and cash collateral received or paid.
+Certain derivative transactions have collateral requirements, both at the inception of the trade and as the value of each derivative position changes. As of June 30, 2026 and December 31, 2025, Pinnacle had recorded the right to reclaim cash collateral of $10 million and $36 million, respectively. As of June 30, 2026 and December 31, 2025, Pinnacle had recorded the obligation to return cash collateral of $100 million and $62 million, respectively.
+For derivatives cleared through central clearing houses, the variation margin payments made are legally characterized as settlements of the derivatives. As a result, these variation margin payments are netted against the fair value of the respective derivative contracts in the consolidated balance sheets and related disclosures.
+34
+Table of Contents
+The following table reflects the estimated fair value of derivative instruments included in other assets and other liabilities on the consolidated balance sheets along with their respective notional amounts on a gross basis.
+June 30, 2026 | December 31, 2025 |
+Estimated Fair Value | Estimated Fair Value |
+(in millions) | Notional Amount | Derivative Assets | Derivative Liabilities | Notional Amount | Derivative Assets | Derivative Liabilities |
+Derivatives in cash flow hedging relationships: |
+Interest rate contracts | $ | 12,250 | $ | 79 | $ | -- | $ | 9,750 | $ | 83 | $ | -- |
+Total cash flow hedges | $ | 79 | $ | -- | $ | 83 | $ | -- |
+Derivatives in fair value hedging relationships: |
+Interest rate contracts | $ | 7,207 | $ | 52 | $ | 11 | $ | 4,340 | $ | 47 | $ | 1 |
+Total fair value hedges | $ | 52 | $ | 11 | $ | 47 | $ | 1 |
+Total derivatives designated as hedging instruments | $ | 131 | $ | 11 | $ | 130 | $ | 1 |
+Derivatives not designated
+as hedging instruments: |
+Interest rate contracts | $ | 27,013 | $ | 56 | $ | 167 | $ | 6,425 | $ | 40 | $ | 40 |
+Mortgage derivatives - interest rate lock commitments | 122 | 2 | -- | 64 | 1 | -- |
+Mortgage derivatives - forward commitments to sell fixed-rate mortgage loans | 124 | -- | -- | 53 | -- | -- |
+Foreign exchange contracts | 163 | 1 | -- | -- | -- | -- |
+Visa derivative | -- | -- | 2 | -- | -- | -- |
+Credit default swap | 143 | -- | -- | 153 | -- | -- |
+Total derivatives not designated as hedging instruments | $ | 59 | $ | 169 | $ | 41 | $ | 40 |
+35
+Table of Contents
+The following table presents the effect of hedging derivative instruments in the consolidated statements of income and the total amounts for the respective line item affected for the three and six months ended June 30, 2026 and 2025.
+Three Months Ended June 30, 2026 |
+Interest Income | Interest Expense |
+(in millions) | Loans, including fees | Investment securities
+Deposits | FHLB advances and other borrowings |
+Total interest income/expense amounts presented in the consolidated statements of income | $ | 1,310 | $ | 208 | $ | 534 | $ | 77 |
+Gain (loss) on fair value hedging relationships: |
+Recognized on derivatives | $ | -- | $ | (2) | $ | (7) | $ | (21) |
+Recognized on hedged items | -- | 2 | 7 | 21 |
+Pre-tax income (loss) recognized on fair value hedges | $ | -- | $ | -- | $ | -- | $ | -- |
+Three Months Ended June 30, 2025 |
+Interest Income | Interest Expense |
+(in millions) | Loans, including fees | Investment securities
+Deposits | FHLB advances and other borrowings |
+Total interest income/expense amounts presented in the consolidated statements of income | $ | 570 | $ | 94 | $ | 285 | $ | 29 |
+Gain (loss) on fair value hedging relationships: |
+Recognized on derivatives | $ | -- | $ | (5) | $ | -- | $ | 5 |
+Recognized on hedged items | -- | 5 | -- | (5) |
+Pre-tax income (loss) recognized on fair value hedges | $ | -- | $ | -- | $ | -- | $ | -- |
+Six Months Ended June 30, 2026 |
+Interest Income | Interest Expense |
+(in millions) | Loans, including fees | Investment securities
+Deposits | FHLB advances and other borrowings |
+Total interest income/expense amounts presented in the consolidated statements of income | $ | 2,570 | $ | 405 | $ | 1,055 | $ | 136 |
+
+----- [line 1403] -----
+In addition, where Pinnacle determines that there is a reasonable possibility of a loss in respect of legal matters, Pinnacle considers whether it is able to estimate the total reasonably possible loss or range of loss. Under GAAP, an event is "reasonably possible" if "the chance of the future event or events occurring is more than remote but less than likely," and an event is "remote" if the "chance of the future event or events occurring is slight." In many situations, Pinnacle may be unable to estimate reasonably possible losses due to the difficulty of predicting outcome of legal matters and the preliminary nature of the legal matters, as well as a variety of other factors and uncertainties. Those matters for which a meaningful estimate is not possible are not included within this estimated range and, therefore, this range does not represent our maximum loss exposure. For those legal matters where Pinnacle is able to estimate a range of reasonably possible losses, management currently estimates the aggregate range from our outstanding litigation is from zero to $30 million in excess of the amounts accrued, if any, related to those matters. This estimated aggregate range is based upon information currently available to Pinnacle, and the actual losses could prove to be lower or higher. As there are further developments in these legal matters, Pinnacle will reassess these matters, and the estimated range of reasonably possible losses may change as a result of this assessment. Based on Pinnacle's current knowledge and advice of counsel, management presently does not believe that the liabilities arising from these legal matters will have a material adverse effect on Pinnacle's consolidated financial condition, results of operations, or cash flows. However, in light of the significant uncertainties involved and the large or indeterminate damages sought in some of these matters, it is possible that the ultimate resolution of these legal matters could have a material adverse effect on Pinnacle's results of operations or financial condition for any particular period.
+Any estimate or determination relating to the future resolution of litigation, regulatory or governmental examinations, information gathering requests, inquiries, investigations, or similar matters is inherently uncertain and involves significant judgment. This is particularly true in the early stages of a legal matter, when legal issues and facts have not been well articulated, reviewed, analyzed, and vetted through discovery, preparation for trial or hearings, substantive and productive mediation or settlement discussions, or other actions. It is also particularly true with respect to class action and similar claims involving multiple defendants, matters with complex procedural requirements or substantive issues or novel legal theories, and examinations, investigations, and other actions conducted or brought by regulatory and governmental agencies, in which the normal adjudicative process is not applicable. Accordingly, we usually are unable to determine whether a favorable or unfavorable outcome is remote, reasonably likely, or probable, or to estimate the amount or range of a probable or reasonably likely loss, until relatively late in the course of a legal matter, sometimes not until a number of years have elapsed. Accordingly,
+39
+Table of Contents
+our judgments and estimates relating to claims will change from time to time in light of developments, and actual outcomes will differ from our estimates. These differences may be material.
+Pinnacle Financial intends to vigorously pursue all available defenses to these legal matters but will also consider other alternatives, including settlement, in situations where there is an opportunity to resolve such legal matters on terms that Pinnacle Financial considers to be favorable, including in light of the continued expense and distraction of defending such legal matters. Pinnacle Financial maintains insurance coverage, which may be available to cover legal fees, or potential losses that might be incurred in connection with such legal matters. The above-noted estimated range of reasonably possible losses does not take into consideration insurance coverage which may or may not be available for the respective legal matters.
+Note 12 - Segment Reporting
+Pinnacle's business segments are based on the products and services provided or the clients served and reflect the manner in which financial information is evaluated by the chief operating decision maker. Pinnacle's CODM is the Chief Executive Officer. The CODM primarily utilizes revenue and non-interest expense directly attributable to a respective segment as well as actual versus expected credit losses when assessing performance and allocating resources.
+During the first quarter of 2026 in connection with the Merger, Pinnacle reorganized its management reporting structure into two major reportable business segments: Banking and Wealth. The management accounting policies and processes utilized in compiling segment financial information are highly subjective and, unlike financial accounting, are not based on authoritative guidance similar to GAAP. As a result, reported segment results are not necessarily comparable with similar information reported by other financial institutions.
+The Banking operating segment includes both commercial and consumer banking services and insurance. Commercial banking services are provided to corporations and other business clients and include a wide array of lending and cash management products. Consumer banking services include direct lending and depository services. Insurance provides insurance brokerage services to individuals and businesses covering corporate and personal property and casualty products, as well as group health and life insurance products. Additionally, the Banking segment provides treasury management solutions and payment processing services.
+The Wealth segment provides a broad array of planning and advisory services, brokerage services, investment management, and trust services to individual, corporate, and institutional clients. Personal and institutional trust services provide advisory, investment management and trustee services to institutions, affluent and high-net-worth individuals. Family office services provide integrated, customized wealth management for ultra-high-net-worth, multigenerational families and other fee-only services such as estate administration, trust tax planning and custody. Brokerage services includes businesses that operate under the Company's charter, through a broker/dealer and as a registered investment advisor. It generates revenue through fee-only arrangements, net interest income and other fee-only services (retail brokerage, investment banking and financial advisory services) as well as Pinnacle Asset Management.
+Functional activities such as treasury, technology, operations, marketing, finance, enterprise risk, legal, human resources, corporate communications, executive management, among others, are included in Treasury and Corporate Other. In addition, certain assets, liabilities, revenue, and expense not allocated or attributable to a particular business segment, such as Pinnacle's third-party consumer loans, loans held for sale, BHG, and consumer and small business card, as well as certain reconciling items in order to translate segment results that are based on management accounting practices into consolidated results are also included in Treasury and Corporate Other.
+Pinnacle uses a centralized FTP methodology to attribute appropriate net interest income to its business segments. The intent of the FTP methodology is to transfer interest rate risk from the business segments by providing matched duration funding of assets and liabilities. The result is to centralize the financial impact, management, and reporting of interest rate risk in the Treasury and Corporate Other function, where it can be centrally monitored and managed. Treasury and Corporate Other charges (credits) an internal cost of funds for assets held in (or pays for funding provided by) each business segment. The process for determining FTP is based on a number of factors and assumptions, including prevailing market interest rates, the expected lives of various assets and liabilities, and the Company's broader funding profile.
+Provision for (reversal of) credit losses is allocated to segments based on the balance of loans managed by the segments during the period. By comparison, the consolidated provision for (reversal of) credit losses is determined based on the ACL model using methodologies described in "Note 1 - Basis of Presentation and Accounting Policies" herein, with the difference between the consolidated provision for (reversal of) credit losses and the business segments' provision for (reversal of) credit losses reflected in Treasury and Corporate Other.
+The following tables present certain financial information for each reportable business segment for the three and six months ended June 30, 2026 and 2025 and as of June 30, 2026 and December 31, 2025. The application and development of management reporting methodologies is a dynamic process and is subject to periodic enhancements. As these enhancements are
+40
+Table of Contents
+made, financial results presented by each reportable business segment may be periodically revised. Loan and deposit transfers occur from time to time between reportable business segments primarily to maintain the migration of clients and relationship managers between segments; however, prior period loan and deposit balances and any related net interest income and FTP are not adjusted for transfers.
+Three Months Ended June 30, 2026 |
+(in millions) | Banking | Wealth | Treasury and Corporate Other | Pinnacle Consolidated |
+Net interest income | $ | 807 | $ | 10 | $ | 139 | $ | 956 |
+Provision for (reversal of) credit losses | 62 | -- | 1 | 63 |
+Net interest income after provision for credit losses | 745 | 10 | 138 | 893 |
+Core banking fees | 81 | -- | 12 | 93 |
+Wealth management revenue | 5 | 80 | -- | 85 |
+Capital markets income | 18 | -- | -- | 18 |
+Total loan sales and servicing | 9 | -- | -- | 9 |
+Other non-interest revenue | 9 | -- | 33 | 42 |
+Total non-interest revenue | 122 | 80 | 45 | 247 |
+Salaries and other personnel expense | 205 | 48 | 125 | 378 |
+Occupancy, equipment and software expense | 40 | 1 | 61 | 102 |
+Other operating expense(1)(2)
+61 | 9 | 171 | 241 |
+Total non-interest expense | 306 | 58 | 357 | 721 |
+Income (loss) before income taxes | $ | 561 | $ | 32 | $ | (174) | $ | 419 |
+Three Months Ended June 30, 2025 |
+(in millions) | Banking | Wealth | Treasury and Corporate Other | Pinnacle Consolidated |
+Net interest income | $ | 355 | $ | 2 | $ | 23 | $ | 380 |
+Provision for (reversal of) credit losses | 23 | -- | 1 | 24 |
+Net interest income after provision for credit losses | 332 | 2 | 22 | 356 |
+Core banking fees | 25 | -- | 7 | 32 |
+Wealth management revenue | 4 | 28 | -- | 32 |
+Capital markets income | 4 | -- | -- | 4 |
+Total loan sales and servicing | 6 | -- | -- | 6 |
+Other non-interest revenue | 2 | 1 | 48 | 51 |
+Total non-interest revenue | 41 | 29 | 55 | 125 |
+Salaries and other personnel expense | 113 | 20 | 47 | 180 |
+Occupancy, equipment and software expense | 19 | -- | 25 | 44 |
+Other operating expense(1)
+22 | 1 | 39 | 62 |
+Total non-interest expense | 154 | 21 | 111 | 286 |
+Income (loss) before income taxes | $ | 219 | $ | 10 | $ | (34) | $ | 195 |
+(1) Other operating expense for Banking and Wealth primarily includes software platform expense, professional fees, and FDIC insurance and other regulatory fees.
+(2) Treasury and Corporate Other includes $48 million of the total merger-related expense of $51 million incurred during the period.
+41
+Table of Contents
+Six Months Ended June 30, 2026 |
+(in millions) | Banking | Wealth | Treasury and Corporate Other | Pinnacle Consolidated |
+Net interest income | $ | 1,562 | $ | 20 | $ | 307 | $ | 1,889 |
+Provision for (reversal of) credit losses | 136 | -- | 3 | 139 |
+Net interest income after provision for credit losses | 1,426 | 20 | 304 | 1,750 |
+Core banking fees | 162 | -- | 22 | 184 |
+Wealth management revenue | 8 | 161 | -- | 169 |
+Capital markets income | 36 | -- | -- | 36 |
+Total loan sales and servicing | 19 | -- | -- | 19 |
+Other non-interest revenue | 12 | -- | 111 | 123 |
+Total non-interest revenue | 237 | 161 | 133 | 531 |
+Salaries and other personnel expense | 413 | 99 | 262 | 774 |
+Occupancy, equipment and software expense | 80 | 3 | 116 | 199 |
+Other operating expense(1)(2)
+117 | 18 | 565 | 700 |
+Total non-interest expense | 610 | 120 | 943 | 1,673 |
+
+----- [line 1615] -----
+Non-performing loans ratio | 0.47 | 0.54 | (7) | 0.42 | 5 |
+Past due loans over 90 days (as a % of loans) | 0.01 | 0.01 | -- | 0.01 | -- |
+ACL to loans coverage ratio | 1.17 | 1.19 | (2) | 1.17 | -- |
+CET1 capital ratio | 9.93 | 9.81 | 12 | 10.70 | (77) |
+Total shareholders' equity to total assets ratio
+11.49 | 11.89 | (40) | 12.11 | (62) |
+Second Quarter 2026 Overview
+As the Merger became effective January 1, 2026, reported results reflect Legacy Pinnacle results prior to the completion of the Merger and results for the combined entity from the Merger closing date forward. As such, comparative data in MD&A as of and for the periods ended December 31, 2025 and June 30, 2025 reflect only Legacy Pinnacle.
+Net income available to common shareholders for the second quarter of 2026 was $313 million, or $2.07 per diluted common share, compared to $155 million, or $2.00 per diluted common share, for the second quarter of 2025. Net income available to common shareholders for the six months ended June 30, 2026 was $448 million, or $2.96 per diluted common share, compared to $291 million, or $3.77 per diluted common share, for the six months ended June 30, 2025. The increase in net income available to common shareholders for the three and six months ended June 30, 2026 when compared to the same periods in 2025 is primarily due to the Merger. Other impacts to the comparable periods are noted below and throughout this MD&A.
+Net interest income for the second quarter June 30, 2026 was $956 million, up $576 million, or 151%, compared to the same period in 2025. Net interest income for the six months ended June 30, 2026 was $1.9 billion, up $1.1 billion, or 153%, compared to the same period in 2025. Net interest income during both the three and six month periods ended June 30, 2026 was
+47
+Table of Contents
+impacted by purchase accounting marks on the Synovus balance sheet and associated accretion, fixed-asset repricing, the repositioning of our securities portfolio, modest pressure from lower SOFR rates, and, specifically in the second quarter, incremental wholesale funding reliance due to deposit seasonality. Purchase accounting accretion on loans may fluctuate quarter-to-quarter due to prepayments on loans during the respective periods. Net interest margin for the three and six months ended June 30, 2026 was 3.44% and 3.48%, respectively, compared to Legacy Pinnacle margin of 3.23% and 3.22%, respectively, during the same periods in 2025.
+Non-interest revenue for the three and six months ended June 30, 2026 was $247 million and $531 million, respectively, up $122 million, or 97%, and $310 million, or 139%, respectively, compared to the same periods in 2025. Nearly all non-interest revenue categories were impacted by the Merger. Outside of the impact of the Merger, increases in both the three and six month periods ended June 30, 2026, when compared to the comparable periods in 2025, are largely the result of growth in core banking fees, wealth management revenues and capital markets income, offset in part by investment securities losses incurred as a result of the repositioning of our securities portfolio post-merger. The three month period ended June 30, 2026 was also negatively impacted by a decline in income from our equity method investment in BHG attributable to its intentional shift in placement strategy.
+Non-interest expense for the three and six months ended June 30, 2026 was $721 million and $1.7 billion, up $435 million, or 152%, and $1.1 billion, or 198%, respectively, compared to the same periods in 2025. Merger-related expense for the three and six months ended June 30, 2026 was $51 million and $326 million, respectively. Excluding merger-related expense, non-interest expense during the three and six months ended June 30, 2026, as compared to the same prior year periods, was impacted by higher employment expenses, largely due to increased headcount and increases in equipment, occupancy and software expense primarily the result of software-related costs, some of which will be offset as merger-related synergies are realized.
+At June 30, 2026, loans, net of deferred fees and costs, of $88.1 billion increased $48.9 billion from December 31, 2025, primarily driven by the Merger. Outside of the impact of the Merger, we experienced significant C&I loan growth during the six months ended June 30, 2026, a result of balanced growth between our specialty and geographic business units.
+Credit metrics at June 30, 2026 included NPAs and NPLs at 50 bps and 47 bps, respectively, and total past due loans at 14 bps as a percentage of total loans. Net charge-offs/average loans for the three and six months ended June 30, 2026 were in line with our expectations at 22 and 23 bps annualized, respectively. The ACL to loans coverage ratio was 1.17% at both June 30, 2026 and December 31, 2025. The reserve was largely impacted by loan growth offset in part by a decline in reserves for individually analyzed credits. The ACL to NPL coverage ratio was 248% at June 30, 2026, compared to 343% at December 31, 2025.
+Total period-end deposits at June 30, 2026 increased $53.5 billion compared to December 31, 2025, and were primarily driven by the Merger. Excluding the impact of the Merger, the increase is reflective of an increase in interest-bearing and non-interest-bearing demand deposits and money market accounts.
+At June 30, 2026, Pinnacle's' CET1 ratio was 9.93%. Our intent remains to deploy capital generated through earnings to client growth as we proceed through 2026 while building CET1.
+More detail on Pinnacle's financial results for the three and six months ended June 30, 2026 may be found in subsequent sections of "Item 2. - Management's Discussion and Analysis of Financial Condition and Results of Operations" of this Report. See also "Part II - Item 1A. - Risk Factors" of this report.
+2026 Fundamental Guidance
+The outlook is unchanged from what was previously noted in January of 2026, reflects our current expectations and is based on recent trends and client feedback. Underlying our guidance is an expectation of both a stable interest rate and economic environment. Changes to these factors could have a meaningful impact on the guidance provided below:
+&#8226;end of period loan growth of approximately 9% to 11%, excluding the Day 1 purchase accounting loan mark
+&#8226;end of period deposit growth of approximately 8% to 10%
+&#8226;adjusted revenue(1) of approximately $5.0 to $5.2 billion(2)
+&#8226;adjusted non-interest expense(1) of approximately $2.675 to $2.775 billion(3)
+&#8226;net charge-off ratio of 0.20% to 0.25% year-to-date annualized
+&#8226;adjusted effective income tax rate of approximately 20% to 21%(4)
+(1) Non-GAAP financial measure; see "Table 14 - Reconciliation of Non-GAAP Financial Measures" of this Report for applicable reconciliation to the most comparable GAAP measure.
+(2) Assumes net interest margin of 3.44% - 3.47% and no FOMC action through 2026.
+48
+Table of Contents
+(3) Includes approximately $185 million of estimated intangible amortization in 2026 along with an assumption that 40% of the expected net cost savings from the Merger will be realized in 2026.
+(4) Based on earnings adjusted for merger-related costs.
+Loans
+The following table compares the composition of the loan portfolio at June 30, 2026, and December 31, 2025.
+Table 2 - Loans by Portfolio Class |
+(dollars in millions) | June 30, 2026 | December 31, 2025 |
+Commercial, financial and agricultural | $ | 36,676 | 41.6 | % | $ | 16,549 | 42.3 | % |
+Owner-occupied | 14,439 | 16.4 | 5,747 | 14.6 |
+Total commercial and industrial(1)
+51,115 | 58.0 | 22,296 | 56.9 |
+Investment properties | 20,747 | 23.6 | 9,496 | 24.3 |
+1-4 family properties | 1,917 | 2.2 | 1,284 | 3.3 |
+Land and development | 931 | 1.0 | 576 | 1.4 |
+Total commercial real estate | 23,595 | 26.8 | 11,356 | 29.0 |
+Consumer mortgages | 8,459 | 9.6 | 3,456 | 8.8 |
+Home equity | 3,002 | 3.4 | 1,374 | 3.5 |
+Credit cards | 236 | 0.3 | 53 | 0.1 |
+Other consumer loans | 1,669 | 1.9 | 619 | 1.7 |
+Total consumer | 13,366 | 15.2 | 5,502 | 14.1 |
+Loans, net of deferred fees and costs | $ | 88,076 | 100.0 | % | $ | 39,154 | 100.0 | % |
+(1) Includes senior housing loans of $4.3 billion, $521 million, and $564 million at June 30, 2026, December 31, 2025, and June 30, 2025, respectively, which are primarily classified as owner-occupied in accordance with our underwriting process.
+At June 30, 2026, loans, net of deferred fees and costs of $88.1 billion increased $48.9 billion, or 125%, from December 31, 2025, primarily as a result of the Merger. C&I loans remain the largest component of our loan portfolio, representing 58.0% of total loans, while CRE and consumer loans represent 26.8% and 15.2%, respectively. Our portfolio composition is guided by our strategic growth plan, in conjunction with risk oversight of portfolio concentrations.
+Total commercial loans (which are comprised of C&I and CRE loans) at June 30, 2026 were $74.7 billion, or 84.8% of the total loan portfolio, compared to $33.7 billion, or 85.9%, at December 31, 2025.
+Pinnacle actively manages and evaluates credit risk associated with its commercial loans through robust underwriting policies and routine loan monitoring in order to identify and mitigate any weakness as early as possible. Pinnacle's management, along with its Chief Credit Officer and Credit Risk Committee, continually monitors and evaluates commercial concentrations by property class, industry, and relative to regulatory capital. As part of its risk management efforts, Pinnacle monitors its commercial loan portfolio on an ongoing basis to assess credit risks, identify emerging risks, and adjust its lending limits taking into account, among other things, (1) the size, complexity, and level of risk of loans and individual borrowers, (2) changes in the level of credit risk at both the borrower and portfolio level, (3) concentrations of credit risk pertaining to both specific industries and geographies in its loan portfolio, (4) loan structure, collateral location and quality, and project progress, and (5) economic forecasts and industry outlook.
+Pinnacle has established recommended credit exposure limits for large C&I commercial lending relationships based on Pinnacle's internal risk ratings for an individual borrower at the time the lending commitment is approved, with the final exposure limit being determined by the appropriate credit approval authority. Limits for large Commercial Real Estate exposures are established at the sponsor level through an annual approval process. Commercial credits are subject to review according to credit risk management monitoring practices as outlined in Pinnacle's loan policy, as well as a sampling process performed by Pinnacle Credit Review to ensure uniform application of policies and procedures and to validate risk rating accuracy. Pinnacle prepares targeted stress tests on a routine basis for its commercial loans. This testing is completed in addition to sensitivity testing completed at the initial extension of credit.
+Commercial and Industrial Loans
+The C&I loan portfolio represents the largest category of Pinnacle's loan portfolio and is primarily comprised of general middle market and commercial banking clients across a diverse set of industries as well as certain specialized lending verticals. The following table shows the composition of the C&I loan portfolio aggregated by NAICS code. As of June 30, 2026 and December 31, 2025, 92.2% and 89.8%, respectively, of Pinnacle's C&I loans are secured by real estate, business equipment,
+49
+Table of Contents
+inventory, and other types of collateral. C&I loans at June 30, 2026 grew $28.8 billion from December 31, 2025, primarily as a result of the Merger. Outside of the impact of the Merger, the growth was diverse by geography and supported by specialty lending.
+Table 3 - Commercial and Industrial Loans by Industry |
+June 30, 2026 | December 31, 2025 |
+(dollars in millions) | NAICS Code | Amount | %(1)
+Amount | %(1)
+Finance and insurance | 52 | $ | 8,882 | 17.4 | % | $ | 1,559 | 7.0 | % |
+Health care and social assistance | 62 | 6,196 | 12.1 | 1,610 | 7.2 |
+Retail trade | 44-45 | 3,397 | 6.6 | 1,403 | 6.3 |
+Accommodation and food services | 72 | 3,138 | 6.1 | 1,371 | 6.1 |
+Non classifiable | 3,120 | 6.1 | 3,226 | 14.5 |
+Lessors of real estate | 5311 | 3,049 | 6.0 | 1,448 | 6.5 |
+
+----- [line 2056] -----
+Net interest income
+$ | 1,889 | $ | 746 |
+(1) Average loans are shown net of unearned income. NPLs are included. Interest income includes fees as follows: 2026 - $37 million, 2025 - $20 million.
+(2) Reflects taxable-equivalent adjustments, using the statutory federal income tax rate of 21%, in adjusting interest on tax-exempt loans and securities to a taxable-equivalent basis.
+(3) Securities are included on an amortized cost basis with yield and net interest margin calculated accordingly.
+(4) Includes loans held for sale, trading account assets, and FHLB and Federal Reserve Bank stock.
+(5) As a result of the Merger, certain immaterial changes were made to integrate the presentation of the legacy banks' yield on investment securities, which included presenting the average balance of unrealized losses on investment securities available for sale of $181 million as a component of other assets during 2026.
+(6) The net interest margin is calculated by dividing annualized net interest income (TE) by average total interest earnings assets.
+Amounts may not total due to rounding and yield/rates are calculated using unrounded amounts and may differ from calculations based on rounded figures.
+60
+Table of Contents
+Market Risk Analysis
+In the normal course of business, Pinnacle is exposed to certain forms of market risk, most notably risks arising from fluctuations in interest rates. To aid in the management of such risks, the Company leverages certain modeling techniques and simulation analysis in an effort to measure the sensitivity of Pinnacle's earning assets and liabilities and the potential implications for our income statement and balance sheet. In particular, the Company uses simulation modeling to measure the sensitivity of net interest income to changes in market interest rates. These simulations are used to determine a baseline net interest income projection and the sensitivity of the income profile based on changes in interest rates. These simulations incorporate numerous assumptions and factors, including, but not limited to, changes in market rates, in the size or composition of the balance sheet, and in repricing characteristics as well as client behaviors for both loans and deposits. This also includes estimates for deposit repricing characteristics which, for purposes of the sensitivity estimates provided below, relies upon a constant, through-the-cycle total deposit cost beta of approximately 50% as of the most recently reported period. Such assumptions are generally based on historical observations and future expectations. This process is reviewed and updated on an ongoing basis in a manner consistent with Pinnacle's ALCO governance framework.
+The Risk Committee of the Board has chartered the ALCO and approved related policies to aid in the management and governance of various risks, including interest rate risk. The ALCO has an established limit framework for interest rate risk, which is monitored on an ongoing basis and is in alignment with the tolerances and limits as established by the Board. Additionally, Pinnacle's ERM framework establishes a Board-approved risk appetite statement, which includes certain quantitative measurements for interest rate risk and helps to ensure management operates within the Board's established appetite.
+Pinnacle has modeled its baseline net interest income forecast assuming an interest rate projection that is flat to June 30, 2026 interest rate curves, with the federal funds rate at the Federal Reserve's targeted range of 3.50% to 3.75% and the prime rate of 6.75% as of June 30, 2026. Pinnacle has modeled the impact of an immediate change in market interest rates across the yield curve of 100 and 200 bps to determine the sensitivity of net interest income for the next 12 months. As illustrated in the table below, the net interest income sensitivity derived from this simulation suggests that net interest income is projected to increase by 4.3% and 2.2% if interest rates increased by 200 and 100 bps, respectively. Net interest income is projected to decrease by 1.7% and 2.8% if interest rates decreased by 100 and 200 bps, respectively.
+The following table represents the estimated sensitivity of net interest income at June 30, 2026, with comparable information for December 31, 2025.
+Table 13 - Twelve Month Net Interest Income Sensitivity |
+Estimated % Change in Net Interest Income as Compared to Unchanged Rates (for the next 12 months) |
+Change in Interest Rates (in bps) | June 30, 2026 | December 31, 2025 |
++200 | 4.3% | 0.3% |
++100 | 2.2 | 0.1 |
+-100 | (1.7) | 1.2 |
+-200 | (2.8) | 1.7 |
+While all of the above estimates are reflective of the general interest rate sensitivity of Pinnacle, local market conditions, the realized growth and remixing of the balance sheet, the timing and lags associated with various interest rate relationships, as well as numerous other factors could individually, or collectively, have a significant impact on both the estimated sensitivity and the realized level of net interest income in a given period. Additionally, should there be differences between realized deposit betas for a given level of rates as compared to the Company's estimates for through-the-cycle betas, this may also have a significant impact on our reported sensitivity and the realized level of net interest income.
+The net interest income simulation model is the primary tool utilized to evaluate potential interest rate risks over a short to medium term time horizon. Pinnacle also evaluates potential longer-term interest rate risk through modeling and evaluation of the sensitivity of the Company's EVE. The EVE measurement process estimates the net fair value of assets, liabilities, and off-balance sheet financial instruments under various interest rate scenarios. Management uses EVE sensitivity analyses as an additional means of measuring interest rate risk and incorporates this form of analysis within its governance and limits framework.
+Pinnacle is also subject to market risk in certain of its fee income business lines which is ultimately captured in non-interest revenue. Wealth management revenue, which include trust, brokerage, and asset management fees, and capital markets income can be affected by risk in the securities markets, primarily the equity securities market. A significant portion of the fees from wealth management and capital markets products are determined based upon a percentage of asset values. Weaker securities markets and lower equity values have an adverse impact on the fees generated by these operations. Trading account assets,
+61
+Table of Contents
+maintained to facilitate brokerage client activity, are also subject to market risk; however, trading activities are limited and subject to risk policy limits. Additionally, Pinnacle utilizes various tools to measure and manage price risk in its trading portfolio.
+Mortgage banking income, which is included in total loan sales and servicing, is also subject to market risk. Mortgage loan originations are sensitive to levels of mortgage interest rates and therefore, mortgage banking income can be negatively impacted during a period of sustained elevated interest rates as we have been experiencing through the cycle. The extension of commitments to clients to fund mortgage loans also subjects Pinnacle to market risk. This risk is primarily created by the time periods between making the commitment, closing, and delivering the loan. Pinnacle seeks to minimize its exposure by utilizing various risk management tools, including forward sales commitments and other economic hedges.
+Derivative Instruments for Interest Rate Risk Management
+Pinnacle utilizes derivative instruments to manage its exposure to various types of structural interest rate risks by executing end-user derivative transactions designated as hedges. Hedging relationships may be designated as either a cash flow hedge, which mitigates risk exposure to the variability of future cash flows or other forecasted transactions, or a fair value hedge, which mitigates risk exposure to adverse changes in the fair market value of a fixed rate asset or liability due to changes in market interest rates.
+Critical Accounting Policies
+The accounting and financial reporting policies of Pinnacle are in accordance with GAAP and conform to the accounting and reporting guidelines prescribed by bank regulatory authorities. Pinnacle has identified certain of its accounting policies as "critical accounting policies," consisting of those related to business combinations, the allowance for credit losses and income taxes. In determining which accounting policies are critical in nature, Pinnacle has identified the policies that require significant judgment or involve complex estimates. It is management's practice to discuss critical accounting policies with the Board of Directors' Audit Committee on a periodic basis, including the development, selection, implementation, and disclosure of the critical accounting policies. The application of these policies has a significant impact on Pinnacle's unaudited interim condensed consolidated financial statements. Pinnacle's financial results could differ significantly if different judgments or estimates are used in the application of these policies.
+Business Combinations
+The acquisition method of accounting generally requires that the identifiable assets acquired and liabilities assumed in business combinations are recorded at fair value as of the acquisition date. The determination of fair value often involves the use of internal or third-party valuation techniques, such as discounted cash flow analyses or appraisals. Particularly, the valuation techniques used to estimate the fair value of loans and the core deposit intangible asset acquired in the Merger include estimates related to discount rates, credit risk, and other relevant factors, which are inherently subjective. The valuation methodologies used to estimate the fair values of the significant assets acquired and liabilities assumed from the Merger are described in "Part I - Item 1. Financial Statements - Note 2. Business Combination" herein.
+Allowance for Credit Losses
+The ACL is a critical accounting estimate that requires significant judgments and assumptions, which are inherently subjective. The use of different estimates or assumptions could have a significant impact on the provision for credit losses, ACL, financial condition, and results of operations. The economic and business climate in any given industry or market is difficult to gauge and can change rapidly, and the effects of those changes can vary by borrower.
+In accordance with CECL, the ACL, which includes both the allowance for loan losses and the allowance for credit losses on unfunded loan commitments, represents management's best estimate of expected losses over the life of loans adjusted for prepayments, and over the life of loan commitments expected to fund. This evaluation requires significant management judgment and is based upon relevant available information related to historical default and loss experience, current and projected economic conditions, and other portfolio-specific and environmental risk factors. Losses are predicted over a reasonable and supportable forecast period, and at the end of the reasonable and supportable period losses revert to long term historical averages. The allowance for credit losses on loans is measured on a collective basis for pools of loans with similar risk characteristics, and for loans that do not share similar risk characteristics with the collectively evaluated pools, evaluations are performed on an individual basis. There are factors beyond our control, such as changes in projected economic conditions, real estate markets or particular industry conditions which may materially impact asset quality and the adequacy of the allowance for credit losses on loans and thus the resulting provision for credit losses. The allowance is adjusted through provision for credit losses and decreased by charge-offs, net of recoveries of amounts previously charged-off. See "Part I - Item 1. Financial Statements - Note 1. Basis of Presentation and Accounting Policies" and "Part I - Item 1. Financial Statements - Note 5. Loans and Allowance for Loan Losses".
+62
+Table of Contents
+Income Taxes
+The calculation of Pinnacle's income tax provision is complex and requires the use of estimates and judgments in its determination. As part of Pinnacle's overall business strategy, management must consider tax laws and regulations that apply to the specific facts and circumstances under consideration. As such, the Company is often required to exercise significant judgment regarding the interpretation of these tax laws and regulations, in which Pinnacle's anticipated and actual liability could significantly vary based upon the taxing authority's interpretation. Specifically, significant estimates in accounting for income taxes relate to the valuation of deferred tax assets and liabilities, estimates of the realizability of deferred tax assets, including income tax credits and NOLs, and the need for a valuation allowance, the calculation of taxable income, the estimation of uncertain tax positions and the determination of temporary differences between book and tax bases. Adjustments to these items may occur due to modifications in tax rates, newly enacted laws, issuance of tax regulations, resolution of items with taxing authorities, alterations to interpretative statutory, judicial, and regulatory guidance that affects the Company's tax positions, changes in the Company's tax accounting methods or elections, or other facts and circumstances. Management closely monitors tax developments and the potential timing of these changes in order to evaluate the effect they may have on the Company's overall tax position and the estimates and judgments used in determining the income tax provision and records adjustments as necessary.
+Non-GAAP Financial Measures
+The measures entitled adjusted non-interest revenue, adjusted non-interest expense, adjusted revenue TE, adjusted tangible efficiency ratio, adjusted PPNR, adjusted net income available to common shareholders, adjusted net income per common share, diluted, adjusted return on average assets, adjusted return on average common equity, return on average tangible common equity, adjusted return on average tangible common equity, and tangible common equity ratio, are not measures recognized under GAAP and therefore are considered non-GAAP financial measures. The most comparable GAAP measures to these measures are total non-interest revenue, total non-interest expense, total revenue, efficiency ratio-TE, PPNR, net income available to common shareholders, net income per common share, diluted, return on average assets, return on average common equity, and the ratio of total Pinnacle shareholders' equity to total assets, respectively.
+Management believes that these non-GAAP financial measures provide meaningful additional information about Pinnacle to assist management and investors in evaluating Pinnacle's operating results, financial strength, the performance of its business, and the strength of its capital position. However, these non-GAAP financial measures have inherent limitations as analytical tools and should not be considered in isolation or as a substitute for analyses of operating results or capital position as reported under GAAP. The non-GAAP financial measures should be considered as additional views of the way our financial measures are affected by significant items and other factors, and since they are not required to be uniformly applied, they may not be comparable to other similarly titled measures at other companies. Adjusted non-interest revenue and adjusted revenue TE are measures used by management to evaluate non-interest revenue and total revenue exclusive of items not indicative of ongoing operations that could impact period-to-period comparisons. Adjusted non-interest expense and the adjusted tangible efficiency ratio are measures utilized by management to measure the success of expense management initiatives focused on reducing recurring controllable operating costs. Adjusted net income available to common shareholders, adjusted net income per common share, diluted, adjusted return on average assets, adjusted return on average common equity, and adjusted PPNR are measures used by management to evaluate operating results exclusive of items that are not indicative of ongoing operations and impact period-to-period comparisons. Return on average tangible common equity and adjusted return on average tangible common equity are measures used by management to compare Pinnacle's performance with other financial institutions because it calculates the return available to common shareholders without the impact of intangible assets and their related amortization, thereby allowing management to evaluate the performance of the business consistently. The tangible common equity ratio is used by stakeholders to assess our capital position. Tangible book value per common share is used by stakeholders to assess our financial stability and value. The computations of these measures are set forth in the tables below.
+63
+Table of Contents
+Management does not provide a reconciliation for forward-looking non-GAAP financial measures where it is unable to provide a meaningful or accurate calculation or estimation of reconciling items and the information is not available without unreasonable effort. This is due to the inherent difficulty of forecasting the occurrence and the financial impact of various items that have not yet occurred, are out of Pinnacle's control, or cannot be reasonably predicted. For the same reasons, Pinnacle's management is unable to address the probable significance of the unavailable information. Forward-looking non-GAAP financial measures provided without the most directly comparable GAAP financial measures may vary materially from the corresponding GAAP financial measures.
+Table 14 - Reconciliation of Non-GAAP Financial Measures |
+Three Months Ended | Six Months Ended |
+(dollars in millions) | June 30, 2026 | June 30, 2025 | June 30, 2026 | June 30, 2025 |
+Adjusted non-interest revenue |
+Total non-interest revenue | $ | 247 | $ | 125 | $ | 531 | $ | 221 |
+Investment securities (gains) losses, net | 29 | -- | 26 | 13 |
+Fair value adjustment on non-qualified deferred compensation | (6) | -- | (5) | -- |
+Adjusted non-interest revenue | $ | 270 | $ | 125 | $ | 552 | $ | 234 |
+Adjusted non-interest expense |
+Total non-interest expense | $ | 721 | $ | 286 | $ | 1,673 | $ | 561 |
+Valuation adjustment to Visa derivative | (2) | -- | (3) | -- |
+Merger-related expense
+(51) | -- | (326) | -- |
+Fair value adjustment on non-qualified deferred compensation | (6) | -- | (5) | -- |
+Adjusted non-interest expense | $ | 662 | $ | 286 | $ | 1,339 | $ | 561 |
+Adjusted revenue (TE) and adjusted tangible efficiency ratio |
+Adjusted non-interest expense | $ | 662 | $ | 286 | $ | 1,339 | $ | 561 |
+Amortization of intangibles
+(46) | (1) | (94) | (3) |
+Adjusted tangible non-interest expense | $ | 616 | $ | 285 | $ | 1,245 | $ | 558 |
+Net interest income | $ | 956 | $ | 380 | $ | 1,889 | $ | 746 |
+Taxable equivalent adjustment | 12 | 13 | 26 | 26 |
+Net interest income (TE) | $ | 968 | $ | 393 | $ | 1,915 | $ | 772 |
+Net interest income | $ | 956 | $ | 380 | $ | 1,889 | $ | 746 |
+Total non-interest revenue | 247 | 125 | 531 | 221 |
+Total revenue | $ | 1,203 | $ | 505 | $ | 2,420 | $ | 967 |
+Taxable equivalent adjustment | 12 | 13 | 26 | 26 |
+Total (TE) revenue | $ | 1,215 | $ | 518 | $ | 2,446 | $ | 993 |
+Investment securities (gains) losses, net | 29 | -- | 26 | 13 |
+Fair value adjustment on non-qualified deferred compensation | (6) | -- | (5) | -- |
+Adjusted revenue (TE) | $ | 1,238 | $ | 518 | $ | 2,467 | $ | 1,006 |
+Efficiency ratio (TE)(1)
+59.4 | % | 55.2 | % | 68.4 | % | 56.5 | % |
+Adjusted tangible efficiency ratio(1)
+49.8 | 54.9 | 50.5 | 55.5 |
+Adjusted pre-provision net revenue |
+Net interest income | $ | 956 | $ | 380 | $ | 1,889 | $ | 746 |
+Total non-interest revenue | 247 | 125 | 531 | 221 |
+Total non-interest expense | (721) | (286) | (1,673) | (561) |
+Pre-provision net revenue (PPNR) | $ | 482 | $ | 219 | $ | 747 | $ | 406 |
+Adjusted revenue (TE) | $ | 1,238 | $ | 518 | $ | 2,467 | $ | 1,006 |
+Adjusted non-interest expense | (662) | (286) | (1,339) | (561) |

@@ -1,0 +1,152 @@
+# SYF 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/1601712/000160171226000033/syf-20260630.htm
+# full_doc_chars=220626
+
+
+----- [line 618] -----
+$ | 81,993 | 83.7 | % | 3.8 | % | $ | 82,191 | 83.6 | % | 4.3 | % |
+Securitized financings | 8,700 | 8.9 | 5.0 | % | 8,058 | 8.2 | 5.2 | % |
+Senior and subordinated unsecured notes | 7,286 | 7.4 | 5.2 | % | 8,061 | 8.2 | 5.2 | % |
+Total | $ | 97,979 | 100.0 | % | 4.0 | % | $ | 98,310 | 100.0 | % | 4.4 | % |
+______________________
+(1)Excludes $417 million and $415 million average balance of non-interest-bearing deposits for the six months ended June 30, 2026 and 2025, respectively. Non-interest-bearing deposits comprise less than 10% of total deposits for the six months ended June 30, 2026 and 2025.
+Deposits
+We obtain deposits directly from retail customers, affinity relationships and commercial customers ("direct deposits") and through third-party firms that offer our deposits to their customers ("brokered deposits"). At June 30, 2026, we had $76.7 billion in direct deposits and $6.1 billion in brokered deposits consisting of certificates of deposit and network deposit sweeps procured through a program arranger that channels account deposits to us. A key part of our liquidity plan and funding strategy is to continue to utilize our direct deposit base as a source of stable and diversified low-cost funding.
+Our direct deposits are primarily from retail customers and include a range of FDIC-insured deposit products, including certificates of deposit, IRAs, money market accounts, savings accounts and affinity deposits.
+Brokered deposits are primarily from retail customers of large brokerage firms. We have relationships with multiple brokers that offer our deposits through their networks. Our brokered deposits primarily consist of certificates of deposit that bear interest at a fixed rate. These deposits generally are not subject to early withdrawal.
+23
+Table of Contents
+Our ability to attract deposits is sensitive to, among other things, the interest rates we pay, and therefore, we bear funding risk if we fail to pay higher rates, or interest rate risk if we are required to pay higher rates, to retain existing deposits or attract new deposits. To mitigate these risks, our funding strategy includes a range of deposit products, and we seek to maintain access to multiple other funding sources, such as securitized financings (including our undrawn committed and uncommitted capacity) and unsecured debt.
+The following tables summarize certain information regarding our interest-bearing deposits by type (all of which constitute U.S. deposits) for the periods indicated:
+Three months ended June 30 ($ in millions) | 2026 | 2025 |
+Average
+Balance | % | Average
+Rate | Average
+Balance | % | Average
+Rate |
+Direct deposits: |
+Certificates of deposit
+(including IRA certificates of deposit) | $ | 43,582 | 53.0 | % | 4.0 | % | $ | 40,163 | 49.0 | % | 4.4 | % |
+Savings, money market, and demand accounts | 33,046 | 40.1 | 3.4 | % | 33,270 | 40.6 | 3.9 | % |
+Brokered deposits | 5,651 | 6.9 | 4.0 | % | 8,581 | 10.4 | 4.5 | % |
+Total interest-bearing deposits | $ | 82,279 | 100.0 | % | 3.7 | % | $ | 82,014 | 100.0 | % | 4.2 | % |
+Six months ended June 30 ($ in millions) | 2026 | 2025 |
+Average
+Balance | % | Average
+Rate | Average
+Balance | % | Average
+Rate |
+Direct deposits: |
+Certificates of deposit
+(including IRA certificates of deposit) | $ | 43,255 | 52.8 | % | 4.0 | % | $ | 40,499 | 49.3 | % | 4.5 | % |
+Savings, money market, and demand accounts | 32,970 | 40.2 | 3.4 | 32,601 | 39.7 | 3.9 | % |
+Brokered deposits | 5,768 | 7.0 | 4.0 | 9,091 | 11.0 | 4.4 | % |
+Total interest-bearing deposits | $ | 81,993 | 100.0 | % | 3.8 | % | $ | 82,191 | 100.0 | % | 4.3 | % |
+Our deposit liabilities provide funding with maturities ranging from one day to ten years. At June 30, 2026, the weighted average maturity of our interest-bearing time deposits was approximately one year. See Note 7. Deposits to our condensed consolidated financial statements for more information on the maturities of our time deposits.
+The standard FDIC deposit insurance amount is $250,000 per depositor, for each account ownership category. Our estimate of the uninsured portion of total deposit balances, excluding any intercompany balance, at June 30, 2026 was $7.1 billion.
+The following table summarizes the portion of uninsured deposits that are certificates of deposit by contractual maturity at June 30, 2026:
+($ in millions) | 3 Months or
+Less | Over
+3 Months
+but within
+6 Months | Over
+6 Months
+but within
+12 Months | Over
+12 Months | Total |
+Certificates of deposit (including IRA certificates of deposit) | $ | 1,031 | $ | 794 | $ | 1,516 | $ | 1,073 | $ | 4,414 |
+Securitized Financings
+We access the asset-backed securitization market using the Synchrony Card Issuance Trust ("SYNIT") through which we may issue asset-backed securities through both public transactions and private transactions funded by financial institutions and commercial paper conduits. In addition, we issue asset-backed securities in private transactions through the Synchrony Credit Card Master Note Trust ("SYNCT") and the Synchrony Sales Finance Master Trust ("SFT").
+24
+Table of Contents
+The following table summarizes expected contractual maturities of the investors' interests in securitized financings, excluding debt premiums, discounts and issuance costs at June 30, 2026:
+($ in millions) | Less Than
+One Year(2)
+One Year
+Through
+Three
+Years | Four Years
+Through
+Five
+Years | After Five
+Years | Total |
+Scheduled maturities of borrowings--owed to securitization investors: |
+SYNCT | $ | 1,050 | $ | 600 | $ | -- | $ | -- | $ | 1,650 |
+SFT | 300 | 975 | -- | -- | 1,275 |
+SYNIT(1)
+2,500 | 3,500 | -- | -- | 6,000 |
+Total borrowings--owed to securitization investors
+
+----- [line 1839] -----
+Legal proceedings and regulatory matters are subject to many uncertain factors that generally cannot be predicted with assurance, and we may be exposed to losses in excess of any amounts accrued.
+For some matters, we are able to determine that an estimated loss, while not probable, is reasonably possible. For other matters, including those that have not yet progressed through discovery and/or where important factual information and legal issues are unresolved, we are unable to make such an estimate. We currently estimate that the reasonably possible losses for legal proceedings and regulatory matters, whether in excess of a related accrued liability or where there is no accrued liability, and for which we are able to estimate a possible loss, are immaterial. This represents management's estimate of possible loss with respect to these matters and is based on currently available information. This estimate of possible loss does not represent our potential maximum loss exposure. The legal proceedings and regulatory matters underlying the estimate will change from time to time and actual results may vary significantly from current estimates.
+Our estimate of reasonably possible losses involves significant judgment, given the varying stages of the proceedings, the existence of numerous yet to be resolved issues, the breadth of the claims (often spanning multiple years), unspecified damages and/or the novelty of the legal issues presented. Based on our current knowledge, we do not believe that we are a party to any pending legal proceeding or regulatory matters that would have a material adverse effect on our condensed consolidated financial condition or liquidity. However, in light of the uncertainties involved in such matters, the ultimate outcome of a particular matter could be material to our operating results for a particular period depending on, among other factors, the size of the loss or liability imposed and the level of our earnings for that period, and could adversely affect our business and reputation.
+61
+Table of Contents
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+Market risk refers to the risk that a change in the level of one or more market prices, rates, indices, correlations or other market factors will result in losses for a position or portfolio. We are exposed to market risk primarily from changes in interest rates.
+We borrow money from a variety of depositors and institutions in order to provide loans to our customers. Changes in market interest rates cause our net interest income to increase or decrease, as some of our assets and liabilities carry interest rates that fluctuate with market benchmarks. The interest rate benchmark for our floating rate assets is generally the prime rate, and the interest rate benchmark for our floating rate liabilities is generally either the Secured Overnight Financing Rate ("SOFR"), U.S. Treasury bills, or the federal funds rate. The prime rate and the SOFR, U.S. Treasury bills or federal funds rate could reset at different times or could diverge, leading to mismatches in the interest rates on our floating rate assets and floating rate liabilities.
+The following table presents the approximate net interest income impacts forecasted over the next twelve months from an immediate and parallel change in interest rates affecting all interest rate sensitive assets and liabilities at June 30, 2026:
+Basis Point Change | At June 30, 2026 |
+($ in millions) |
+-100 basis points | $ | (114) |
++100 basis points | $ | 39 |
+For a more detailed discussion of our exposure to market risk, refer to "Management's Discussion and Analysis--Quantitative and Qualitative Disclosures about Market Risk" in our 2025 Form 10-K.
+ITEM 4. CONTROLS AND PROCEDURES
+Under the direction of our Chief Executive Officer and Chief Financial Officer, we evaluated the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act), and based on such evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures were effective as of June 30, 2026.
+No change in internal control over financial reporting occurred during the fiscal quarter ended June 30, 2026 that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+62
+Table of Contents
+PART II. OTHER INFORMATION
+ITEM 1. LEGAL PROCEEDINGS
+For a description of legal proceedings, see Note 15. Legal Proceedings and Regulatory Matters to our condensed consolidated financial statements in Part 1, Item 1 of this Quarterly Report on Form 10-Q.
+ITEM 1A. RISK FACTORS
+There have been no material changes to the risk factors included in our 2025 Form 10-K under the heading "Risk Factors Relating to Our Business" and "Risk Factors Relating to Regulation".
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+The table below sets forth information regarding purchases of our common stock primarily related to our share repurchase program that were made by us or on our behalf during the three months ended June 30, 2026:
+($ in millions, except per share data) | Total Number of Shares Purchased(a)
+Average Price Paid Per Share(b)
+Total Number of Shares
+Purchased as
+Part of Publicly Announced Programs
+Maximum Dollar Value of Shares That May Yet Be Purchased Under the Programs(b)(c)
+April 1 - 30, 2026
+2,074,797 | $ | 76.31 | 2,009,311 | $ | 6,346.2 |
+May 1 - 31, 2026
+7,894,919 | $ | 71.92 | 7,893,312 | $ | 5,778.5 |
+June 1 - 30, 2026
+1,819,961 | $ | 70.63 | 1,819,942 | $ | 5,650.0 |
+Total | 11,789,677 | $ | 72.49 | 11,722,565 | $ | 5,650.0 |
+_______________________
+(a)Includes 65,486 shares, 1,607 shares and 19 shares withheld in April, May and June, respectively, to offset tax withholding obligations that occur upon the delivery of outstanding shares underlying performance stock awards, restricted stock awards or upon the exercise of stock options.
+(b)Amounts exclude commission costs.
+(c)In April 2026, the Company announced that the Board approved a new share repurchase program of up to $6.5 billion of the Company's common stock, which commenced in the second quarter of 2026 and, in a change from our prior share repurchase programs, does not have an expiration date. The new share repurchase program replaces the Company's prior program, which was scheduled to expire on June 30, 2026.
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+None.
+ITEM 4. MINE SAFETY DISCLOSURES
+Not applicable.
+63
+Table of Contents
+ITEM 5. OTHER INFORMATION
+Rule 10b5-1 Trading Plans
+On May 1, 2026, Curtis Howse, Executive Vice President and Chief Executive Officer, Home & Auto, entered into a trading plan intended to satisfy the affirmative defense conditions of Rule 10b5-1(c). Mr. Howse's plan covers the sale of an aggregate amount of 104,602 of the Company's securities, and will terminate on March 31, 2027, or an earlier date under certain circumstances specified under the terms of the plan, including if all trades are executed or all orders related to the trades under the plan expire. During the three months ended June 30, 2026, no other director or executive officer of the Company adopted, modified or terminated a "Rule 10b5-1 trading arrangement" or "non-Rule 10b5-1 trading arrangement," as each such term is defined in item 408(a) of Regulation S-K.
+64
+Table of Contents
+ITEM 6. EXHIBITS
+EXHIBIT INDEX
+Exhibit Number | Description |
+3.1
+Second Amended and Restated Certificate of Incorporation of Synchrony Financial (incorporated by reference to Exhibit 3.1 of Form 8-K filed by Synchrony Financial on June 13, 2024)
+3.2
+Amended and Restated Bylaws of Synchrony Financial (incorporated by reference to Exhibit 3.1 of Form 8-K filed by Synchrony Financial on November 1, 2016)
+4.1
+Certificate of Designations of 7.250% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series C, dated June 4, 2026 (incorporated by reference to Exhibit 4.1 of Form 8-K filed by Synchrony Financial on June 5, 2026)
+4.2
+Deposit Agreement, dated June 5, 2026, by and among the Company, Computershare Inc. and Computershare Trust Company, N.A., collectively as Depositary, and the holders from time to time of the depositary receipts described therein (incorporated by reference to Exhibit 4.2 of Form 8-K filed by Synchrony Financial on June 5, 2026)
+4.3
+Form of Depositary Receipt - Series C (incorporated by reference to Exhibit 4.2 of Form 8-K filed by Synchrony Financial on June 5, 2026)
+10.1+*
+Amended and Restated Synchrony Financial Non-Employee Director Deferred Compensation Plan
+31(a)*
+Certification Pursuant to Rules 13a-14(a) or 15d-14(a) under the Securities Exchange Act of 1934, as Amended
+31(b)*

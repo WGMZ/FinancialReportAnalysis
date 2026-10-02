@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+research/data/sec/facts/
+research/data/sec/facts2/
+research/data/sec/reports/

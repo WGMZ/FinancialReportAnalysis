@@ -1,0 +1,566 @@
+# PB 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/1068851/000119312526338254/pb-20260630.htm
+# full_doc_chars=253690
+
+
+----- [line 1232] -----
+$
+(852,270
+)
+$
+9,433,365
+The investment securities portfolio is measured for expected credit losses by segregating the portfolio into two general classifications and applying the appropriate expected credit losses methodology. Investment securities classified as available for sale or held to maturity are evaluated for expected credit losses under FASB ASC Topic 326, "Financial Instruments - Credit Losses" ("CECL").
+Available for sale securities. For available for sale securities in an unrealized loss position, the amount of the expected credit losses recognized in earnings depends on whether an entity intends to sell the security or more likely than not will be required to sell the security before recovery of its amortized cost basis less any current-period credit loss. If an entity intends to sell or more likely than not will be required to sell the security before recovery of its amortized cost basis less any current-period credit loss, the expected credit losses will be recognized in earnings equal to the entire difference between the investment's amortized cost basis and its fair value at the balance sheet date. If an entity does not intend to sell the security and it is not more likely than not that the entity will be required to sell the security before recovery of its amortized cost basis less any current-period loss, the expected credit losses will be separated into the amount representing the credit-related portion of the impairment loss ("credit loss") and the noncredit portion of the impairment loss ("noncredit portion"). The amount of the total expected credit losses related to the credit loss is determined based on the difference between the present value of cash flows expected to be collected and the amortized cost basis and such difference is recognized in earnings. The amount of the total expected credit losses related to the noncredit portion is recognized in other comprehensive income, net of applicable taxes. The previous amortized cost basis less the expected credit losses recognized in earnings will become the new amortized cost basis of the investment.
+10
+PROSPERITY BANCSHARES, INC.&#174; AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+JUNE 30, 2026
+(UNAUDITED)
+As of June 30, 2026, management does not have the intent to sell any of the securities classified as available for sale before a recovery of cost. In addition, management believes it is more likely than not that the Company will not be required to sell any of its investment securities before a recovery of cost. The unrealized losses are largely due to changes in market interest rates and spread relationships since the time the underlying securities were purchased. The fair value is expected to recover as the securities approach their maturity date or repricing date, or if market yields for such investments decline. Management does not believe any of the securities are impaired due to reasons of credit quality. Accordingly, as of June 30, 2026, management believes that there is no potential for credit losses on available for sale securities.
+Held to maturity securities. The Company's held to maturity investments include mortgage-related bonds issued by either the Government National Mortgage Corporation ("Ginnie Mae"), Federal National Mortgage Association ("Fannie Mae") or Federal Home Loan Mortgage Corporation ("Freddie Mac"). Ginnie Mae-issued securities are explicitly guaranteed by the U.S. government, while Fannie Mae- and Freddie Mac-issued securities are fully guaranteed by those respective United States government-sponsored agencies and conditionally guaranteed by the full faith and credit of the United States. The Company's held to maturity securities also include taxable and tax-exempt municipal securities issued primarily by school districts, utility districts and municipalities located in Texas. The Company's investment in municipal securities is exposed to credit risk. The securities are highly rated by major rating agencies and regularly reviewed by management. A significant portion are guaranteed or insured by either the Texas Permanent School Fund, Assured Guaranty or Build America Mutual. As of June 30, 2026, the Company's municipal securities represent 1.0% of the securities portfolio. Management has the ability and intent to hold the securities classified as held to maturity until they mature, at which time the Company will receive full value for the securities. Accordingly, as of June 30, 2026, management believes that there is no potential for material credit losses on held to maturity securities.
+Securities with unrealized losses, segregated by length of time, that have been in a continuous loss position were as follows:
+June 30, 2026
+Less than 12 Months
+12 Months or More
+Total
+Estimated Fair Value
+Unrealized Losses
+Estimated Fair Value
+Unrealized Losses
+Estimated Fair Value
+Unrealized Losses
+(Dollars in thousands)
+Available for Sale
+Collateralized mortgage obligations
+$
+10,816
+$
+(89
+)
+$
+157,294
+$
+(2,379
+)
+$
+168,110
+$
+(2,468
+)
+Mortgage-backed securities
+68,925
+(531
+)
+50,739
+(289
+)
+119,664
+(820
+)
+Total
+$
+79,741
+$
+(620
+)
+$
+208,033
+$
+(2,668
+)
+$
+287,774
+$
+(3,288
+)
+Held to Maturity
+U.S. Government agencies
+$
+
+----- [line 4220] -----
+2029
+4,750
+2030
+3,502
+2031
+2,498
+Thereafter
+8,103
+Total undiscounted lease payments
+$
+40,052
+Financial Instruments with Off-Balance Sheet Risk
+In the normal course of business, the Company enters into various transactions that, in accordance with GAAP, are not included in its consolidated balance sheets. The Company enters into these transactions to meet the financing needs of its customers. These transactions include commitments to extend credit and standby letters of credit, which involve, to varying degrees, elements of credit risk and interest rate risk in excess of the amounts recognized in the consolidated balance sheets.
+The Company's commitments associated with outstanding standby letters of credit, unused capacity on Warehouse Purchase Program loans and commitments to extend credit expiring by period as of June 30, 2026, are summarized below. Since commitments associated with letters of credit, unused capacity on Warehouse Purchase Program loans and commitments to extend credit may expire unused, the amounts shown may not necessarily reflect the actual future cash funding requirements.
+1 year or less
+More than 1
+year but less
+than 3 years
+3 years or
+more but less than
+5 years
+5 years or more
+Total
+(Dollars in thousands)
+Standby letters of credit
+$
+103,776
+$
+13,562
+$
+2,291
+$
+26
+$
+119,655
+Unused capacity on Warehouse Purchase Program loans
+879,845
+--
+--
+--
+879,845
+Commitments to extend credit
+2,143,353
+1,467,333
+277,750
+1,140,844
+5,029,280
+Total
+$
+3,126,974
+$
+1,480,895
+$
+280,041
+$
+1,140,870
+$
+6,028,780
+Allowance For Credit Losses - Off-Balance-Sheet Credit Exposures
+The Company records an allowance for credit losses on off-balance sheet credit exposures that is adjusted through an entry to provision for credit losses on the Company's consolidated statement of income. At June 30, 2026, and December 31, 2025, this allowance, reported as a separate line item on the Company's consolidated balance sheet, totaled $37.6 million.
+30
+PROSPERITY BANCSHARES, INC.&#174; AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+JUNE 30, 2026
+(UNAUDITED)
+10. OTHER COMPREHENSIVE (LOSS) INCOME
+The tax effects allocated to each component of other comprehensive (loss) income were as follows:
+Three Months Ended June 30,
+2026
+2025
+Before Tax Amount
+Tax Effect
+
+----- [line 4619] -----
+The Company's allowance for credit losses consists of two elements: (1) specific valuation allowances based on expected losses on impaired loans and certain purchased credit deteriorated loans ("PCD") loans; and (2) a general valuation allowance based on historical lifetime loan loss experience, current economic conditions, two-year reasonable and supportable forecasted economic conditions and other qualitative risk factors both internal and external to the Company. Based on an evaluation of the portfolio, management presents a quarterly review of the allowance for credit losses to the Bank's Board of Directors, indicating any change in the allowance since the last review and any recommendations as to adjustments in the allowance. In making its evaluation, management considers factors such as historical lifetime loan loss experience, the amount of nonperforming assets and related collateral, the volume, growth and composition of the portfolio, current economic conditions and reasonable and supportable forecasted economic conditions that may affect borrower ability to pay and the value of collateral, the evaluation of the portfolio through its internal loan review process and other relevant factors. Portions of the allowance may be allocated for specific credits; however, the entire allowance is available for any credit that, in management's judgment, should be charged off. Charge-offs occur when loans are deemed to be uncollectible. Based on this evaluation, management has established an allowance for credit losses that it believes is management's best estimate of current expected credit losses in the Company's loan portfolio.
+37
+The Company evaluates all restructurings, including restructurings for borrowers experiencing financial difficulty, to determine whether they result in a new loan or a continuation of an existing loan. In accordance with CECL, the Company only establishes a specific reserve for modifications of loans made to borrowers experiencing financial difficulty when the loan is identified as impaired. The effect of most modifications of loans made to borrowers experiencing financial difficulty is already included in the allowance for credit losses because of the measurement methodologies used to estimate the allowance. The Company adjusts the terms of loans for certain borrowers when it believes such changes will help its customers manage their loan obligations and increase the collectability of the loans. Modifications of loans made to borrowers experiencing financial difficulty may include but are not limited to changes in committed loan amount, interest rate, amortization, note maturity, borrower, guarantor, collateral, forbearance, forgiveness of principal or interest, and other actions intended to minimize economic loss and to avoid foreclosure or repossession of collateral. The approval of modifications of loans for borrowers experiencing financial difficulty are handled on a case-by-case basis. For further discussion of the methodology used in the determination of the allowance for credit losses on loans, see "Accounting for Acquired Loans and the Allowance for Acquired Credit Losses" below and "Financial Condition--Allowance for Credit Losses on Loans" below.
+Accounting for Acquired Loans and the Allowance for Acquired Credit Losses--The Company accounts for its acquisitions using the acquisition method of accounting. Accordingly, the assets, including loans, and liabilities of the acquired entity are recorded at their fair values at the acquisition date. The fair value estimates associated with acquired loans, based on a discounted cash flow model, include estimates related to market interest rates and undiscounted projections of future cash flows that incorporate expectations of prepayments and the amount and timing of principal, interest and other cash flows, as well as any shortfalls thereof.
+On January 1, 2026, the Company adopted ASU 2025-08 that updates the accounting for purchased loans under ASC 326. Under ASU 2025-08, loans acquired without credit deterioration ("Non-PCD" loans) and deemed "seasoned" will now be considered purchased seasoned loans ("PSLs") and accounted for using the gross-up approach at acquisition, which was formerly applicable only to PCD assets. PSLs include all loans acquired in a business combination that do not have "more-than-insignificant" deterioration of credit quality since origination. Under ASU 2025-08, an allowance for expected credit losses is recognized at acquisition, offsetting the loan's amortized costs basis, thereby eliminating the immediate recognition of day-one credit loss expense previously required for Non-PCD loans. For further discussion of the methodology used in the determination of the allowance for credit losses for acquired loans, see "Financial Condition--Allowance for Credit Losses on Loans" below. For further discussion of the Company's acquisition and loan accounting, see Note 5 to the consolidated financial statements.
+RESULTS OF OPERATIONS
+For the quarter ended June 30, 2026, net income available to common shareholders was $168.6 million or $1.67 per diluted common share compared with $135.2 million or $1.42 for the same period in 2025. Net income and net income per diluted common share for the second quarter of 2026 was primarily impacted by an increase in net interest income and a gain on Visa Class B-2 stock exchange net of investment securities sales of $8.2 million, partially offset by an increase in noninterest expenses related to the American and Southwest operations and an increase in provision for income taxes. The Company posted annualized returns on average common equity of 8.14% and 7.13%, annualized returns on average assets of 1.55% and 1.41% and efficiency ratios of 45.99% and 44.80% for the quarters ended June 30, 2026, and 2025, respectively. The efficiency ratio is calculated by dividing total noninterest expense (excluding net gains and losses on the sale, write-down or write-up of assets and securities) by the sum of net interest income and noninterest income. Because the ratio is a measure of revenues and expenses resulting from the Company's lending activities and fee-based banking services, net gains and losses on the sale, write-up or write-down of assets and securities are not included. Additionally, taxes are not part of this calculation.
+For the six months ended June 30, 2026, net income available to common shareholders was $284.9 million or $2.84 per diluted common share compared with $265.4 million or $2.79 for the six months ended June 30, 2025. Net income and net income per diluted common share for the six months ended June 30, 2026, were impacted by the American Merger and the Southwest Merger, merger related expenses of $43.3 million and a gain on Visa Class B-2 stock exchange net of investment securities sales of $8.2 million. The Company posted annualized returns on average common equity of 6.93% and 7.03%, annualized returns on average assets of 1.33% and 1.37% and efficiency ratios of 52.44% and 45.26% for the six months ended June 30, 2026, and 2025, respectively.
+Net Interest Income
+The Company's net interest income is affected by changes in the amount and mix of interest-earning assets and interest-bearing liabilities, referred to as a "volume change." It is also affected by changes in yields earned on interest-earning assets and rates paid on interest-bearing deposits and other borrowed funds, referred to as a "rate change."
+38
+For the Three Months Ended June 30, 2026
+Net interest income before the provision for credit losses was $330.6 million for the quarter ended June 30, 2026, an increase of $62.8 million or 23.5% compared with $267.7 million for the same period in 2025. The net interest margin on a tax-equivalent basis was 3.47% for the quarter ended June 30, 2026, an increase of 29 basis points compared with 3.18% for the same period in 2025. The changes to both measures were primarily due to the repricing of assets, a decrease in the average balance and average rate on other borrowings and the impact of the American Merger and the Southwest Merger.
+Interest income on loans was $369.6 million for the quarter ended June 30, 2026, an increase of $44.1 million or 13.5% compared with $325.5 million for the same period in 2025. Interest income on securities was $81.2 million for the quarter ended June 30, 2026, an increase of $23.4 million or 40.4% compared with $57.8 million for the same period in 2025. The changes for both were primarily due to the repricing of assets and the impact of the American Merger and the Southwest Merger.
+Average interest-bearing liabilities were $24.29 billion for the quarter ended June 30, 2026, an increase of $3.26 billion or 15.5% compared with $21.03 billion for the same period in 2025. The increase was primarily due to the American Merger and the Southwest Merger, partially offset by the decrease in other borrowings. The average rate on interest-bearing liabilities was 2.13% for the quarter ended June 30, 2026, a decrease of 25 basis points compared with 2.38% for the same period in 2025.
+For the Six Months Ended June 30, 2026
+Net interest income before the provision for credit losses was $651.7 million for the six months ended June 30, 2026, an increase of $118.6 million or 22.2% compared with $533.1 million for the same period in 2025. The net interest margin on a tax-equivalent basis was 3.49% for the six months ended June 30, 2026, an increase of 33 basis points compared with 3.16% for the six months ended June 30, 2025. The changes for both measures were primarily due to the repricing of assets, the impact of the American Merger and the Southwest Merger and a decrease in the average balance and average rate on other borrowings.
+Interest income on loans was $731.3 million for the six months ended June 30, 2026, an increase of $86.8 million or 13.5% compared with $644.5 million for the same period in 2025. Interest income on securities was $151.7 million for the six months ended June 30, 2026, an increase of $36.0 million or 31.1% compared with $115.7 million for the same period in 2025. The changes for both were primarily due to the repricing of assets and the impact of the American Merger and the Southwest Merger.
+Average interest-bearing liabilities were $23.92 billion for the six months ended June 30, 2026, an increase of $2.58 billion or 12.1% compared with $21.34 billion for the same period in 2025. The increase was primarily due to the American Merger and the Southwest Merger, partially offset by a decrease in other borrowings. The average rate on interest-bearing liabilities was 2.10% for the six months ended June 30, 2026, a decrease of 29 basis points compared with 2.39% for the same period in 2025.
+39
+The following tables present, for the periods indicated, the total dollar amount of average balances, interest income from average interest-earning assets and the resultant yields, as well as the interest expense on average interest-bearing liabilities and the resultant rates. Except as indicated in the footnotes, no tax-equivalent adjustments were made and all average balances are daily average balances. Any nonaccruing loans have been included in the tables as loans carrying a zero yield.
+Three Months Ended June 30,
+2026
+2025
+Average Outstanding Balance
+Interest Earned/Paid
+Average Yield/Rate (1)
+Average Outstanding Balance
+Interest Earned/Paid
+Average Yield/Rate (1)
+(Dollars in thousands)
+Assets
+Interest-Earning Assets:
+Loans held for sale
+$
+17,858
+$
+281
+6.31
+%
+$
+9,813
+$
+166
+6.79
+%
+Loans held for investment
+23,750,036
+350,967
+5.93
+%
+20,907,400
+306,671
+5.88
+%
+Loans held for investment - Warehouse Purchase Program
+1,316,645
+18,326
+5.58
+%
+1,179,307
+18,653
+6.34
+%
+Total loans
+25,084,539
+369,574
+5.91
+%
+22,096,520
+325,490
+5.91
+%
+Investment securities
+12,258,188
+81,200
+2.66
+
+----- [line 5554] -----
+$
+1,481,252
+$
+294,743
+$
+21,805,368
+At June 30, 2026, total loans were $25.03 billion, an increase of $3.22 billion or 14.8% compared with $21.81 billion at December 31, 2025. Loans at June 30, 2026, included $18.7 million of loans held for sale and $1.29 billion of Warehouse Purchase Program loans compared with $14.2 million of loans held for sale and $1.30 billion of Warehouse Purchase Program loans at December 31, 2025. At June 30, 2026, loans represented 57.0% of total assets compared with 56.7% of total assets at December 31, 2025.
+45
+The loan portfolio consists of various types of loans categorized by major type as follows:
+(i) Commercial and Industrial Loans. In nearly all cases, the Company's commercial loans are made in the Company's market areas and are underwritten based on the borrower's ability to service the debt from income. Working capital loans are primarily collateralized by short-term assets whereas term loans are primarily collateralized by long-term assets. As a general practice, term loans are secured by any available real estate, equipment or other assets owned by the borrower. Both working capital and term loans are typically supported by a personal guaranty of a principal. In general, commercial loans involve more credit risk than residential mortgage loans and commercial mortgage loans and, therefore, usually yield a higher return. The increased risk in commercial loans is due to the type of collateral securing these loans as well as the expectation that commercial loans generally will be serviced principally from the operations of the business, and those operations may not be successful. Historical trends have shown these types of loans to have higher delinquencies than mortgage loans. As a result of these additional complexities, variables and risks, commercial loans require more thorough underwriting and servicing than other types of loans.
+Included in commercial and industrial loans are (1) commitments to oil and gas producers largely secured by proven, developed and producing reserves and (2) commitments to service, equipment and midstream companies secured mainly by accounts receivable, inventory and equipment. Mineral reserve values supporting commitments to producers are normally re-determined semi-annually using reserve studies prepared by a third-party and verified by the Company's oil and gas engineer. Accounts receivable and inventory borrowing bases for service companies are typically re-determined monthly. Funding requests by both producers and service companies are monitored relative to the most recently determined borrowing base.
+(ii) Commercial Real Estate. The Company makes commercial real estate loans collateralized by owner-occupied and nonowner-occupied real estate to finance the purchase of real estate. The Company's commercial real estate loans are collateralized by first liens on real estate, typically have variable interest rates (or five year or less fixed rates) and amortize over a 15- to 25-year period. Payments on loans secured by nonowner-occupied properties are often dependent on the successful operation or management of the properties. Accordingly, repayment of these loans may be subject to adverse conditions in the real estate market or the economy to a greater extent than other types of loans. The Company seeks to minimize these risks in a variety of ways, including giving careful consideration to the property's operating history, future operating projections, current and projected occupancy, location and physical condition, in connection with underwriting these loans. The underwriting analysis also includes credit verification, analysis of global cash flow, appraisals and a review of the financial condition of the borrower and guarantor. Loans to hotels and restaurants are included in commercial real estate loans.
+(iii) 1-4 Family Residential Loans. The Company's lending activities also include the origination of 1-4 family residential mortgage loans (including home equity loans) collateralized by owner-occupied and nonowner-occupied residential properties located in the Company's market areas. The Company offers a variety of mortgage loan portfolio products which generally are amortized over five to 30 years. Loans collateralized by 1-4 family residential real estate generally have been originated in amounts of no more than 89% of appraised value. The Company requires mortgage title insurance, as well as hazard, wind and/or flood insurance as appropriate. The Company prefers to retain residential mortgage loans for its own account rather than selling them into the secondary market. By doing so, the Company incurs interest rate risk as well as the risks associated with non-payments on such loans. The Company's mortgage department also offers a variety of mortgage loan products which are generally amortized over 30 years, including FHA and VA loans, which are sold to secondary market investors.
+(iv) Construction, Land Development and Other Land Loans. The Company makes loans to finance the construction of residential and nonresidential properties. Construction loans generally are collateralized by first liens on real estate and have variable interest rates. The Company conducts periodic inspections, either directly or through an agent, prior to approval of periodic draws on these loans. Underwriting guidelines similar to those described above are also used in the Company's construction lending activities, with heightened analysis of construction and/or development costs. Construction loans involve additional risks attributable to the fact that loan funds are advanced upon the security of a project under construction, and the project is of uncertain value prior to its completion. Because of uncertainties inherent in estimating construction costs, the market value of the completed project and the effects of governmental regulation on real property, it can be difficult to accurately evaluate the total funds required to complete a project and the related loan to value ratio. As a result of these uncertainties, construction lending often involves the disbursement of substantial funds with repayment dependent, in part, on the success of the ultimate project rather than the ability of a borrower or guarantor to repay the loan. If the Company is forced to foreclose on a project prior to completion, the Company may not be able to recover all of the unpaid portion of the loan. In addition, the Company may be required to fund additional amounts to complete a project and may have to hold the property for an indeterminate period of time. Although the Company has underwriting procedures designed to identify what it believes to be acceptable levels of risks in construction lending, these procedures may not prevent losses from the risks described above.
+46
+(v) Warehouse Purchase Program. The Warehouse Purchase Program allows unaffiliated mortgage originators ("Clients") to close 1-4 family real estate loans in their own name and manage their cash flow needs until the loans are sold to investors. The Company's Clients are strategically targeted for their experienced management teams and analyzed for the expected profitability of each Client's business model over the long term. The Clients are located across the U.S. and originate mortgage loans primarily through traditional retail and/or wholesale business models using underwriting standards as required by United States government-sponsored enterprise agencies, such as the Federal National Mortgage Association ("Fannie Mae") and private investors to which the mortgage loans are ultimately sold and/or mortgage insurers.
+Although not subject to any legally binding commitment, when the Company makes a purchase decision, it acquires a 100% participation interest in the mortgage loans originated by its Clients. Individual mortgage loans are warehoused in the Company's portfolio only for a short duration, averaging less than 30 days. When instructed by a Client that a warehoused loan has been sold to an investor, the Company delivers the note to the investor that pays the Company, which in turn remits the net sales proceeds to the Client.
+(vi) Agriculture Loans. The Company provides agriculture loans for short-term livestock and crop production, including rice, cotton, milo and corn, farm equipment financing and agriculture real estate financing. The Company evaluates agriculture borrowers primarily based on their historical profitability, level of experience in their particular industry segment, overall financial capacity and the availability of secondary collateral to withstand economic and natural variations common to the industry. Because agriculture loans present a higher level of risk associated with events caused by nature, the Company routinely makes on-site visits and inspections in order to identify and monitor such risks.
+(vii) Consumer Loans. Consumer loans made by the Company include direct "A"-credit automobile loans, recreational vehicle loans, boat loans, home improvement loans, personal loans (collateralized and uncollateralized) and deposit account collateralized loans. The terms of these loans typically range from 12 to 180 months and vary based upon the nature of collateral and size of loan. Generally, consumer loans entail greater risk than do real estate secured loans, particularly in the case of consumer loans that are unsecured or collateralized by rapidly depreciating assets such as automobiles. In such cases, any repossessed collateral for a defaulted consumer loan may not provide an adequate source of repayment for the outstanding loan balance. The remaining deficiency often does not warrant further substantial collection efforts against the borrower beyond obtaining a deficiency judgment. In addition, consumer loan collections are dependent on the borrower's continuing financial stability, and thus are more likely to be adversely affected by job loss, divorce, illness, personal bankruptcy or death. Furthermore, the application of various federal and state laws may limit the amount which can be recovered on such loans.
+The Company maintains an independent loan review department that reviews and validates the credit risk program on a periodic basis. Results of these reviews are presented to management. The loan review process complements and reinforces the risk identification and assessment decisions made by lenders and credit personnel, as well as the Company's policies and procedures.
+Nonperforming Assets
+Nonperforming assets include loans on nonaccrual status, accruing loans 90 days or more past due, repossessed assets and real estate which has been acquired through foreclosure and is awaiting disposition.
+The Company generally places a loan on nonaccrual status and ceases accruing interest when the payment of principal or interest is delinquent for 90 days, or earlier in some cases, unless the loan is in the process of collection and the underlying collateral fully supports the carrying value of the loan. A loan may be returned to accrual status when all the principal and interest amounts contractually due are brought current and future principal and interest amounts contractually due are reasonably assured, which is typically evidenced by a sustained period (at least six months) of repayment performance by the borrower.
+Nonperforming assets decreased $20.3 million to $130.6 million at June 30, 2026, compared with $150.8 million at December 31, 2025.
+47
+The following tables present information regarding nonperforming assets differentiated among originated loans, re-underwritten acquired loans, PSLs and PCD loans, as of the dates indicated:
+June 30, 2026
+Acquired Loans
+Originated Loans
+Re-Underwritten Acquired Loans
+PSLs
+PCD Loans
+Total
+(Dollars in thousands)
+Nonaccrual loans (1)
+$
+80,728
+$
+2,140
+$
+7,210
+$
+26,833
+$
+116,911
+Accruing loans 90 or more days past due
+1,729
+494
+137
+--
+2,360
+Total nonperforming loans
+82,457
+2,634
+7,347
+26,833
+119,271
+Repossessed assets
+9
+--
+--
+--
+9
+Other real estate
+6,344
+--
+936
+4,016
+11,296
+Total nonperforming assets
+$
+88,810
+
+----- [line 6405] -----
+Total
+$
+10,275,228
+$
+10,407
+$
+(852,270
+)
+$
+9,433,365
+The investment securities portfolio is measured for expected credit losses by segregating the portfolio into two general classifications and applying the appropriate expected credit losses methodology. Investment securities classified as available for sale or held to maturity are evaluated for expected credit losses under CECL.
+Available for sale securities. For available for sale securities in an unrealized loss position, the amount of the expected credit losses recognized in earnings depends on whether an entity intends to sell the security or more likely than not will be required to sell the security before recovery of its amortized cost basis less any current-period credit loss. If an entity intends to sell or more likely than not will be required to sell the security before recovery of its amortized cost basis less any current-period credit loss, the expected credit losses will be recognized in earnings equal to the entire difference between the investment's amortized cost basis and its fair value at the balance sheet date. If an entity does not intend to sell the security and it is not more likely than not that the entity will be required to sell the security before recovery of its amortized cost basis less any current-period loss, the expected credit losses will be separated into the amount representing the credit-related portion of the impairment loss ("credit loss") and the noncredit portion of the impairment loss ("noncredit portion"). The amount of the total expected credit losses related to the credit loss is determined based on the difference between the present value of cash flows expected to be collected and the amortized cost basis, and such difference is recognized in earnings. The amount of the total expected credit losses related to the noncredit portion is recognized in other comprehensive income, net of applicable taxes. The previous amortized cost basis less the expected credit losses recognized in earnings will become the new amortized cost basis of the investment.
+As of June 30, 2026, management does not have the intent to sell any of the securities classified as available for sale before a recovery of cost. In addition, management believes it is more likely than not that the Company will not be required to sell any of its investment securities before a recovery of cost. The unrealized losses are largely due to changes in market interest rates and spread relationships since the time the underlying securities were purchased. The fair value is expected to recover as the securities approach their maturity date or repricing date or if market yields for such investments decline. Management does not believe any of the securities are impaired due to reasons of credit quality. Accordingly, as of June 30, 2026, management believes that there is no potential for credit losses on available for sale securities.
+Held to maturity securities. The Company's held to maturity investments include mortgage-related bonds issued by either the Government National Mortgage Corporation ("Ginnie Mae"), Fannie Mae or Federal Home Loan Mortgage Corporation ("Freddie Mac"). Ginnie Mae-issued securities are explicitly guaranteed by the U.S. government, while Fannie Mae- and Freddie Mac-issued securities are fully guaranteed by those respective United States government-sponsored agencies, and conditionally guaranteed by the full faith and credit of the United States. The Company's held to maturity securities also include taxable and tax-exempt municipal securities issued primarily by school districts, utility districts and municipalities located in Texas. The Company's investment in municipal securities is exposed to credit risk. The securities are highly rated by major rating agencies and regularly reviewed by management. A significant portion are guaranteed or insured by either the Texas Permanent School Fund, Assured Guaranty or Build America Mutual. As of June 30, 2026, the Company's municipal securities represent 1.0% of the securities portfolio. Management has the ability and intent to hold the securities classified as held to maturity until they mature, at which time the Company will receive full value for the securities. Accordingly, as of June 30, 2026, management believes that there is no potential for material credit losses on held to maturity securities.
+54
+Deposits
+Total deposits were $32.60 billion at June 30, 2026, compared with $28.48 billion at December 31, 2025, an increase of $4.12 billion or 14.5%. Total noninterest-bearing deposits were $10.74 billion at June 30, 2026, compared with $9.47 billion at December 31, 2025, an increase of $1.27 billion or 13.4%. Interest-bearing deposits were $21.86 billion at June 30, 2026, compared with $19.01 billion at December 31, 2025, an increase of $2.85 billion or 15.0%.
+Average deposits for the six months ended June 30, 2026, were $32.18 billion, an increase of $4.28 billion or 15.4% compared with $27.89 billion for the six months ended June 30, 2025. The ratio of average interest-bearing deposits to total average deposits was 67.6% and 65.9% during the first six months of 2026 and 2025, respectively.
+The following table summarizes the daily average balances and weighted average rates paid on deposits for the periods indicated below:
+Six Months Ended June 30,
+2026
+2025
+Average Balance
+Average Rate (1)
+Average Balance
+Average Rate (1)
+(Dollars in thousands)
+Interest-bearing demand deposits
+$
+6,199,301
+0.95
+%
+$
+5,015,178
+0.72
+%
+Regular savings
+2,701,022
+0.51
+%
+2,672,948
+0.71
+%
+Money market savings
+8,056,501
+2.44
+%
+6,302,971
+2.63
+%
+Certificates, IRAs and other time deposits
+4,808,748
+3.26
+%
+4,396,350
+3.67
+%
+Total interest-bearing deposits
+21,765,572
+1.96
+%
+18,387,447
+2.08
+%
+Noninterest-bearing demand deposits
+10,412,431
+9,506,704
+Total deposits
+$
+32,178,003
+1.32
+%
+
+----- [line 6498] -----
+Subordinated notes - Fixed to floating rate notes maturing on June 15, 2032
+35,000
+--
+Total
+$
+2,669,576
+$
+2,151,216
+FHLB advances and long-term notes payable-- The Company has an available line of credit with the Federal Home Loan Bank of Dallas ("FHLB"), which allows the Company to borrow on a collateralized basis. The Company's FHLB advances are typically considered short-term borrowings and are used to manage liquidity as needed. Maturing advances are replaced by drawing on available cash, making additional borrowings or through increased customer deposits. At June 30, 2026, the Company had total borrowing capacity of $7.62 billion under this line. FHLB advances of $2.40 billion were outstanding at June 30, 2026, with a weighted average interest rate of 3.76%. At June 30, 2026, the Company had no FHLB long-term notes payable balance outstanding.
+Securities sold under repurchase agreements-- At June 30, 2026, the Company had $199.6 million in securities sold under repurchase agreements with banking customers compared with $201.2 million at December 31, 2025, a decrease of $1.6 million or 0.8%. Repurchase agreements are generally settled on the following business day. All securities sold under repurchase agreements are collateralized by certain pledged securities.
+Junior Subordinated Debentures--On January 1, 2026, in connection with the American Merger, the Company assumed the obligation related to $6.2 million in Floating Rate Junior Subordinated Debentures and trust preferred securities (the "Debentures") that mature in April 7, 2034. The Debentures, which qualify as Tier 2 capital for regulatory purposes, have a floating rate based on the three-month Term Secured Overnight Financing Rate ("SOFR") plus 2.85%. In March 2026, the Company gave irrevocable notice of its intent to redeem the Debentures and they were redeemed on April 7, 2026.
+55
+Subordinated notes--On January 1, 2026, in connection with the American Merger, the Company assumed the obligations related to $35.0 million of Fixed-to-Floating Rate Subordinated Notes that mature on December 29, 2031. The subordinated notes, which qualify as Tier 2 capital for regulatory purposes, are payable quarterly in arrears at an annual floating rate equal to three-month term SOFR as determined for the applicable period, plus 2.50%. The Company may, at its option, beginning on the first repricing date and on any scheduled interest payment date thereafter, redeem the subordinated notes, in whole or in part, at a redemption price equal to 100% of the outstanding principal amount being redeemed plus accrued and unpaid interest to, but excluding, the date of redemption. Any partial redemption will be made pro rata among all of the holders. The subordinated notes are subordinated in right of payment to all of the Company's existing and future senior indebtedness and effectively subordinated to all existing and future debt and all other liabilities of the Company's subsidiaries.
+On February 1, 2026, in connection with the Southwest Merger, the Company assumed the obligations related to $35.0 million of Fixed-to-Floating Rate Subordinated Notes that mature on June 15, 2032. The subordinated notes, which qualify as Tier 2 capital for regulatory purposes, have a fixed rate of interest of 5.00% until 2027 followed by a floating rate interest based on three-month term SOFR plus 255 basis points. The Company may, at its option, beginning on June 15, 2027, and on any scheduled interest payment date thereafter, redeem the subordinated notes, in whole or in part, at a redemption price equal to 100% of the outstanding principal amount being redeemed plus accrued and unpaid interest to, but excluding, the date of redemption. Any partial redemption will be made pro rata among all of the holders. In addition, the Company may redeem all or portion of the subordinated notes at any time upon occurrence of a Tier 2 capital event, tax event or investment company event as defined in the agreement. The subordinated notes are subordinated in right of payment to all of the Company's senior indebtedness and effectively subordinated to all existing and future debt and all other liabilities of the Company's subsidiaries.
+Liquidity
+As more fully discussed in the Company's 2025 Form 10-K, liquidity involves the Company's ability to raise funds to support asset growth and acquisitions or reduce assets to meet deposit withdrawals and other payment obligations, to maintain reserve requirements and otherwise to operate the Company on an ongoing basis and manage unexpected events. The Company's largest source of funds is deposits and its largest use of funds is loans. The Company does not expect a change in the source or use of its funds in the future.
+The Company has an available line of credit with the FHLB, which allows the Company to borrow on a collateralized basis. The Company's FHLB advances are typically considered short-term borrowings and are used to manage liquidity as needed. Maturing advances are replaced by drawing on available cash, making additional borrowings or through increased customer deposits. At June 30, 2026, the Company had total borrowing capacity of $7.62 billion under this line. FHLB advances of $2.40 billion were outstanding at June 30, 2026, with a weighted average interest rate of 3.76%. At June 30, 2026, the Company had no FHLB long-term notes payable balance outstanding.
+The Company has the ability to borrow on a collateralized basis from the Federal Reserve Discount Window. The discount window allows depository institutions to manage liquidity on a short-term basis and borrowings are usually no longer than 90 days. As of June 30, 2026, the Company had $8.45 billion available in borrowings with no borrowings outstanding.
+The Company has available access to purchase funds from correspondent banks, which has been utilized on occasion to take advantage of investment opportunities, however, the Company does not generally rely on this external funding source.
+As of June 30, 2026, the Company had outstanding $5.03 billion in commitments to extend credit, $119.7 million in commitments associated with outstanding standby letters of credit and $879.8 million in commitments associated with unused capacity on Warehouse Purchase Program loans. Since commitments associated with letters of credit, unused capacity on Warehouse Purchase Program loans and commitments to extend credit may expire unused, the total outstanding may not necessarily reflect the actual future cash funding requirements.
+The Company has no exposure to future cash requirements associated with known uncertainties or capital expenditures of a material nature.
+Asset liquidity is provided by cash and assets which are readily marketable or which will mature in the near future. As of June 30, 2026, the Company had cash and cash equivalents of $1.68 billion compared with $1.75 billion at December 31, 2025, a decrease of $64.5 million or 3.7%. The change was primarily due to an increase in net purchases of investment securities of $1.41 billion, a decrease in deposits of $255.1 million, payment of cash dividends of $121.0 million and repurchase of common stock of $70.8 million, partially offset by an increase in cash provided related to loans of $525.6 million, net cash provided by the American Merger and the Southwest Merger of $478.1 million, net proceeds from other short-term borrowings of $450.0 million, and net cash provided by operating activities of $347.5 million.
+56
+Share Repurchases
+On January 26, 2026, Bancshares announced a stock repurchase program under which it could repurchase up to 5%, or approximately 4.9 million shares, of its outstanding common stock over a one-year period expiring on January 26, 2027, at the discretion of management. Under the stock repurchase program, Bancshares may repurchase shares from time to time at prevailing market prices, through open-market purchases or privately negotiated transactions, depending upon market conditions. Repurchases under this program may also be made in transactions outside the safe harbor during a pending merger, acquisition or similar transaction. The timing and actual number of shares repurchased will depend on a variety of factors including price, corporate and regulatory requirements, market conditions, and other corporate liquidity requirements and priorities. Shares of stock repurchased are held as authorized but unissued shares. Bancshares is not obligated to purchase any particular number of shares, and Bancshares may suspend, modify or terminate the program at any time and for any reason without prior notice. Bancshares repurchased approximately 200 thousand shares of its common stock at an average weighted price of $68.34 per share during the three months ended June 30, 2026, and approximately 1.04 million shares of its common stock at an average weighted price of $68.19 per share for a total of $70.8 million during the six months ended June 30, 2026.
+Contractual Obligations and Off-Balance Sheet Arrangements
+Leases
+The Company's leases relate primarily to operating leases for office space and banking centers. The Company determines if an arrangement is a lease or contains a lease at inception. The Company's leases have remaining lease terms of 1 to 15 years, which may include the option to extend the lease when it is reasonably certain for the Company to exercise that option. Operating lease right-of-use ("ROU") assets and liabilities are recognized at the commencement date based on the present value of lease payments over the lease term. The Company uses its incremental collateralized borrowing rate to determine the present value of lease payments. Short-term leases and leases with variable lease costs are immaterial, and the Company has one sublease arrangement. Sublease income was $840 thousand and $750 thousand for the three months ended June 30, 2026, and 2025 and $1.7 million and $1.6 million for the six months ended June 30, 2026, and 2025, respectively. As of June 30, 2026, operating lease ROU assets and lease liabilities were approximately $31.4 million. ROU assets and lease liabilities were classified as other assets and other liabilities, respectively.
+As of June 30, 2026, the weighted average of remaining lease terms of the Company's operating leases was 4.8 years. The weighted average discount rate used to determine the lease liabilities as of June 30, 2026, for the Company's operating leases was 2.7%. Cash paid for the Company's operating leases was $3.8 million and $2.9 million for the three months ended June 30, 2026, and 2025, respectively, and $7.4 million and $5.9 million for each of the six months ended June 30, 2026, and 2025, respectively. During the six months ended June 30, 2026, the Company obtained $8.1 million in ROU assets in exchange for lease liabilities for ten operating leases, of which five were related to the American Merger and the Southwest Merger.
+The Company's future undiscounted cash payments associated with its operating leases as of June 30, 2026, are summarized below (dollars in thousands).
+Remaining 2026
+$
+5,941
+2027
+9,094
+2028
+6,164
+2029
+4,750
+2030
+3,502
+2031
+2,498
+Thereafter
+8,103
+Total undiscounted lease payments
+$
+40,052
+57
+Financial Instruments with Off-Balance Sheet Risk
+In the normal course of business, the Company enters into various transactions that, in accordance with GAAP, are not included in its consolidated balance sheets. The Company enters into these transactions to meet the financing needs of its customers. These transactions include commitments to extend credit and standby letters of credit, which involve, to varying degrees, elements of credit risk and interest rate risk in excess of the amounts recognized in the consolidated balance sheets.
+The Company's commitments associated with outstanding standby letters of credit, unused capacity on Warehouse Purchase Program loans and commitments to extend credit expiring by period as of June 30, 2026, are summarized below. Since commitments associated with letters of credit, unused capacity on Warehouse Purchase Program loans and commitments to extend credit may expire unused, the amounts shown may not necessarily reflect the actual future cash funding requirements.
+1 year or less
+More than 1
+year but less
+than 3 years
+3 years or
+more but less than
+5 years
+5 years or more
+Total
+(Dollars in thousands)
+Standby letters of credit
+$
+103,776
+$
+13,562
+$
+2,291
+$
+26
+$
+119,655
+Unused capacity on Warehouse Purchase Program loans
+879,845
+--
+--
+--
+879,845
+Commitments to extend credit
+2,143,353
+1,467,333
+277,750
+1,140,844
+5,029,280
+Total
+$
+3,126,974
+$
+1,480,895
+$
+280,041
+$
+1,140,870
+$
+6,028,780
+Allowance for Credit Losses on Off-balance Sheet Credit Exposures.
+The Company records an allowance for credit losses on off-balance sheet credit exposure that is adjusted through an entry to provision for credit losses on the Company's consolidated statement of income. At June 30, 2026, and December 31, 2025, this allowance, reported as a separate line item on the Company's consolidated balance sheet, totaled $37.6 million.
+Capital Resources
+Total shareholders' equity was $8.31 billion at June 30, 2026, compared with $7.62 billion at December 31, 2025, an increase of $689.1 million or 9.0%. The increase was primarily the result of the common stock issuance in connection with the American Merger of $306.8 million, common stock issuance in connection with the Southwest Merger of $282.6 million, net income of $284.9 million and stock based compensation expense of $6.6 million, partially offset by dividend payments of $121.0 million and stock repurchase of $70.8 million.
+The Basel III Capital Rules require the Company and the Bank to maintain a capital conservation buffer, composed entirely of common equity tier 1 capital ("CET1"), of 2.5%, effectively resulting in minimum ratios of (1) CET1 to risk-weighted assets of 7.0%, (2) Tier 1 capital to risk-weighted assets of 8.5%, (3) total capital (that is, Tier 1 plus Tier 2) to risk-weighted assets of 10.5% and (4) Tier 1 capital to average quarterly assets as reported on consolidated financial statements (known as the "leverage ratio") of 4.0%.
+The CET1, Tier 1 and total capital ratios are calculated by dividing the respective capital amounts by risk-weighted assets. Risk-weighted assets include total assets, excluding goodwill and other intangible assets, allocated by risk weight category, and certain off-balance-sheet arrangements. The leverage ratio is calculated by dividing Tier 1 capital by adjusted quarterly average total assets, excluding goodwill and other intangible assets. A financial institution with a conservation buffer of less than the required amount will be subject to limitations on capital distributions, including dividend payments and stock repurchases, and certain discretionary bonus payments to executive officers.
+Financial institutions are categorized by the FDIC based on minimum Common Equity Tier 1, Tier 1 risk-based, total risk-based and Tier 1 leverage ratios. As of June 30, 2026, the Bank's capital ratios were above the levels required for the Bank to be designated as "well capitalized."
+58
+The following table provides a comparison of the Company's and the Bank's risk-weighted and leverage capital ratios to the minimum and well-capitalized regulatory standards as of June 30, 2026:
+Minimum Required For Capital Adequacy Purposes
+Minimum Required Plus Capital Conservation Buffer
+To Be Categorized As Well Capitalized Under Prompt Corrective Action Provisions
+Actual Ratio as of June 30, 2026
+The Company
+
+----- [line 6670] -----
+4.00
+%
+(2)
+4.00
+%
+5.00
+%
+10.64
+%
+(1)The Federal Reserve Board may require the Company to maintain a leverage ratio above the required minimum.
+(2)The FDIC may require the Bank to maintain a leverage ratio above the required minimum.
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+The Company manages market risk, which for the Company is primarily interest rate risk, through its Asset Liability Committee consisting of senior officers of the Company, in accordance with policies approved by the Company's Board of Directors.
+The Company uses simulation analysis to examine the potential effects of market changes on net interest income and market value. The Company considers macroeconomic variables, Company strategy, liquidity and other factors as it quantifies market risk. See Item 7 "Management's Discussion and Analysis of Financial Condition and Results of Operations--Interest Rate Sensitivity and Market Risk" and "Management's Discussion and Analysis of Financial Condition and Results of Operations--Liquidity" in the Company's Annual Report on Form 10-K for the year ended December 31, 2025, filed on February 26, 2026, (the "2025 Form 10-K"), for further discussion. There have been no material changes in the Company's market risk exposures that would affect the quantitative and qualitative disclosures from those disclosed in the 2025 Form 10-K and presented as of December 31, 2025.
+ITEM 4. CONTROLS AND PROCEDURES
+Evaluation of disclosure controls and procedures. As of the end of the period covered by this report, the Company carried out an evaluation, under the supervision and with the participation of its management, including its Chief Executive Officer and Chief Financial Officer, of the effectiveness of the design and operation of its disclosure controls and procedures. In designing and evaluating the disclosure controls and procedures, management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives, and management was required to apply judgment in evaluating its controls and procedures. Based on this evaluation, the Company's Chief Executive Officer and Chief Financial Officer concluded that the Company's disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the "Exchange Act")) were effective as of the end of the period covered by this report.
+Changes in internal control over financial reporting. There were no changes in the Company's internal control over financial reporting (as such term is defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) during the quarter ended June 30, 2026, that have materially affected, or are reasonably likely to materially affect, the Company's internal control over financial reporting.
+59
+PART II--OTHER INFORMATION
+ITEM 1. LEGAL PROCEEDINGS
+Bancshares and the Bank are defendants, from time to time, in legal actions arising from transactions conducted in the ordinary course of business. After consultations with legal counsel, Bancshares and the Bank believe that the ultimate liability, if any, arising from such actions will not have a material adverse effect on their financial statements.
+ITEM 1A. RISK FACTORS
+There have been no material changes in the Company's risk factors from those disclosed in the Company's Annual Report on Form 10-K for the year ended December 31, 2025.
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+a. None.
+b. None.
+c. The following table details the Company's repurchases of shares of its common stock during the three months ended June 30, 2026:
+Period
+Total Number of Shares Purchased
+Weighted Average Price Paid per Share
+Total Number of Shares Purchased as Part of Publicly Announced Plans or Program
+Maximum Number of Shares That May Yet Be Purchased Under the Plan at the End of the Period (1)
+April 1 - April 30, 2026
+--
+$
+--
+--
+4,039,951
+May 1 - May 31, 2026
+50,000
+69.04
+50,000
+3,989,951
+June 1 - June 30, 2026
+150,000
+68.11
+150,000
+3,839,951
+Total
+200,000
+$
+68.34
+200,000
+(1)On January 26, 2026, Bancshares announced a stock repurchase program under which up to 5%, or approximately 4.9 million shares, of its outstanding common stock may be acquired over a one-year period expiring on January 26, 2027, at the discretion of management. Under the stock repurchase program, Bancshares could repurchase shares from time to time at prevailing market prices, through open-market purchases or privately negotiated transactions, depending upon market conditions. See "Management's Discussion and Analysis of Financial Condition and Results of Operations--Financial Condition--Share Repurchases" for additional information.
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+None.
+ITEM 4. MINE SAFETY DISCLOSURES
+Not applicable.
+ITEM 5. OTHER INFORMATION
+c. Insider Trading Arrangements and Policies.
+During the three months ended June 30, 2026, no director or officer of the Company adopted or terminated any "Rule 10b5-1 trading arrangement" or "non-Rule 10b5-1 trading arrangement" (as each term is defined in Item 408(a) of Regulation S-K) with respect to Bancshares common stock.
+60
+ITEM 6. EXHIBITS
+Exhibit
+Number
+Description of Exhibit
+2.1*
+Agreement and Plan of Merger, dated as of January 27, 2026, by and between Prosperity Bancshares, Inc. and Stellar Bancorp, Inc. (incorporated herein by reference to Exhibit 2.1 to the Company's Current Report on Form 8-K filed on January 29, 2026 (File No. 001-35388))
+3.1
+Amended and Restated Articles of Incorporation of Prosperity Bancshares, Inc. (incorporated herein by reference to Exhibit 3.1 to the Company's Registration Statement on Form S-1 (Registration No. 333-63267) (the "Registration Statement"))
+3.2
+Articles of Amendment to Amended and Restated Articles of Incorporation of Prosperity Bancshares, Inc. (incorporated herein by reference to Exhibit 3.2 to the Company's Quarterly Report on Form 10-Q for the quarter ended March 31, 2006 (File No. 001-35388))
+3.3

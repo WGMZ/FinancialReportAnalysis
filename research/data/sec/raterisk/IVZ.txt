@@ -1,0 +1,91 @@
+# IVZ 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/914208/000091420826000235/ivz-20260630.htm
+# full_doc_chars=168062
+
+
+----- [line 1329] -----
+Liquidity risk is the risk that the company will encounter difficulty in meeting obligations associated with its financial liabilities as the same become due. The company is exposed to liquidity risk through its $1,624.0 million in total debt. The company actively manages liquidity risk by preparing cash flow forecasts for future periods, reviewing them regularly with senior management, maintaining a committed Revolving Credit Agreement, scheduling significant gaps between major debt maturities and engaging external financing sources in regular dialogue.
+Effects of Inflation
+Inflation can impact our organization primarily in two ways. First, inflationary pressures can result in increases in our cost structure, especially to the extent that large expense components such as compensation are impacted. To the degree that these expense increases are not recoverable or cannot be counterbalanced through pricing increases due to the competitive environment, our net income could be negatively impacted. Secondly, the value of the assets that we manage may be negatively impacted when inflationary expectations result in a rising interest rate environment. A decline in the value of AUM could lead to reduced revenues as management fees are generally calculated based upon the value of AUM.
+Off Balance Sheet Commitments
+See Item 1, Financial Statements - Note 10, "Commitments and Contingencies - Legal Contingencies," for more information regarding undrawn capital commitments.
+Critical Accounting Policies and Estimates
+There have been no changes to the critical accounting policies disclosed in our most recent Form 10-K for the year ended December 31, 2025. Critical accounting policies and estimates are those that require management's most difficult, subjective or complex judgments and would therefore be deemed the most critical to an understanding of our results of operations and financial condition.
+Recent Accounting Standards
+See Item 1, Financial Statements - Note 1, "Accounting Policies - Accounting Pronouncements Recently Adopted."
+45
+Table of Contents
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+In the normal course of its business, the company is primarily exposed to market risk in the form of AUM market price risk, securities market risk, interest rate risk and foreign exchange rate risk. There have not been any material changes to the company's exposures to market risks during the period ended June 30, 2026 that would require an update to the disclosures provided in the most recent Form 10-K.
+AUM Market Price Risk
+The company's investment management revenues are comprised of fees based on the value of AUM. Declines in the market prices of equity and fixed income securities, commodities and derivatives, or other similar financial instruments held in client portfolios could cause revenues to decline because of lower investment management fees by:
+&#8226;Causing the value of AUM to decrease.
+&#8226;Causing the returns realized on AUM to decrease (impacting performance fees).
+&#8226;Causing clients to withdraw funds in favor of investments in markets that they perceive to offer greater opportunity and that the company does not serve.
+&#8226;Causing clients to rebalance assets away from investments that the company manages into investments that the company does not manage.
+&#8226;Causing clients to reallocate assets away from products that earn higher revenues into products that earn lower revenues.
+Underperformance of client accounts relative to competing products could exacerbate these factors.
+Assuming the revenue yield on AUM for the year remains unchanged, a decline in the average AUM for the year would result in a corresponding decline in revenue. Certain expenses, including distribution and compensation expenses, may not vary in proportion with the changes in the market value of AUM. As such, the impact on operating margin or net income of a decline in the market values of AUM may be greater than the percentage decline in the market value of AUM.
+Securities Market Risk
+The company has investments in managed investment products that invest in a variety of asset classes. Investments are generally made to establish a track record for a new fund or investment vehicle or to hedge economically exposure to certain deferred compensation plans. The company's exposure to market risk from financial instruments measured at fair value arises primarily from its investments.
+Interest Rate Risk
+Interest rate risk relates to the risk that the fair value of future cash flows of a financial instrument will fluctuate because of changes in market interest rates. The company is exposed to interest rate risk primarily through its Debt and Cash and cash equivalent investments. See Item 1, Financial Statements - Note 4, "Debt," for details of the company's debt arrangements. As of June 30, 2026, the interest rates on 24.1% of the company's borrowings were fixed for a weighted average period of 17.43 years, and the company had a $736.0 million balance on its Revolving Credit Agreement.
+Foreign Exchange Rate Risk
+The net assets and financial results of the company's foreign operations are exposed to foreign currency translation risk when translated into U.S. Dollars upon consolidation into Invesco.
+The company is also exposed to foreign currency translation risk on monetary assets and liabilities that are held by subsidiaries in different functional currencies than the subsidiaries' functional currencies. Net foreign exchange revaluation gains were $4.0 million during the six months ended June 30, 2026 (six months ended June 30, 2025: $10.3 million of revaluation losses) and are included in General and administrative expenses and Other gains/(losses), net on the Condensed Consolidated Statements of Income.
+46
+Table of Contents
+Item 4. Controls and Procedures
+Our management is responsible for establishing and maintaining disclosure controls and procedures that are designed to ensure that information the company is required to disclose in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the SEC's rules and forms. Disclosure controls and procedures include controls and procedures designed to ensure that information required to be disclosed in the reports that the company files or submits under the Exchange Act is accumulated and communicated to the company's management, including its principal executive and principal financial officers, as appropriate, to allow timely decisions regarding required disclosure.
+We have evaluated, with the participation of our chief executive officer and chief financial officer, the effectiveness of our disclosure controls and procedures as of June 30, 2026. There are inherent limitations to the effectiveness of any system of disclosure controls and procedures, including the possibility of human error and the circumvention or overriding of the controls and procedures. Accordingly, even effective disclosure controls and procedures can only provide reasonable assurance of achieving their control objectives. Based upon our evaluation, our chief executive officer and chief financial officer concluded that our disclosure controls and procedures were effective to provide reasonable assurance that information required to be disclosed by us in the reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the applicable rules and forms, and that it is accumulated and communicated to our management, including our chief executive officer and chief financial officer, as appropriate to allow timely decisions regarding required disclosure.
+We have evaluated any change in our internal control over financial reporting that occurred during the six months ended June 30, 2026 and have concluded that there was no change that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+47
+Table of Contents
+PART II. OTHER INFORMATION
+Item 1. Legal Proceedings
+See Part I, Item 1, Financial Statements - Note 10, "Commitments and Contingencies - Legal Contingencies," for information regarding legal proceedings.
+Item 1A. Risk Factors
+The company has had no significant changes in its risk factors from those previously disclosed in its Annual Report on Form 10-K for the year ended December 31, 2025.
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+Repurchases of Equity Securities
+The following table sets forth information regarding purchases of our common shares by us and any affiliated purchases during the three months ended June 30, 2026:
+Month | Total Number of Shares Purchased (1)
+Average Price Paid Per Share | Total Number of Shares
+Purchased as Part of
+Publicly Announced Plans or Programs (2)
+Maximum Number at end of period (or Approximate
+Dollar Value) of Shares
+that May Yet Be Purchased
+Under the Plans
+or Programs (2) (millions)
+April 1-30, 2026 | 659,941 | $ | 24.54 | 657,375 | $ | 1,176.1 |
+May 1-31, 2026 | 600,042 | $ | 27.17 | 593,573 | $ | 1,160.0 |
+June 1-30, 2026 | 653,863 | $ | 27.69 | 640,817 | $ | 1,142.2 |
+Total | 1,913,846 | 1,891,765 |
+__________
+(1) An aggregate of 22,081 shares were surrendered to us by Invesco employees to satisfy tax withholding obligations in connection with the vesting of equity awards.
+(2) At June 30, 2026, 1,142.2 million remains available under the share repurchase authorizations approved by the Board on July 22, 2016 and February&#8239;18,&#8239;2026.
+Item 5. Other Information
+None.
+48
+Table of Contents
+Item 6. Exhibits
+Exhibit Index
+3.1 | Memorandum of Association of Invesco Ltd., incorporating amendments up to and including December 4, 2007, incorporated by reference to Exhibit 3.1 to Invesco's Current Report on Form 8-K, filed with the Securities and Exchange Commission on December 12, 2007
+3.2 | Fourth Amended and Restated Bye-Laws of Invesco Ltd., as amended May 21, 2026
+3.3 | Certificate of Designation for the 5.900% fixed rate non-cumulative perpetual series A preference shares, par value $0.20 per share, of Invesco Ltd. incorporated by reference to Exhibit 3.1 to Invesco's Current Report on Form 8-K, filed with the Securities and Exchange Commission on May 24, 2019
+22 | Subsidiary Guarantors and Issuers of Guaranteed Securities, incorporated by reference to Exhibit 22 to Invesco's Annual Report on Form 10-K for the period ended December 31, 2023, filed with the Securities and Exchange Commission on February 21, 2024.
+31.1 | Certification of Andrew R. Schlossberg pursuant to Rule 13a-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+31.2 | Certification of L. Allison Dukes pursuant to Rule 13a-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+32.1 | Certification of Andrew R. Schlossberg pursuant to Rule 13a-14(b) and 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+32.2 | Certification of L. Allison Dukes pursuant to Rule 13a-14(b) and 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+101 | The following financial statements from the company's Quarterly Report on Form 10-Q for the quarter ended June 30, 2026, formatted in Inline Extensible Business Reporting Language (iXBRL): (i) Condensed Consolidated Balance Sheets, (ii) Condensed Consolidated Statements of Income, (iii) Condensed Consolidated Statements of Comprehensive Income, (iv) Condensed Consolidated Statements of Cash Flows, (v) Condensed Consolidated Statements of Changes in Equity, and (vi) Notes to Condensed Consolidated Financial Statements, tagged as blocks of text and including detailed tags.
+104 | The cover page from the company's Quarterly Report on Form 10-Q for the quarter ended June 30, 2026, formatted in Inline XBRL
+49
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this Report to be signed on its behalf by the undersigned, thereunto duly authorized.
+INVESCO LTD. |
+August 4, 2026 | /s/ ANDREW R. SCHLOSSBERG |
+Andrew R. Schlossberg |
+President and Chief Executive Officer |

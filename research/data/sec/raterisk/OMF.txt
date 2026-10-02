@@ -1,0 +1,78 @@
+# OMF 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/1584207/000158420726000031/omf-20260630.htm
+# full_doc_chars=194489
+
+
+----- [line 1176] -----
+Effect of changes in discount rate assumptions | 4 | (2) | 3 | (3) |
+Balance at ending of period | $ | 317 | $ | 81 | $ | 359 | $ | 96 |
+The net liabilities for future policy benefits on long-duration insurance contracts were as follows:
+At or for the
+Six Months Ended June 30, |
+2026 | 2025 |
+(dollars in millions) | Term and
+Whole Life | Accidental Death and Disability Protection | Term and
+Whole Life | Accidental Death and Disability Protection |
+Net liability for future policy benefits | $ | 174 | $ | 58 | $ | 196 | $ | 63 |
+Deferred profit liability | 11 | 43 | 11 | 47 |
+Total net liability for future policy benefits | $ | 185 | $ | 101 | $ | 207 | $ | 110 |
+The weighted-average duration of the liability for future policy benefits was 7 years at June 30, 2026 and 8 years at June 30, 2025.
+The following table reconciles the net liability for future policy benefits to Insurance claims and policyholder liabilities in the condensed consolidated balance sheets:
+At or for the
+Six Months Ended June 30, |
+(dollars in millions) | 2026 | 2025 |
+Term and whole life | $ | 185 | $ | 207 |
+Accidental death and disability protection | 101 | 110 |
+Other* | 266 | 262 |
+Total insurance claims and policyholder liabilities
+$ | 552 | $ | 579 |
+* Other primarily includes reserves for short-duration contracts that are payable to third-party beneficiaries.
+34
+Table of Contents
+The undiscounted and discounted expected future gross premiums and expected future benefits and expenses for our long-duration insurance contracts were as follows:
+At or for the
+Six Months Ended June 30, |
+2026 | 2025 |
+(dollars in millions) | Term and
+Whole Life | Accidental Death and Disability Protection | Term and
+Whole Life | Accidental Death and Disability Protection |
+Expected future gross premiums: |
+Undiscounted | $ | 326 | $ | 92 | $ | 340 | $ | 116 |
+Discounted | 236 | 66 | 246 | 82 |
+Expected future benefit payments: |
+Undiscounted | 432 | 119 | 502 | 144 |
+Discounted | 317 | 81 | 359 | 96 |
+The revenue and interest accretion related to our long-duration insurance contracts recognized in the condensed consolidated statements of operations were as follows:
+At or for the
+Six Months Ended June 30, |
+2026 | 2025 |
+(dollars in millions) | Term and
+Whole Life | Accidental Death and Disability Protection | Term and
+Whole Life | Accidental Death and Disability Protection |
+Gross premiums or assessments | $ | 22 | $ | 7 | $ | 24 | $ | 8 |
+Interest accretion | $ | 5 | $ | 1 | $ | 5 | $ | 2 |
+The expected and actual experiences for mortality, morbidity, and lapses of the liability for future policy benefits were as follows:
+At or for the
+Six Months Ended June 30, |
+2026 | 2025 |
+Term and
+Whole Life | Accidental Death and Disability Protection | Term and
+Whole Life | Accidental Death and Disability Protection |
+Mortality/Morbidity: |
+Expected | 0.40 | % | 0.01 | % | 0.39 | % | 0.01 | % |
+Actual | 0.34 | % | 0.01 | % | 0.41 | % | 0.01 | % |
+Lapses: |
+Expected | 3.85 | % | 1.61 | % | 3.60 | % | 1.72 | % |
+Actual | 4.10 | % | 3.51 | % | 2.81 | % | 2.11 | % |
+The weighted-average interest rates for the liability of future policy benefits for our long-duration insurance contracts were as follows:
+At or for the
+Six Months Ended June 30, |
+2026 | 2025 |
+Term and
+Whole Life | Accidental Death and Disability Protection | Term and
+Whole Life | Accidental Death and Disability Protection |
+Interest accretion rate | 5.28 | % | 4.85 | % | 5.29 | % | 4.86 | % |
+Current discount rate | 5.38 | % | 5.49 | % | 5.51 | % | 5.61 | % |
+35
+Table of Contents
+9. Capital Stock and Earnings Per Share (OMH Only)

@@ -1,0 +1,443 @@
+# RF 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/1281761/000128176126000055/rf-20260630.htm
+# full_doc_chars=375964
+
+
+----- [line 101] -----
+77
+Item 5. | Other Information
+77
+Item 6. | Exhibits
+78
+Signatures
+79
+3
+Table of Contents
+Glossary of Defined Terms
+Agencies - collectively, FNMA and GNMA.
+ACL - Allowance for credit losses.
+ALCO - Asset/Liability Management Committee.
+Allowance - Allowance for credit losses.
+AOCI - Accumulated other comprehensive income.
+ASU - Accounting Standards Update.
+ATM - Automated teller machine.
+Bank - Regions Bank.
+Basel III - Basel Committee's 2010 Regulatory Capital Framework (Third Accord).
+Basel III Rules - Final capital rules adopting the Basel III capital framework approved by U.S. federal regulators in 2013.
+Board - The Company's Board of Directors.
+BOLI - Bank-owned life insurance.
+CCAR - Comprehensive Capital Analysis and Review.
+CET1 - Common Equity Tier 1.
+CFPB - Consumer Financial Protection Bureau.
+CME Term SOFR - Chicago Mercantile Exchange published term Secured Overnight Financing Rate.
+Company - Regions Financial Corporation and its subsidiaries.
+CPI - Consumer price index.
+CPR - Constant (or Conditional) prepayment rate.
+DPD - Days past due.
+DUS - Fannie Mae Delegated Underwriting & Servicing.
+EVE - Economic Value of Equity.
+Exchange Act - Securities Exchange Act of 1934.
+FDIC - The Federal Deposit Insurance Corporation.
+Federal Reserve - The Board of Governors of the Federal Reserve System.
+FHA - Federal Housing Administration.
+FHLB - Federal Home Loan Bank.
+FICO - Fair Isaac Corporation.
+FICO scores - Personal credit scores based on the model introduced by the Fair Isaac Corporation.
+FOMC - Federal Open Market Committee.
+GAAP - Generally Accepted Accounting Principles in the US.
+GDP - Gross domestic product.
+GNMA - Government National Mortgage Association.
+HPI - Housing price index.
+IRS - Internal Revenue Service.
+IRE - Investor Real Estate.
+ISDA - International Swaps and Derivatives Association.
+LROC - Liquidity Risk Oversight Committee.
+LTV - Loan to value.
+MBS - Mortgage-backed securities.
+MSAs - Metropolitan Statistical Areas.
+4
+Table of Contents
+MSR - Mortgage servicing right.
+OAS - Option-adjusted spread.
+OCI - Other comprehensive income.
+PCD - Purchased credit deteriorated.
+R&S - Reasonable and supportable.
+REITs - Real estate investment trust.
+SCB - Stress Capital Buffer.
+SEC - U.S. Securities and Exchange Commission.
+SERP - Supplemental Executive Retirement Plan.
+SOFR - Secured Overnight Financing Rate.
+U.S. - United States.
+U.S. Treasury - The United States Department of the Treasury.
+UTB - Unrecognized tax benefits.
+VIE - Variable interest entity.
+Visa - The Visa, U.S.A. Inc. card association or its affiliates, collectively.
+5
+Table of Contents
+PART I
+Cautionary Note Regarding Forward-Looking Statements and Risk Factor Summary
+This Quarterly Report on Form 10-Q, other periodic reports filed by Regions Financial Corporation under the Securities Exchange Act of 1934, as amended, and any other written or oral statements made by us or on our behalf to analysts, investors, the media and others, may include forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995. The terms "Regions," the "Company," "we," "us" and "our" as used herein mean collectively Regions Financial Corporation, a Delaware corporation, together with its subsidiaries when or where appropriate. The words "future," "anticipates," "assumes," "intends," "plans," "seeks," "believes," "predicts," "potential," "objectives," "estimates," "expects," "targets," "projects," "outlook," "forecast," "would," "will," "may," "might," "could," "should," "can," and similar terms and expressions, and graphics often signify forward-looking statements. Forward-looking statements are subject to the risk that the actual effects may differ, possibly materially, from what is reflected in those forward-looking statements due to factors and future developments that are uncertain, unpredictable and in many cases beyond our control. Forward-looking statements are not based on historical information, but rather are related to future operations, strategies, financial results or other developments. Forward-looking statements are based on management's current expectations as well as certain assumptions and estimates made by, and information available to, management at the time the statements are made. Those statements are based on general assumptions and are subject to various risks, and because they also relate to the future, they are likewise subject to inherent uncertainties and other factors that may cause actual results to differ materially from the views, beliefs and projections expressed in such statements. Therefore, we caution you against relying on any of these forward-looking statements. We assume no obligation and do not intend to update or revise any forward-looking statements that are made from time to time, either as a result of future developments, new information or otherwise, except as may be required by law. These risks, uncertainties, and other factors include, but are not limited to, those described below:
+&#8226;Our businesses have been, and may continue to be, adversely affected by conditions in the financial markets and economic conditions generally.
+&#8226;Fluctuations in market interest rates, including the level and shape of the yield curve, may adversely affect our performance.
+&#8226;If we experience greater credit losses in our loan portfolios than anticipated, our earnings may be materially adversely affected.
+&#8226;Any future reductions in our credit ratings may increase our funding costs and place limitations on business activities.
+&#8226;Changes in the soundness of other financial institutions could adversely affect us.
+&#8226;We may suffer losses if the value of collateral declines in stressed market conditions.
+&#8226;Ineffective liquidity management could adversely affect our financial results and condition.
+&#8226;Loss of deposits or a change in deposit mix could increase our funding costs.
+&#8226;We rely on the mortgage secondary market to manage various risks.
+&#8226;We are at risk of a variety of systems failures or errors and cyber-attacks or other similar incidents that could adversely affect customer experience and our business and financial performance.
+&#8226;We are subject to complex and evolving laws, regulations, rules, standards and contractual obligations regarding privacy and cybersecurity, which could increase the cost of doing business, compliance risks and potential liability.
+&#8226;We will continually encounter technological change and must effectively anticipate, develop and implement new technology.
+&#8226;The development and use of AI presents risks and challenges that may adversely impact our business.
+&#8226;Industry competition, including competition from decentralized finance platforms, cryptocurrencies and blockchain technologies could disrupt our business model and adversely affect our revenues, market share or liquidity.
+&#8226;Our operations are concentrated primarily in the South, Midwest and Texas, and adverse changes in the economic conditions in this region can adversely affect our financial results and condition.
+&#8226;Weakness in the residential real estate markets could adversely affect our performance.
+&#8226;Weakness in the commercial real estate markets could adversely affect our performance.
+&#8226;Risks associated with home equity products where we are in a second lien position could adversely affect our performance.
+
+----- [line 1566] -----
+Interest rate futures and forward commitments | 1,602 | 8 | 1 | 1,537 | 8 | 1 |
+Other contracts | 15,482 | 276 | 257 | 15,051 | 185 | 172 |
+Total derivatives not designated as hedging instruments | $ | 124,848 | $ | 1,377 | $ | 1,328 | $ | 121,153 | $ | 1,230 | $ | 1,175 |
+Total derivatives | $ | 177,308 | $ | 1,476 | $ | 1,857 | $ | 171,138 | $ | 1,335 | $ | 1,445 |
+Total gross derivative instruments, before netting | $ | 1,476 | $ | 1,857 | $ | 1,335 | $ | 1,445 |
+Less: Netting adjustments (2)
+1,285 | 1,210 | 1,120 | 964 |
+Total gross derivative instruments, after netting | $ | 191 | $ | 647 | $ | 215 | $ | 481 |
+_________
+(1)Derivatives in a gain position are recorded as other assets and derivatives in a loss position are recorded as other liabilities on the consolidated balance sheets. Includes accrued interest as applicable. The table reflects net notional presentation and gross asset and liability presentation to capture the economic impact of the trades.
+(2)Netting adjustments represent amounts recorded to convert derivative assets and derivative liabilities from a gross basis to a net basis in accordance with applicable accounting guidance. The net basis takes into account the impact of cash collateral received or posted, legally enforceable master netting agreements, and variation margin that allow Regions to settle derivative contracts with the counterparty on a net basis and to offset the net position with the related cash collateral. Cash collateral, all of which is included as a netting adjustment, totaled $97 million and $83 million for derivative assets at June 30, 2026 and December 31, 2025, respectively. Cash collateral totaled $110 million and $123 million for derivative liabilities at June 30, 2026 and December 31, 2025, respectively.
+HEDGING DERIVATIVES
+Derivatives entered into to manage interest rate risk and facilitate asset/liability management strategies are designated as hedging derivatives. Derivative financial instruments that qualify in a hedging relationship are classified, based on the exposure being hedged, as either fair value hedges or cash flow hedges. See Note 1 "Summary of Significant Accounting Policies" in the Annual Report on Form 10-K for the year ended December 31, 2025 for additional information regarding accounting policies for derivatives.
+CASH FLOW HEDGES
+Cash flow hedge relationships mitigate exposure to the variability of future cash flows or other forecasted transactions.
+Regions enters into interest rate swaps, options (e.g., floors, caps and collars), and agreements with a combination of these instruments to manage overall cash flow changes related to interest rate risk exposure on variable rate loans. The agreements effectively modify the Company's exposure to interest rate risk by utilizing receive fixed/pay SOFR interest rate swaps and interest rate options. As of June 30, 2026, Regions was hedging its exposure to the variability in future cash flows into 2035.
+As of June 30, 2026, cash flow hedges were held at a pre-tax net loss of $463 million, which includes pre-tax net losses of $18 million related to terminated cash flow floors and swaps. Regions expects to reclassify into earnings approximately $181 million in pre-tax losses due to the net receipt/payment of interest and amortization on all cash flow hedges within the next twelve months. Included in this amount is $3 million in pre-tax net loss related to the amortization of terminated cash flow floors and swaps.
+37
+Table of Contents
+See Note 6 for the impact of cash flow hedges on the consolidated statements of income regarding the realized gains or (losses) reclassified from AOCI into net income.
+FAIR VALUE HEDGES
+Fair value hedge relationships mitigate exposure to the change in fair value of an asset, liability or firm commitment.
+Regions enters into interest rate swap agreements to manage interest rate exposure on the Company's fixed-rate borrowings and time deposits. These agreements involve the receipt of fixed-rate amounts in exchange for floating-rate interest payments over the life of the agreements. Regions also enters into interest rate swap agreements to manage interest rate exposure on certain of the Company's fixed-rate prepayable and non-prepayable debt securities available for sale. These agreements involve the payment of fixed-rate amounts in exchange for floating-rate interest receipts.
+The following tables present the effect of fair value hedging derivative instruments on the consolidated statements of income and the total amounts for the respective line items affected:
+Three Months Ended June 30, 2026 |
+Interest Income | Interest Expense |
+Debt securities | Long-term borrowings |
+(In millions) |
+Total income (expense) presented in the consolidated statements of income | $ | 305 | $ | (52) |
+Gains/(losses) on fair value hedging relationships: |
+Interest rate contracts: |
+Amounts related to interest settlements on derivatives | $ | 1 | $ | (4) |
+Recognized on derivatives | 54 | (4) |
+Recognized on hedged items | (54) | 4 |
+Income (expense) recognized on fair value hedges | $ | 1 | $ | (4) |
+Three Months Ended June 30, 2025 |
+Interest Income | Interest Expense |
+Debt securities | Long-term borrowings |
+(In millions) |
+Total income (expense) presented in the consolidated statements of income | $ | 286 | $ | (77) |
+Gains/(losses) on fair value hedging relationships: |
+Interest rate contracts: |
+Amounts related to interest settlements on derivatives | $ | 5 | $ | (7) |
+Recognized on derivatives | (33) | 9 |
+Recognized on hedged items | 33 | (9) |
+Income (expense) recognized on fair value hedges | $ | 5 | $ | (7) |
+Six Months Ended June 30, 2026 |
+Interest Income | Interest Expense |
+Debt securities | Long-term borrowings |
+(In millions) |
+Total income (expense) presented in the consolidated statements of income | $ | 603 | $ | (104) |
+Gains/(losses) on fair value hedging relationships: |
+Interest rate contracts: |
+Amounts related to interest settlements on derivatives | $ | 2 | $ | (9) |
+Recognized on derivatives | 83 | (2) |
+Recognized on hedged items | (83) | 2 |
+Income (expense) recognized on fair value hedges | $ | 2 | $ | (9) |
+38
+Table of Contents
+Six Months Ended June 30, 2025 |
+Interest Income | Interest Expense |
+Debt securities | Long-term borrowings |
+(In millions) |
+Total income (expense) presented in the consolidated statements of income | $ | 552 | $ | (162) |
+Gains/(losses) on fair value hedging relationships: |
+Interest rate contracts: |
+Amounts related to interest settlements on derivatives | $ | 8 | $ | (21) |
+Recognized on derivatives | (79) | 34 |
+Recognized on hedged items | 79 | (34) |
+Income (expense) recognized on fair value hedges | $ | 8 | $ | (21) |
+The following tables present the carrying amount and associated cumulative basis adjustment related to the application of hedge accounting that is included in the carrying amount of hedged assets and liabilities in fair value hedging relationships.
+June 30, 2026 | December 31, 2025 |
+Hedged Items Currently Designated | Hedged Items Currently Designated |
+Amortized Cost Basis of Assets/(Liabilities) | Hedge Accounting Basis Adjustment | Amortized Cost Basis of Assets/(Liabilities) | Hedge Accounting Basis Adjustment |
+(In millions) | (In millions) |
+
+----- [line 2046] -----
+Table 1--Debt Securities
+June 30, 2026 | December 31, 2025 |
+(In millions) |
+U.S. Treasury securities | $ | 2,039 | $ | 2,276 |
+Federal agency securities | 532 | 543 |
+Obligations of states and political subdivisions | 2 | 2 |
+Mortgage-backed securities: |
+Residential agency | 22,699 | 23,624 |
+Commercial agency | 6,800 | 6,198 |
+Commercial non-agency | 157 | 82 |
+Corporate and other debt securities | 430 | 441 |
+$ | 32,659 | $ | 33,166 |
+Debt securities, which comprise approximately 23 percent of earning assets, are an important tool used to manage interest rate sensitivity and provide a primary source of liquidity for the Company, as much of the portfolio is highly liquid. Additionally, some of the debt securities portfolio is eligible to be used as collateral for funding of various types of borrowings. See the "Liquidity" and "Market Risk-Interest Rate Risk" sections for more information on these arrangements. See also Note 3 "Debt Securities" to the consolidated financial statements for additional information.
+As of June 30, 2026, debt securities held to maturity and debt securities available for sale represented 16 percent and 84 percent, respectively, of the total debt securities portfolio.
+Debt securities decreased $507 million from December 31, 2025 to June 30, 2026 due to the timing of securities purchases and less favorable market valuation adjustments resulting from changes in interest rates. During the second quarter of 2026, the Company executed a debt securities repositioning involving the sale of shorter-duration commercial agency MBS and U.S. Treasuries, which were replaced with longer-duration commercial and residential agency MBS and U.S. Treasuries with higher market yields. In total the Company sold approximately $900 million of debt securities available for sale and realized approximately $40 million in pre-tax losses.
+The average life of the debt securities portfolio at both June 30, 2026 and December 31, 2025 was estimated to be 5.9 years, with a duration of approximately 3.9 years, inclusive of fair value hedges (see Table 20).
+LOANS HELD FOR SALE
+The following table presents Regions' loans held for sale by type:
+Table 2--Loans Held for Sale
+June 30, 2026 | December 31, 2025 |
+(In millions) |
+Commercial | $ | 290 | $ | 245 |
+Residential first mortgage | 298 | 266 |
+Consumer and other performing | 2 | -- |
+Non-performing | 1 | -- |
+$ | 591 | $ | 511 |
+Commercial loans held for sale include commercial mortgage loans originated for sale to third parties and commercial loans originally recorded as held for investment when management has the intent to sell. Levels of commercial loans held for sale fluctuate based on timing of sale to third parties. The levels of residential first mortgage loans held for sale that are part of the Company's mortgage originations fluctuate depending on the timing of origination and sale to third parties.
+52
+Table of Contents
+LOANS
+GENERAL
+Loans, net of unearned income, represented approximately 70 percent of interest-earning assets as of June 30, 2026. The following table presents the distribution of Regions' loan portfolio by segment and class, net of unearned income:
+Table 3--Loan Portfolio
+June 30, 2026 | December 31, 2025 |
+(In millions, net of unearned income) |
+Commercial and industrial | $ | 51,841 | $ | 48,790 |
+Commercial real estate mortgage--owner-occupied | 5,127 | 4,845 |
+Commercial real estate construction--owner-occupied | 267 | 263 |
+Total commercial | 57,235 | 53,898 |
+Commercial investor real estate mortgage | 7,896 | 7,172 |
+Commercial investor real estate construction | 2,073 | 1,934 |
+Total investor real estate | 9,969 | 9,106 |
+Residential first mortgage | 19,498 | 19,765 |
+Home equity lines | 3,241 | 3,232 |
+Home equity loans | 2,263 | 2,324 |
+Consumer credit card | 1,498 | 1,519 |
+Other consumer | 5,496 | 5,793 |
+Total consumer | 31,996 | 32,633 |
+$ | 99,200 | $ | 95,637 |
+PORTFOLIO CHARACTERISTICS
+Loans, net of unearned income, increased $3.6 billion from year-end 2025 due to an increase across all commercial and investor real estate loan classes as discussed below. These increases were partially offset by a slight decline in consumer loans. Regions manages loan growth with a focus on risk management and risk-adjusted return on capital.
+The following sections describe the composition of the portfolio segments and classes disclosed in Table 3, explain changes in balances from year-end 2025 and highlight the related risk characteristics. Regions believes that its loan portfolio is well diversified by product, client, and geography throughout its footprint. However, the loan portfolio may be exposed to certain concentrations of credit risk which exist in relation to individual borrowers or groups of borrowers, certain types of collateral, certain types of industries, and certain loan products. See Note 4 "Loans and the Allowance for Credit Losses" to the consolidated financial statements for additional discussion.
+Commercial
+Over half of the Company's total loans are included in the commercial portfolio segment. These balances are spread across numerous industries, as noted in Table 4. The Company manages the related risks to this portfolio by setting certain lending limits for each significant industry. The commercial portfolio segment includes commercial and industrial loans for use in customers' normal business operations to finance working capital needs, equipment purchases, expansion projects and acquisitions. See the "Portfolio Characteristics" section in Regions' Annual Report on Form 10-K for the year ended December 31, 2025 for more information on details surrounding the commercial portfolio segment and underwriting criteria, underwriting for owner-occupied real estate and real estate construction and real estate appraisals for commercial and IRE loans.
+Commercial and industrial loans increased $3.1 billion since year-end 2025 driven primarily by increases in energy and utilities, manufacturing, real estate, and healthcare. Growth was driven by higher line utilization rates and new loan production. In the first six months of 2026, the increase in commercial and industrial loans was broad-based as shown in Table 4.
+The commercial portfolio also includes owner-occupied commercial real estate mortgage loans to operating businesses, which are loans for long-term financing on real estate assets, and are repaid by cash generated by business operations. Owner-occupied commercial real estate construction loans are made to commercial businesses for the development of land or construction of a building where the repayment is derived from revenues generated from the business of the borrower. These owner-occupied real estate and real estate construction loans generally mature within a 10 year period and with amortization periods reflecting the longer life of the underlying collateral. Typical structure is an amortizing term loan, though construction loans are short-term, monitored, non-revolving draw facilities. These loans frequently have a covenant package combination consistent with the underwriting of commercial loans, inclusive of applicable debt service coverage, leverage, and liquidity measurements.
+Investor Real Estate
+Loans for real estate development are repaid through cash flows related to the operation, sale or refinance of the property. This portfolio segment includes extensions of credit to real estate developers or investors where repayment is dependent on the
+53
+Table of Contents
+sale of real estate or income generated from the real estate collateral. A portion of Regions' IRE portfolio segment consists of loans secured by residential product types (land, single-family and condominium loans) within Regions' markets. Additionally, this category includes loans made to finance income-producing properties such as apartment buildings, office and industrial buildings, and retail shopping centers. Total IRE loans increased $863 million in comparison to year-end 2025 balances due to increases in fundings to previously approved projects and new term loans for apartments and medical office buildings. See the "Investor Real Estate" section in Regions' Annual Report on Form 10-K for the year ended December 31, 2025 for more information on details surrounding the investor real estate portfolio segment and underwriting criteria.
+The following tables provide detail of Regions' commercial and IRE lending balances in selected industries.
+Table 4--Commercial and Investor Real Estate Industry Exposure
+June 30, 2026 | December 31, 2025 (3)
+Loans | Unfunded Commitments | Total Exposure | Percent of Balance
+Loans | Unfunded Commitments | Total Exposure | Percent of Balance
+(In millions) | (In millions) |
+Commercial:
+Administrative, support, waste and repair | $ | 1,199 | $ | 825 | $ | 2,024 | 1.8 | % | $ | 1,150 | $ | 790 | $ | 1,940 | 1.8 | % |
+Agriculture | 170 | 123 | 293 | 0.3 | % | 190 | 119 | 309 | 0.4 | % |
+Educational services | 2,946 | 737 | 3,683 | 3.3 | % | 3,055 | 649 | 3,704 | 3.5 | % |
+Energy | 1,832 | 4,392 | 6,224 | 5.6 | % | 1,389 | 4,129 | 5,518 | 5.2 | % |
+
+----- [line 2461] -----
+Money market--domestic | 39,974 | 40,119 |
+Time deposits | 12,920 | 13,888 |
+$ | 130,710 | $ | 131,128 |
+Consumer Bank segment | $ | 80,972 | $ | 80,193 |
+Corporate Bank segment | 39,952 | 40,449 |
+Wealth Management segment | 7,466 | 8,344 |
+Other(1)
+2,320 | 2,142 |
+$ | 130,710 | $ | 131,128 |
+____
+(1) Other deposits represent non-customer balances primarily consisting of wholesale funding (for example, selected deposits and brokered time deposits). Other deposits include brokered deposits totaling $1.6 billion at June 30, 2026 and $1.3 billion at December 31, 2025.
+Total deposits at June 30, 2026 decreased approximately $418 million compared to year-end 2025 levels reflecting normal seasonal patterns associated with tax refunds and payments. The decline was driven by a decrease in interest-bearing checking, money market, and time deposits. Deliberate product management resulted in a shift from time deposits into other products. The mix of non-interest-bearing deposits was approximately 31 percent of total deposits at June 30, 2026, which remained stable in comparison to December 31, 2025.
+See the "Liquidity" and "Market Risk-Interest Rate Risk" sections for further discussion on liquidity and interest rates.
+62
+Table of Contents
+BORROWED FUNDS
+Short-Term Borrowings
+Short-term borrowings totaled $3.0 billion at June 30, 2026, consisting of federal funds purchased of $200 million and FHLB advances of $2.8 billion. At December 31, 2025, short-term borrowings totaled $750 million comprised entirely of FHLB advances. The levels of these borrowings can fluctuate depending on the Company's funding needs and the sources utilized. See the "Liquidity" section for further discussion and detail of Regions' borrowing capacity with the FHLB.
+Table 15--Long-Term Borrowings
+June 30, 2026 | December 31, 2025 |
+(In millions) |
+Regions Financial Corporation (Parent): |
+1.80% senior notes due August 2028 | $ | 648 | $ | 648 |
+5.722% senior notes due June 2030(1)
+747 | 747 |
+5.502% senior notes due September 2035(2)
+995 | 995 |
+7.375% subordinated notes due December 2037 | 299 | 299 |
+Valuation adjustments on hedged long-term debt | (52) | (52) |
+2,637 | 2,637 |
+Regions Bank: |
+FHLB advances | -- | 1,000 |
+6.45% subordinated notes due June 2037 | 497 | 497 |
+4.755% senior notes due July 2029(3)
+1,495 | -- |
+Other long-term debt | 1 | -- |
+Valuation adjustments on hedged long-term debt | (2) | -- |
+1,991 | 1,497 |
+Total consolidated | $ | 4,628 | $ | 4,134 |
+____
+(1) On June 6, 2029, the Notes will bear floating rate interest equal to Compounded SOFR plus 1.49%.
+(2) On September 6, 2034, the Notes will bear floating rate interest equal to Compounded SOFR plus 2.06%.
+(3) On July 27, 2028, the Notes will bear floating rate interest equal to Compounded SOFR plus 0.807%.
+Long-term borrowings increased by approximately $494 million from year-end 2025 reflecting the issuance of senior notes partially offset by the repayment of FHLB advances. In the second quarter, Regions Bank issued $1.5 billion of 4.755% fixed rate to floating rate senior notes due July 2029. The notes will initially bear interest at 4.755% per annum and, commencing on July 27, 2028, in conjunction with the call date, the notes will bear interest at a floating rate per annum equal to Compounded SOFR plus 0.807%.
+Funding from the FHLB and Federal Reserve Bank is secured by pledged assets, primarily certain loan portfolios which are also subject to blanket lien arrangements with the FHLB and Federal Reserve Bank. As of June 30, 2026, Regions' blanket lien arrangements with these entities covered a total loan balance of approximately $95.9 billion and included loans from various loan portfolios. However, borrowing capacity with the FHLB and Federal Reserve Bank is contingent on a subset of the blanket lien portfolios which are eligible and pledged according to the parameters for each counterparty.
+REGULATORY REQUIREMENTS
+Regions and Regions Bank are required to comply with regulatory capital requirements established by Federal and State banking agencies. These regulatory capital requirements involve quantitative measures of the Company's assets, liabilities and selected off-balance sheet items, and also qualitative judgments by the regulators. Failure to meet minimum capital requirements can subject the Company to a series of increasingly restrictive regulatory actions. Under the Basel III Rules, Regions is designated as a standardized approach bank. Regions is a "Category IV" institution under the Federal Reserve's Tailoring Rules.
+Regions is subject to supervisory stress testing conducted by the Federal Reserve and its SCB is currently floored at 2.5 percent. See Note 6 "Shareholders' Equity and Accumulated Other Comprehensive Income (Loss)" to the consolidated financial statements for further details regarding CCAR results.
+63
+Table of Contents
+The following table summarizes the applicable holding company and bank regulatory requirements:
+Table 16--Regulatory Capital Requirements
+June 30, 2026 Ratio(1)
+December 31, 2025 Ratio | Minimum Requirement | Minimum Requirement plus SCB (2)
+To Be Well
+Capitalized |
+Common equity Tier 1 capital: |
+Regions Financial Corporation | 10.72 | % | 10.89 | % | 4.50 | % | 7.00 | % | N/A |
+Regions Bank | 11.58 | 11.72 | 4.50 | 7.00 | 6.50 | % |
+Tier 1 capital: |
+Regions Financial Corporation | 11.79 | % | 11.99 | % | 6.00 | % | 8.50 | % | 6.00 | % |
+Regions Bank | 11.58 | 11.72 | 6.00 | 8.50 | 8.00 |
+Total capital: |
+Regions Financial Corporation | 13.66 | % | 13.89 | % | 8.00 | % | 10.50 | % | 10.00 | % |
+Regions Bank | 13.22 | 13.37 | 8.00 | 10.50 | 10.00 |
+Leverage capital: |
+Regions Financial Corporation | 9.65 | % | 9.68 | % | 4.00 | % | 4.00 | % | N/A |
+Regions Bank | 9.50 | 9.48 | 4.00 | 4.00 | 5.00 | % |
+___
+(1) The current quarter Basel III CET1 capital, Tier 1 capital, Total capital, and Leverage capital ratios are estimated.
+(2) Reflects Regions' SCB of 2.5 percent. SCB does not apply to leverage capital ratios.
+In the third quarter of 2023, proposals were issued by the U.S federal banking regulators that, if adopted, would impact the Company related to long-term debt requirements and U.S. implementation of capital requirements under Basel IV rules, more recently referred to as the Basel III Endgame. Following extensive feedback, the regulators issued a new capital requirements proposal on March 19, 2026. The updated proposal continues to include the addition of AOCI in CET1 and a recalibration for risk weights within the standardized calculation. Additionally, the Company now has the option to opt into the expanded risk based approach, which was previously required under the initial proposal. The Company continues to monitor developments around the new proposal and evaluate its potential impact. Additional discussion of the Basel III Rules, their applicability to Regions, recent proposals and final rules issued by the federal banking agencies and recent laws enacted that impact regulatory requirements is included in the "Supervision and Regulation" subsection of the "Business" section in Regions' Annual Report on Form 10-K for the year ended December 31, 2025.
+
+----- [line 2673] -----
+(1)Amounts have been calculated using whole dollar values and the prevailing interest accrual methodology.
+(2)Debt securities are included on an amortized cost basis with yield and net interest margin calculated accordingly.
+(3)Interest income on debt securities includes hedging income of $2 million and $8 million for the six months ended June 30, 2026 and 2025, respectively.
+(4)Loans, net of unearned income include non-accrual loans for all periods presented.
+(5)Interest income on loans, net of unearned income, includes hedging expense of $70 million and $127 million for the six months ended June 30, 2026, and 2025, respectively. Interest income on loans, net of unearned income, also includes net loan fees of $57 million and $61 million for the six months ended June 30, 2026 and 2025, respectively.
+(6)Total deposit costs may be calculated by dividing total interest expense on deposits by the sum of interest-bearing deposits and non-interest-bearing deposits and equaled 1.19% and 1.39% for the six months ended June 30, 2026 and 2025, respectively.
+(7)The computation of taxable-equivalent net interest income is based on the statutory federal income tax rate of 21%, adjusted for applicable state income taxes net of the related federal tax benefit.
+Net interest income is Regions' principal source of income and is one of the most important elements of Regions' ability to meet its overall performance goals. Both net interest income and net interest margin are influenced by both long-term and short-term market interest rates.
+Net interest income (taxable-equivalent basis) and net interest margin increased in both the three and six months ended June 30, 2026 compared to the same periods in 2025 due primarily to lower funding costs, which includes deposits and wholesale borrowings. Funding costs declined 18 basis points and 22 basis points in three and six months ended June 30, 2026, respectively, driven by a decline in deposit costs through prudent cost management in a lower rate environment. Deposit balance remixing, with certain time deposits maturing and being replaced with lower cost product types, also created a more optimal funding mix. Additionally, loan yields only decreased modestly in the lower rate environment, reflecting the rate
+67
+Table of Contents
+protection provided by the Company's hedging program. Turnover of fixed-rate loans and securities, combined with debt securities repositioning transactions in prior periods as well as during the second quarter of 2026, resulted in new loans and securities at higher rates that benefitted net interest income and net interest margin.
+MARKET RISK--INTEREST RATE RISK
+Regions' primary market risk is interest rate risk. This includes uncertainty with respect to absolute interest rate levels as well as relative interest rate levels, which are impacted by both the shape and the slope of the various yield curves that affect the financial products and services that the Company offers. As its primary tool to analyze this risk, Regions measures the change in its net interest income in various interest rate scenarios compared to a base case scenario. Net interest income sensitivity to market rate movements is a useful short-term indicator of Regions' interest rate risk.
+In addition to net interest income simulations, Regions also utilizes an EVE analysis as a measurement tool to estimate risk exposure over a longer-term horizon. EVE measures the extent to which the economic value of assets, liabilities and derivative instruments may change in response to fluctuations in interest rates. Importantly, EVE values only the current balance sheet, excluding the growth assumptions used in net interest income sensitivity analyses. Additionally, the results are highly dependent on assumptions for products with embedded prepay optionality and indeterminate maturities. The uncertainty surrounding important assumptions used in EVE analysis may limit its efficacy.
+Sensitivity Measurement--Financial simulation models are Regions' primary tools used to measure interest rate exposure. Using a wide range of sophisticated simulation techniques provides management with extensive information on the potential impact to net interest income caused by changes in interest rates. Models are structured to simulate cash flows and accrual characteristics of Regions' balance sheet. Assumptions are made about the direction and magnitude of interest rate movements, the slope of the yield curve, and the changing composition of the balance sheet that results from both strategic plans and customer behavior. Among the assumptions are expectations of balance sheet growth and composition, the pricing and maturity characteristics of existing business and the characteristics of future business. Interest rate-related risks are expressly considered, such as pricing spreads, the pricing of deposit accounts, prepayments and other option risks. Regions considers these factors, as well as the degree of certainty or uncertainty surrounding their future behavior.
+The primary objective of asset/liability management at Regions is to coordinate balance sheet composition with interest rate risk management to sustain reasonable and stable net interest income throughout various interest rate cycles. In computing interest rate sensitivity, Regions compares a set of alternative interest rate scenarios to the results of a base case scenario derived using "market forward rates." The set of alternative interest rate scenarios includes instantaneous parallel rate shifts of various magnitudes. In addition to parallel rate shifts, multiple curve steepening and flattening scenarios are contemplated. Regions includes simulations of gradual interest rate movements phased in over a six-month period that may more realistically mimic the speed of potential interest rate changes.
+Exposure to Interest Rate Movements--Regions' balance sheet is naturally asset sensitive, with net interest income increasing with higher interest rates, and decreasing with lower interest rates. This is the result of approximately half of the loan portfolio floating contractually with market rate indices, and funding from a large, mostly stable retail deposit portfolio. Importantly, the stability and rate sensitivity of Regions' deposit portfolio has been proven over multiple interest rate cycles. With this natural balance sheet profile, the ability to utilize discretionary asset duration strategies within the investment portfolio and through derivatives is critical in mitigating the Bank's natural exposure to rates.
+As of June 30, 2026, Regions evidenced a mostly balanced, or "neutral" asset/liability position, with asset duration of approximately 2.6 years and liability duration of approximately 2.7 years, using historically-informed approximations. Typically when the debt securities portfolio is recorded on the balance sheet at an unrealized loss, higher deposit values more than offset this loss. The additional value of deposits is realized in the form of lower-cost funding when compared with wholesale sources. While balance sheet analysis, particularly EVE analysis, does contemplate the economic value of deposits, the estimated fair value of deposits is equal to their carrying value for certain financial statement footnote disclosures, consistent with industry practices. See Note 10 "Fair Value Measurements" to the consolidated financial statements for additional information.
+Pay-fixed fair value hedges and debt securities transfers from available for sale to held to maturity classification have been used to reduce AOCI volatility associated with unrealized securities gains and losses. Inclusive of these activities, the total debt securities portfolio duration is 3.9 years, the available for sale securities portfolio duration is 3.5 years, and the held to maturity securities portfolio duration is 5.9 years. As pay-fixed fair value hedges are further utilized to manage AOCI volatility, receive-fixed cash flow hedges may be entered into as an offset to preserve the interest rate sensitivity of Regions' entire balance sheet.
+As of June 30, 2026, Regions' net interest income profile was mostly neutral to both gradual and instantaneous parallel yield curve shifts as compared to the base case for the 12-month measurement horizon ending June 2027. The estimated exposure associated with the rising and falling rate scenarios in Table 19 below reflects the combined impacts of movements in short-term and long-term interest rates. An increase or reduction in short-term interest rates (such as the Federal Funds rate, the interest rate on reserve balances, and SOFR) will drive the yield on assets and liabilities contractually tied to such rates higher
+68
+Table of Contents
+or lower. In either scenario, it is expected that changes in funding costs and balance sheet hedging income will offset the change in asset yields, resulting in little change to net interest income.
+Net interest income remains exposed to intermediate and long-term yield curve tenors, though exposure has been partially reduced by receive-fixed swaps designed to hedge a portion of the company's 2026 fixed-rate asset turnover. In the current higher interest rate environment, fixed-rate asset turnover represents a tailwind to net interest income growth. Elevated, or increasing intermediate and long-term interest rates (such as intermediate to longer-term U.S. Treasuries, swaps and mortgage rates) will drive yields higher on certain fixed-rate, newly originated or renewed loans, and increase prospective yields on certain investment portfolio purchases. The opposite is true in an environment where intermediate and long-term interest rates fall. Additionally, shifts in the long end of the yield curve will impact securities prepayments and alter the amount of discount accretion and premium amortization in any given period.
+The interest rate sensitivity analysis presented below in Table 19 is informed by a variety of assumptions and estimates regarding the progression of the balance sheet in both the baseline scenario as well as the scenarios of instantaneous and gradual shifts in the yield curve. Though there are many assumptions which affect the estimates for net interest income, those pertaining to deposit pricing, deposit mix and overall balance sheet composition are particularly impactful. Given the uncertainties associated with monetary policy on industry liquidity levels and the cost of that liquidity, management evaluates the impacts from these key assumptions through sensitivity analysis. Sensitivity calculations are hypothetical and should not be considered predictive of future results.
+The Company's baseline balance sheet assumptions include management's best estimate for balance sheet changes in the coming 12 months. A reduction in deposit balances of $1 billion when compared to the base case estimate would reduce net interest income by $18 million over 12 months in the parallel, instantaneous +100 basis point scenario in Table 19. Conversely, if an additional $1 billion are added, a positive benefit of $18 million would be expected over 12 months in the parallel, instantaneous +100 basis point scenario in Table 19.
+In rising rate scenarios only, management assumes that the mix of deposits will change versus the base case as informed by analyses of prior rate cycles. Currently, however, much of the anticipated mix shift has already occurred or is expected to occur within the baseline scenario, mitigating the amount of additional remixing in higher rate scenarios. The magnitude of the remixing is rate dependent and equates to an approximate $1.2 billion shift from non-interest-bearing deposits into time deposits over 12 months in the parallel, instantaneous +100 basis point scenario in Table 19. Furthermore, over the 12 month horizon, an increase of $1 billion in deposit remixing would decrease net interest income by approximately $23 million, and a decrease of $1 billion in deposit remixing would increase net interest income by $23 million in the parallel, instantaneous +100 basis point scenario.
+The interest-bearing deposit beta is calibrated using the experience from prior rate cycles and is dynamic across both interest rate level and time. The parallel, instantaneous +100 basis point and -100 basis point shock scenarios in Table 19 both incorporate an incremental beta between 35 and 40 percent when compared to the base case scenario. Incremental deposit pricing outperformance or underperformance of 5 percent in a parallel, instantaneous 100 basis point shock would increase or decrease net interest income by approximately $46 million.
+The table below summarizes Regions' positioning over the next 12 months in various parallel yield curve shifts (i.e., all yield curve tenors move by the same magnitude). The scenarios are inclusive of all interest rate hedging activities. More information regarding hedges is disclosed in Table 20 and its accompanying description.
+69
+Table of Contents
+Table 19--Interest Rate Sensitivity
+Estimated Annual Change
+in Net Interest Income
+June 30, 2026(1)(2)
+(In millions)
+Gradual Change in Interest Rates |
++ 200 basis points | $ | 116 |
++ 100 basis points | 62 |
+- 100 basis points | (60) |
+- 200 basis points
+(107) |
+Instantaneous Change in Interest Rates |
++ 200 basis points | $ | 56 |
++ 100 basis points | 37 |
+- 100 basis points | (53) |
+- 200 basis points
+(76) |
+________
+(1)Disclosed interest rate sensitivity levels represent the 12-month forward looking net interest income changes as compared to market forward rate cases and include expected balance sheet growth and remixing.
+(2)Active hedges, including forward starting hedges, are included in the sensitivity analysis to the extent that they fall within the measurement horizon.
+While not depicted in the table above, interest rate movements may also have an impact on the value of Regions' securities portfolio, which can directly impact the carrying value of shareholders' equity.
+Derivatives--Regions uses financial derivative instruments for management of interest rate sensitivity and AOCI volatility management. ALCO, which consists of members of Regions' senior management team, in its oversight role for the management of interest rate sensitivity, approves the use of derivatives in balance sheet hedging strategies. Derivatives are also used to offset the risks associated with customer derivatives, which include interest rate, credit, and foreign exchange risks. The most common derivatives Regions employs are forward rate contracts, forward sale commitments, futures contracts, interest rate swaps, interest rate options (caps, floors and collars), and contracts with a combination of these instruments.
+Forward rate contracts are commitments to buy or sell financial instruments at a future date at a specified price or yield. Futures contracts subject Regions to market risk associated with changes in interest rates. Because futures contracts are cash settled daily, there is minimal credit risk associated with futures. Interest rate swaps are contractual agreements typically entered into to exchange fixed for variable (or vice versa) streams of interest payments. The notional principal is not exchanged but is used as a reference for the size of interest settlements. Interest rate options are contracts that allow the buyer to purchase or sell a financial instrument at a predetermined price and time. Forward sale commitments are contractual obligations to sell market instruments at a future date for an already agreed-upon price. Foreign currency contracts involve the exchange of one currency for another on a specified date and at a specified rate. These contracts are executed on behalf of the Company's customers and are used by customers to manage fluctuations in foreign exchange rates. The Company is subject to the credit risk that another party will fail to perform.
+Regions has made use of interest rate swaps and options in balance sheet hedging strategies to effectively convert a portion of its fixed-rate funding position to a variable-rate position, to effectively convert a portion of its fixed-rate debt securities available for sale portfolio to a variable-rate position, and to effectively convert a portion of its floating-rate loan portfolios to fixed-rate. Regions also uses derivatives to economically manage interest rate and pricing risk associated with its mortgage origination business. In the period of time that elapses between the origination and sale of mortgage loans, changes in interest rates have the potential to cause a decline in the value of the loans in this held-for-sale portfolio. Futures contracts and forward sale commitments are used to protect the value of the loan pipeline and loans held for sale from changes in interest rates and pricing.
+70
+Table of Contents
+The following table presents additional information about hedging interest rate derivatives used by Regions to manage interest rate risk:
+Table 20--Hedging Derivatives by Interest Rate Risk Management Strategy
+June 30, 2026 |
+Notional
+Amount | Weighted-Average |
+Maturity (Years) | Receive Rate | Pay Rate |
+(Dollars in millions) |
+Derivatives in cash flow hedging relationships: |
+Receive fixed/pay variable swaps - floating-rate loans(1)(2)(3)
+$ | 39,298 | 3.4 | 3.3 | % | 3.7 | % |
+Interest rate options(4)
+3,000 | 2.7 |
+Derivatives in fair value hedging relationships: |
+Receive variable/pay fixed swaps - debt securities available for sale(1)(2)(3)
+6,262 | 6.6 | 3.7 | % | 3.7 | % |
+Receive fixed/pay variable swaps - borrowings(3)
+3,900 | 3.8 | 3.3 | % | 3.7 | % |
+Total derivatives designated as hedging instruments | $ | 52,460 |
+_________
+(1)Floating rates represent the most recent fixing for active derivatives and the first forward fixing for future starting derivatives.
+(2)Includes forward starting notional with maturity relative to current quarter-end. For more information on notional by year, see Table 21.
+(3)All floating rates are SOFR based and may include SOFR conversion spread.
+(4)Interest rate options have an average cap strike of 5.73% and a floor of 2.34%.
+In the three months ended June 30, 2026, the Company added $1.5 billion in forward-starting receive-fixed swaps with a receive rate of 3.7 percent, a weighted-average start date in 2028, and a weighted-average maturity date in 2031, to hedge short-term rates in future periods. Additionally, the Company added $1.0 billion in interest rate options with a weighted-average cap rate of 4.8 percent, a weighted-average floor rate of 3.3 percent, a weighted-average start date in 2028, and a weighted-average maturity date in 2030, to hedge short-term rates in future periods.
+In the three months ended June 30, 2026, the Company also added $250 million in forward-starting receive-fixed swaps with a receive rate of 3.8 percent, a start date in the fourth quarter of 2026, and a 5-year maturity, to partially hedge 2026 expected fixed-rate asset turnover. Additionally, the Company terminated $1.5 billion of fixed-rate loan turnover hedges, consistent with the timing of the fixed-rate loan production the swaps were intended to hedge.
+The following table presents the average asset hedge notional amounts that are active during each of the remaining quarterly and annual periods:
+Table 21--Schedule of Notional for Asset Hedging Derivatives
+Average Active Notional Amount (1)
+Three Months Ended | Year Ended |
+6/30/2026 | 9/30/2026 | 12/31/2026 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032
+2033
+2034
+2035
+(In millions)
+Asset Hedging Relationships: |
+Receive fixed/pay variable swaps | $ | 23,525 | $ | 23,288 | $ | 23,434 | $ | 23,260 | $ | 23,228 | $ | 21,868 | $ | 18,704 | $ | 17,525 | $ | 11,670 | $ | 4,495 | $ | 1,031 | $ | 847 | $ | 397 |
+Receive variable/pay fixed swaps | 4,190 | 4,165 | 4,166 | 4,224 | 4,188 | 4,250 | 4,375 | 4,949 | 5,142 | 3,565 | 2,035 | 1,432 | 484 |
+Net receive fixed/pay variable swaps | $ | 19,335 | $ | 19,123 | $ | 19,268 | $ | 19,036 | $ | 19,040 | $ | 17,618 | $ | 14,329 | $ | 12,576 | $ | 6,528 | $ | 930 | $ | (1,004) | $ | (585) | $ | (87) |
+Interest rate options | $ | 2,000 | $ | 2,000 | $ | 2,000 | $ | 2,000 | $ | 2,000 | $ | 1,745 | $ | 1,001 | $ | 254 | $ | 250 | $ | 1 | $ | -- | $ | -- | $ | -- |
+_________
+(1)Active hedges, including forward-starting hedges, are included in the sensitivity levels disclosed in Table 19 to the extent that they fall within the measurement horizon.
+Regions manages the credit risk of these instruments in much the same way as it manages credit risk of the loan portfolios by establishing credit limits for each counterparty and through collateral agreements for dealer transactions. For non-dealer transactions, the need for collateral is evaluated on an individual transaction basis and is primarily dependent on the financial strength of the counterparty. Credit risk is also reduced significantly by entering into legally enforceable master netting agreements. When there is more than one transaction with a counterparty and there is a legally enforceable master netting agreement in place, the exposure represents the net of the gain and loss positions with and collateral received from and/or posted to that counterparty. Most hedging interest rate swap derivatives traded by Regions are subject to mandatory clearing. The counterparty risk for cleared trades effectively moves from the executing broker to the clearinghouse allowing Regions to
+71
+Table of Contents
+benefit from the risk mitigation controls in place at the respective clearinghouse. See the "Credit Risk" section in the 2025 Annual Report on Form 10-K for more information on the management of credit risk.
+Regions also uses derivatives to meet the needs of its customers. Interest rate swaps, interest rate options and foreign exchange forwards are the most common derivatives sold to customers. Other derivative instruments with similar characteristics are used to hedge market risk and minimize volatility associated with this portfolio. Instruments used to service customers are held in the trading account, with changes in value recorded in the consolidated statements of income.
+The primary objective of Regions' hedging strategies is to mitigate the impact of interest rate changes, from an economic perspective, on net interest income and other financing income and the net present value of its balance sheet. The overall effectiveness of these hedging strategies is subject to market conditions, the quality of Regions' execution, the accuracy of its valuation assumptions, counterparty credit risk and changes in interest rates.
+See Note 9 "Derivative Financial Instruments and Hedging Activities" to the consolidated financial statements for a tabular summary of Regions' year-end derivatives positions and further discussion.
+Regions accounts for residential MSRs at fair market value with any changes to fair value being recorded within mortgage income. Regions also accounts for non-DUS agency commercial MSRs at fair market value with changes to fair value recorded within capital markets income. Regions enters into derivative transactions to economically mitigate the impact of market value fluctuations related to MSRs at fair market value. Derivative instruments entered into in the future could be materially different from the current risk profile of Regions' current portfolio.
+LIQUIDITY
+Regions' goal in liquidity management is to maintain diverse liquidity sources and reserves sufficient to satisfy the cash flow requirements of depositors and borrowers, under normal and stressed conditions. See also Note 12 "Commitments, Contingencies and Guarantees" to the consolidated financial statements for additional discussion of the Company's funding requirements. Accordingly, Regions maintains a variety of liquidity sources to fund its obligations.
+Cash reserves, liquid assets and secured borrowing capabilities aid in the management of liquidity in normal and stressed conditions, and/or meeting the need of contingent events such as obligations related to potential litigation. See the "Liquidity" section in Regions' Annual Report on Form 10-K for the year ended December 31, 2025 for additional details, including operational readiness, related to funding sources.
+The following table summarizes the Company's available sources of liquidity as of June 30, 2026:
+Table 22--Liquidity Sources
+Availability as of June 30, 2026
+(Dollars in billions) |
+Cash at the Federal Reserve Bank(1)
+$ | 6.4 |
+Unencumbered investment securities(2)
+26.3 |
+FHLB borrowing availability | 9.8 |

@@ -1,0 +1,93 @@
+# MKTX 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/1278021/000119312526340249/mktx-20260630.htm
+# full_doc_chars=200073
+
+
+----- [line 3973] -----
+$
+112,985
+$
+104,787
+$
+160,052
+49
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+Market risk is the risk of the loss resulting from adverse changes in market rates and prices, such as interest rates and foreign currency exchange rates.
+Market Risk
+The global financial services business is, by its nature, risky and volatile and is directly affected by many national and international factors that are beyond our control. Any one of these factors may cause a substantial decline in the U.S. and global financial services markets, resulting in reduced trading volume and revenues. These events could have a material adverse effect on our business, financial condition and results of operations.
+As of June 30, 2026, we had $99.6 million of investments in U.S. Treasuries that were classified as trading securities and $59.5 million of investments in corporate bonds that were classified as available-for-sale. Adverse movements, such as a decrease in the value of these securities or a downturn or disruption in the markets for these securities, could result in a substantial loss. A 10.0% decrease in the market value of our U.S Treasuries or available-for-sale investments would result in losses of approximately $10.0 million and $5.9 million, respectively. In addition, principal gains and losses resulting from these securities could on occasion have a disproportionate effect, positive or negative, on our financial condition and results of operations for any particular reporting period.
+Interest Rate Risk
+Interest rate risk represents our exposure to interest rate changes with respect to our cash and cash equivalents, restricted cash and cash deposits. As of June 30, 2026, our cash and cash equivalents, restricted cash and cash deposits amounted to $419.7 million. A hypothetical 100 basis point change in interest rates would increase or decrease our annual interest income by approximately $4.2 million, assuming no change in the amount or composition of our cash and cash equivalents, restricted cash and cash deposits.
+As of June 30, 2026, a hypothetical 100 basis point increase or decrease in interest rates would decrease or increase the fair value of the available-for-sale investment portfolio by approximately $0.7 million, assuming no change in the amount or composition of the investments. The hypothetical unrealized gain or loss of $0.7 million would be recognized in accumulated other comprehensive loss on the Consolidated Statements of Financial Condition.
+A similar hypothetical 100 basis point increase or decrease in interest rates would decrease or increase the fair value of the trading securities portfolio by approximately $1.9 million. The hypothetical unrealized gain or loss of $1.9 million would be recognized in other, net in the Consolidated Statements of Operations.
+We do not maintain an inventory of bonds that are traded on our platform.
+Foreign Currency Exchange Rate Risk
+We conduct operations in several different countries outside of the U.S., most notably the U.K., and substantial portions of our revenues, expenses, assets and liabilities are generated and denominated in non-U.S. dollar currencies. Since our consolidated financial statements are presented in U.S. dollars, we must translate revenues, income and expenses, as well as assets and liabilities, into U.S. dollars at exchange rates in effect during or at the end of each reporting period. Accordingly, increases or decreases in the value of the U.S. dollar against the other currencies will affect our net operating revenues, operating expenses, operating income and the value of balance sheet items denominated in foreign currencies.
+During the twelve months ended June 30, 2026, approximately 18.5% of our revenues and 30.9% of our expenses were denominated in currencies other than the U.S. dollar, most notably the British Pound Sterling. Based on actual results over the past year, a hypothetical 10.0% increase or decrease in the U.S. dollar against all other currencies would have increased or decreased revenue by approximately $16.1 million and operating expenses by approximately $16.0 million.
+50
+Credit Risk
+Through certain of our subsidiaries, we execute securities transactions between our institutional investor and broker-dealer clients on a matched principal basis by serving as counterparty to both the buyer and the seller in trades. Our operating subsidiaries settle such transactions using their self-clearing operations or through the use of third-party clearing brokers or settlement agents. Settlement typically occurs within one to two trading days after the trade date. Cash settlement of the transaction occurs upon receipt or delivery of the underlying instrument that was traded.
+We are exposed to credit and performance risks in our role as matched principal trading counterparty to our clients executing bond trades on our platform, including the risk that counterparties that owe us money or securities will not perform their obligations. These parties may default on their obligations to us due to bankruptcy, lack of liquidity, operational failure or other reasons. Adverse movements in the prices of securities that are the subject of these transactions can increase our risk. In connection with Open Trading or other anonymous protocols, we expect that the number of transactions in which we act as a matched principal will increase.
+We have policies, procedures and automated controls in place to identify and manage our credit risk. There can be no assurance that these policies, procedures and automated controls will effectively mitigate our credit risk exposure. Some of our risk management procedures are reliant upon the evaluation of information regarding the fixed-income markets, our clients or other relevant matters that are publicly available or otherwise acquired from third-party sources. Such information may not be accurate, complete, up-to-date or properly assessed and interpreted by us. If our risk management procedures fail, our business, financial condition and results of operations may be adversely affected. Furthermore, our insurance policies are unlikely to provide coverage for such risks.
+Cash and cash equivalents include cash and money market instruments that are primarily maintained at three major global banks. Given this concentration, we are exposed to certain credit risk in relation to our deposits at these banks.
+Derivative Risk
+Our limited derivative risk stems primarily from our activities in the foreign currency forward contract market. We use this market to economically hedge our foreign exchange gains and losses on the Consolidated Statements of Operations that arise from our U.S. dollar versus British Pound Sterling exposure from the activities of our U.K. subsidiaries. As of June 30, 2026, the notional amount of our foreign currency forward contracts was $145.5 million. We also enter into interest rate swap agreements to manage our exposure to the effect of interest rate changes on our unrealized gains and losses on U.S. Treasury investments. As of June 30, 2026, we had interest rate swaps outstanding with notional value of $100.0 million. We do not hold derivative instruments for purposes other than economically hedging foreign currency and interest rate risk.
+51
+Item 4. Controls and Procedures
+(a) Evaluation of Disclosure Controls and Procedures. Our management, including the Chief Executive Officer and the Chief Financial Officer, evaluated the effectiveness of our "disclosure controls and procedures," as that term is defined in Rule 13a-15(e) and Rule 15d-15(e) promulgated under the Exchange Act, as of June 30, 2026. Based on that evaluation, the Chief Executive Officer and the Chief Financial Officer concluded that the disclosure controls and procedures are effective to ensure that information required to be disclosed by MarketAxess in the reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC's rules and forms, and to ensure that information is accumulated and communicated to our management, including the Chief Executive Officer and the Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure.
+(b) Changes in Internal Control over Financial Reporting. There were no changes in our internal control over financial reporting (as defined in Rule 13a-15(f) and Rule 15d-15(f) under the Exchange Act) during the quarter ended June 30, 2026 identified in connection with the evaluation thereof by our management, including the Chief Executive Officer and the Chief Financial Officer, that materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+52
+PART II -- Other Information
+Item 1. Legal Proceedings
+In the normal course of business, we and our subsidiaries included in the consolidated financial statements may be involved in various lawsuits, proceedings and regulatory examinations. We assess liabilities and contingencies in connection with outstanding legal proceedings, if any, utilizing the latest information available. Based on currently available information, the outcome of our outstanding matters is not expected to have a material adverse impact on our financial position. It is not presently possible to determine our ultimate exposure to these matters and there is no assurance that the resolution of the outstanding matters will not significantly exceed any reserves accrued by us. See Note 13 to the Consolidated Financial Statements for a discussion of our commitments and contingencies.
+Item 1A. Risk Factors
+Except as discussed below, there have been no material changes in our risk factors from those disclosed in our most recent Form 10-K for the year ended December 31, 2025. For a discussion of the risk factors affecting the Company, see "Risk Factors" in Part I, Item 1A of our 2025 Form 10-K.
+Risks Related to the Pending Merger
+We are subject to a number of risks and uncertainties as a result of the Merger, including the following:
+&#8226;The Merger may not be completed on the anticipated terms or timeline, or at all. The completion of the proposed Merger is subject to the satisfaction or waiver of a number of conditions, many of which are beyond our control, including receipt of required regulatory approvals (or any conditions, limitations or restrictions placed on such approvals); approval of the Merger Agreement by the affirmative vote of the holder of a majority of the outstanding shares entitled to vote thereon ("Company Stockholder Approval"); and the absence of any law or order prohibiting the transaction. There can be no assurance that these conditions will be satisfied in a timely manner or at all, or that any required regulatory approvals will not contain terms or conditions that are adverse to our business. If the Merger is not completed, we may experience negative impacts, including the diversion of management attention, potential employee attrition, substantial costs incurred in connection with the transaction (including financial advisory, legal, accounting and other professional services fees that have already been incurred or will continue to be incurred), reputational harm and negative perceptions among investors, customers and business partners, without realizing the anticipated benefits of the Merger. In addition, our stock price may decline to the extent that the current market price reflects a market assumption about the likelihood and timing of the Merger.
+&#8226;The pendency of the Merger could adversely affect our business and operations. Uncertainty about the effect of the Merger on employees, customers, suppliers and other stakeholders may have an adverse effect on our business. For example, current and prospective employees may experience uncertainty about their roles following the Merger, which could lead to attrition or difficulty in attracting and retaining key executives and other employees. Contractual restrictions under the Merger Agreement that require us to operate our business in the ordinary course and limit us from taking certain actions without Parent's consent may also limit our ability to respond to changing market conditions, pursue new opportunities or take other actions that might be beneficial to our business, which in turn could have a material adverse effect on our business, results of operations, financial condition and cash flows.
+&#8226;The Merger Agreement contains provisions that limit our ability to pursue alternatives. Under the Merger Agreement, the Company is bound by a "no-shop" provision that restricts our ability to solicit, initiate or knowingly take any action to facilitate or encourage any competing acquisition proposals. While these restrictions are subject to the Board's right, pursuant to the terms of the Merger Agreement, to engage in discussions or negotiations regarding an unsolicited acquisition proposal that is or would reasonably be expected to lead to a Superior Proposal (as defined in the Merger Agreement), these restrictions could limit our ability to pursue potentially more favorable transactions and may discourage other parties from making competing offers.
+&#8226;We may be required to pay a termination fee under certain circumstances. Upon termination of the Merger Agreement under specified circumstances, including if we terminate the Merger Agreement to enter into an alternative acquisition agreement with respect to a Superior Proposal, the Company will be required to pay to Parent a termination fee of $148.8 million. This obligation could discourage alternative transactions that might otherwise be favorable to our stockholders.
+&#8226;Litigation relating to the Merger could result in significant costs and delay completion. We may be subject to lawsuits related to the Merger Agreement and the proposed transaction. Such litigation could result in significant costs, divert management attention and delay or prevent the completion of the Merger.
+53
+&#8226;If the Merger is completed, our stockholders will forgo the opportunity to realize potential future appreciation in our stock. Upon completion of the Merger, our stockholders will receive the consideration specified in the Merger Agreement and will no longer participate in any future growth or appreciation of our business.
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+Recent Sales of Unregistered Securities
+None.
+Issuer Purchases of Equity Securities
+During the quarter ended June 30, 2026, we repurchased the following shares of common stock:
+Period
+Total Number of Shares Purchased
+Average Price Paid per Share
+Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs
+Approximate Dollar Value of Shares That May Yet Be Purchased Under the Plans or Programs
+(In thousands)
+April 2026
+651
+$
+168.45
+--
+$
+205,016
+May 2026
+144
+157.19
+--
+205,016
+June 2026
+2,205
+129.01
+--
+205,016
+Total
+3,000
+$
+138.92
+--
+During the three months ended June 30, 2026, we repurchased 3,000 shares of common stock. The repurchases included no shares repurchased in connection with our Repurchase Programs and 3,000 shares surrendered by employees to satisfy the withholding tax obligations upon the vesting of Full Value Awards and upon the exercise of stock options.
+In August 2024, our Board authorized the 2024 Repurchase Program for up to $200.0 million. In December 2025, the Board authorized the 2025 Repurchase Program for an additional $400.0 million. The Repurchase Programs do not have an expiration date. Shares repurchased under the Repurchase Programs will be held in treasury for future use. On December 9, 2025, the Company entered into the ASR with JPMorgan for $300.0 million. Final settlement of the ASR occurred on February 4, 2026. The 2024 Repurchase Program was exhausted by the ASR.
+As of June 30, 2026, we had $205.0 million of remaining capacity under the 2025 Repurchase Program.
+54
+Item 3. Defaults upon Senior Securities
+None.
+Item 4. Mine Safety Disclosures

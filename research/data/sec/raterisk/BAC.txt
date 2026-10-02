@@ -1,0 +1,1154 @@
+# BAC 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/70858/000007085826000394/bac-20260630.htm
+# full_doc_chars=725814
+
+
+----- [line 169] -----
+Consumer Portfolio Credit Risk Management
+27
+Commercial Portfolio Credit Risk Management
+32
+Non-U.S. Portfolio
+38
+Allowance for Credit Losses
+39
+Market Risk Management
+41
+Trading Risk Management
+41
+Interest Rate Risk Management for the Banking Book
+43
+Mortgage Banking Risk Management
+45
+Critical Accounting Estimates
+45
+Current Accounting Developments
+45
+Non-GAAP Reconciliations
+46
+Item 3. Quantitative and Qualitative Disclosures about Market Risk
+46
+Item 4. Controls and Procedures
+46
+1 Bank of America
+Part II. Other Information
+Item 1. Legal Proceedings
+103
+Item 1A. Risk Factors
+103
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+103
+Item 5. Other Information
+103
+Item 6. Exhibits
+104
+Signature
+104
+Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
+Bank of America Corporation (the Corporation) and its management may make certain statements that constitute "forward-looking statements" within the meaning of the Private Securities Litigation Reform Act of 1995. These statements can be identified by the fact that they do not relate strictly to historical or current facts. Forward-looking statements often use words such as "anticipates," "targets," "expects," "hopes," "estimates," "intends," "plans," "goals," "outlook," "believes," "continue" and other similar expressions or future or conditional verbs such as "will," "may," "might," "should," "would" and "could." Forward-looking statements represent the Corporation's current expectations, plans or forecasts of its or its business segments' future results, which may include, among other measures, revenue, liquidity, net interest income, other income, provision for credit losses, expenses, operating leverage, effective tax rate, efficiency ratio, capital measures, deposits and assets, as well as strategy, future business and economic conditions more generally, and other future matters. These statements are not guarantees of future results or performance and involve certain known and unknown risks, uncertainties and assumptions that are difficult to predict and are often beyond the Corporation's control. Actual outcomes and results may differ materially from those expressed in, or implied by, any of these forward-looking statements.
+You should not place undue reliance on any forward-looking statement and should consider the following uncertainties and risks, as well as the risks and uncertainties more fully discussed under Item 1A. Risk Factors of the Corporation's 2025 Annual Report on Form 10-K and in any of the Corporation's subsequent U.S. Securities and Exchange Commission (SEC) filings: the Corporation's potential judgments, orders, settlements, penalties, fines and reputational damage, which are inherently difficult to predict, resulting from pending, threatened or future litigation and regulatory inquiries, demands, requests, investigations, proceedings and enforcement actions, which the Corporation is subject to in the ordinary course of business, including matters related to our processing of unemployment benefits for California and certain other states, the features of our automatic credit card payment service, the adequacy of the Corporation's anti-money laundering and economic sanctions programs and the processing of electronic payments, including through the Zelle network, and related fraud, which are in various stages; in connection with ongoing litigation, the impact of certain changes to Visa's and Mastercard's respective card payment network rules and reductions in interchange fees for U.S.-based merchants; the possibility that the Corporation's future liabilities may be in excess of its recorded liability and estimated range of possible loss for litigation, and regulatory and government actions; the impact of U.S. and global interest rates (including the potential for fluctuations in interest rates), inflation, currency exchange rates, economic conditions, trade policies and tensions, including changes in, or the imposition of, tariffs and/or trade barriers and the economic impacts, volatility and uncertainty resulting therefrom, which may have varying effects across industries and
+geographies, and geopolitical instability; uncertainties about the financial stability and growth rates of non-U.S. jurisdictions, the risk that those jurisdictions may face difficulties servicing their sovereign debt, and related stresses on financial markets, currencies and trade, and the Corporation's exposures to such risks, including direct, indirect and operational; the impact of the interest rate, inflationary, macroeconomic, banking and regulatory environment on the Corporation's assets, business, financial condition and results of operations; the impact of adverse developments affecting the U.S. or global banking industry, including a deterioration in private credit markets, bank failures and liquidity concerns, resulting in worsening economic and market volatility, and regulatory responses thereto; the possibility that future credit losses may be higher than currently expected, including due to changes in economic assumptions, which may include unemployment rates, real estate prices, gross domestic product levels and corporate bond spreads, customer behavior, adverse developments with respect to U.S. or global economic conditions and other uncertainties, such as the impact of trade policies, supply chain disruptions, commodity prices, inflationary pressures and labor shortages on economic conditions and our business; potential losses related to the Corporation's concentration of credit risk; the Corporation's ability to achieve its expense targets (including noninterest expense) and expectations regarding revenue, net interest income, operating leverage, other income, provision for credit losses, net charge-offs, effective tax rate, loan or deposit growth or other projections and targets; variances to the underlying assumptions and judgments used in estimating banking book net interest income sensitivity; adverse changes to the Corporation's credit ratings from the major credit rating agencies; an inability to access capital markets or maintain deposits or borrowing costs; estimates of the fair value and other accounting values, subject to impairment assessments, of certain of the Corporation's assets and liabilities; the estimated or actual impact of changes in accounting standards or assumptions in applying those standards; uncertainty regarding the content, timing and impact of regulatory capital and liquidity requirements; the impact of adverse changes to total loss-absorbing capacity requirements, stress capital buffer requirements and/or global systemically important bank surcharges; the potential impact of actions of the Board of Governors of the Federal Reserve System on the Corporation's capital plans; the effect of changes in or interpretations of income tax laws and regulations, including impacts from the 2025 Budget Reconciliation Act; the impact of implementation and compliance with U.S. and international laws, regulations and regulatory interpretations, including recovery and resolution planning requirements, Federal Deposit Insurance Corporation assessments, fiduciary standards, derivatives regulations and potential changes to loss allocations between financial institutions and customers, including for losses incurred from the use of our products and services, including electronic payments and payment of checks, that were authorized by the customer but induced by fraud; the impact of failures or disruptions in or breaches of the Corporation's operations or
+Bank of America 2
+information systems, or those of various third parties, including regulators and federal and state governments, such as from cybersecurity incidents; the risks related to the development, implementation, use and management of emerging technologies, including artificial intelligence and the ability to achieve expected or potential benefits, such as increased productivity and cost savings; the risks related to the transition and physical impacts of climate change; our ability to achieve environmental goals or the impact of any changes in the Corporation's sustainability or human capital management strategy or goals; the impact of uncertain or changing political conditions, federal government shutdowns, including partial shutdowns, and uncertainty regarding the federal government's debt limit or changes in fiscal, monetary, trade or regulatory policy; the emergence of widespread health emergencies or pandemics; the impact of natural disasters, extreme weather events, military conflicts (including the Russia/Ukraine conflict, the conflicts in the Middle East, the possible expansion of such conflicts and potential geopolitical and economic consequences), civil unrest, terrorism or other geopolitical events; and other matters.
+Forward-looking statements speak only as of the date they are made, and the Corporation undertakes no obligation to update any forward-looking statement to reflect the impact of circumstances or events that arise after the date the forward-looking statement was made.
+Notes to the Consolidated Financial Statements referred to in Management's Discussion and Analysis of Financial Condition and Results of Operations (MD&A) are incorporated by reference into the MD&A. Throughout the MD&A, the Corporation uses certain acronyms and abbreviations that are defined in the Glossary.
+Executive Summary
+Business Overview
+The Corporation is a Delaware corporation, a bank holding company (BHC) and a financial holding company. When used in this report, "Bank of America," "the Corporation," "we," "us" and "our" may refer to Bank of America Corporation individually, Bank of America Corporation and its subsidiaries, or certain of Bank of America Corporation's subsidiaries or affiliates. Our principal executive offices are located in Charlotte, North Carolina. Through our various bank and nonbank subsidiaries throughout the U.S. and in international markets, we provide a diversified range of banking and nonbank financial services and products through four business segments: Consumer Banking, Global Wealth & Investment Management (GWIM), Global Banking and Global Markets, with the remaining operations
+recorded in All Other. We operate our banking activities primarily under the Bank of America, National Association (Bank of America, N.A. or BANA) charter. At June 30, 2026, the Corporation had $3.5 trillion in assets and a headcount of approximately 211,000 employees. As of June 30, 2026, we served clients through operations across the U.S., its territories and more than 35 countries and/or jurisdictions. Our retail banking footprint covers all major markets in the U.S., and we serve more than 69 million consumer and small business clients with approximately 3,500 retail financial centers, approximately 15,000 automated teller machines (ATMs), and leading digital banking platforms (www.bankofamerica.com) with approximately 50 million active users, including approximately 42 million active mobile users. We offer industry-leading support to approximately four million small business households. Our GWIM businesses, with client balances of approximately $4.9 trillion, provide tailored solutions to meet client needs through a full set of investment management, brokerage, banking, trust and retirement products. We are a global leader in corporate and investment banking and trading across a broad range of asset classes serving corporations, governments, institutions and individuals around the world.
+The Corporation's website is www.bankofamerica.com, and the Investor Relations portion of our website is https://investor.bankofamerica.com. We use our website to distribute company information, including as a means of disclosing material, non-public information and for complying with our disclosure obligations under Regulation FD. We routinely post and make accessible financial and other information regarding the Corporation on our website. Investors should monitor our website, including the Investor Relations portion, in addition to our press releases, SEC filings, public conference calls and webcasts. Notwithstanding the foregoing, the information contained on our website as referenced in this paragraph is not incorporated by reference into this Quarterly Report on Form 10-Q.
+Recent Developments
+Capital Management
+On July 23, 2026, the Corporation's Board of Directors (Board) declared a quarterly common stock dividend of $0.32 per share, an increase of 14 percent compared to the prior quarterly dividend, payable on September 25, 2026 to shareholders of record as of September 4, 2026.
+For more information on our capital resources, see Capital Management beginning on page 19.
+3 Bank of America
+Financial Highlights
+Table 1 | Summary Income Statement and Selected Financial Data |
+Three Months Ended June 30 | Six Months Ended June 30 |
+(Dollars in millions, except per share information) | 2026 | 2025 | 2026 | 2025 |
+Income statement |
+Net interest income | $ | 15,997 | $ | 14,670 | $ | 31,742 | $ | 29,113 |
+Noninterest income | 15,561 | 12,773 | 30,088 | 26,577 |
+Total revenue, net of interest expense | 31,558 | 27,443 | 61,830 | 55,690 |
+Provision for credit losses | 1,366 | 1,592 | 2,703 | 3,072 |
+Noninterest expense | 18,627 | 17,183 | 37,158 | 34,953 |
+Income before income taxes | 11,565 | 8,668 | 21,969 | 17,665 |
+Income tax expense | 2,491 | 1,498 | 4,311 | 3,135 |
+Net income | 9,074 | 7,170 | 17,658 | 14,530 |
+Preferred stock dividends and other
+326 | 291 | 755 | 697 |
+Net income applicable to common shareholders | $ | 8,748 | $ | 6,879 | $ | 16,903 | $ | 13,833 |
+Per common share information |
+Earnings | $ | 1.22 | $ | 0.91 | $ | 2.35 | $ | 1.81 |
+Diluted earnings | 1.21 | 0.90 | 2.31 | 1.79 |
+Dividends paid | 0.28 | 0.26 | 0.56 | 0.52 |
+Performance ratios |
+Return on average assets (1)
+1.03 | % | 0.84 | % | 1.01 | % | 0.86 | % |
+Return on average common shareholders' equity (1)
+12.71 | 10.12 | 12.33 | 10.24 |
+Return on average tangible common shareholders' equity (2)
+17.03 | 13.61 | 16.52 | 13.79 |
+Efficiency ratio (1)
+59.02 | 62.61 | 60.10 | 62.76 |
+June 30 2026 | December 31 2025 |
+Balance sheet |
+Total loans and leases | $ | 1,217,619 | $ | 1,185,700 |
+Total assets | 3,499,191 | 3,411,738 |
+Total deposits | 2,025,124 | 2,018,729 |
+Total liabilities | 3,198,097 | 3,108,495 |
+Total common shareholders' equity | 276,098 | 277,251 |
+Total shareholders' equity | 301,094 | 303,243 |
+(1)For definitions, see Key Metrics on page 101.
+(2)Return on average tangible common shareholders' equity is a non-GAAP financial measure. For more information and a corresponding reconciliation to the most directly comparable financial measures defined by accounting principles generally accepted in the United States of America (GAAP), see Non-GAAP Reconciliations on page 46.
+Net income was $9.1 billion and $17.7 billion, or $1.21 and $2.31 per diluted share, for the three and six months ended June 30, 2026 compared to $7.2 billion and $14.5 billion, or $0.90 and $1.79 per diluted share, for the same periods in 2025. The increase in net income was due to higher noninterest income and net interest income, as well as lower provision for credit losses, partially offset by higher noninterest expense.
+Total assets increased $87.5 billion from December 31, 2025 to $3.5 trillion primarily driven by higher securities borrowed or purchased under agreements to resell and higher customer and other receivables to support Global Markets client activity, as well as higher loans and leases due to growth in commercial loans, partially offset by lower debt securities primarily due to maturities and paydowns.
+Total liabilities increased $89.6 billion from December 31, 2025 to $3.2 trillion primarily driven by higher customer trade payables and trading account liabilities to support Global Markets client activity, as well as higher long-term debt issuances and short-term borrowings for liquidity positioning.
+Shareholders' equity decreased $2.1 billion from December 31, 2025 primarily due to returns of capital to shareholders through common stock repurchases and common and preferred stock dividends, a decrease in accumulated other comprehensive income (OCI) and a preferred stock redemption, partially offset by net income.
+Net Interest Income
+Net interest income increased $1.3 billion to $16.0 billion, and $2.6 billion to $31.7 billion for the three and six months ended June 30, 2026 compared to the same periods in 2025. Net interest yield on a fully taxable-equivalent (FTE) basis increased 14 basis points (bps) and 12 bps to 2.08 percent for both the three and six months ended June 30, 2026 compared to the same periods in 2025. The increases were primarily driven by higher net interest income related to Global Markets activity, deposit and loan growth, and fixed-asset repricing, partially offset by the impact of lower interest rates. For more information on net interest yield and FTE basis, see Supplemental Financial Data on page 6, and for more information on interest rate risk management, see Interest Rate Risk Management for the Banking Book on page 43.
+Bank of America 4
+Noninterest Income
+Table 2 | Noninterest Income |
+Three Months Ended June 30 | Six Months Ended June 30 |
+(Dollars in millions) | 2026 | 2025 | 2026 | 2025 |
+Fees and commissions: |
+Card income | $ | 1,583 | $ | 1,646 | $ | 3,076 | $ | 3,164 |
+Service charges | 1,706 | 1,615 | 3,380 | 3,176 |
+Investment and brokerage services | 5,653 | 4,780 | 11,194 | 9,593 |
+Investment banking fees | 2,138 | 1,428 | 3,979 | 2,951 |
+Total fees and commissions | 11,080 | 9,469 | 21,629 | 18,884 |
+Market making and similar activities | 4,177 | 3,153 | 7,814 | 6,737 |
+Other income (loss) | 304 | 151 | 645 | 956 |
+Total noninterest income | $ | 15,561 | $ | 12,773 | $ | 30,088 | $ | 26,577 |
+Noninterest income increased $2.8 billion to $15.6 billion and increased $3.5 billion to $30.1 billion for the three and six months ended June 30, 2026 compared to the same periods in 2025. The following highlights the significant changes.
+&#9679; Service charges increased $91 million and $204 million primarily due to higher treasury service charges.
+&#9679; Investment and brokerage services increased $873 million and $1.6 billion primarily driven by higher asset management fees reflecting higher market valuations and the impact of positive assets under management (AUM) flows, as well as higher brokerage fees due to increased transactional volume.
+&#9679; Investment banking fees increased $710 million for the three-month period due to higher debt issuance, advisory and equity issuance fees. The increase of $1.0 billion in the six-month period was driven by higher advisory, debt issuance and equity issuance fees.
+&#9679; Market making and similar activities increased $1.0 billion and $1.1 billion primarily driven by higher trading revenue in Equities, partially offset by lower income from foreign currency risk management activities.
+&#9679; Other income increased $153 million for the three-month period primarily due to relatively higher equity investment expenses recognized in the prior year related to certain tax-related equity investments placed in service during that period. The decrease of $311 million in the six-month period was primarily due to gains recorded on leveraged finance activities in the prior-year period, partially offset by relatively higher equity investment expenses recognized in the prior year related to certain tax-related equity investments placed in service during that period.
+Provision for Credit Losses
+The provision for credit losses decreased $226 million to $1.4 billion and $369 million to $2.7 billion for the three and six months ended June 30, 2026 compared to the same periods in 2025. For more information on the provision for credit losses, see Note 5 - Outstanding Loans and Leases and Allowance for Credit Losses to the Consolidated Financial Statements.
+Noninterest Expense
+Table 3 | Noninterest Expense |
+Three Months Ended June 30 | Six Months Ended June 30 |
+(Dollars in millions) | 2026 | 2025 | 2026 | 2025 |
+Compensation and benefits | $ | 10,987 | $ | 10,332 | $ | 22,321 | $ | 21,221 |
+Information processing and communications | 1,924 | 1,819 | 3,942 | 3,713 |
+Occupancy and equipment | 1,914 | 1,836 | 3,814 | 3,692 |
+Product delivery and transaction related | 1,327 | 974 | 2,453 | 1,888 |
+Professional fees | 573 | 640 | 1,156 | 1,292 |
+Marketing | 736 | 563 | 1,269 | 1,069 |
+Other general operating | 1,166 | 1,019 | 2,203 | 2,078 |
+Total noninterest expense | $ | 18,627 | $ | 17,183 | $ | 37,158 | $ | 34,953 |
+Noninterest expense increased $1.4 billion to $18.6 billion and $2.2 billion to $37.2 billion for the three and six months ended June 30, 2026 compared to the same periods in 2025. The increases were primarily driven by higher revenue-related expenses during both periods, as well as continued investments in the business, including people, marketing and technology for the three-month period, and continued investments in people, technology and marketing for the six-month period.
+5 Bank of America
+Income Tax Expense
+Table 4 | Income Tax Expense |
+Three Months Ended June 30 | Six Months Ended June 30 |
+(Dollars in millions) | 2026 | 2025 | 2026 | 2025 |
+Income before income taxes | $ | 11,565 | $ | 8,668 | $ | 21,969 | $ | 17,665 |
+Income tax expense | 2,491 | 1,498 | 4,311 | 3,135 |
+Effective tax rate
+21.5 | % | 17.3 | % | 19.6 | % | 17.7 | % |
+The effective tax rate increased for the three and six months ended June 30, 2026 compared to the same periods in 2025 driven by lower tax preference items, primarily related to lower renewable energy tax credits on certain tax-related equity investment activity and lower discrete tax benefits relative to pretax earnings.
+Supplemental Financial Data
+Non-GAAP Financial Measures
+In this Quarterly Report on Form 10-Q, we present certain non-GAAP financial measures. Non-GAAP financial measures exclude certain items or otherwise include components that differ from the most directly comparable measures calculated in accordance with GAAP. Non-GAAP financial measures are provided as additional useful information to assess our financial condition, results of operations (including period-to-period operating performance) or compliance with prospective regulatory requirements. These non-GAAP financial measures are not intended as a substitute for GAAP financial measures and may not be defined or calculated the same way as non-GAAP financial measures used by other companies.
+When presented on a consolidated basis, we view net interest income on an FTE basis as a non-GAAP financial measure. To derive the FTE basis, net interest income is adjusted to reflect tax-exempt income on an equivalent before-tax basis with a corresponding increase in income tax expense. For purposes of this calculation, we use the federal statutory tax rate of 21 percent and a representative state tax rate. Net interest yield, which measures the basis points we earn over the cost of funds, utilizes net interest income on an FTE basis. We believe that presentation of these items on an FTE basis allows for comparison of amounts from both taxable and tax-exempt sources and is consistent with industry practices.
+We may present certain key performance indicators and ratios excluding certain items (e.g., debit valuation adjustment (DVA) gains (losses)), which result in non-GAAP financial measures. We believe that the presentation of measures that exclude these items is useful because such measures provide additional information to assess the underlying operational performance and trends of our businesses and to allow better comparison of period-to-period operating performance.
+We also evaluate our business based on certain ratios that utilize tangible equity, a non-GAAP financial measure. Tangible equity represents shareholders' equity or common shareholders' equity reduced by goodwill and intangible assets (excluding mortgage servicing rights (MSRs)), net of related deferred tax liabilities ("adjusted" shareholders' equity or common shareholders' equity). These measures are used to evaluate our use of equity. In addition, profitability, relationship and investment models use both return on average tangible
+common shareholders' equity and return on average tangible shareholders' equity as key measures to support our overall growth objectives. These ratios are:
+&#9679; Return on average tangible common shareholders' equity measures our net income applicable to common shareholders as a percentage of adjusted average common shareholders' equity. The tangible common equity ratio represents adjusted ending common shareholders' equity divided by total tangible assets.
+&#9679; Return on average tangible shareholders' equity measures our net income as a percentage of adjusted average total shareholders' equity. The tangible equity ratio represents adjusted ending shareholders' equity divided by total tangible assets.
+&#9679; Tangible book value per common share represents adjusted ending common shareholders' equity divided by ending common shares outstanding.
+We believe ratios utilizing tangible equity provide additional useful information because they present measures of those assets that can generate income. Tangible book value per common share provides additional useful information about the level of tangible assets in relation to outstanding shares of common stock.
+The aforementioned supplemental data and performance measures are presented in Table 5 on page 7.
+For more information on the reconciliation of these non-GAAP financial measures to the corresponding GAAP financial measures, see Non-GAAP Reconciliations on page 46.
+Key Performance Indicators
+
+----- [line 474] -----
+Long-term debt | 256,197 | 3,100 | 4.85 | 249,104 | 3,411 | 5.49 |
+Total interest-bearing liabilities | 2,384,816 | 17,835 | 3.00 | 2,360,525 | 20,203 | 3.43 |
+Noninterest-bearing sources |
+Noninterest-bearing deposits | 533,251 | 513,808 |
+Other liabilities (4)
+312,517 | 260,618 |
+Shareholders' equity | 300,984 | 295,329 |
+Total liabilities and shareholders' equity | $ | 3,531,568 | $ | 3,430,280 |
+Net interest spread | 1.39 | % | 1.17 | % |
+Impact of noninterest-bearing sources | 0.69 | 0.77 |
+Net interest income/yield on earning assets (5)
+$ | 16,160 | 2.08 | % | $ | 14,815 | 1.94 | % |
+(1)Includes the impact of interest rate risk management contracts. For more information, see Interest Rate Risk Management for the Banking Book on page 43.
+(2)Nonperforming loans are included in the respective average loan balances. Income on these nonperforming loans is generally recognized on a cost recovery basis.
+(3)Includes U.S. commercial real estate loans of $65.0 billion and $59.9 billion, and non-U.S. commercial real estate loans of $5.3 billion and $5.9 billion for the second quarter of 2026 and 2025.
+(4)Includes $84.6 billion and $58.8 billion of structured notes and liabilities for the second quarter of 2026 and 2025.
+(5)Net interest income includes FTE adjustments of $163 million and $145 million for the second quarter of 2026 and 2025.
+Bank of America 8
+Table 7 | Year-to-Date Average Balances and Interest Rates - FTE Basis |
+Average
+Balance | Interest
+Income/
+Expense (1)
+Yield/
+Rate | Average
+Balance | Interest
+Income/
+Expense (1)
+Yield/
+Rate |
+Six Months Ended June 30 |
+(Dollars in millions) | 2026 | 2025 |
+Earning assets |
+Interest-bearing deposits with the Federal Reserve, non-U.S. central
+banks and other banks
+$ | 249,443 | $ | 4,302 | 3.48 | % | $ | 273,433 | $ | 5,653 | 4.17 | % |
+Time deposits placed and other short-term investments | 11,158 | 170 | 3.07 | 9,806 | 181 | 3.72 |
+Federal funds sold and securities borrowed or purchased under
+agreements to resell
+359,867 | 8,042 | 4.51 | 337,758 | 7,868 | 4.70 |
+Trading account assets | 249,355 | 6,329 | 5.12 | 232,867 | 6,115 | 5.29 |
+Debt securities | 897,762 | 12,358 | 2.76 | 928,432 | 13,718 | 2.96 |
+Loans and leases (2)
+Residential mortgage | 236,138 | 4,190 | 3.55 | 231,902 | 3,947 | 3.41 |
+Home equity | 26,992 | 722 | 5.39 | 26,020 | 745 | 5.77 |
+Credit card | 103,365 | 5,616 | 10.96 | 100,092 | 5,684 | 11.45 |
+Direct/Indirect and other consumer | 115,318 | 2,937 | 5.14 | 107,907 | 2,916 | 5.45 |
+Total consumer | 481,813 | 13,465 | 5.62 | 465,921 | 13,292 | 5.74 |
+U.S. commercial | 474,349 | 11,810 | 5.02 | 419,530 | 11,136 | 5.35 |
+Non-U.S. commercial | 161,309 | 3,791 | 4.74 | 143,977 | 4,074 | 5.71 |
+Commercial real estate (3)
+69,558 | 1,948 | 5.65 | 65,800 | 2,043 | 6.26 |
+Commercial lease financing | 16,069 | 433 | 5.41 | 15,963 | 429 | 5.40 |
+Total commercial | 721,285 | 17,982 | 5.03 | 645,270 | 17,682 | 5.52 |
+Total loans and leases | 1,203,098 | 31,447 | 5.27 | 1,111,191 | 30,974 | 5.62 |
+Other earning assets | 132,687 | 4,868 | 7.40 | 115,268 | 4,720 | 8.26 |
+Total earning assets | 3,103,370 | 67,516 | 4.38 | 3,008,755 | 69,229 | 4.63 |
+Cash and due from banks | 26,269 | 24,244 |
+Other assets, less allowance for loan and lease losses | 392,443 | 356,871 |
+Total assets | $ | 3,522,082 | $ | 3,389,870 |
+Interest-bearing liabilities |
+U.S. interest-bearing deposits |
+Demand and money market deposits | $ | 1,109,271 | $ | 9,982 | 1.81 | % | $ | 1,073,674 | $ | 11,266 | 2.12 | % |
+Time and savings deposits | 252,985 | 3,350 | 2.67 | 260,977 | 4,116 | 3.18 |
+Total U.S. interest-bearing deposits | 1,362,256 | 13,332 | 1.97 | 1,334,651 | 15,382 | 2.32 |
+Non-U.S. interest-bearing deposits | 127,886 | 1,341 | 2.11 | 119,341 | 1,931 | 3.26 |
+Total interest-bearing deposits | 1,490,142 | 14,673 | 1.99 | 1,453,992 | 17,313 | 2.40 |
+Federal funds purchased and securities loaned or sold under agreements to repurchase
+368,642 | 8,422 | 4.61 | 399,955 | 9,575 | 4.83 |
+Short-term borrowings and other interest-bearing liabilities | 213,526 | 4,695 | 4.43 | 171,681 | 4,823 | 5.66 |
+Trading account liabilities | 54,988 | 1,501 | 5.51 | 53,741 | 1,383 | 5.19 |
+Long-term debt | 255,103 | 6,158 | 4.85 | 245,092 | 6,732 | 5.52 |
+Total interest-bearing liabilities | 2,382,401 | 35,449 | 3.00 | 2,324,461 | 39,826 | 3.45 |
+Noninterest-bearing sources |
+Noninterest-bearing deposits | 529,813 | 512,097 |
+Other liabilities (4)
+308,130 | 258,551 |
+Shareholders' equity | 301,738 | 294,761 |
+Total liabilities and shareholders' equity | $ | 3,522,082 | $ | 3,389,870 |
+Net interest spread | 1.38 | % | 1.18 | % |
+Impact of noninterest-bearing sources | 0.70 | 0.78 |
+Net interest income/yield on earning assets (5)
+$ | 32,067 | 2.08 | % | $ | 29,403 | 1.96 | % |
+(1)Includes the impact of interest rate risk management contracts. For more information, see Interest Rate Risk Management for the Banking Book on page 43.
+(2)Nonperforming loans are included in the respective average loan balances. Income on these nonperforming loans is generally recognized on a cost recovery basis.
+(3)Includes U.S. commercial real estate loans of $64.0 billion and $59.9 billion, and non-U.S. commercial real estate loans of $5.5 billion and $5.9 billion for the six months ended June 30, 2026 and 2025.
+(4)Includes $81.0 billion and $56.3 billion of structured notes and liabilities for the six months ended June 30, 2026 and 2025.
+(5)Net interest income includes FTE adjustments of $325 million and $290 million for the six months ended June 30, 2026 and 2025.
+9 Bank of America
+Business Segment Operations
+Segment Description and Basis of Presentation
+We report our results of operations through four business segments: Consumer Banking, GWIM, Global Banking and Global Markets, with the remaining operations recorded in All Other. We manage our segments and report their results on an FTE basis. For more information, see Business Segment Operations in the MD&A of the Corporation's 2025 Annual Report on Form 10-K.
+We periodically review capital allocated to our businesses and allocate capital annually during the strategic and capital planning processes. We utilize a methodology that considers the effect of regulatory capital requirements in addition to internal risk-based capital models. The capital allocated to the business segments is referred to as allocated capital. Allocated equity in the reporting units is comprised of allocated capital plus capital
+for the portion of goodwill and intangibles specifically assigned to the reporting unit. For more information, including the definition of a reporting unit, see Note 7 - Goodwill and Intangible Assets to the Consolidated Financial Statements.
+For more information on our presentation of financial information on an FTE basis, see Supplemental Financial Data on page 6, and for reconciliations to consolidated total revenue, net income and period--end total assets, see Note 17 - Business Segment Information to the Consolidated Financial Statements.
+Key Performance Indicators
+We present certain key financial and nonfinancial performance indicators that management uses when evaluating segment results. We believe they are useful to investors because they provide additional information about our segments' operational performance, client trends and business growth.
+Consumer Banking
+Three Months Ended June 30 | Six Months Ended June 30 |
+(Dollars in millions) | 2026 | 2025 | % Change | 2026 | 2025 | % Change |
+Net interest income | $ | 9,206 | $ | 8,726 | 6 | % | $ | 18,199 | $ | 17,231 | 6 | % |
+Noninterest income: |
+Card income | 1,346 | 1,415 | (5) | 2,619 | 2,712 | (3) |
+Service charges | 639 | 627 | 2 | 1,277 | 1,245 | 3 |
+All other income | 145 | 45 | n/m | 290 | 118 | 146 |
+Total noninterest income | 2,130 | 2,087 | 2 | 4,186 | 4,075 | 3 |
+Total revenue, net of interest expense
+11,336 | 10,813 | 5 | 22,385 | 21,306 | 5 |
+Provision for credit losses | 1,160 | 1,282 | (10) | 2,292 | 2,574 | (11) |
+Noninterest expense | 5,801 | 5,567 | 4 | 11,638 | 11,393 | 2 |
+Income before income taxes | 4,375 | 3,964 | 10 | 8,455 | 7,339 | 15 |
+Income tax expense | 1,094 | 991 | 10 | 2,114 | 1,835 | 15 |
+Net income | $ | 3,281 | $ | 2,973 | 10 | $ | 6,341 | $ | 5,504 | 15 |
+Effective tax rate
+25.0 | % | 25.0 | % | 25.0 | % | 25.0 | % |
+Net interest yield | 3.68 | 3.51 | 3.67 | 3.49 |
+Efficiency ratio | 51.18 | 51.48 | 51.99 | 53.48 |
+Return on average allocated capital | 29 | 27 | 28 | 25 |
+Balance Sheet |
+Three Months Ended June 30 | Six Months Ended June 30 |
+Average | 2026 | 2025 | % Change | 2026 | 2025 | % Change |
+Total loans and leases | $ | 321,056 | $ | 319,142 | 1 | % | $ | 321,607 | $ | 317,101 | 1 | % |
+Total earning assets
+1,002,799 | 996,193 | 1 | 999,632 | 994,233 | 1 |
+Total assets
+1,041,292 | 1,033,776 | 1 | 1,038,000 | 1,031,560 | 1 |
+Total deposits | 956,957 | 951,986 | 1 | 953,900 | 949,780 | -- |
+Allocated capital | 45,500 | 44,000 | 3 | 45,500 | 44,000 | 3 |
+Period end | June 30
+2026 | December 31
+2025 | % Change |
+Total loans and leases | $ | 322,271 | $ | 325,871 | (1) | % |
+Total earning assets
+999,457 | 998,969 | -- |
+Total assets
+1,039,051 | 1,039,346 | -- |
+Total deposits | 953,195 | 956,265 | -- |
+n/m = not meaningful
+Consumer Banking offers a diversified range of lending, deposit and investment products and services to consumers and small businesses. For more information about Consumer Banking, see Business Segment Operations in the MD&A of the Corporation's 2025 Annual Report on Form 10-K.
+Consumer Banking Results
+Three-Month Comparison
+Net income for Consumer Banking increased $308 million to $3.3 billion due to higher revenue and lower provision for credit
+losses, partially offset by higher noninterest expense. Net interest income increased $480 million to $9.2 billion primarily driven by higher deposit spreads, as well as loan and deposit balances. Noninterest income was $2.1 billion, relatively unchanged from the same period a year ago.
+
+----- [line 1226] -----
+Other debt |
+Structured liabilities | 4,727 | 12,671 | 7,000 | 4,931 | 4,997 | 29,993 | 64,319 |
+Nonbank VIEs (2)
+-- | -- | -- | -- | 2 | 179 | 181 |
+Total other debt | 4,727 | 12,671 | 7,000 | 4,931 | 4,999 | 30,172 | 64,500 |
+Total | $ | 20,282 | $ | 51,191 | $ | 41,192 | $ | 35,188 | $ | 18,667 | $ | 173,343 | $ | 339,863 |
+(1)Total includes $176.9 billion of outstanding senior notes that are both TLAC eligible and callable one year before their stated maturities, including $11.7 billion during the remainder of 2026, and $27.1 billion, $27.8 billion, $12.0 billion and $21.4 billion during each year of 2027 through 2030, respectively, and $76.9 billion thereafter. For more information on our TLAC eligible and callable outstanding notes, see Liquidity Risk - Diversified Funding Sources in the MD&A of the Corporation's 2025 Annual Report on Form 10-K.
+(2)Represents liabilities of consolidated variable interest entities (VIEs) included in long-term debt on the Consolidated Balance Sheet.
+Total long-term debt increased $22.0 billion to $339.9 billion during the six months ended June 30, 2026 primarily due to debt issuances, partially offset by maturities and valuation adjustments. We may, from time to time, repurchase outstanding debt instruments in various transactions, depending on market conditions, liquidity and other factors. Our other regulated entities may also make markets in our debt instruments to provide liquidity for investors.
+During the six months ended June 30, 2026, we issued $31.4 billion of structured notes, which are debt obligations that pay investors returns linked to other debt or equity securities, indices, currencies or commodities. These structured notes are typically issued to meet client demand, and notes with certain attributes may also be TLAC eligible. We typically use derivatives and/or investments to economically hedge the variable returns due on the structured notes so that the net cost, which is recognized in market making and similar activities, is similar to unsecured long-term debt. We could be required to settle certain structured note obligations for cash or other securities prior to maturity under certain circumstances, which we consider for liquidity planning purposes. We believe, however, that a portion of such borrowings will remain outstanding beyond the earliest put or redemption date.
+Substantially all of our senior and subordinated debt obligations contain no provisions that could trigger a requirement for an early repayment, require additional collateral support, result in changes to terms, accelerate maturity or create additional financial obligations upon an adverse change in our credit ratings, financial ratios, earnings, cash flows or stock price. For more information on long-term debt funding,
+including issuances and maturities and redemptions, see Note 11 - Long-term Debt to the Consolidated Financial Statements of the Corporation's 2025 Annual Report on Form 10-K.
+We use derivative transactions to manage the duration, interest rate and currency risks of our borrowings, considering the characteristics of the assets they are funding. For more information on our ALM activities, see Interest Rate Risk Management for the Banking Book on page 43.
+Credit Ratings
+Credit ratings and outlooks are opinions expressed by rating agencies on our creditworthiness and that of our obligations or securities, including long-term debt, short-term borrowings, preferred stock and other securities, including asset securitizations. Table 16 presents the Corporation's current long-term/short-term senior debt ratings and outlooks expressed by the rating agencies.
+The ratings and outlooks from Moody's Investors Service, Standard & Poor's Global Ratings and Fitch Ratings for the Corporation and its subsidiaries have not changed from those disclosed in the Corporation's 2025 Annual Report on Form 10-K.
+For more information on additional collateral and termination payments that could be required in connection with certain over-the-counter derivative contracts and other trading agreements in the event of a credit rating downgrade, see Note 3 - Derivatives to the Consolidated Financial Statements herein and Item 1A. Risk Factors of the Corporation's 2025 Annual Report on Form 10-K.
+Bank of America 26
+Table 16 | Senior Debt Ratings |
+Moody's Investors Service | Standard & Poor's Global Ratings | Fitch Ratings |
+Long-term | Short-term | Outlook | Long-term | Short-term | Outlook | Long-term | Short-term | Outlook |
+Bank of America Corporation | A1 | P-1 | Stable | A- | A-2 | Stable | AA- | F1+ | Stable |
+Bank of America, N.A. | Aa2 | P-1 | Stable | A+ | A-1 | Stable | AA | F1+ | Stable |
+Bank of America Europe Designated Activity Company | NR | NR | NR | A+ | A-1 | Stable | AA | F1+ | Stable |
+Merrill Lynch, Pierce, Fenner & Smith Incorporated | NR | NR | NR | A+ | A-1 | Stable | AA | F1+ | Stable |
+BofA Securities, Inc. | NR | NR | NR | A+ | A-1 | Stable | AA | F1+ | Stable |
+Merrill Lynch International | NR | NR | NR | A+ | A-1 | Stable | AA | F1+ | Stable |
+BofA Securities Europe SA | NR | NR | NR | A+ | A-1 | Stable | AA | F1+ | Stable |
+NR = not rated
+Finance Subsidiary Issuers and Parent Guarantor
+BofA Finance LLC, a Delaware limited liability company (BofA Finance), is a consolidated finance subsidiary of the Corporation that has issued and sold, and is expected to continue to issue and sell, its senior unsecured debt securities (Guaranteed Notes) that are fully and unconditionally guaranteed by the Corporation. The Corporation guarantees the due and punctual payment, on demand, of amounts payable on the Guaranteed Notes if not paid by BofA Finance. In addition, each of BAC Capital Trust XIII, BAC Capital Trust XIV and BAC Capital Trust XV, Delaware statutory trusts (collectively, the Trusts) is a 100 percent owned finance subsidiary of the Corporation that has issued and sold trust preferred securities (the Trust Preferred Securities) or capital securities (the Capital Securities and, together with the Guaranteed Notes and the Trust Preferred Securities, the Guaranteed Securities), as applicable, that remained outstanding at June 30, 2026. The Corporation has fully and unconditionally guaranteed (or effectively provided for the full and unconditional guarantee of) all such securities issued by such finance subsidiaries. For more information regarding such guarantees by the Corporation, see Liquidity Risk - Finance Subsidiary Issuers and Parent Guarantor in the MD&A of the Corporation's 2025 Annual Report on Form 10-K.
+Representations and Warranties Obligations
+For information on representations and warranties obligations in connection with the sale of mortgage loans, see Note 12 - Commitments and Contingencies to the Consolidated Financial Statements of the Corporation's 2025 Annual Report on Form 10-K.
+Credit Risk Management
+For information on our credit risk management activities, see the following: Consumer Portfolio Credit Risk Management on page 27, Commercial Portfolio Credit Risk Management on page 32, Non-U.S. Portfolio on page 38, Allowance for Credit Losses on page 39, Note 5 - Outstanding Loans and Leases and Allowance for Credit Losses to the Consolidated Financial Statements, and Credit Risk Management in the MD&A of the Corporation's 2025 Annual Report on Form 10-K. For more information on the Corporation's credit risks, see the Credit section within Item 1A. Risk Factors of the Corporation's 2025 Annual Report on Form 10-K. For more information on the Corporation's economic and geopolitical risks, see the Geopolitical section within Item 1A. Risk Factors of the Corporation's 2025 Annual Report on Form 10-K.
+During the six months ended June 30, 2026, our net charge-off ratio decreased compared to the same period in 2025 primarily driven by lower commercial real estate office charge-offs. Commercial reservable criticized exposure decreased $2.7
+billion compared to December 31, 2025 driven by commercial real estate as well as the commercial and industrial portfolio. Nonperforming loans remained relatively unchanged compared to December 31, 2025 at $5.8 billion. Uncertainties surrounding geopolitical tensions, particularly related to the ongoing conflicts in the Middle East, and persistent inflationary pressures continue to weigh on the broader economic outlook. These factors have been assessed for any impacts to the portfolio and may contribute to future deterioration in credit quality metrics as they evolve.
+Consumer Portfolio Credit Risk Management
+Credit risk management for the consumer portfolio begins with initial underwriting and continues throughout a borrower's credit cycle. Statistical techniques in conjunction with experiential judgment are used in all aspects of portfolio management including underwriting, product pricing, risk appetite, setting credit limits, and establishing operating processes and metrics to quantify and balance risks and returns. Statistical models are built using detailed behavioral information from external sources, such as credit bureaus, and/or internal historical experience and are a component of our consumer credit risk management process. These models are used in part to assist in making both new and ongoing credit decisions as well as portfolio management strategies, including authorizations and line management, collection practices and strategies, and determination of the allowance for loan and lease losses and allocated capital for credit risk.
+Consumer Credit Portfolio
+During the six months ended June 30, 2026, the U.S. unemployment rate and home prices remained relatively stable. During the three months ended June 30, 2026, net charge-offs remained relatively unchanged at $1.0 billion compared to the same period in 2025. During the six months ended June 30, 2026, net charge-offs decreased $79 million to $2.1 billion compared to the same period in 2025, primarily due to improvement in the credit card portfolio.
+The consumer allowance for loan and lease losses decreased $134 million to $8.2 billion from December 31, 2025. For more information, see Allowance for Credit Losses on page 39.
+For more information on our accounting policies regarding delinquencies, nonperforming status, charge-offs and loan modifications for the consumer portfolio, see Note 1 - Summary of Significant Accounting Principles to the Consolidated Financial Statements of the Corporation's 2025 Annual Report on Form 10-K and Note 5 - Outstanding Loans and Leases and Allowance for Credit Losses to the Consolidated Financial Statements.
+27 Bank of America
+Table 17 presents our outstanding consumer loans and leases, consumer nonperforming loans and accruing consumer loans past due 90 days or more.
+Table 17 | Consumer Credit Quality |
+Outstandings | Nonperforming | Accruing Past Due
+90 Days or More |
+(Dollars in millions) | June 30
+2026 | December 31
+2025 | June 30
+2026 | December 31
+2025 | June 30
+2026 | December 31
+2025 |
+Residential mortgage (1)
+$ | 236,316 | $ | 236,302 | $ | 2,049 | $ | 2,008 | $ | 219 | $ | 207 |
+Home equity | 27,114 | 26,823 | 371 | 392 | -- | -- |
+Credit card | 105,659 | 106,027 | n/a | n/a | 1,241 | 1,351 |
+Direct/Indirect consumer (2)
+118,327 | 114,130 | 170 | 176 | 1 | 5 |
+Other consumer | 182 | 144 | -- | -- | -- | -- |
+Consumer loans excluding loans accounted for under the fair value option
+$ | 487,598 | $ | 483,426 | $ | 2,590 | $ | 2,576 | $ | 1,461 | $ | 1,563 |
+Loans accounted for under the fair value option (3)
+159 | 165 |
+Total consumer loans and leases | $ | 487,757 | $ | 483,591 |
+Percentage of outstanding consumer loans and leases (4)
+n/a | n/a | 0.53 | % | 0.53 | % | 0.30 | % | 0.32 | % |
+Percentage of outstanding consumer loans and leases, excluding fully-insured loan portfolios (4)
+n/a | n/a | 0.54 | 0.54 | 0.26 | 0.29 |
+(1)Residential mortgage loans accruing past due 90 days or more are fully-insured loans. At June 30, 2026 and December 31, 2025, residential mortgage included $119 million and $104 million of loans on which interest had been curtailed by the Federal Housing Administration (FHA), and therefore were no longer accruing interest, although principal was still insured, and $100 million and $103 million of loans on which interest was still accruing.
+
+----- [line 1969] -----
+Total fair value option portfolio | 11 | 6 | 13 | 7 | 12 | 6 |
+Portfolio diversification | (8) | (5) | (8) | (5) | (7) | (3) |
+Total market-based portfolio | $ | 52 | $ | 24 | $ | 52 | $ | 25 | $ | 89 | $ | 38 |
+Backtesting
+The accuracy of the VaR methodology is evaluated by backtesting, which compares the daily VaR results, utilizing a one-day holding period, against a comparable subset of trading revenue. For more information on our backtesting process, see Trading Risk Management - Backtesting in the MD&A of the Corporation's 2025 Annual Report on Form 10-K.
+During the three months ended June 30, 2026, there was one day where this subset of trading revenue had losses that exceeded our total covered portfolio VaR, utilizing a one-day holding period. During the six months ended June 30, 2026, there were three days with losses that exceeded our total covered portfolio VaR.
+Bank of America 42
+Total Trading-related Revenue
+Total trading-related revenue, excluding brokerage fees, and CVA, DVA and funding valuation adjustment gains (losses), represents the total amount earned from trading positions, including net interest income associated with Global Markets trading activities, which are taken in a diverse range of financial instruments and markets. For more information, see Trading Risk Management - Total Trading-related Revenue in the MD&A of the Corporation's 2025 Annual Report on Form 10-K.
+The following histogram is a graphic depiction of trading volatility and illustrates the daily level of trading-related revenue for the three months ended June 30, 2026 compared to the three months ended March 31, 2026. During the three months ended June 30, 2026, positive trading-related revenue was recorded for 100 percent of the trading days, of which 98 percent were daily trading gains of over $25 million. This compares to the three months ended March 31, 2026 where positive trading-related revenue was recorded for 100 percent of the trading days, of which 97 percent were daily trading gains of over $25 million.
+Trading Portfolio Stress Testing
+Because the very nature of a VaR model suggests results can exceed our estimates and it is dependent on a limited historical window, we also stress test our portfolio using scenario analysis. This analysis estimates the change in the value of our trading portfolio that may result from abnormal market movements. For more information, see Trading Risk Management - Trading Portfolio Stress Testing in the MD&A of the Corporation's 2025 Annual Report on Form 10-K.
+Interest Rate Risk Management for the Banking Book
+The following discussion presents net interest income for banking book activities. For more information, see Interest Rate Risk Management for the Banking Book in the MD&A of the Corporation's 2025 Annual Report on Form 10-K.
+Table 40 presents the spot and 12-month forward rates used in developing the forward curve used in our baseline forecasts at June 30, 2026 and December 31, 2025.
+Table 40 | Forward Rates |
+Federal
+Funds |
+SOFR | 10-Year
+SOFR |
+June 30, 2026 |
+Spot rates | 3.75 | % | 3.68 | % | 4.05 | % |
+12-month forward rates | 4.25 | 4.06 | 4.03 |
+December 31, 2025 |
+Spot rates | 3.75 | % | 3.87 | % | 3.80 | % |
+12-month forward rates | 3.25 | 3.11 | 3.89 |
+Table 41 shows the potential pretax impact to forecasted net interest income over the next 12 months from June 30, 2026 and December 31, 2025 resulting from instantaneous parallel and non-parallel shocks to the market-based forward curve. Periodically, we evaluate the scenarios presented so that they are meaningful in the context of the current rate environment. Amounts presented reflect dynamic deposit sensitivities, which incorporate behavioral customer deposit balance changes that could occur under various scenarios. For more information, see Interest Rate Risk Management for the Banking Book in the MD&A of the Corporation's 2025 Annual Report on Form 10-K.
+43 Bank of America
+Table 41 | Estimated Banking Book Net Interest Income Sensitivity to Curve Changes |
+Short
+Rate (bps) | Long
+Rate (bps) |
+(Dollars in billions) | June 30
+2026 | December 31
+2025 |
+Parallel Shifts |
++100 bps instantaneous shift
++100 | +100 | $ | 1.0 | $ | 0.7 |
+-100 bps instantaneous shift
+-100 | -100 | (2.2) | (2.0) |
++200 bps instantaneous shift
++200 | +200 | 1.9 | 0.8 |
+-200 bps instantaneous shift
+-200 | -200 | (5.5) | (4.9) |
+Flatteners |
+Short-end instantaneous change
++100 | -- | 0.8 | 0.5 |
+Long-end instantaneous change
+-- | -100 | (0.3) | (0.3) |
+Steepeners |
+Short-end instantaneous change
+-100 | -- | (1.8) | (1.7) |
+Long-end instantaneous change
+-- | +100 | 0.2 | 0.3 |
+We continue to be asset sensitive to a parallel move in interest rates, with the majority of that impact coming from the short end of the yield curve. Additionally, higher interest rates negatively impact the fair value of our debt securities classified as available for sale and adversely affect accumulated OCI, and thus capital levels under the Basel 3 capital rules. Under instantaneous upward parallel shifts, the near-term adverse impact to Basel 3 capital would be reduced over time by offsetting positive impacts to net interest income generated from banking book activities. For more information on Basel 3, see Capital Management - Regulatory Capital on page 19.
+As part of our ALM activities, we use securities, certain residential mortgages, and interest rate and foreign exchange derivatives in managing interest rate sensitivity. The sensitivity analysis in Table 41 assumes that we take no action in response to these rate shocks and does not assume any change in other macroeconomic variables normally correlated with changes in interest rates. In higher rate scenarios, the analysis assumes that a portion of low-cost or noninterest-bearing deposits is replaced with higher yielding deposits or market-based funding. Conversely, in lower rate scenarios, the analysis assumes that a portion of higher yielding deposits or market-based funding is replaced with low-cost or noninterest-bearing deposits.
+For larger interest rate shift scenarios, the interest rate sensitivity may behave in a non-linear manner as there are numerous estimates and assumptions, which require a high degree of judgment and are often interrelated, that could impact the outcome. Pertaining to the mortgage-backed securities and residential mortgage portfolio, if long-end interest rates were to significantly decrease over the next twelve months, for example over 200 bps, there would generally be an increase in customer prepayment behaviors with an incremental reduction to net interest income, noting that the extent of changes in customer prepayment activity can be impacted by multiple factors and is not necessarily limited to long-end interest rates. Conversely, if long-end interest rates were to significantly increase over the next twelve months, for example, over 200 bps, customer prepayments would likely modestly decrease and result in an incremental increase to net interest income. In addition, deposit pricing is rate sensitive in nature. This sensitivity is assumed to have non-linear impacts to larger short-end rate movements. In decreasing interest rate scenarios, and particularly where interest rates have decreased to small amounts, the ability to further reduce rates paid is reduced as customer rates near zero. In higher short-end rate scenarios, deposit pricing will likely increase at a faster rate, leading to incremental interest expense and reducing asset sensitivity. While the impact related to the above assumptions used in the asset sensitivity analysis can provide directional analysis on how net interest income will
+be impacted in changing environments, the ultimate impact is dependent upon the interrelationship of the assumptions and factors, which vary in different macroeconomic scenarios.
+Economic Value of Equity
+In addition to interest rate sensitivity described above, the Corporation's management of its interest rate exposures in the banking book also considers a long-term view of interest rate sensitivity through the measurement of Economic Value of Equity (EVE). EVE captures changes in the net present value of banking book assets and liabilities under various interest rate scenarios and its impact to Tier 1 capital. Similar to net interest income, the Corporation establishes limits for EVE. EVE is largely driven by the Corporation's longer duration fixed-rate products, such as investment securities, residential mortgages and deposits. For assets or liabilities that have no stated maturity, such as deposits, the Corporation estimates the duration for measurement purposes.
+Interest Rate and Foreign Exchange Derivative Contracts
+We use interest rate and foreign exchange derivative contracts in our ALM activities to manage our interest rate and foreign exchange risks. Specifically, we use those derivatives to manage both the variability in cash flows and changes in fair value of various assets and liabilities arising from those risks. Our interest rate derivative contracts are generally non-leveraged swaps tied to various benchmark interest rates and foreign exchange basis swaps, options, futures and forwards, and our foreign exchange contracts include cross-currency interest rate swaps, foreign currency futures contracts, foreign currency forward contracts and options.
+The derivatives used in our ALM activities can be split into two broad categories: designated accounting hedges and other risk management derivatives. Designated accounting hedges are primarily used to manage our exposure to interest rates as described in the Interest Rate Risk Management for the Banking Book section and are included in the sensitivities presented in Table 41. The Corporation also uses foreign currency derivatives in accounting hedges to manage substantially all of the foreign exchange risk of our foreign operations. By hedging the foreign exchange risk of our foreign operations, the Corporation's market risk exposure in this area is not significant.
+Risk management derivatives are predominantly used to hedge foreign exchange risks related to various foreign currency-denominated assets and liabilities and eliminate substantially all foreign currency exposures in the cash flows of the Corporation's non-trading foreign currency-denominated financial instruments. These foreign exchange derivatives are sensitive to other market risk exposures such as cross-currency basis
+Bank of America 44
+spreads and interest rate risk. However, as these features are not a significant component of these foreign exchange derivatives, the market risk related to this exposure is not significant. For more information on the accounting for derivatives, see Note 3 - Derivatives to the Consolidated Financial Statements.
+Mortgage Banking Risk Management
+We originate, fund and service mortgage loans, which subject us to credit, liquidity and interest rate risks, among others. We determine whether loans will be held for investment or held for sale at the time of commitment and manage credit and liquidity risks by selling or securitizing a portion of the loans we originate.
+Changes in interest rates impact the value of interest rate lock commitments (IRLCs) and the related residential first mortgage loans held-for-sale (LHFS), as well as the value of the MSRs. Because the interest rate risks of these hedged items offset, we combine them into one overall hedged item with one combined economic hedge portfolio consisting of derivative contracts and securities. For more information on IRLCs and the related residential mortgage LHFS, see Mortgage Banking Risk Management in the MD&A of the Corporation's 2025 Annual Report on Form 10-K.
+Critical Accounting Estimates
+Our significant accounting principles are essential in understanding the MD&A. Many of our significant accounting principles require complex judgments to estimate the values of assets and liabilities. We have procedures and processes in place to facilitate making these judgments. For more information, see Critical Accounting Estimates in the MD&A of the Corporation's 2025 Annual Report on Form 10-K and Note 1 - Summary of Significant Accounting Principles to the Consolidated Financial Statements of the Corporation's 2025 Annual Report on Form 10-K.
+Goodwill and Intangible Assets
+The nature of and accounting for goodwill and intangible assets are discussed in Note 1 - Summary of Significant Accounting Principles to the Consolidated Financial Statements of the Corporation's 2025 Annual Report on Form 10-K and Note 7 - Goodwill and Intangible Assets to the Consolidated Financial Statements. As of June 30, 2026, goodwill recorded on our consolidated balance sheet was as follows.
+Table 42 | Goodwill by Reporting Segment |
+(Dollars in millions) | June 30
+2026 | December 31
+2025 |
+Consumer Banking | $ | 30,137 | $ | 30,137 |
+Global Wealth and Investment Management | 9,677 | 9,677 |
+Global Banking | 24,026 | 24,026 |
+Global Markets | 5,181 | 5,181 |
+Total | $ | 69,021 | $ | 69,021 |
+We completed our annual goodwill impairment test as of June 30, 2026 using a qualitative assessment. In performing the assessment, we considered various factors, including macroeconomic conditions and outlook, industry and market considerations, financial performance and other relevant reporting unit-specific factors. Based on this evaluation, we concluded that it was not more likely than not that the fair value of any reporting unit was less than its carrying value. Accordingly, no reporting unit was considered at risk of impairment, and no further testing was required.
+Current Accounting Developments
+Accounting Standard Issued but Not Yet Adopted
+Accounting for Internal&#8209;Use Software Costs
+The Financial Accounting Standards Board issued updated guidance on the accounting for internal&#8209;use software, providing targeted improvements to the capitalization of costs incurred in the internal development of software. The amendments update existing guidance by eliminating the consideration of software project development stages and enhancing the criteria for when capitalization begins, including establishing a "probable to complete" threshold. The Accounting Standards Update is effective for annual and interim reporting periods beginning after December 15, 2027, with early adoption permitted. The Corporation is currently evaluating the impact of and its approach to adopting this guidance; however, adoption is not expected to have a material impact on its Consolidated Financial Statements.
+45 Bank of America
+Non-GAAP Reconciliations
+Table 43 provides reconciliations of certain non-GAAP financial measures to the most directly comparable GAAP financial measures.
+Table 43 | Average and Period-end Supplemental Financial Data and Reconciliations to GAAP Financial Measures (1)
+Six Months Ended
+June 30 |
+2026 Quarters | 2025 Quarters |
+(Dollars in millions) | Second | First | Fourth | Third | Second | 2026 | 2025 |
+Reconciliation of average shareholders' equity to
+average tangible shareholders' equity and average
+tangible common shareholders' equity
+Shareholders' equity | $ | 300,984 | $ | 302,501 | $ | 303,873 | $ | 300,381 | $ | 295,329 | $ | 301,738 | $ | 294,761 |
+Goodwill | (69,021) | (69,021) | (69,021) | (69,021) | (69,021) | (69,021) | (69,021) |
+Intangible assets (excluding MSRs) | (1,815) | (1,834) | (1,853) | (1,873) | (1,893) | (1,824) | (1,902) |
+Related deferred tax liabilities | 820 | 825 | 827 | 839 | 846 | 823 | 848 |
+Tangible shareholders' equity | $ | 230,968 | $ | 232,471 | $ | 233,826 | $ | 230,326 | $ | 225,261 | $ | 231,716 | $ | 224,686 |
+Preferred stock | (24,996) | (25,748) | (25,992) | (25,232) | (22,573) | (25,370) | (22,440) |
+Tangible common shareholders' equity | $ | 205,972 | $ | 206,723 | $ | 207,834 | $ | 205,094 | $ | 202,688 | $ | 206,346 | $ | 202,246 |
+Reconciliation of period-end shareholders' equity to
+period-end tangible shareholders' equity and period-
+end tangible common shareholders' equity
+Shareholders' equity | $ | 301,094 | $ | 300,668 | $ | 303,243 | $ | 302,437 | $ | 298,021 |
+Goodwill | (69,021) | (69,021) | (69,021) | (69,021) | (69,021) |
+Intangible assets (excluding MSRs) | (1,803) | (1,821) | (1,841) | (1,860) | (1,880) |
+Related deferred tax liabilities | 816 | 821 | 825 | 828 | 842 |
+Tangible shareholders' equity | $ | 231,086 | $ | 230,647 | $ | 233,206 | $ | 232,384 | $ | 227,962 |
+Preferred stock | (24,996) | (24,996) | (25,992) | (25,992) | (23,495) |
+Tangible common shareholders' equity | $ | 206,090 | $ | 205,651 | $ | 207,214 | $ | 206,392 | $ | 204,467 |
+Reconciliation of period-end assets to period-end
+tangible assets
+Assets | $ | 3,499,191 | $ | 3,496,186 | $ | 3,411,738 | $ | 3,403,149 | $ | 3,440,798 |
+Goodwill | (69,021) | (69,021) | (69,021) | (69,021) | (69,021) |
+Intangible assets (excluding MSRs) | (1,803) | (1,821) | (1,841) | (1,860) | (1,880) |
+Related deferred tax liabilities | 816 | 821 | 825 | 828 | 842 |
+Tangible assets | $ | 3,429,183 | $ | 3,426,165 | $ | 3,341,701 | $ | 3,333,096 | $ | 3,370,739 |
+(1)For more information on non-GAAP financial measures and ratios we use in assessing the results of the Corporation, see Supplemental Financial Data on page 6.
+Item 3. Quantitative and Qualitative Disclosures about Market Risk
+See Market Risk Management on page 41 in the MD&A and the sections referenced therein for Quantitative and Qualitative Disclosures about Market Risk.
+Item 4. Controls and Procedures
+Disclosure Controls and Procedures
+As of the end of the period covered by this report, the Corporation's management, including the Chief Executive Officer and Chief Financial Officer, conducted an evaluation of the effectiveness and design of the Corporation's disclosure controls and procedures (as that term is defined in Rule 13a-15(e) of the Exchange Act). Based upon that evaluation, the Corporation's Chief Executive Officer and Chief Financial Officer concluded that the Corporation's disclosure controls and procedures were effective, as of the end of the period covered by this report.
+
+----- [line 2524] -----
+Credit default swaps | 442.9 | 2.6 | -- | 2.6 | 1.5 | -- | 1.5 |
+Total return swaps/options | 103.8 | 0.5 | -- | 0.5 | 1.5 | -- | 1.5 |
+Gross derivative assets/liabilities | $ | 286.7 | $ | 5.5 | $ | 292.2 | $ | 289.1 | $ | 8.5 | $ | 297.6 |
+Less: Legally enforceable master netting agreements | (224.1) | (224.1) |
+Less: Cash collateral received/paid | (27.2) | (31.4) |
+Total derivative assets/liabilities | $ | 40.9 | $ | 42.1 |
+(1)Represents the total contract/notional amount of derivative assets and liabilities outstanding.
+(2)Includes certain out-of-the-money purchased options that have a liability amount primarily due to the deferral of option premiums to the end of the contract.
+(3)Includes certain out-of-the-money written options that have an asset amount primarily due to the deferral of option premiums to the end of the contract.
+(4)The net derivative asset (liability) and notional amount of written credit derivatives for which the Corporation held purchased credit derivatives with identical underlying referenced names were $1.0 billion and $421.3 billion, respectively, at December 31, 2025.
+Offsetting of Derivatives
+The Corporation enters into International Swaps and Derivatives Association, Inc. (ISDA) master netting agreements or similar agreements with substantially all of the Corporation's derivative counterparties. For more information, see Note 3 - Derivatives to the Consolidated Financial Statements of the Corporation's 2025 Annual Report on Form 10-K.
+The following table presents derivative instruments included in derivative assets and liabilities on the Consolidated Balance Sheet at June 30, 2026 and December 31, 2025 by primary risk (e.g., interest rate risk) and the platform, where applicable,
+on which these derivatives are transacted. Balances are presented on a gross basis, prior to the application of counterparty and cash collateral netting. Total gross derivative assets and liabilities are adjusted on an aggregate basis to take into consideration the effects of legally enforceable master netting agreements, which include reducing the balance for counterparty netting and cash collateral received or paid.
+For more information on offsetting of securities financing agreements, see Note 9 - Securities Financing Agreements, Collateral and Restricted Cash.
+Bank of America 54
+Offsetting of Derivatives (1)
+Derivative
+Assets | Derivative
+Liabilities | Derivative
+Assets | Derivative
+Liabilities |
+(Dollars in billions) | June 30, 2026 | December 31, 2025 |
+Interest rate contracts |
+Over-the-counter | $ | 103.5 | $ | 94.2 | $ | 106.2 | $ | 100.0 |
+Exchange-traded | 0.2 | 0.1 | -- | -- |
+Over-the-counter cleared | 8.3 | 7.8 | 6.3 | 5.9 |
+Foreign exchange contracts |
+Over-the-counter | 97.3 | 87.9 | 80.4 | 75.3 |
+Over-the-counter cleared | 1.9 | 2.0 | 1.2 | 1.3 |
+Equity contracts |
+Over-the-counter | 47.7 | 71.1 | 31.3 | 43.8 |
+Exchange-traded | 67.1 | 65.9 | 46.8 | 45.1 |
+Commodity contracts |
+Over-the-counter | 9.1 | 9.9 | 9.9 | 11.8 |
+Exchange-traded | 2.7 | 2.4 | 1.6 | 1.7 |
+Over-the-counter cleared | 0.2 | 0.2 | 0.3 | 0.4 |
+Credit derivatives |
+Over-the-counter | 5.4 | 9.1 | 4.9 | 7.1 |
+Total gross derivative assets/liabilities, before netting |
+Over-the-counter | 263.0 | 272.2 | 232.7 | 238.0 |
+Exchange-traded | 70.0 | 68.4 | 48.4 | 46.8 |
+Over-the-counter cleared | 10.4 | 10.0 | 7.8 | 7.6 |
+Less: Legally enforceable master netting agreements and cash collateral received/paid |
+Over-the-counter | (227.6) | (237.1) | (199.2) | (203.9) |
+Exchange-traded | (67.0) | (67.0) | (44.5) | (44.5) |
+Over-the-counter cleared | (10.1) | (9.5) | (7.6) | (7.1) |
+Derivative assets/liabilities, after netting | 38.7 | 37.0 | 37.6 | 36.9 |
+Other gross derivative assets/liabilities (2)
+6.6 | 5.6 | 3.3 | 5.2 |
+Total derivative assets/liabilities | 45.3 | 42.6 | 40.9 | 42.1 |
+Less: Financial instruments collateral (3)
+(23.5) | (19.2) | (20.5) | (16.7) |
+Total net derivative assets/liabilities | $ | 21.8 | $ | 23.4 | $ | 20.4 | $ | 25.4 |
+(1)Over-the-counter (OTC) derivatives include bilateral transactions between the Corporation and a particular counterparty. Over-the-counter cleared derivatives include bilateral transactions between the Corporation and a counterparty where the transaction is cleared through a clearinghouse. Exchange-traded derivatives include listed options transacted on an exchange.
+(2)Consists of derivatives entered into under master netting agreements where the enforceability of these agreements is uncertain under bankruptcy laws in some countries or industries.
+(3)Amounts are limited to the derivative asset/liability balance and, accordingly, do not include excess collateral received/pledged. Financial instruments collateral includes securities received or pledged and cash securities held and posted at third-party custodians that are not offset on the Consolidated Balance Sheet but shown as a reduction to derive net derivative assets and liabilities.
+Derivatives Designated as Accounting Hedges
+The Corporation uses various types of interest rate and foreign exchange derivative contracts to protect against changes in the fair value of its assets and liabilities due to fluctuations in interest rates and foreign exchange rates (fair value hedges). The Corporation also uses these types of contracts to protect against changes in the cash flows of its assets and liabilities, and other forecasted transactions (cash flow hedges). The Corporation hedges its net investment in consolidated non-U.S.
+operations determined to have functional currencies other than the U.S. dollar using forward exchange contracts and cross-currency basis swaps, and by issuing foreign currency- denominated debt (net investment hedges).
+Fair Value Hedges
+The table below summarizes information related to fair value hedges for the three and six months ended June 30, 2026 and 2025.
+Gains and Losses on Derivatives and Hedged Items Designated in Fair Value Hedges |
+Derivative
+Hedged Item
+Derivative
+Hedged Item
+(Dollars in millions) | Three Months Ended June 30, 2026 | Three Months Ended June 30, 2025 |
+Interest rate risk on long-term debt (1)
+$ | (1,216) | $ | 1,214 | $ | 1,368 | $ | (1,367) |
+Interest rate and foreign currency risk (2)
+69 | (67) | (165) | 165 |
+Interest rate risk on available-for-sale securities (3)
+1,769 | (1,782) | (1,966) | 1,934 |
+Price risk on commodity inventory (4)
+108 | (108) | (201) | 201 |
+Total | $ | 730 | $ | (743) | $ | (964) | $ | 933 |
+Six Months Ended June 30, 2026 | Six Months Ended June 30, 2025 |
+Interest rate risk on long-term debt (1)
+$ | (2,210) | $ | 2,222 | $ | 3,844 | $ | (3,847) |
+Interest rate and foreign currency risk (2)
+148 | (149) | (367) | 367 |
+Interest rate risk on available-for-sale securities (3)
+3,150 | (3,201) | (5,193) | 5,112 |
+Price risk on commodity inventory (4)
+221 | (221) | (1,298) | 1,298 |
+Total | $ | 1,309 | $ | (1,349) | $ | (3,014) | $ | 2,930 |
+(1)Amounts are recorded in interest expense in the Consolidated Statement of Income.
+(2)Represents cross-currency interest rate swaps related to available-for-sale debt securities and long-term debt. For the three and six months ended June 30, 2026, the derivative amount includes gains (losses) of $(11) million and $(9) million in interest income, $82 million and $163 million in market making and similar activities, and $(2) million and $(6) million in accumulated other comprehensive income (OCI). For the same periods in 2025, the derivative amount includes gains (losses) of $(16) million and $(7) million in interest income, $(148) million and $(358) million in market making and similar activities, and $(1) million and $(2) million in accumulated OCI. Line item totals are in the Consolidated Statement of Income and on the Consolidated Balance Sheet.
+(3)Amounts are recorded in interest income in the Consolidated Statement of Income.
+(4)Amounts are recorded in market making and similar activities in the Consolidated Statement of Income.
+55 Bank of America
+The table below summarizes the carrying value of hedged assets and liabilities that are designated in fair value hedging relationships, along with the cumulative amount of gains and losses on the hedged assets and liabilities that are included in their carrying value. There is no impact to earnings for the cumulative amount of these fair value hedging adjustments as long as the hedging relationships remain open through the
+hedged period. Instead, the open hedges have the effect of synthetically converting the hedged assets and liabilities into variable-rate instruments. If an open hedge is de-designated prior to the derivative's maturity, any cumulative fair value adjustments at the de-designation date are then amortized or accreted into earnings over the remaining life of the hedged assets or liabilities.
+Designated Fair Value Hedged Assets and Liabilities |
+June 30, 2026 | December 31, 2025 |
+(Dollars in millions) | Carrying Value | Cumulative
+Fair Value
+Adjustments (1)
+Carrying Value | Cumulative
+Fair Value
+Adjustments (1)
+Long-term debt | $ | 196,963 | $ | (3,027) | $ | 175,694 | $ | (792) |
+Available-for-sale debt securities (2, 3)
+204,338 | (3,117) | 236,303 | 146 |
+Trading account assets (4)
+6,327 | 15 | 12,170 | 294 |
+(1)Increase (decrease) to carrying value.
+(2)These amounts include the amortized cost of the financial assets in closed portfolios used to designate hedging relationships in which the hedged item is a stated layer that is expected to be remaining at the end of the hedging relationship (i.e. portfolio layer hedging relationship). At June 30, 2026 and December 31, 2025, the amortized cost of the closed portfolios used in these hedging relationships was $43.6 billion and $35.8 billion, of which $29.3 billion and $23.7 billion were designated in a portfolio layer hedging relationship. At June 30, 2026 and December 31, 2025, the cumulative adjustment associated with these hedging relationships was a decrease of $373 million and $46 million.
+(3)Carrying value represents amortized cost.
+(4)Represents hedging activities related to certain commodities inventory.
+At June 30, 2026 and December 31, 2025, the fair value adjustments from de-designated long-term debt hedges decreased the long-term debt carrying value by $12.0 billion and $12.9 billion. The fair value adjustments from de-designated available-for-sale (AFS) debt securities hedges decreased the AFS debt securities carrying value by $1.4 billion and $2.7 billion. The fair value adjustments are being amortized or accreted into interest over the contractual lives of the assets or liabilities.
+Cash Flow and Net Investment Hedges
+The table below summarizes certain information related to cash flow hedges and net investment hedges for the three and six months ended June 30, 2026 and 2025. Of the $3.4 billion after-tax net loss ($4.4 billion pretax) on derivatives in
+accumulated OCI at June 30, 2026, losses of $2.0 billion after-tax ($2.7 billion pretax) related to both open and closed cash flow hedges are expected to be reclassified into earnings in the next 12 months. These net losses reclassified into earnings are expected to primarily decrease net interest income related to the respective hedged items. For open cash flow hedges, the maximum length of time over which forecasted transactions are hedged is approximately three years. For terminated cash flow hedges, the time period over which the forecasted transactions will be recognized in interest income is approximately five years, with the aggregated amount beyond this time period being insignificant.
+Gains and Losses on Derivatives Designated as Cash Flow and Net Investment Hedges |
+Gains (Losses)
+Recognized in
+Accumulated OCI
+on Derivatives | Gains (Losses)
+in Income
+Reclassified from
+Accumulated OCI | Gains (Losses)
+Recognized in
+Accumulated OCI
+on Derivatives | Gains (Losses)
+in Income
+Reclassified from
+Accumulated OCI |
+(Dollars in millions, amounts pretax) | Three Months Ended June 30, 2026 | Six Months Ended June 30, 2026 |
+Cash flow hedges |
+Interest rate risk on variable-rate portfolios (1)
+$ | (1,338) | $ | (353) | $ | (2,531) | $ | (728) |
+Price risk on forecasted MBS purchases (1)
+-- | (2) | -- | (4) |
+Price risk on certain compensation plans (2)
+-- | 4 | -- | 9 |
+Total | $ | (1,338) | $ | (351) | $ | (2,531) | $ | (723) |
+Net investment hedges |
+Foreign exchange risk (3)
+$ | 147 | $ | -- | $ | 824 | $ | 4 |
+Three Months Ended June 30, 2025 | Six Months Ended June 30, 2025 |
+Cash flow hedges |
+Interest rate risk on variable-rate portfolios (1)
+$ | 1,221 | $ | (377) | $ | 2,582 | $ | (770) |
+Price risk on forecasted MBS purchases (1)
+-- | (2) | -- | (4) |
+Price risk on certain compensation plans (2)
+-- | 5 | 1 | 12 |
+Total | $ | 1,221 | $ | (374) | $ | 2,583 | $ | (762) |
+Net investment hedges |
+Foreign exchange risk (3)
+$ | (2,153) | $ | -- | $ | (3,105) | $ | -- |
+(1)Amounts reclassified from accumulated OCI are recorded in interest income in the Consolidated Statement of Income.
+(2)Amounts reclassified from accumulated OCI are recorded in compensation and benefits expense in the Consolidated Statement of Income.
+(3)Amounts reclassified from accumulated OCI are recorded in other income in the Consolidated Statement of Income. For the three and six months ended June 30, 2026, amounts excluded from effectiveness testing and recognized in market making and similar activities were losses of $49 million and $11 million. For the same periods in 2025, amounts excluded from effectiveness testing and recognized in market making and similar activities were gains of $25 million and $27 million.
+Bank of America 56
+Other Risk Management Derivatives
+Other risk management derivatives are used by the Corporation to reduce certain risk exposures by economically hedging various assets and liabilities. The table below presents gains (losses) on these derivatives for the three and six months ended June 30, 2026 and 2025. These gains (losses) are largely offset by the income or expense recorded on the hedged item.
+Gains and Losses on Other Risk Management Derivatives
+Three Months Ended June 30 | Six Months Ended June 30 |
+(Dollars in millions) | 2026 | 2025 | 2026 | 2025 |
+Interest rate risk on mortgage activities (1, 2)
+$ | 3 | $ | 12 | $ | 3 | $ | 40 |
+Credit risk on loans (2)
+(16) | (23) | (15) | (22) |
+Interest rate and foreign currency risk on asset and liability management activities (3)
+(266) | (1,704) | (278) | (2,486) |
+Price risk on certain compensation plans (4)
+538 | 377 | 364 | 181 |
+(1)Includes hedges of interest rate risk on mortgage servicing rights (MSRs) and interest rate lock commitments (IRLCs) to originate mortgage loans that will be held for sale.
+(2)Gains (losses) on these derivatives are recorded in other income.
+(3)Gains (losses) on these derivatives are recorded in market making and similar activities.
+(4)Gains (losses) on these derivatives are recorded in compensation and benefits expense.
+Transfers of Financial Assets with Risk Retained through Derivatives
+The Corporation enters into certain transactions involving the transfer of financial assets that are accounted for as sales where substantially all of the economic exposure to the transferred financial assets is retained through derivatives (e.g., interest rate and/or credit), but the Corporation does not retain control over the assets transferred. At June 30, 2026 and December 31, 2025, the Corporation had transferred $4.1 billion and $3.9 billion of non-U.S. government-guaranteed mortgage-backed securities to a third-party trust and retained economic exposure to the transferred assets through derivative contracts. In connection with these transfers, the Corporation received gross cash proceeds of $4.1 billion and $3.9 billion at the transfer dates. At June 30, 2026 and December 31, 2025, the fair value of the transferred securities was $3.9 billion and $3.8 billion.
+Sales and Trading Revenue
+The Corporation enters into trading derivatives to facilitate client transactions and to manage risk exposures arising from trading account assets and liabilities. It is the Corporation's policy to
+include these derivative instruments in its trading activities, which include derivatives and non-derivative cash instruments. The resulting risk from these derivatives is managed on a portfolio basis as part of the Corporation's Global Markets business segment. For more information on sales and trading revenue, see Note 3 - Derivatives to the Consolidated Financial Statements of the Corporation's 2025 Annual Report on Form 10-K.
+The table below, which includes both derivatives and non-derivative cash instruments, identifies the amounts in the respective income statement line items attributable to the Corporation's sales and trading revenue in Global Markets, categorized by primary risk, for the three and six months ended June 30, 2026 and 2025. This table includes debit valuation adjustment (DVA) and funding valuation adjustment (FVA) gains (losses). Global Markets results in Note 17 - Business Segment Information are presented on a fully taxable-equivalent (FTE) basis. The table below is not presented on an FTE basis.
+Sales and Trading Revenue |
+Market making and similar activities | Net Interest
+Income | Other (1)
+Total | Market making and similar activities | Net Interest
+Income | Other (1)
+Total |
+(Dollars in millions) | Three Months Ended June 30, 2026 | Six Months Ended June 30, 2026 |
+Interest rate risk | $ | 172 | $ | 1,047 | $ | 99 | $ | 1,318 | $ | 415 | $ | 2,025 | $ | 250 | $ | 2,690 |
+Foreign exchange risk | 546 | 6 | 15 | 567 | 1,079 | 10 | 11 | 1,100 |
+Equity risk | 3,123 | (134) | 638 | 3,627 | 5,388 | (217) | 1,304 | 6,475 |
+Credit risk | 454 | 691 | 136 | 1,281 | 882 | 1,444 | 201 | 2,527 |
+Other risk (2)
+120 | 102 | (139) | 83 | 364 | 90 | (157) | 297 |
+Total sales and trading revenue
+$ | 4,415 | $ | 1,712 | $ | 749 | $ | 6,876 | $ | 8,128 | $ | 3,352 | $ | 1,609 | $ | 13,089 |
+Three Months Ended June 30, 2025 | Six Months Ended June 30, 2025 |
+Interest rate risk | $ | 478 | $ | 711 | $ | 132 | $ | 1,321 | $ | 978 | $ | 1,366 | $ | 252 | $ | 2,596 |
+Foreign exchange risk | 569 | 8 | 31 | 608 | 1,109 | 25 | 42 | 1,176 |
+Equity risk | 1,881 | (297) | 563 | 2,147 | 3,858 | (639) | 1,112 | 4,331 |
+Credit risk | 247 | 669 | 60 | 976 | 678 | 1,358 | 341 | 2,377 |
+Other risk (2)
+108 | (25) | (23) | 60 | 282 | (48) | (15) | 219 |
+Total sales and trading revenue
+$ | 3,283 | $ | 1,066 | $ | 763 | $ | 5,112 | $ | 6,905 | $ | 2,062 | $ | 1,732 | $ | 10,699 |
+(1)Represents amounts in investment and brokerage services and other income that are recorded in Global Markets and included in the definition of sales and trading revenue. Includes investment and brokerage services revenue of $728 million and $1.5 billion for the three and six months ended June 30, 2026 compared to $642 million and $1.3 billion for the same periods in 2025.
+(2)Includes commodity risk.
+57 Bank of America
+Credit Derivatives
+The Corporation enters into credit derivatives primarily to facilitate client transactions and to manage credit risk exposures. Credit derivatives are classified as investment and non-investment grade based on the credit quality of the underlying referenced obligation. The Corporation considers ratings of BBB- or higher as investment grade. Non-investment grade includes non-rated credit derivative instruments. The Corporation discloses internal categorizations of investment
+grade and non-investment grade consistent with how risk is managed for these instruments. For more information on credit derivatives, see Note 3 - Derivatives to the Consolidated Financial Statements of the Corporation's 2025 Annual Report on Form 10-K.
+Credit derivative instruments where the Corporation is the seller of credit protection and their expiration at June 30, 2026 and December 31, 2025 are summarized in the table below.
+Credit Derivative Instruments |
+Less than
+One Year | One to
+Three Years | Three to
+Five Years | Over Five
+Years | Total |
+June 30, 2026 |
+(Dollars in millions) | Carrying Value |
+Credit default swaps: |
+Investment grade | $ | -- | $ | -- | $ | 12 | $ | 25 | $ | 37 |
+Non-investment grade | 9 | 340 | 406 | 378 | 1,133 |
+Total | 9 | 340 | 418 | 403 | 1,170 |
+Total return swaps/options: |
+Investment grade | 34 | -- | -- | -- | 34 |
+Non-investment grade | 2,313 | 492 | 51 | 53 | 2,909 |
+Total | 2,347 | 492 | 51 | 53 | 2,943 |
+Total credit derivatives | $ | 2,356 | $ | 832 | $ | 469 | $ | 456 | $ | 4,113 |
+Credit-related notes: |
+Investment grade | $ | -- | $ | -- | $ | 6 | $ | 808 | $ | 814 |
+Non-investment grade | -- | 13 | 39 | 1,143 | 1,195 |
+Total credit-related notes | $ | -- | $ | 13 | $ | 45 | $ | 1,951 | $ | 2,009 |
+Maximum Payout/Notional |
+Credit default swaps: |
+Investment grade | $ | 54,356 | $ | 118,738 | $ | 180,156 | $ | 23,682 | $ | 376,932 |
+Non-investment grade | 17,222 | 37,779 | 64,050 | 3,171 | 122,222 |
+Total | 71,578 | 156,517 | 244,206 | 26,853 | 499,154 |
+Total return swaps/options: |
+Investment grade | 88,877 | 1,321 | 1,501 | 341 | 92,040 |
+Non-investment grade | 48,055 | 1,023 | 311 | 478 | 49,867 |
+Total | 136,932 | 2,344 | 1,812 | 819 | 141,907 |
+Total credit derivatives | $ | 208,510 | $ | 158,861 | $ | 246,018 | $ | 27,672 | $ | 641,061 |
+December 31, 2025 |
+Carrying Value |
+Credit default swaps: |
+Investment grade | $ | -- | $ | -- | $ | 7 | $ | 34 | $ | 41 |
+Non-investment grade | 60 | 532 | 418 | 403 | 1,413 |
+Total | 60 | 532 | 425 | 437 | 1,454 |
+Total return swaps/options: |
+Investment grade | 88 | 2 | -- | -- | 90 |
+Non-investment grade | 1,258 | 89 | 74 | 1 | 1,422 |
+Total | 1,346 | 91 | 74 | 1 | 1,512 |
+Total credit derivatives | $ | 1,406 | $ | 623 | $ | 499 | $ | 438 | $ | 2,966 |
+Credit-related notes: |
+Investment grade | $ | -- | $ | -- | $ | 3 | $ | 970 | $ | 973 |
+Non-investment grade | -- | 4 | 26 | 1,136 | 1,166 |
+
+----- [line 3380] -----
+Home Equity | -- | 4 | 4 | 0.01 | 3 | 7 | 10 | 0.04 |
+Total | $ | 115 | $ | 61 | $ | 176 | 0.07 | $ | 138 | $ | 101 | $ | 239 | 0.09 |
+Three Months Ended June 30, 2025 | Six Months Ended June 30, 2025 |
+Residential Loans | $ | 10 | $ | 58 | $ | 68 | 0.03 | % | $ | 17 | $ | 98 | $ | 115 | 0.05 | % |
+Home Equity | -- | 5 | 5 | 0.02 | -- | 12 | 12 | 0.05 |
+Total | $ | 10 | $ | 63 | $ | 73 | 0.03 | $ | 17 | $ | 110 | $ | 127 | 0.05 |
+(1)Limited to those modifications that had an other-than-insignificant delay in payment, including extended residential mortgage relief provided to borrowers for their home rebuilding efforts following the 2025 California wildfires.
+The table below presents the financial effect of modified consumer real estate loans.
+Financial Effect of Modified Consumer Real Estate Loans |
+Three Months Ended June 30 | Six Months Ended June 30 |
+2026 | 2025 | 2026 | 2025 |
+Forbearance and Other Payment Plans |
+Weighted-average duration |
+Residential Mortgage | 5 months | 6 months | 11 months | 6 months |
+Home Equity | n/m | n/m | n/m | n/m |
+Permanent Modifications |
+Weighted-average Term Extension |
+Residential Mortgage | 10.1 years | 9.2 years | 10.2 years | 9.4 years |
+Home Equity | 5.4 years | 14.7 years | 6.0 years | 16.6 years |
+Weighted-average Interest Rate Reduction |
+Residential Mortgage | 1.45 | % | 1.06 | % | 1.52 | % | 1.19 | % |
+Home Equity | 2.29 | % | 2.27 | % | 2.93 | % | 2.23 | % |
+n/m = not meaningful
+For consumer real estate borrowers in financial difficulty that received a forbearance, trial or permanent modification, commitments to lend additional funds were not significant at June 30, 2026 and 2025.
+Bank of America 70
+The Corporation tracks the performance of modified loans to assess effectiveness of modification programs. If a forbearance plan results in an other&#8209;than&#8209;insignificant payment delay, whether at inception or due to a subsequent extension, the loan's payment status is based on the original contractual terms. During the three and six months ended June 30, 2026
+and 2025, defaults of residential and home equity loans that had been modified within 12 months were insignificant. The table below provides aging information as of June 30, 2026 and 2025 for consumer real estate loans that were modified over the last 12 months.
+Consumer Real Estate - Payment Status of Modifications to Borrowers in Financial Difficulty
+Current | 30-89 Days
+Past Due
+90+ Days
+Past Due
+Total |
+(Dollars in millions) | June 30, 2026 |
+Residential mortgage | $ | 152 | $ | 40 | $ | 125 | $ | 317 |
+Home equity | 14 | 2 | 3 | 19 |
+Total | $ | 166 | $ | 42 | $ | 128 | $ | 336 |
+June 30, 2025 |
+Residential mortgage | $ | 109 | $ | 44 | $ | 37 | $ | 190 |
+Home equity | 23 | 2 | 1 | 26 |
+Total | $ | 132 | $ | 46 | $ | 38 | $ | 216 |
+Consumer real estate foreclosed properties totaled $62 million and $58 million at June 30, 2026 and December 31, 2025. The carrying value of consumer real estate loans, including fully-insured loans, for which formal foreclosure proceedings were in process at June 30, 2026 and December 31, 2025, was $388 million and $411 million. During the six months ended June 30, 2026 and 2025, the Corporation reclassified $21 million and $29 million of consumer real estate loans to foreclosed properties or, for properties acquired upon foreclosure of certain government-guaranteed loans (principally FHA-insured loans), to other assets. The reclassifications represent non-cash investing activities and, accordingly, are not reflected in the Consolidated Statement of Cash Flows.
+Credit Card and Other Consumer
+Credit card and other consumer loans are primarily modified by placing the customer on a fixed payment plan with a significantly reduced fixed interest rate, with terms ranging from 6 months to 72 months, most of which had a 60-month term at June 30, 2026. In certain circumstances, the Corporation will forgive a portion of the outstanding balance if the borrower makes payments up to a set amount. The Corporation makes modifications directly with borrowers for loans held by the Corporation (internal programs) as well as through third-party renegotiation agencies that provide solutions to customers' entire unsecured debt structures (external programs). The June 30, 2026 amortized cost of credit card and other consumer loans that were modified through these programs during the three and six months ended June 30, 2026 was $244 million and $447 million compared to $218 million and $405 million for same periods in 2025. These modifications represented 0.11 percent and 0.20 percent of outstanding credit card and other consumer loans for the three and six months ended June 30, 2026 compared to 0.10 percent and 0.19 percent for the same periods in 2025. During the three and six months ended June 30, 2026 and 2025, the financial effect of modifications resulted in a weighted-average interest rate reduction of 18 percentage points for all periods. During
+the three and six months ended June 30, 2026 the financial effect of modifications resulted in principal forgiveness of $29 million and $54 million compared to $26 million and $51 million for the same periods in 2025.
+The Corporation tracks the performance of modified loans to assess effectiveness of modification programs. As of June 30, 2026 and 2025, defaults of credit card and other consumer loans that had been modified within 12 months were not significant. At June 30, 2026, modified credit card and other consumer loans to borrowers experiencing financial difficulty over the last 12 months totaled $727 million, of which $622 million were current, $57 million were 30-89 days past due, and $48 million were greater than 90 days past due. At June 30, 2025, modified credit card and other consumer loans to borrowers experiencing financial difficulty totaled $645 million, of which $547 million were current, $53 million were 30-89 days past due, and $45 million were greater than 90 days past due.
+Commercial Loans
+Modifications of loans to commercial borrowers experiencing financial difficulty are designed to reduce the Corporation's loss exposure while providing borrowers with an opportunity to work through financial difficulties, often to avoid foreclosure or bankruptcy. Each modification is unique, reflects the borrower's individual circumstances and is designed to benefit the borrower while mitigating the Corporation's risk exposure. Commercial modifications are primarily term extensions and payment forbearances. Payment forbearances involve the Corporation forbearing its contractual right to collect certain payments or payment in full (maturity forbearance) for a defined period of time. Reductions in interest rates and principal forgiveness occur infrequently for commercial borrowers. Principal forgiveness may occur in connection with foreclosure, short sales or other settlement agreements, leading to termination or sale of the loan. The following table provides the ending amortized cost of commercial loans modified during the three and six months ended June 30, 2026 and 2025.
+71 Bank of America
+Commercial Loans - Modifications to Borrowers in Financial Difficulty |
+Term Extension | Forbearances | Interest Rate Reduction | Total | As a % of Financing Receivables | Term Extension | Forbearances | Interest Rate
+Reduction | Total | As a % of Financing Receivables |
+(Dollars in millions) | Three Months Ended June 30, 2026 | Six Months Ended June 30, 2026 |
+U.S. commercial | $ | 586 | $ | 399 | $ | -- | $ | 985 | 0.22 | % | $ | 1,133 | $ | 412 | $ | -- | $ | 1,545 | 0.34 | % |
+Non-U.S. commercial | 71 | 10 | -- | 81 | 0.05 | 78 | 10 | -- | 88 | 0.06 |
+Commercial real estate | 307 | -- | -- | 307 | 0.43 | 363 | 288 | -- | 651 | 0.92 |
+Total | $ | 964 | $ | 409 | $ | -- | $ | 1,373 | 0.20 | $ | 1,574 | $ | 710 | $ | -- | $ | 2,284 | 0.33 |
+Three Months Ended June 30, 2025 | Six Months Ended June 30, 2025 |
+U.S. commercial | $ | 397 | $ | 104 | $ | -- | $ | 501 | 0.12 | % | $ | 610 | $ | 134 | $ | -- | $ | 744 | 0.18 | % |
+Non-U.S. commercial | -- | -- | -- | -- | -- | 33 | 9 | -- | 42 | 0.03 |
+Commercial real estate | 769 | 439 | -- | 1,208 | 1.84 | 1,403 | 551 | -- | 1,954 | 2.98 |
+Total | $ | 1,166 | $ | 543 | $ | -- | $ | 1,709 | 0.27 | $ | 2,046 | $ | 694 | $ | -- | $ | 2,740 | 0.44 |
+Term extensions granted increased the weighted-average life of the impacted loans by 1.6 years and 1.8 years for the three and six months ended June 30, 2026 compared to 10 months and 1.3 years for the same periods in 2025. The weighted-average duration of loan payments deferred under the Corporation's commercial loan forbearance program was 11 months and 1.0 year for the three and six months ended June 30, 2026 compared to 1.2 years and 1.3 years for the same periods in 2025. The deferral period for loan payments can vary, but are mostly in the range of 8 months to 2.0 years. Modifications of loans to troubled borrowers for Commercial
+Lease Financing and U.S. Small Business Commercial were not significant during the three and six months ended June 30, 2026 and 2025.
+The Corporation tracks the performance of modified loans to assess effectiveness of modification programs. As of June 30, 2026, defaults of commercial loans that had been modified within 12 months were $154 million. As of June 30, 2025, defaults of commercial loans that had been modified within the last 12 months were $234 million. The table below provides aging information as of June 30, 2026 and 2025 for commercial loans that were modified over the last 12 months.
+Commercial - Payment Status of Modified Loans to Borrowers in Financial Difficulty
+&#8203; |
+Current | 30-89 Days
+Past Due
+90+ Days
+Past Due
+Total |
+(Dollars in millions) | June 30, 2026 |
+U.S. Commercial | $ | 2,156 | $ | 3 | $ | 134 | $ | 2,293 |
+Non-U.S. Commercial | 105 | -- | -- | 105 |
+Commercial Real Estate
+658 | 7 | 292 | 957 |
+Total | $ | 2,919 | $ | 10 | $ | 426 | $ | 3,355 |
+June 30, 2025 |
+U.S. Commercial | $ | 1,249 | $ | 7 | $ | 43 | $ | 1,299 |
+Non-U.S. Commercial | 69 | -- | -- | 69 |
+Commercial Real Estate | 2,756 | 5 | 645 | 3,406 |
+Total | $ | 4,074 | $ | 12 | $ | 688 | $ | 4,774 |
+For the six months ended June 30, 2026 and 2025, the Corporation had commitments to lend $960 million and $434 million to commercial borrowers experiencing financial difficulty whose loans were modified during the period.
+Loans Held-for-sale
+The Corporation had LHFS of $6.5 billion and $5.2 billion at June 30, 2026 and December 31, 2025. Cash and non-cash proceeds from sales and paydowns of loans originally classified as LHFS were $20.1 billion and $20.4 billion for the six months ended June 30, 2026 and 2025. Cash used for originations and purchases of LHFS totaled $21.6 billion and $15.4 billion for the six months ended June 30, 2026 and 2025. For the six months ended June 30, 2026 and 2025, non-cash net transfers into LHFS were not significant.
+Accrued Interest Receivable
+Accrued interest receivable for loans and leases and LHFS was $4.2 billion at both June 30, 2026 and December 31, 2025 and is reported in customer and other receivables on the Consolidated Balance Sheet.
+Outstanding credit card loan balances include unpaid principal, interest and fees. Credit card loans are not classified as nonperforming but are charged off no later than the end of the month in which the account becomes 180 days past due, within 60 days after receipt of notification of death or bankruptcy, or upon confirmation of fraud. During the three and six months ended June 30, 2026, the Corporation reversed $216 million and $438 million of interest and fee income against the income statement line item in which it was originally recorded upon charge-off of the principal balance of the loan compared to $218 million and $449 million for the same periods in 2025.
+For the outstanding residential mortgage, home equity, direct/indirect consumer and commercial loan balances classified as nonperforming during the three and six months ended June 30, 2026 and 2025, interest and fee income reversed at the time the loans were classified as nonperforming was not significant. For more information on the Corporation's nonperforming loan policies, see Note 1 - Summary of Significant Accounting Principles to the Consolidated Financial Statements of the Corporation's 2025 Annual Report on Form 10-K.
+Bank of America 72
+Allowance for Credit Losses
+The allowance for credit losses is estimated using quantitative and qualitative methods that consider a variety of factors, such as historical loss experience, the current credit quality of the portfolio and an economic outlook over the life of the loan. Qualitative reserves cover losses that are expected but, in the Corporation's assessment, may not adequately be reflected in the quantitative methods or the economic assumptions. The economic outlook is a significant factor and incorporates forward-looking information through the use of several macroeconomic scenarios in determining the weighted economic outlook over the forecasted life of the assets. These scenarios include key macroeconomic variables such as gross domestic product, unemployment rate, real estate prices and corporate bond spreads. The scenarios that are chosen each quarter and the weighting given to each scenario depend on a variety of factors including recent economic events, leading economic indicators, internal and third-party economist views, and industry trends. For more information on the Corporation's credit loss accounting policies including the allowance for credit losses, see Note 1 - Summary of Significant Accounting Principles to the Consolidated Financial Statements of the Corporation's 2025 Annual Report on Form 10-K.
+The June 30, 2026 estimate for allowance for credit losses was based on various economic scenarios, including a baseline scenario derived from consensus estimates, an adverse scenario reflecting an extended moderate recession, a downside scenario reflecting continued inflation, a tail risk scenario similar to the severely adverse scenario used in stress testing and an upside scenario that considers the potential for improvement above the baseline scenario. When compared to the consensus baseline scenario noted above, the Corporation's weighted economic outlook remains weighted to the downside and moderately weaker than the consensus baseline as of June 30, 2026, consistent with the Corporation's weighted economic outlook estimated as of December 31, 2025. The weighted economic outlook assumes that the U.S. average unemployment rate will be approximately five percent in the fourth quarter of 2026 and will remain near this level
+through the fourth quarter of 2027. It also assumes U.S. real gross domestic product will grow at 1.4 percent and 1.8 percent year-over-year in the fourth quarters of 2026 and 2027.
+The allowance for credit losses decreased $116 million from December 31, 2025 to $14.3 billion at June 30, 2026. The decrease in the allowance for credit losses was driven by continued improvement in credit card and commercial real estate, partially offset by loan growth and a qualitative reserve build related to uncertainties associated with the ongoing conflicts in the Middle East. The change in the allowance for credit losses was comprised of a net decrease of $89 million in the allowance for loan and lease losses and a decrease of $27 million in the reserve for unfunded lending commitments. The decrease in the allowance for credit losses was attributed to a decrease in the credit card and other consumer portfolios of $159 million, partially offset by an increase in the commercial portfolio of $10 million and the consumer real estate portfolio of $33 million.
+The provision for credit losses decreased $226 million to $1.4 billion, and $369 million to $2.7 billion for the three and six months ended June 30, 2026 compared to the same periods in 2025. The decrease for the three-month period was attributed to a decrease in consumer of $75 million due to improved asset quality in credit card and a decrease in commercial of $151 million due to improved asset quality in commercial real estate. The decrease for the six-month period was attributed to a decrease in consumer of $211 million and a decrease in commercial of $158 million. The decrease in consumer was primarily driven by improved asset quality within the credit card portfolio. The decrease in commercial was primarily due to improved asset quality in the commercial real estate portfolio, partially offset by loan growth in the commercial and industrial portfolio and a qualitative reserve build related to uncertainties associated with the ongoing conflicts in the Middle East.
+Net charge-offs for the three and six months ended June 30, 2026 were $1.4 billion and $2.8 billion compared to $1.5 billion and $3.0 billion for the same periods in 2025. The decreases of $113 million and $156 million for the three and six months ended June 30, 2026 as compared to the prior-year periods were driven by asset quality improvement in commercial real estate and credit card.
+The changes in the allowance for credit losses, including net charge-offs and provision for loan and lease losses, are detailed in the following table.
+73 Bank of America
+Consumer
+Real Estate | Credit Card and Other Consumer | Commercial | Total |
+(Dollars in millions) | Three Months Ended June 30, 2026 |
+Allowance for loan and lease losses, April 1 | $ | 417 | $ | 7,854 | $ | 4,877 | $ | 13,148 |
+Loans and leases charged off | (16) | (1,314) | (410) | (1,740) |
+Recoveries of loans and leases previously charged off | 21 | 269 | 38 | 328 |
+Net charge-offs | 5 | (1,045) | (372) | (1,412) |
+Provision for loan and lease losses | 19 | 996 | 362 | 1,377 |
+Other | -- | -- | 1 | 1 |
+Allowance for loan and lease losses, June 30
+441 | 7,805 | 4,868 | 13,114 |
+Reserve for unfunded lending commitments, April 1 | 75 | -- | 1,086 | 1,161 |
+Provision for unfunded lending commitments | (5) | -- | (6) | (11) |
+Reserve for unfunded lending commitments, June 30
+70 | -- | 1,080 | 1,150 |
+Allowance for credit losses, June 30
+$ | 511 | $ | 7,805 | $ | 5,948 | $ | 14,264 |
+Three Months Ended June 30, 2025 |
+Allowance for loan and lease losses, April 1 | $ | 340 | $ | 8,212 | $ | 4,704 | $ | 13,256 |
+Loans and leases charged off | (14) | (1,299) | (511) | (1,824) |
+Recoveries of loans and leases previously charged off | 22 | 232 | 45 | 299 |
+Net charge-offs | 8 | (1,067) | (466) | (1,525) |
+
+----- [line 4347] -----
+n/a |
+Trading account assets - Mortgage trading loans, MBS and ABS | 1,055 | Loss severity | 30%
+n/a |
+AFS debt securities - Non-U.S. and other taxable securities | 15 | Price | $0 to $165
+$65 |
+Loans held-for-sale | 37 |
+Other assets, primarily MSRs and tax-related equity investments
+$ | 2,067 | Discounted cash flow, Market comparables | Price | $10 to $93
+$82 |
+Yield
+7% to 9%
+8 | % |
+Weighted-average life, fixed rate (5)
+0 to 14 years
+6 years
+Weighted-average life, variable rate (5)
+0 to 10 years
+4 years
+Option-adjusted spread, fixed rate | 7% to 14%
+9 | % |
+Option-adjusted spread, variable rate | 9% to 15%
+11 | % |
+Structured liabilities |
+Long-term debt | $ | (592) | Discounted cash flow, Market comparables | Yield | 14% to 28%
+25 | % |
+Price | $27 to $100
+$91 |
+Natural gas forward price | $1/MMBtu to $6/MMBtu
+$3 /MMBtu
+Net derivative assets (liabilities) |
+Credit derivatives | $ | 50 | Market comparables, Discounted cash flow, Stochastic recovery correlation model
+Credit spreads | 7 to 228 bps
+35 bps
+Default rate | 2% CDR
+n/a
+Credit correlation | 43% to 77%
+71 | % |
+Price | $0 to $111
+$72 |
+Equity derivatives | $ | (1,403) | Industry standard derivative pricing (3)
+Equity correlation | 0% to 100%
+66% |
+Long-dated equity volatilities | 0% to 118%
+43% |
+Commodity derivatives | $ | (651) | Discounted cash
+flow
+Natural gas forward price | $1/MMBtu to $6/MMBtu
+$3/MMBtu
+Commodities volatilities
+60% to 63%
+62% |
+Power forward price | $28 to $125
+$53 |
+Interest rate derivatives | $ | 243 | Industry standard derivative pricing (4)
+Correlation (IR/IR) | (35)% to 70%
+46 | % |
+Correlation (FX/IR) | (10)% to 35%
+26 | % |
+Long-dated inflation rates | 0% to 17%
+2 | % |
+Interest rate volatilities | 0% to 10%
+0 | % |
+Total net derivative assets (liabilities) | $ | (1,761) |
+(1)For loans and securities, structured liabilities and net derivative assets (liabilities), the weighted average is calculated based upon the absolute fair value of the instruments.
+(2)The categories are aggregated based upon product type, which differs from financial statement classification. The following is a reconciliation to the line items in the table on page 87: Trading account assets - Corporate securities, trading loans and other of $2.3 billion, Trading account assets - Non-U.S. sovereign debt of $236 million, Trading account assets - Mortgage trading loans, MBS and ABS of $1.2 billion, AFS debt securities of $58 million, Other debt securities carried at fair value - Non-agency residential of $43 million, Other assets of $2.1 billion, Loans and leases of $66 million and LHFS of $37 million.
+(3)Includes models such as Monte Carlo simulation and Black-Scholes.
+(4)Includes models such as Monte Carlo simulation, Black-Scholes and other methods that model the joint dynamics of interest, inflation and foreign exchange rates.
+(5)The weighted-average life is a product of changes in market rates of interest, prepayment rates and other model and cash flow assumptions.
+CPR = Constant Prepayment Rate
+CDR = Constant Default Rate
+MMBtu = Million British thermal units
+IR = Interest Rate
+FX = Foreign Exchange
+n/a = not applicable
+91 Bank of America
+Quantitative Information about Level 3 Fair Value Measurements at December 31, 2025 |
+(Dollars in millions) | Inputs |
+Financial Instrument | Fair
+Value | Valuation
+Technique | Significant Unobservable
+Inputs | Ranges of
+Inputs | Weighted Average (1)
+Loans and Securities (2)
+Instruments backed by residential real estate assets | $ | 327 | Discounted cash
+flow, Market comparables | Yield | 0% to 15%
+8 | % |
+Trading account assets - Mortgage trading loans, MBS and ABS | 120 | Prepayment speed
+0% to 40% CPR
+7% CPR
+Loans and leases | 73 | Default rate | 0% to 7% CDR
+7% CDR
+AFS debt securities - Non-agency residential | 9 | Price | $0 to $115
+$53 |
+Other debt securities carried at fair value - Non-agency residential | 125 | Loss severity | 0% to 81%
+27 | % |
+Instruments backed by commercial real estate assets | $ | 373 | Discounted cash
+flow, Asset based approach | Yield | 0% to 5%
+2 | % |
+Trading account assets - Corporate securities, trading loans and other | 304 | Price | $0 to $100
+$42 |
+Trading account assets - Mortgage trading loans, MBS and ABS | 47 |
+AFS debt securities - Commercial
+22 |
+Commercial loans, debt securities and other | $ | 3,006 | Discounted cash flow, Market comparables | Yield | 4% to 24%
+13 | % |
+Trading account assets - Corporate securities, trading loans and other
+1,618 | Prepayment speed
+20%
+n/a |
+Trading account assets - Non-U.S. sovereign debt | 240 | Default rate | 2%
+n/a |
+Trading account assets - Mortgage trading loans, MBS and ABS | 768 | Loss severity | 30%
+n/a |
+AFS debt securities - Non-U.S. and other taxable securities | 322 | Price | $0 to $137
+$67 |
+Loans and leases | 3 |
+Loans held-for-sale | 55 |
+Other assets, primarily MSRs and tax-related equity investments
+$ | 2,118 | Discounted cash flow, Market comparables | Price
+$10 to $95
+$84 |
+Yield
+8% to 11%
+9 | % |
+Weighted-average life, fixed rate (5)
+0 to 14 years
+6 years
+Weighted-average life, variable rate (5)
+0 to 11 years
+4 years
+Option-adjusted spread, fixed rate | 7% to 14%
+9 | % |
+Option-adjusted spread, variable rate | 9% to 15%
+12 | % |
+Structured liabilities |
+Long-term debt | $ | (481) | Discounted cash flow, Market comparables | Yield | 15% to 22%
+20 | % |
+Price | $29 to $101
+$93 |
+Natural gas forward price | $2/MMBtu to $6/MMBtu
+$3/MMBtu
+Net derivative assets (liabilities) |
+Credit derivatives
+$ | (3) | Market comparables, Discounted cash flow, Stochastic recovery correlation model | Credit spreads | 5 to 245 bps
+36 bps
+Default rate
+2% CDR
+n/a
+Credit correlation | 40% to 74%
+67 | % |
+Price
+$0 to $111
+$106 |
+Equity derivatives
+$ | (1,018) | Industry standard derivative pricing (3)
+Equity correlation
+0% to 100%
+68% |
+Long-dated equity volatilities
+0% to 104%
+37% |
+Commodity derivatives
+$ | (664) | Discounted cash
+flow
+Natural gas forward price
+$2/MMBtu to $6/MMBtu
+$3/MMBtu
+Commodities volatilities
+49% to 53%
+51 | % |
+Power forward price | $29 to $134
+$56 |
+Interest rate derivatives
+$ | 372 | Industry standard derivative pricing (4)
+Correlation (IR/IR)
+(35)% to 70%
+45 | % |
+Correlation (FX/IR)
+(5)% to 58%
+26 | % |
+Long-dated inflation rates
+G(1)% to 20%
+2 | % |
+Long-dated inflation volatilities
+5%
+n/a |
+Interest rates volatilities | (1)% to 1%
+0 | % |
+Total net derivative assets (liabilities) | $ | (1,313) |
+(1)For loans and securities, structured liabilities and net derivative assets (liabilities), the weighted average is calculated based upon the absolute fair value of the instruments.
+(2)The categories are aggregated based upon product type, which differs from financial statement classification. The following is a reconciliation to the line items in the table on page 88: Trading account assets - Corporate securities, trading loans and other of $1.9 billion, Trading account assets - Non-U.S. sovereign debt of $240 million, Trading account assets - Mortgage trading loans, MBS and ABS of $935 million, AFS debt securities of $353 million, Other debt securities carried at fair value - Non-agency residential of $125 million, Other assets of $2.1 billion, Loans and leases of $76 million and LHFS of $55 million.
+(3)Includes models such as Monte Carlo simulation and Black-Scholes.
+(4)Includes models such as Monte Carlo simulation, Black-Scholes and other methods that model the joint dynamics of interest, inflation and foreign exchange rates.
+(5)The weighted-average life is a product of changes in market rates of interest, prepayment rates and other model and cash flow assumptions.
+CPR = Constant Prepayment Rate
+CDR = Constant Default Rate
+MMBtu = Million British thermal units
+IR = Interest Rate
+FX = Foreign Exchange
+n/a = not applicable
+Uncertainty of Fair Value Measurements from Unobservable Inputs
+For information on the types of instruments, valuation approaches and the impact of changes in unobservable inputs used in Level 3 measurements, see Note 20 - Fair Value Measurements to the Consolidated Financial Statements of the Corporation's 2025 Annual Report on Form 10-K.
+Bank of America 92
+Nonrecurring Fair Value
+The Corporation holds certain assets that are measured at fair value only in certain situations (e.g., the impairment of an asset), and these measurements are referred to herein as nonrecurring. The amounts below represent assets still held as of the reporting date for which a nonrecurring fair value adjustment was recorded during the three and six months ended June 30, 2026 and 2025.
+Assets Measured at Fair Value on a Nonrecurring Basis
+June 30, 2026 | Three Months Ended June 30, 2026 | Six Months Ended June 30, 2026 |
+(Dollars in millions)
+Level 2 | Level 3 | Gains (Losses) |
+Assets |
+Loans held-for-sale | $ | 281 | $ | 204 | $ | (6) | $ | (28) |
+Foreclosed properties (1)
+-- | 56 | 2 | 2 |
+June 30, 2025 | Three Months Ended June 30, 2025 | Six Months Ended June 30, 2025 |
+Assets |
+Loans held-for-sale | $ | 135 | $ | -- | $ | (6) | $ | 50 |
+Foreclosed properties (1)
+-- | 67 | -- | -- |
+(1)Amounts are included in other assets on the Consolidated Balance Sheet and represent the carrying value of foreclosed properties that were written down subsequent to their initial classification as foreclosed properties. Losses on foreclosed properties include losses recorded during the first 90 days after transfer of a loan to foreclosed properties.
+The table below presents information about significant unobservable inputs utilized in the Corporation's nonrecurring Level 3 fair value measurements during the six months ended June 30, 2026.
+Quantitative Information about Nonrecurring Level 3 Fair Value Measurements
+Inputs |
+Financial Instrument | Fair Value | Valuation
+Technique | Significant Unobservable
+Inputs | Ranges of
+Inputs | Weighted
+Average (1)
+(Dollars in millions) | Six Months Ended June 30, 2026 |
+Loans held-for-sale | $ | 204 | Pricing model | Implied yield | 12% to 29%
+19 | % |
+(1)The weighted average is calculated based upon the fair value of the loans.
+There were no significant Level 3 instruments held as of December 31, 2025 that had nonrecurring fair value measurements for the year ended December 31, 2025.
+NOTE 15 Fair Value Option
+The Corporation elects to account for certain financial instruments under the fair value option. For more information on the primary financial instruments for which the fair value option elections have been made, see Note 21 - Fair Value Option to the Consolidated Financial Statements of the Corporation's 2025 Annual Report on Form 10-K. The following tables provide
+information about the fair value carrying amount and the contractual principal outstanding of assets and liabilities accounted for under the fair value option at June 30, 2026 and December 31, 2025, and information about where changes in the fair value of assets and liabilities accounted for under the fair value option are included in the Consolidated Statement of Income for the three and six months ended June 30, 2026 and 2025.
+93 Bank of America
+Fair Value Option Elections
+June 30, 2026 | December 31, 2025 |
+(Dollars in millions)
+Fair Value
+Carrying
+Amount | Contractual
+Principal
+Outstanding | Fair Value
+Carrying
+Amount Less
+Unpaid Principal | Fair Value
+Carrying
+Amount | Contractual
+Principal
+Outstanding | Fair Value
+Carrying
+Amount Less

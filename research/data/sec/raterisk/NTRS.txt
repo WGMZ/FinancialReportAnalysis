@@ -1,0 +1,387 @@
+# NTRS 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/73124/000007312426000047/ntrs-20260630.htm
+# full_doc_chars=407687
+
+
+----- [line 569] -----
+Other Operating Expense | 92.3 | 90.9 | 1.4 | 2 | 182.0 | 174.9 | 7.1 | 4 |
+Total Noninterest Expense | $ | 1,638.6 | $ | 1,416.6 | $ | 222.0 | 16 | % | $ | 3,146.6 | $ | 2,834.2 | $ | 312.4 | 11 | % |
+For the three and six months ended June 30, 2026 Compensation and Benefits expense, the largest component of Noninterest Expense, increased compared to the prior-year quarter and prior year period, primarily due to the current quarter severance charge of $51.0 million, higher incentives, the $33.1 million Invested as One equity grant to eligible employees, annual base pay adjustments and an increase in pension expense.
+For the three and six months ended June 30, 2026 Equipment and Software expense increased compared to the prior-year quarter and the prior year period, primarily due to software dispositions of $61.5 million in the current quarter, higher software support and higher amortization.
+Provision for Income Taxes
+Income tax expense for the three months ended June 30, 2026 was $272.5 million, representing an effective tax rate of 25.6%, compared to $143.5 million in the prior-year quarter, representing an effective tax rate of 25.4%.
+Income tax expense for the six months ended June 30, 2026 was $447.6 million, representing an effective tax rate of 25.4%, compared to $272.9 million in the prior-year period, representing an effective tax rate of 25.1%.
+REPORTING SEGMENTS
+Northern Trust is organized around its two client-focused reporting segments: Asset Servicing and Wealth Management. Asset management and related services are provided to Asset Servicing and Wealth Management clients primarily by the Asset Management business. The revenue and expenses of Asset Management and certain other support functions are allocated fully to Asset Servicing and Wealth Management.
+Reporting segment financial information, presented on an internal management-reporting basis, is determined by accounting systems used to allocate revenue and expense to each segment, and incorporates processes for allocating assets, liabilities, equity and the applicable interest income and expense utilizing an FTP methodology. Under the methodology, assets and
+16
+REPORTING SEGMENTS (continued)
+liabilities receive a funding charge or credit that considers interest rate risk, liquidity risk, and other product characteristics on an instrument level. Additionally, segment information is presented on an FTE basis as management believes an FTE presentation provides a clearer indication of net interest income. Income before Income Taxes on an FTE basis is the measure of segment profit or loss reviewed by the Chief Operating Decision Maker for purposes of assessing performance and allocating resources. The adjustment to an FTE basis has no impact on Net Income.
+Revenues, expenses and average assets are allocated to Asset Servicing and Wealth Management, with the exception of non-recurring activities such as certain corporate transactions and costs incurred associated with acquisitions, divestitures, litigation, restructuring, and tax adjustments not directly attributable to a specific reporting segment, which are reported within Other.
+In addition to income and expenses associated with non-recurring activities, Other includes expenses for the Enterprise Chief Operating Office, Asset Management, corporate and other support functions not directly incurred by, but ultimately allocated back to Asset Servicing and Wealth Management. Other also includes the FTE adjustments of $7.6 million and $15.2 million for the three and six months ended June 30, 2026, respectively, and $4.7 million and $10.3 million for the three and six months ended June 30, 2025, respectively, in order to reconcile the segment results that are reported on an internal management-reporting basis into consolidated results.
+Reporting segment results are subject to reclassification when organizational changes are made. The results are also subject to refinements in revenue and expense allocation methodologies, which are typically reflected on a retrospective basis unless it is impractical to do so.
+For further details, please refer to Note 9--Reporting Segments to the consolidated financial statements provided in Item 1. Consolidated Financial Statements (unaudited).
+The following table presents the earnings contributions and average assets of Northern Trust's reporting segments for the three- and six- month periods ended June 30, 2026 and 2025.
+TABLE 19: RESULTS OF REPORTING SEGMENTS
+($ In Millions) | ASSET SERVICING(3)
+WEALTH MANAGEMENT(3)
+OTHER(4)
+TOTAL CONSOLIDATED |
+THREE MONTHS ENDED JUNE 30, | 2026 | 2025 | 2026 | 2025 | 2026 | 2025 | 2026 | 2025 |
+Noninterest Income |
+Trust, Investment and Other Servicing Fees | $ | 757.4 | $ | 691.8 | $ | 592.1 | $ | 539.3 | $ | -- | $ | -- | $ | 1,349.5 | $ | 1,231.1 |
+Foreign Exchange Trading Income (Loss) | 98.9 | 61.0 | (1.8) | (10.4) | -- | -- | 97.1 | 50.6 |
+Other Noninterest Income | 89.3 | 70.6 | 35.8 | 34.6 | 450.8 | 0.5 | 575.9 | 105.7 |
+Total Noninterest Income | 945.6 | 823.4 | 626.1 | 563.5 | 450.8 | 0.5 | 2,022.5 | 1,387.4 |
+Net Interest Income (Expense)(1)
+416.1 | 347.2 | 265.3 | 268.3 | (5.9) | (5.0) | 675.5 | 610.5 |
+Revenue(1)
+1,361.7 | 1,170.6 | 891.4 | 831.8 | 444.9 | (4.5) | 2,698.0 | 1,997.9 |
+Provision for Credit Losses | (2.7) | 3.9 | (1.6) | 11.2 | (1.0) | 1.4 | (5.3) | 16.5 |
+Noninterest Expense |
+Compensation and Benefits | 111.7 | 90.9 | 176.3 | 163.6 | 580.0 | 478.0 | 868.0 | 732.5 |
+Outside Services | 31.4 | 43.5 | 13.6 | 17.0 | 201.3 | 186.5 | 246.3 | 247.0 |
+Allocated Expense | 875.3 | 741.5 | 348.6 | 306.7 | (1,223.9) | (1,048.2) | -- | -- |
+Other Segment Items(2)
+22.7 | 19.4 | 21.0 | 23.7 | 480.6 | 394.0 | 524.3 | 437.1 |
+Total Noninterest Expense | 1,041.1 | 895.3 | 559.5 | 511.0 | 38.0 | 10.3 | 1,638.6 | 1,416.6 |
+Income (Loss) before Income Taxes(1)
+323.3 | 271.4 | 333.5 | 309.6 | 407.9 | (16.2) | 1,064.7 | 564.8 |
+Provision for Income Taxes(1)
+72.9 | 58.2 | 83.2 | 75.6 | 116.4 | 9.7 | 272.5 | 143.5 |
+Net Income (Loss) | $ | 250.4 | $ | 213.2 | $ | 250.3 | $ | 234.0 | $ | 291.5 | $ | (25.9) | $ | 792.2 | $ | 421.3 |
+Percentage of Consolidated Net Income | 32 | % | 51 | % | 32% | 56 | % | 36 | % | (7) | % | 100 | % | 100 | % |
+Average Assets | $ | 123,994.6 | $ | 117,044.6 | $ | 39,431.2 | $ | 39,094.5 | $ | 150.0 | $ | 1,580.1 | $ | 163,575.8 | $ | 157,719.2 |
+Average Loans | $ | 5,800.6 | $ | 5,812.8 | $ | 35,767.0 | $ | 35,345.2 | $ | -- | $ | -- | $ | 41,567.6 | $ | 41,158.0 |
+Average Deposits | $ | 100,980.6 | $ | 95,506.7 | $ | 26,715.1 | $ | 25,291.0 | $ | 150.0 | $ | 1,580.1 | $ | 127,845.7 | $ | 122,377.8 |
+(1) Financial measures stated on an FTE basis. The FTE adjustment was $7.6 million and $4.7 million for the three months ended June 30, 2026 and 2025, respectively, and is eliminated within "Other" in order for "Total Consolidated" to reconcile with the Consolidated Statement of Income.
+(2) Other Segment Items include Occupancy, Equipment & Software and Other Operating Expense.
+(3) The current quarter charges related to software dispositions and severance are included in the Reporting Segments with $100.6 million recorded to Asset Servicing and $11.9 million recorded to Wealth Management.
+(4) Other includes the current quarter $525.4 million gain related to Northern Trust's participation in the second Visa Exchange Offer, the $73.9 million loss on available for sale debt securities sold in conjunction with a repositioning of the portfolio, and the $33.1 million Invested as One equity grant to eligible employees.
+17
+REPORTING SEGMENTS (continued)
+(In Millions) | ASSET SERVICING(3)
+WEALTH MANAGEMENT(3)
+OTHER(4)
+TOTAL CONSOLIDATED |
+SIX MONTHS ENDED JUNE 30, | 2026 | 2025 | 2026 | 2025 | 2026 | 2025 | 2026 | 2025 |
+Noninterest Income |
+Trust, Investment and Other Servicing Fees | $ | 1,497.9 | $ | 1,363.7 | $ | 1,193.0 | $ | 1,081.2 | $ | -- | $ | -- | $ | 2,690.9 | $ | 2,444.9 |
+Foreign Exchange Trading Income (Loss) | 189.9 | 124.9 | (5.1) | (15.6) | -- | -- | 184.8 | 109.3 |
+Other Noninterest Income (Loss) | 174.2 | 139.2 | 69.7 | 68.1 | 454.6 | (2.2) | 698.5 | 205.1 |
+Total Noninterest Income (Loss) | 1,862.0 | 1,627.8 | 1,257.6 | 1,133.7 | 454.6 | (2.2) | 3,574.2 | 2,759.3 |
+Net Interest Income (Expense)(1)
+817.8 | 670.9 | 524.8 | 518.4 | (13.1) | (10.7) | 1,329.5 | 1,178.6 |
+Revenue(1)
+2,679.8 | 2,298.7 | 1,782.4 | 1,652.1 | 441.5 | (12.9) | 4,903.7 | 3,937.9 |
+Provision for Credit Losses | (5.0) | 6.0 | -- | 10.3 | (3.3) | 1.2 | (8.3) | 17.5 |
+Noninterest Expense |
+
+----- [line 938] -----
+Tier 1 Leverage | 6.8 | 6.9 | 6.6 | 6.8 | 6.9 | 6.6 | 5.0 | 4.0 |
+Supplementary Leverage | N/A | N/A | N/A | 7.7 | 7.7 | 7.9 | 3.0 | 3.0 |
+27
+RECENT ACCOUNTING PRONOUNCEMENTS AND DEVELOPMENTS
+In November 2024, the FASB issued Accounting Standards Update (ASU) No. 2024-03, "Income Statement--Reporting Comprehensive Income--Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses" (ASU 2024-03). ASU 2024-03 requires disaggregated disclosures in tabular format for specific income statement expense categories as well as a narrative disclosure about selling expenses. The amendments in ASU 2024-03 do not change or remove existing income statement presentation or disclosure requirements. ASU 2024-03 is effective for annual periods beginning after December 15, 2026, and interim periods beginning after December 15, 2027. Early adoption is permitted. Upon adoption, the impact of ASU 2024-03 will be limited to certain enhancements within the notes to the consolidated financial statements and therefore is not expected to have an impact on Northern Trust's consolidated balance sheets or consolidated statements of income.
+In September 2025, the FASB issued ASU No. 2025-06, "Intangibles--Goodwill and Other--Internal-Use Software (Subtopic 350-40): Targeted Improvements to the Accounting for Internal-Use Software" (ASU 2025-06). ASU 2025-06 changes the cost capitalization threshold by removing the accounting consideration given to software project development stages and replaces it with the following criteria that must be met for entities to begin capitalizing software costs: (1) management has authorized and committed to funding the project and (2) it is &#8216;probable' the project will be completed and the software used to perform its intended function (referred to as the &#8216;probable-to-complete' threshold). In addition, ASU 2025-06 specifies that entities must apply the disclosure requirements in ASC 360-10, Property, Plant, and Equipment--Overall to capitalized internal-use software and related amortization, regardless of how the internal-use software is classified on the balance sheet. ASU 2025-06 is effective for interim and annual periods beginning after December 15, 2027, although early adoption is permitted. Northern Trust is currently assessing the impacts upon adoption of ASU 2025-06.
+Other accounting pronouncements that were issued by the FASB but not yet adopted as of June 30, 2026 are not expected to have a material impact on Northern Trust's consolidated balance sheets or consolidated statements of income upon adoption.
+RISK MANAGEMENT
+Liquidity Risk
+Liquidity risk is the risk of not being able to raise sufficient funds or maintain collateral to meet balance sheet and contingent liability cash flow obligations when due, because of firm-specific or market-wide stress events. Northern Trust is a Category II institution as defined by the Federal Reserve Board which requires us to adhere to the same regulatory liquidity standards as U.S. global systemically important bank holding companies (GSIBs). In adhering to these standards, Northern Trust engages in a range of reporting and other activities with regulators to affirm our financial strength and stability, including but not limited to, daily LCR and Net Stable Funding Ratio calculations to regulators.
+We maintain a highly liquid balance sheet consisting principally of cash and due from banks, deposits with the Federal Reserve and other central banks, short-term money market assets, and investment securities, which were 66% of total assets as of both June 30, 2026 and December 31, 2025, respectively. The majority of Northern Trust's securities portfolio is composed of highly liquid securities including U.S. Treasury, non-U.S. government, and government sponsored agency securities.
+Market Risk
+There are two types of market risk; interest rate risk associated with the banking book and trading risk. Interest rate risk associated with the banking book is the potential for movements in interest rates to cause changes in Net Interest Income and the market value of equity, including AOCI from the AFS debt securities portfolio. Trading risk is the potential for movements in market variables such as foreign exchange and interest rates to cause changes in the value of trading positions.
+Northern Trust uses two primary measurement techniques to manage interest rate risk: NII sensitivity and MVE sensitivity. NII sensitivity provides management with a short-term view of the impact of interest rate changes on NII. MVE sensitivity provides management with a long-term view of interest rate changes on MVE based on the period-end balance sheet. Higher interest rates may impact the fair value of AFS debt securities which in turn affects AOCI, which can impact regulatory capital ratios.
+As part of its risk management activities, Northern Trust also measures daily the risk of loss associated with all trading book positions using a VaR model and applying the historical simulation methodology. The following information about Northern Trust's management of market risk should be read in conjunction with our Annual Report on Form 10-K for the year ended December 31, 2025.
+NII Sensitivity -- The modeling of NII sensitivity incorporates on-balance-sheet positions, as well as derivative financial instruments (principally interest rate swaps) that are used to manage interest rate risk. Northern Trust uses market implied forward interest rates as the base case and measures the sensitivity (i.e., change) of a static balance sheet to changes in interest rates. Stress testing of interest rates is performed to include such scenarios as immediate parallel shocks to rates, nonparallel (i.e., twist) changes to yield curves that result in their becoming steeper or flatter, and changes to the relationship among the yield curves (i.e., basis risk).
+28
+RISK MANAGEMENT (continued)
+Market Risk (continued)
+The NII sensitivity analysis incorporates certain critical assumptions such as interest rates and client behaviors under changing rate environments. These assumptions are based on a combination of historical analysis and future expected pricing behavior. The simulation cannot precisely estimate NII sensitivity given uncertainty in the assumptions. The following key assumptions are incorporated into the simulation:
+&#9642;the balance sheet size and mix remains constant over the simulation horizon with maturing assets and liabilities replaced with instruments with similar terms as those that are maturing, with the exception of certain nonmaturity deposits that are considered short-term in nature and therefore receive a more conservative interest-bearing treatment;
+&#9642;prepayments on mortgage loans and securities collateralized by mortgages are projected under each rate scenario using a third-party mortgage analytics system that incorporates market prepayment assumptions;
+&#9642;cash flows for structured securities are estimated using a third-party vendor in conjunction with the prepayments provided by the third-party mortgage analytics vendor;
+&#9642;nonmaturity deposit pricing is projected based on Northern Trust's actual historical patterns and management judgment, depending upon the availability of historical data and current pricing strategies/or judgment; and
+&#9642;new business rates are based on current spreads to market indices.
+The following table shows the estimated NII impact over the next twelve months of 100 and 200 basis point ramps upward and downward in interest rates relative to forward rates as of June 30, 2026 and June 30, 2025. Each rate movement is assumed to occur gradually over a one-year period.
+TABLE 28: NET INTEREST INCOME SENSITIVITY
+INCREASE (DECREASE) ESTIMATED IMPACT ON NEXT TWELVE MONTHS OF NET INTEREST INCOME |
+(In Millions) | JUNE 30, 2026
+JUNE 30, 2025
+Increase in Interest Rates Above Market Implied Forward Rates |
+100 Basis Points | $ | 44 | $ | 69 |
+200 Basis Points | 74 | 147 |
+Decrease in Interest Rates Below Market Implied Forward Rates |
+100 Basis Points | $ | (57) | $ | (89) |
+200 Basis Points | (147) | $ | (188) |
+The NII sensitivity analysis does not incorporate certain management actions that may be used to mitigate adverse effects of actual interest rate movement. For that reason and others, the estimated impacts do not reflect the likely actual results but serve as estimates of interest rate risk. NII sensitivity is not comparable to actual results disclosed elsewhere or directly predictive of future values of other measures provided.
+MVE Sensitivity -- MVE is defined as the present value of assets minus the present value of liabilities, net of the value of financial derivatives that are used to manage the interest rate risk of balance sheet items. The MVE looks at the whole balance sheet, which includes AFS debt securities, HTM debt securities, money market accounts, deposits, loans and wholesale borrowings. The potential effect of interest rate changes on MVE is derived from the impact of such changes on projected future cash flows and the present value of these cash flows and is then compared to the established limit. Northern Trust uses current market rates (and the future rates implied by these market rates) as the base case and measures MVE sensitivity under various rate scenarios. Stress testing of interest rates is performed to include such scenarios as immediate parallel shocks to rates, nonparallel (i.e., twist) changes to yield curves that result in their becoming steeper or flatter, and changes to the relationship among the yield curves (i.e., basis risk).
+The MVE sensitivity analysis incorporates certain critical assumptions such as interest rates and client behaviors under changing rate environments. These assumptions are based on a combination of historical analysis and future expected pricing behavior. The simulation cannot precisely estimate MVE sensitivity given uncertainty in the assumptions. Many of the assumptions that apply to NII sensitivity also apply to MVE sensitivity simulations, with the following separate key assumptions incorporated into the MVE simulation:
+&#9642;the present value of nonmaturity deposits is estimated using dynamic decay methodologies or estimated remaining lives, which are based on a combination of Northern Trust's actual historical runoff patterns and management judgment--some balances are assumed to be core and have longer lives while other balances are assumed to be temporary and have comparatively shorter lives;
+&#9642;the present values of most noninterest-bearing balances (such as receivables, equipment, and payables) are the same as their book values; and
+&#9642;Monte Carlo simulation is used to generate forward interest rate paths.
+29
+RISK MANAGEMENT (continued)
+Market Risk (continued)
+The following table shows the estimated impact on MVE of 100 and 200 basis point shocks up and down from current market implied forward rates at June 30, 2026 and December 31, 2025. Each rate movement is assumed to occur gradually over a one-year period.
+TABLE 29: MARKET VALUE OF EQUITY SENSITIVITY
+INCREASE (DECREASE) ESTIMATED IMPACT ON MARKET VALUE OF EQUITY |
+(In Millions) | JUNE 30, 2026
+DECEMBER 31, 2025
+Increase in Interest Rates Above Market Implied Forward Rates |
+100 Basis Points | $ | (623) | $ | (537) |
+200 Basis Points | (1,357) | (1,186) |
+Decrease in Interest Rates Below Market Implied Forward Rates |
+100 Basis Points | $ | 647 | $ | 534 |
+200 Basis Points | 1,218 | 920 |
+The MVE simulations do not incorporate certain management actions that may be used to mitigate adverse effects of actual interest rate movements. For that reason and others, the estimated impacts do not reflect the likely actual results but serve as estimates of interest rate risk. MVE sensitivity is not comparable to actual results disclosed elsewhere or directly predictive of future values of other measures provided.
+Value-At-Risk (VaR) -- Northern Trust measures daily the risk of loss associated with trading positions using a VaR model and applying the historical simulation methodology. This statistical model provides estimates, based on high confidence levels, of the potential loss in value that might be incurred if an adverse shift in foreign exchange rates and interest rates were to occur over a small number of days. The model incorporates foreign currency and interest rate volatilities and correlations in price movements among the currencies and interest rates. VaR is computed for each trading desk and for the global portfolio.
+Northern Trust monitors several variations of the VaR measures to meet specific regulatory and internal management needs. Variations include different methodologies (historical simulation, Monte Carlo simulation and Taylor approximation), horizons of one day and ten days, confidence levels of 95% and 99%, subcomponent VaRs using only foreign exchange (FX) drivers, only interest rate (IR) drivers, and only volatility drivers, and look-back periods of one year, two years, and four years. Those alternative measures provide management an array of corroborating metrics and alternative perspectives on Northern Trust's market risks.
+The following table presents the levels of total regulatory VaR and its subcomponents, covering global foreign exchange (GFX), foreign currency balances, and interest rate derivatives combined, in the periods indicated below, based on the historical simulation methodology, a 99% confidence level, a one-day horizon and equally weighted volatility. The total VaR is typically less than the sum of its three subcomponents due to diversification benefits derived from interactions among the three drivers.
+TABLE 30: VALUE-AT-RISK
+(In Millions) | Combined Trading Book VaR | FX VaR
+(FX DRIVERS ONLY) | IR VaR
+(IR DRIVERS ONLY) |
+THREE MONTHS ENDED | JUNE 30, 2026 | MARCH 31, 2026 | JUNE 30, 2025 | JUNE 30, 2026 | MARCH 31, 2026 | JUNE 30, 2025 | JUNE 30, 2026 | MARCH 31, 2026 | JUNE 30, 2025 |
+High | $ | 2.1 | $ | 0.5 | $ | 0.6 | $ | 2.0 | $ | 0.5 | $ | 0.6 | $ | 0.2 | $ | 0.2 | $ | 0.3 |
+Low | 0.2 | 0.2 | 0.3 | 0.2 | 0.1 | 0.2 | -- | 0.1 | 0.1 |
+Average | 0.8 | 0.3 | 0.4 | 0.7 | 0.2 | 0.3 | 0.1 | 0.1 | 0.2 |
+Quarter-End | 0.3 | 0.3 | 0.3 | 0.2 | 0.3 | 0.2 | 0.1 | 0.1 | 0.1 |
+During the three months ended June 30, 2026, Northern Trust did not incur an actual GFX trading loss in excess of the daily GFX VaR estimate.
+Foreign currency balances arise not from executing trades but rather in the course of regular business operations, namely from non-U.S.-dollar-denominated revenues and expenses accruing onto the Corporation's balance sheet.
+30
+RECONCILIATION TO FULLY TAXABLE EQUIVALENT
+The following table presents a reconciliation of Interest Income, Net Interest Income, Net Interest Margin, and Total Revenue prepared in accordance with GAAP to such measures on an FTE basis, which are non-GAAP financial measures. Net Interest Margin is calculated by dividing annualized Net Interest Income by average interest-earning assets. Management believes this presentation provides a clearer indication of these financial measures for comparative purposes. When adjusted to an FTE basis, yields on taxable, nontaxable and partially taxable assets are comparable; however, the adjustment to an FTE basis has no impact on Net Income.
+TABLE 31: RECONCILIATION TO FULLY TAXABLE EQUIVALENT
+THREE MONTHS ENDED JUNE 30, | SIX MONTHS ENDED JUNE 30, |
+($ In Millions) | 2026 | 2025 | 2026 | 2025 |
+Net Interest Income |
+Interest Income - GAAP | $ | 2,189.3 | $ | 2,212.8 | $ | 4,423.4 | $ | 4,353.7 |
+Add: FTE Adjustment | 7.6 | 4.7 | 15.2 | 10.3 |
+Interest Income (FTE) - Non-GAAP | $ | 2,196.9 | $ | 2,217.5 | $ | 4,438.6 | $ | 4,364.0 |
+Net Interest Income - GAAP | $ | 675.5 | $ | 610.5 | $ | 1,329.5 | $ | 1,178.6 |
+Add: FTE Adjustment | 7.6 | 4.7 | 15.2 | 10.3 |
+Net Interest Income (FTE) - Non-GAAP | $ | 683.1 | $ | 615.2 | $ | 1,344.7 | $ | 1,188.9 |
+Net Interest Margin - GAAP | 1.79 | % | 1.68 | % | 1.76 | % | 1.67 | % |
+Net Interest Margin (FTE) - Non-GAAP | 1.81 | % | 1.69 | % | 1.78 | % | 1.69 | % |
+Total Revenue |
+Total Revenue - GAAP | $ | 2,698.0 | $ | 1,997.9 | $ | 4,903.7 | $ | 3,937.9 |
+Add: FTE Adjustment | 7.6 | 4.7 | 15.2 | 10.3 |
+Total Revenue (FTE) - Non-GAAP | $ | 2,705.6 | $ | 2,002.6 | $ | 4,918.9 | $ | 3,948.2 |
+31
+FORWARD-LOOKING STATEMENTS
+This report may include statements which constitute "forward-looking statements" within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Forward-looking statements are identified typically by words or phrases such as "believe," "expect," "anticipate," "intend," "estimate," "project," "likely," "plan," "goal," "target," "strategy," and similar expressions or future or conditional verbs such as "may," "will," "should," "would," and "could." Forward-looking statements include statements, other than those related to historical facts, that relate to Northern Trust's financial results and outlook; capital adequacy; dividend policy and share repurchase program; accounting estimates and assumptions; credit quality including allowance levels; future pension plan contributions; effective tax rate; anticipated expense levels; contingent liabilities; acquisitions; strategies; market and industry trends; and expectations regarding the impact of accounting pronouncements and legislation. These statements are based on Northern Trust's current beliefs and expectations of future events or future results, and involve risks and uncertainties that are difficult to predict and subject to change. These statements are also based on assumptions about many important factors, including:
+&#8226;financial market disruptions or economic recession in the U.S. or other countries across the globe resulting from any of a number of factors;
+&#8226;volatility or changes in financial markets, including debt and equity markets, that impact the value, liquidity, or credit ratings of financial assets in general, or financial assets held in particular investment funds or client portfolios, including those funds, portfolios, and other financial assets with respect to which Northern Trust has taken, or may in the future take, actions to provide asset value stability or additional liquidity;
+&#8226;the impact of equity markets on fee revenue;
+&#8226;changes in interest rates or in the monetary or other policies of various regulatory authorities or central banks;
+&#8226;changes in trade policy, including the imposition of tariffs or the impacts of retaliatory tariffs;
+&#8226;Northern Trust's success in controlling the costs and expenses of its business operations and the impacts of any broader inflationary environment thereon;
+&#8226;a decline in the value of securities held in Northern Trust's investment portfolio, the liquidity and pricing of which may be negatively impacted by periods of economic turmoil and financial market disruptions;
+&#8226;Northern Trust's ability to address operating risks, including those related to cybersecurity, data privacy and security, human errors or omissions, pricing or valuation of securities, fraud, operational resilience (including systems performance), failure to maintain sustainable business practices, and breakdowns in processes or internal controls;
+&#8226;Northern Trust's success in responding to and investing in changes and advancements in technology, including artificial intelligence
+&#8226;geopolitical risks, risks related to global climate change and the risks of extraordinary events such as pandemics, natural disasters, terrorist events, global conflicts and war, and the responses of the U.S. and other countries to those events;
+&#8226;unexpected deposit outflows;
+&#8226;the effectiveness of Northern Trust's management of its human capital, including its success in recruiting and retaining necessary and diverse personnel to support business growth and expansion and maintain sufficient expertise to support increasingly complex products and services;
+&#8226;changes in the legal, regulatory and enforcement framework and oversight applicable to financial institutions, including Northern Trust;
+&#8226;changes in foreign exchange trading client volumes and volatility in foreign currency exchange rates, changes in the valuation of the U.S. dollar relative to other currencies in which Northern Trust records revenue or accrues expenses, and Northern Trust's success in assessing and mitigating the risks arising from all such changes and volatility;
+&#8226;a significant downgrade of any of Northern Trust's debt ratings;
+&#8226;the health and soundness of the financial institutions and other counterparties with which Northern Trust conducts business;
+&#8226;uncertainties inherent in the complex and subjective judgments required to assess credit risk and establish appropriate allowances therefor;
+&#8226;increased costs of compliance and other risks associated with changes in regulation, the current regulatory environment, and areas of increased regulatory emphasis and oversight in the U.S. and other countries, such as anti-money laundering, anti-bribery, and data privacy and security;
+&#8226;failure to satisfy regulatory standards or to obtain regulatory approvals when required, including for the use and distribution of capital;
+&#8226;Northern Trust's success in continuing to enhance its risk management practices and controls and managing risks inherent in its businesses, including credit risk, operational risk, market and liquidity risk, fiduciary risk, compliance risk and strategic risk;
+&#8226;risks and uncertainties inherent in the litigation and regulatory process, including the possibility that losses may be in excess of Northern Trust's recorded liability and estimated range of possible loss for litigation exposures;
+32
+FORWARD-LOOKING STATEMENTS (continued)
+
+----- [line 2079] -----
+Capitalized Software. The gross carrying amount and accumulated amortization of capitalized software as of June 30, 2026 and December 31, 2025 were as follows.
+61
+Notes to Consolidated Financial Statements (unaudited) (continued)
+TABLE 54: CAPITALIZED SOFTWARE
+(In Millions) | JUNE 30, 2026 | DECEMBER 31, 2025 |
+Gross Carrying Amount | $ | 5,084.3 | $ | 4,926.2 |
+Less: Accumulated Amortization | 2,873.4 | 2,574.2 |
+Net Book Value | $ | 2,210.9 | $ | 2,352.0 |
+Capitalized software, which is included in Other Assets on the consolidated balance sheets, consists primarily of cost related to purchased software and internal-use software development projects that result in new or enhanced functionality, including compensation and other allowable internal costs. Fees paid for the use of software services that do not convey a software license are expensed as incurred. Amortization expense, which is included in Equipment and Software on the consolidated statements of income, totaled $173.5 million and $346.4 million for the three and six months ended June 30, 2026, respectively, and $168.0 million and $330.9 million for the three and six months ended June 30, 2025, respectively.
+Northern Trust recorded a $61.5 million expense for the disposal of capitalized software, primarily related to the development of internal-use software that was no longer planned to be placed in service, which is included in Equipment and Software on the consolidated statements of income for the three and six months ended June 30, 2026.
+Note 9 - Reporting Segments
+Northern Trust is organized around its two client-focused reporting segments: Asset Servicing and Wealth Management. Asset management and related services are provided to Asset Servicing and Wealth Management clients primarily by the Asset Management business. The revenue and expenses of Asset Management and certain other support functions are allocated fully to Asset Servicing and Wealth Management.
+Reporting segment financial information, presented on an internal management-reporting basis, is determined by accounting systems used to allocate revenue and expense to each segment, and incorporates processes for allocating assets, liabilities, equity and the applicable interest income and expense utilizing an FTP methodology. Under the methodology, assets and liabilities receive a funding charge or credit that considers interest rate risk, liquidity risk, and other product characteristics on an instrument level. Additionally, segment information is presented on an FTE basis as management believes an FTE presentation provides a clearer indication of net interest income. The adjustment to an FTE basis has no impact on Net Income.
+Revenues, expenses and average assets are allocated to Asset Servicing and Wealth Management, with the exception of non-recurring activities such as certain corporate transactions and costs incurred associated with acquisitions, divestitures, litigation, restructuring, and tax adjustments not directly attributable to a specific reporting segment, which are reported within Other.
+In addition to income and expenses associated with non-recurring activities, Other includes expenses for the Enterprise Chief Operating Office, Asset Management, corporate and other support functions not directly incurred by, but ultimately allocated back to Asset Servicing and Wealth Management. Other also includes the FTE adjustments of $7.6 million and $15.2 million for the three and six months ended June 30, 2026, respectively, and $4.7 million and $10.3 million for the three and six months ended June 30, 2025, respectively, in order to reconcile the segment results that are reported on an internal management-reporting basis into consolidated results.
+Reporting segment results are subject to reclassification when organizational changes are made. The results are also subject to refinements in revenue and expense allocation methodologies, which are typically reflected on a retrospective basis unless it is impractical to do so.
+Northern Trust's Chief Operating Decision Maker is the Chief Executive Officer. The Chief Operating Decision Maker uses growth and profitability metrics to assess segments' performance including segment revenue and income before income taxes. Those same measures are used by the Chief Operating Decision Maker as primary inputs into the allocation of resources in the annual planning process. Allocation of capital to each segment takes into consideration a variety of factors including average loans, average deposits and applicable regulatory capital requirements.
+The following table presents the earnings contributions and certain average balances of Northern Trust's reporting segments for the three- and six-month periods ended June 30, 2026 and 2025.
+62
+Notes to Consolidated Financial Statements (unaudited) (continued)
+TABLE 55: RESULTS OF REPORTING SEGMENTS
+($ In Millions) | ASSET SERVICING | WEALTH MANAGEMENT | OTHER | TOTAL CONSOLIDATED |
+THREE MONTHS ENDED JUNE 30, | 2026 | 2025 | 2026 | 2025 | 2026 | 2025 | 2026 | 2025 |
+Noninterest Income |
+Trust, Investment and Other Servicing Fees | $ | 757.4 | $ | 691.8 | $ | 592.1 | $ | 539.3 | $ | -- | $ | -- | $ | 1,349.5 | $ | 1,231.1 |
+Foreign Exchange Trading Income (Loss) | 98.9 | 61.0 | (1.8) | (10.4) | -- | -- | 97.1 | 50.6 |
+Other Noninterest Income | 89.3 | 70.6 | 35.8 | 34.6 | 450.8 | 0.5 | 575.9 | 105.7 |
+Total Noninterest Income | 945.6 | 823.4 | 626.1 | 563.5 | 450.8 | 0.5 | 2,022.5 | 1,387.4 |
+Net Interest Income (Expense)(1)
+416.1 | 347.2 | 265.3 | 268.3 | (5.9) | (5.0) | 675.5 | 610.5 |
+Revenue(1)
+1,361.7 | 1,170.6 | 891.4 | 831.8 | 444.9 | (4.5) | 2,698.0 | 1,997.9 |
+Provision for Credit Losses | (2.7) | 3.9 | (1.6) | 11.2 | (1.0) | 1.4 | (5.3) | 16.5 |
+Noninterest Expense |
+Compensation and Benefits | 111.7 | 90.9 | 176.3 | 163.6 | 580.0 | 478.0 | 868.0 | 732.5 |
+Outside Services | 31.4 | 43.5 | 13.6 | 17.0 | 201.3 | 186.5 | 246.3 | 247.0 |
+Allocated Expense | 875.3 | 741.5 | 348.6 | 306.7 | (1,223.9) | (1,048.2) | -- | -- |
+Other Segment Items(2)
+22.7 | 19.4 | 21.0 | 23.7 | 480.6 | 394.0 | 524.3 | 437.1 |
+Total Noninterest Expense | 1,041.1 | 895.3 | 559.5 | 511.0 | 38.0 | 10.3 | 1,638.6 | 1,416.6 |
+Income (Loss) before Income Taxes(1)
+323.3 | 271.4 | 333.5 | 309.6 | 407.9 | (16.2) | 1,064.7 | 564.8 |
+Provision for Income Taxes(1)
+72.9 | 58.2 | 83.2 | 75.6 | 116.4 | 9.7 | 272.5 | 143.5 |
+Net Income (Loss) | $ | 250.4 | $ | 213.2 | $ | 250.3 | $ | 234.0 | $ | 291.5 | $ | (25.9) | $ | 792.2 | $ | 421.3 |
+Percentage of Consolidated Net Income | 32 | % | 51 | % | 32 | % | 56 | % | 36 | % | (7) | % | 100 | % | 100 | % |
+Average Assets | $ | 123,994.6 | $ | 117,044.6 | $ | 39,431.2 | $ | 39,094.5 | $ | 150.0 | $ | 1,580.1 | $ | 163,575.8 | $ | 157,719.2 |
+Average Loans | $ | 5,800.6 | $ | 5,812.8 | $ | 35,767.0 | $ | 35,345.2 | $ | -- | $ | -- | $ | 41,567.6 | $ | 41,158.0 |
+Average Deposits | $ | 100,980.6 | $ | 95,506.7 | $ | 26,715.1 | $ | 25,291.0 | $ | 150.0 | $ | 1,580.1 | $ | 127,845.7 | $ | 122,377.8 |
+(1) Financial measures stated on an FTE basis. The FTE adjustment was $7.6 million and $4.7 million for the three months ended June 30, 2026 and 2025, respectively, and is eliminated within "Other" in order for "Total Consolidated" to reconcile with the Consolidated Statement of Income.
+(2) Other Segment Items include Occupancy, Equipment & Software and Other Operating Expense.
+(In Millions) | ASSET SERVICING | WEALTH MANAGEMENT | OTHER | TOTAL CONSOLIDATED |
+SIX MONTHS ENDED JUNE 30, | 2026 | 2025 | 2026 | 2025 | 2026 | 2025 | 2026 | 2025 |
+Noninterest Income |
+Trust, Investment and Other Servicing Fees | $ | 1,497.9 | $ | 1,363.7 | $ | 1,193.0 | $ | 1,081.2 | $ | -- | $ | -- | $ | 2,690.9 | $ | 2,444.9 |
+Foreign Exchange Trading Income (Loss) | 189.9 | 124.9 | (5.1) | (15.6) | -- | -- | 184.8 | 109.3 |
+Other Noninterest Income (Loss) | 174.2 | 139.2 | 69.7 | 68.1 | 454.6 | (2.2) | 698.5 | 205.1 |
+Total Noninterest Income (Loss) | 1,862.0 | 1,627.8 | 1,257.6 | 1,133.7 | 454.6 | (2.2) | 3,574.2 | 2,759.3 |
+Net Interest Income (Expense)(1)
+817.8 | 670.9 | 524.8 | 518.4 | (13.1) | (10.7) | 1,329.5 | 1,178.6 |
+Revenue(1)
+2,679.8 | 2,298.7 | 1,782.4 | 1,652.1 | 441.5 | (12.9) | 4,903.7 | 3,937.9 |
+Provision for Credit Losses | (5.0) | 6.0 | -- | 10.3 | (3.3) | 1.2 | (8.3) | 17.5 |
+Noninterest Expense |
+Compensation and Employee Benefits | 219.2 | 202.1 | 353.6 | 335.3 | 1,117.4 | 949.2 | 1,690.2 | 1,486.6 |
+Outside Services | 61.2 | 90.2 | 24.6 | 31.3 | 397.2 | 370.7 | 483.0 | 492.2 |
+Allocated Expense | 1,663.4 | 1,451.8 | 699.4 | 615.3 | (2,362.8) | (2,067.1) | -- | -- |
+Other Segment Items(2)
+44.4 | 41.7 | 41.0 | 46.2 | 888.0 | 767.5 | 973.4 | 855.4 |
+Total Noninterest Expense | 1,988.2 | 1,785.8 | 1,118.6 | 1,028.1 | 39.8 | 20.3 | 3,146.6 | 2,834.2 |
+Income (Loss) before Income Taxes(1)
+696.6 | 506.9 | 663.8 | 613.7 | 405.0 | (34.4) | 1,765.4 | 1,086.2 |
+
+----- [line 2506] -----
+In September 2018, Visa reached a proposed class settlement agreement covering damage claims but not injunctive relief claims regarding the covered litigation. In December 2019, the district court granted final approval for the proposed class settlement agreement. In March 2023, the Second Circuit Court of Appeals affirmed the district court's approval of the class settlement agreement. Certain merchants have opted out of the class settlement and are pursuing claims separately. The ultimate resolution of the covered litigation, the timing for removal of the selling restrictions on the Visa Class B common shares and the rate at which such shares will ultimately convert into Visa Class A common shares are uncertain.
+In May 2024, Northern Trust participated in an offer to exchange outstanding shares of Visa's Class B common stock for a newly issued series of Visa Class B-2 common shares and Visa Class C common shares (Exchange Offer).
+In May 2026, Northern Trust participated in a second Exchange Offer and tendered all of its Visa Class B-2 common shares in exchange for 50% in the form of a newly issued series of Visa Class B-3 common shares and 50% in the form of Visa Class C common shares.
+All outstanding Visa Class B common share series have the same transfer and convertibility restrictions as those Visa Class B common shares outstanding prior to the Exchange Offers.
+Participation in the Exchange Offers required Northern Trust to enter into Makewhole Agreements whereby Northern Trust is subject to the same Visa indemnity obligations as prior to its participation in the Exchange Offers. At June 30, 2026, Northern Trust has not recorded a liability under these agreements as Northern Trust believes the likelihood that a payment under the Makewhole Agreements will have to be made is remote.
+Northern Trust holds the Visa Class B-3 common shares received in the second Exchange Offer at their carryover basis of zero as of June 30, 2026. Based upon the June 30, 2026 closing price of $343.09 for a Visa Class A common share, the estimated value of Northern Trust's Visa Class B-3 common shares was approximately $529.7 million at the current conversion rate of Visa Class B-3 to Visa Class A common shares. The estimated value does not represent fair value given the shares' limited transferability.
+Northern Trust sold 129.7 thousand Visa Class C shares in the three months ended June 30, 2026, and recorded a realized gain of $169.3 million on the sales through Other Operating Income. As of June 30, 2026, Northern Trust continues to hold 270.1 thousand Visa Class C common shares which are recorded at their fair value of $370.7 million in Other Assets on the consolidated balance sheets with changes in fair value recorded in Other Operating Income on the consolidated statement of income.
+76
+Notes to Consolidated Financial Statements (unaudited) (continued)
+Note 21 - Derivative Financial Instruments
+Northern Trust is a party to various derivative financial instruments that are used in the normal course of business to meet the needs of its clients, as part of its trading activity for its own account and as part of its risk management activities. These instruments may include foreign exchange contracts, interest rate contracts, total return swap contracts, and swaps related to the sales of certain Visa Class B common shares.
+Foreign exchange contracts are agreements to exchange specific amounts of currencies at a future date, at a specified rate of exchange. Foreign exchange contracts are entered into primarily to meet the foreign exchange needs of clients. Foreign exchange contracts are also used for trading and risk management purposes. For risk management purposes, Northern Trust uses foreign exchange contracts to reduce its exposure to changes in foreign exchange rates relating to certain forecasted non-functional-currency-denominated revenue and expenditure transactions and foreign-currency-denominated assets and liabilities, including debt securities and net investments in non-U.S. affiliates.
+Interest rate contracts include swap and option contracts. Interest rate swap contracts involve the exchange of fixed and floating rate interest payment obligations without the exchange of the underlying principal amounts. Northern Trust enters into interest rate swap contracts with its clients and also may utilize such contracts to reduce or eliminate the exposure to changes in the cash flows or fair value of hedged assets or liabilities due to changes in interest rates. Interest rate option contracts may include caps, floors, collars and swaptions, and provide for the transfer or reduction of interest rate risk, typically in exchange for a fee. Northern Trust enters into option contracts primarily as a seller of interest rate protection to clients. Northern Trust receives a fee at the outset of the agreement for the assumption of the risk of an unfavorable change in interest rates. This assumed interest rate risk is then mitigated by entering into an offsetting position with an outside counterparty. Northern Trust may also purchase or enter into option contracts for risk management purposes including to reduce the exposure to changes in the cash flows of hedged assets due to changes in interest rates.
+77
+Notes to Consolidated Financial Statements (unaudited) (continued)
+The following table shows the notional and fair values of all derivative financial instruments as of June 30, 2026 and December 31, 2025.
+TABLE 69: NOTIONAL AND FAIR VALUES OF DERIVATIVE FINANCIAL INSTRUMENTS
+JUNE 30, 2026 | DECEMBER 31, 2025 |
+NOTIONAL VALUE | FAIR VALUE | NOTIONAL VALUE | FAIR VALUE |
+(In Millions) | ASSET(1)
+LIABILITY(2)
+ASSET(1)
+LIABILITY(2)
+Derivatives Designated as Hedging under GAAP |
+Interest Rate Contracts |
+Fair Value Hedges | $ | 10,316.6 | $ | -- | $ | -- | $ | 10,897.4 | $ | 16.5 | $ | -- |
+Cash Flow Hedges | 20,000.0 | 1.6 | 0.1 | -- | -- | -- |
+Foreign Exchange Contracts |
+Cash Flow Hedges | 399.9 | 16.8 | -- | 1,312.0 | 29.6 | -- |
+Net Investment Hedges | 5,038.8 | 109.8 | 11.3 | 4,734.5 | 8.7 | 351.8 |
+Total Derivatives Designated as Hedging under GAAP | $ | 35,755.3 | $ | 128.2 | $ | 11.4 | $ | 16,943.9 | $ | 54.8 | $ | 351.8 |
+Derivatives Not Designated as Hedging under GAAP |
+Non-Designated Risk Management Derivatives |
+Foreign Exchange Contracts
+$ | 1.5 | $ | -- | $ | -- | $ | 1.6 | $ | -- | $ | -- |
+Other Financial Derivatives(3)
+366.7 | 0.3 | 23.1 | 606.6 | 0.7 | 31.3 |
+Total Non-Designated Risk Management Derivatives | $ | 368.2 | $ | 0.3 | $ | 23.1 | $ | 608.2 | $ | 0.7 | $ | 31.3 |
+Client-Related and Trading Derivatives |
+Foreign Exchange Contracts
+$ | 489,167.1 | $ | 3,168.0 | $ | 3,148.1 | $ | 392,874.0 | $ | 1,950.5 | $ | 1,896.1 |
+Interest Rate Contracts
+9,253.1 | 78.6 | 138.7 | 11,132.1 | 88.3 | 130.4 |
+Total Client-Related and Trading Derivatives | $ | 498,420.2 | $ | 3,246.6 | $ | 3,286.8 | $ | 404,006.1 | $ | 2,038.8 | $ | 2,026.5 |
+Total Derivatives Not Designated as Hedging under GAAP | $ | 498,788.4 | $ | 3,246.9 | $ | 3,309.9 | $ | 404,614.3 | $ | 2,039.5 | $ | 2,057.8 |
+Total Gross Derivatives | $ | 534,543.7 | $ | 3,375.1 | $ | 3,321.3 | $ | 421,558.2 | $ | 2,094.3 | $ | 2,409.6 |
+Less: Netting(4)
+1,830.4 | 2,752.4 | 1,779.2 | 1,175.7 |
+Total Derivative Financial Instruments | $ | 1,544.7 | $ | 568.9 | $ | 315.1 | $ | 1,233.9 |
+(1) Derivative assets are reported in Other Assets on the consolidated balance sheets.
+(2) Derivative liabilities are reported in Other Liabilities on the consolidated balance sheets.
+(3) Includes swaps related to sales of certain Visa Class B common shares and total return swap contracts.
+(4) See further detail in Note 23--Offsetting of Assets and Liabilities.
+Notional amounts of derivative financial instruments do not represent credit risk and are not recorded in the consolidated balance sheets. They are used merely to express the volume of this activity. Northern Trust's credit-related risk of loss is limited to the positive fair value of the derivative instrument, net of any collateral received, which is significantly less than the notional amount.
+All derivative financial instruments, whether designated as hedges or not, are recorded on the consolidated balance sheets at fair value within Other Assets or Other Liabilities. Northern Trust has elected to net derivative assets and liabilities when legally enforceable master netting arrangements or similar agreements exist between Northern Trust and the counterparty.
+Hedging Derivative Instruments Designated under GAAP. Northern Trust uses derivative instruments to hedge its exposure to foreign currency and interest rate risk. Certain hedging relationships are formally designated and qualify for hedge accounting under GAAP as fair value, cash flow or net investment hedges.
+In order to qualify for hedge accounting, a formal assessment is performed on a calendar-quarter basis to verify that derivatives used in designated hedging transactions continue to be highly effective in offsetting the changes in fair value or cash flows of the hedged item. If a derivative ceases to be highly effective, matures, is sold or is terminated, or if a hedged forecasted transaction is no longer probable of occurring, hedge accounting is terminated and the derivative is treated as a trading instrument.
+Fair Value Hedges. Derivatives are designated as fair value hedges to limit Northern Trust's exposure to changes in the fair value of assets and liabilities due to movements in interest rates. Northern Trust may enter into interest rate swaps to hedge changes in fair value of AFS debt securities and long-term subordinated debt and senior notes. Northern Trust applied the "shortcut" method of accounting, available under GAAP, which assumes there is perfect effectiveness in a hedge, for all of its fair value hedges during the three- and six- month periods ended June 30, 2026 and 2025. Changes in the fair value of the derivative instrument and changes in the fair value of the hedged asset or liability attributable to the hedged risk are recognized currently in earnings within the same income statement line item.
+78
+Notes to Consolidated Financial Statements (unaudited) (continued)
+Cash Flow Hedges. Derivatives are also designated as cash flow hedges in order to minimize the variability in cash flows of earning assets or forecasted transactions caused by movements in interest or foreign exchange rates. Northern Trust may enter into foreign exchange contracts to hedge changes in cash flows due to movements in foreign exchange rates of forecasted foreign-currency-denominated transactions and foreign-currency-denominated debt securities. Northern Trust may also enter into interest rate contracts to hedge changes in cash flows due to movements in interest rates of AFS debt securities or loans. The change in fair value of cash flow hedging derivative instruments are recorded in AOCI and reclassified to earnings when the hedged forecasted transaction impacts earnings within the same income statement line item. For certain cash flow hedging strategies, amounts excluded from the assessment of hedge effectiveness are recorded in AOCI and amortized to earnings over the life of the derivative.
+There were no material gains or losses reclassified into earnings during the three- and six- month periods ended June 30, 2026 and 2025, as a result of the discontinuance of forecasted transactions that were no longer probable of occurring. It is estimated that net losses of $3.1 million will be reclassified into Net Income within the next twelve months relating to cash flow hedges. As of June 30, 2026, 7 months was the maximum length of time over which the exposure to variability in future cash flows of forecasted foreign-currency-denominated debt securities was being hedged.
+The following tables provide fair value and cash flow hedge derivative gains and losses recognized in income during the three- and six- month periods ended June 30, 2026 and 2025.
+TABLE 70: LOCATION AND AMOUNT OF FAIR VALUE AND CASH FLOW HEDGE DERIVATIVE GAINS AND LOSSES RECORDED IN INCOME
+(In Millions) | INTEREST INCOME | INTEREST EXPENSE |
+THREE MONTHS ENDED JUNE 30, | 2026 | 2025 | 2026 | 2025 |
+Total amounts on the consolidated statements of income | $ | 2,189.3 | $ | 2,212.8 | $ | 1,513.8 | $ | 1,602.3 |
+Gains (Losses) on fair value hedges recognized on |
+Interest Rate Contracts |
+Recognized on derivatives | 46.9 | (48.0) | (23.3) | 25.5 |
+Recognized on hedged items | (46.9) | 48.0 | 23.3 | (25.5) |
+Amounts related to interest settlements on derivatives | (4.4) | 9.2 | (11.8) | (14.8) |
+Total gains (losses) recognized on fair value hedges | $ | (4.4) | $ | 9.2 | $ | (11.8) | $ | (14.8) |
+Gains (Losses) on cash flow hedges reclassified from AOCI to net income |
+Interest Rate Contracts(1)
+(2.0) | -- | -- | -- |
+Foreign Exchange Contracts | $ | 10.5 | $ | 3.4 | $ | -- | $ | -- |
+Total gains (losses) reclassified from AOCI to net income on cash flow hedges | $ | 8.5 | $ | 3.4 | $ | -- | $ | -- |
+(1) Amounts relate to the amortization of excluded components.
+(In Millions) | INTEREST INCOME | INTEREST EXPENSE |
+SIX MONTHS ENDED JUNE 30, | 2026 | 2025 | 2026 | 2025 |
+Total amounts on the consolidated statements of income | $ | 4,423.4 | $ | 4,353.7 | $ | 3,093.9 | $ | 3,175.1 |
+Gains (Losses) on fair value hedges recognized on |
+Interest Rate Contracts |
+Recognized on derivatives | 99.7 | (147.6) | (32.9) | 64.7 |
+Recognized on hedged items | (99.7) | 147.6 | 32.9 | (64.7) |
+Amounts related to interest settlements on derivatives | (8.1) | 18.2 | (23.4) | (29.4) |
+Total gains (losses) recognized on fair value hedges | $ | (8.1) | $ | 18.2 | $ | (23.4) | $ | (29.4) |
+Gains (Losses) on cash flow hedges reclassified from AOCI to net income |
+Interest Rate Contracts(1)
+(2.4) | -- | -- | -- |
+Foreign Exchange Contracts | $ | 24.3 | $ | 13.9 | $ | -- | $ | -- |
+Total gains (losses) reclassified from AOCI to net income on cash flow hedges | $ | 21.9 | $ | 13.9 | $ | -- | $ | -- |
+(1) Amounts relate to the amortization of excluded components.
+79
+Notes to Consolidated Financial Statements (unaudited) (continued)
+The following table provides the impact of fair value hedge accounting on the carrying value of the designated hedged items as of June 30, 2026 and December 31, 2025.
+TABLE 71: HEDGED ITEMS IN FAIR VALUE HEDGES
+JUNE 30, 2026 | DECEMBER 31, 2025 |
+(In Millions) | CARRYING VALUE OF THE HEDGED ITEMS | CUMULATIVE HEDGE ACCOUNTING BASIS ADJUSTMENT(1)(3)
+CARRYING VALUE OF THE HEDGED ITEMS | CUMULATIVE HEDGE ACCOUNTING BASIS ADJUSTMENT(2)(3)
+Available for Sale Debt Securities(4)
+$ | 7,006.8 | $ | (6.9) | $ | 7,674.8 | $ | 94.1 |
+Senior Notes and Long-Term Subordinated Debt | 3,058.9 | (184.3) | 3,091.1 | (151.4) |
+(1) The cumulative hedge accounting basis adjustment includes no amounts related to discontinued hedging relationships of Available for Sale Debt Securities or Senior Notes and Long-Term Subordinated Debt as of June 30, 2026.
+(2) The cumulative hedge accounting basis adjustment includes $1.3 million related to discontinued hedging relationships of Available for Sale Debt Securities and no amounts related to discontinued hedging relationships in the cumulative hedge accounting basis adjustment of Senior Notes and Long-Term Subordinated Debt as of December 31, 2025.
+(3) Positive (negative) amounts related to Available for Sale Debt Securities represent cumulative fair value hedge basis adjustments that will reduce (increase) net interest income in future periods. Positive (negative) amounts related to Senior Notes and Long-Term Subordinated Debt represent cumulative fair value hedge basis adjustments that will increase (reduce) net interest income in future periods.
+(4) Carrying value represents amortized cost.
+Net Investment Hedges. Certain foreign exchange contracts are designated as net investment hedges to minimize Northern Trust's exposure to variability in the foreign currency translation of net investments in non-U.S. branches and subsidiaries. Net investment hedge gains of $30.7 million and losses of $278.1 million were recognized in AOCI related to foreign exchange contracts for the three months ended June 30, 2026 and 2025, respectively. Net investment hedge gains of $115.3 million and losses of $392.4 million were recognized in AOCI related to foreign exchange contracts for the six months ended June 30, 2026 and 2025, respectively.
+Derivative Instruments Not Designated as Hedging under GAAP. Northern Trust's derivative instruments that are not designated as hedging under GAAP include derivatives for purposes of client-related and trading activities, as well as other risk management purposes. These activities consist principally of providing foreign exchange services to clients in connection with Northern Trust's global custody business. However, in the normal course of business, Northern Trust also engages in trading of currencies for its own account.
+Non-designated risk management derivatives may include foreign exchange contracts entered into to manage the foreign currency risk of non-U.S.-dollar-denominated assets and liabilities, the net investment in certain non-U.S. affiliates, commercial loans and forecasted foreign-currency-denominated transactions. Swaps related to sales of certain Visa Class B common shares were entered into pursuant to which Northern Trust retains the risks associated with the ultimate conversion of the Visa Class B common shares into Visa Class A common shares. Total return swaps are entered into to manage the equity price risk associated with certain investments.
+Changes in the fair value of derivative instruments not designated as hedges under GAAP are recognized currently in income. The following table provides the location and amount of gains and losses recorded in the consolidated statements of income for the six months ended June 30, 2026 and 2025, respectively, for derivative instruments not designated as hedges under GAAP.
+TABLE 72: LOCATION AND AMOUNT OF GAINS AND LOSSES RECORDED IN INCOME FOR DERIVATIVES NOT DESIGNATED AS HEDGING UNDER GAAP
+(In Millions) | DERIVATIVE GAINS (LOSSES) LOCATION RECOGNIZED IN INCOME | AMOUNT OF DERIVATIVE GAINS (LOSSES) RECOGNIZED IN INCOME |
+THREE MONTHS ENDED JUNE 30, | SIX MONTHS ENDED JUNE 30, |

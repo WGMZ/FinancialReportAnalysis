@@ -1,0 +1,1180 @@
+# FITB 10-Q period=2026-06-30
+# https://www.sec.gov/Archives/edgar/data/35527/000003552726000202/fitb-20260630.htm
+# full_doc_chars=599662
+
+
+----- [line 149] -----
+CET1: Common Equity Tier 1
+NII: Net Interest Income
+CFPB: United States Consumer Financial Protection Bureau
+NM: Not Meaningful
+DCF: Discounted Cash Flow
+OAS: Option-Adjusted Spread
+DTCC: Depository Trust & Clearing Corporation
+OCC: Office of the Comptroller of the Currency
+DUS: Delegated Underwriting and Servicing
+OCI: Other Comprehensive Income (Loss)
+ERMC: Enterprise Risk Management Committee
+OREO: Other Real Estate Owned
+EVE: Economic Value of Equity
+PCD: Purchase Credit-Deteriorated
+FASB: Financial Accounting Standards Board
+PSL: Purchased Seasoned Loans
+FDIC: Federal Deposit Insurance Corporation
+ROU: Right-of-Use
+FHA: Federal Housing Administration
+SBA: Small Business Administration
+FHLB: Federal Home Loan Bank
+SEC: United States Securities and Exchange Commission
+FICO: Fair Isaac Corporation (credit rating)
+SOFR: Secured Overnight Financing Rate
+FINRA: Financial Industry Regulatory Authority
+TBA: To Be Announced
+FRB: Federal Reserve Bank
+TILA: Truth in Lending Act
+FTE: Fully Taxable Equivalent
+U.S.: United States of America
+FTP: Funds Transfer Pricing
+U.S. GAAP: United States Generally Accepted Accounting
+FTS: Fifth Third Securities, Inc.
+Principles |
+GDP: Gross Domestic Product
+VA: United States Department of Veterans Affairs
+GNMA: Government National Mortgage Association
+VIE: Variable Interest Entity
+2
+Table of Contents
+Management's Discussion and Analysis of Financial Condition and Results of Operations (Item 2) |
+The following is Management's Discussion and Analysis of Financial Condition and Results of Operations of certain significant factors that have affected Fifth Third Bancorp's (the "Bancorp" or "Fifth Third") financial condition and results of operations during the periods included in the Condensed Consolidated Financial Statements, which are a part of this filing. Reference to the Bancorp incorporates the parent holding company and all consolidated subsidiaries. The Bancorp's banking subsidiary is referred to as the Bank.
+OVERVIEW
+Fifth Third Bancorp is a diversified financial services company headquartered in Cincinnati, Ohio. At June 30, 2026, the Bancorp had $300 billion in assets and operated 1,500 full-service banking centers and 2,648 Fifth Third ATMs in fifteen states throughout its retail footprint. The Bancorp reports on three business segments: Commercial Banking, Consumer and Small Business Banking and Wealth and Asset Management.
+This overview of MD&A highlights selected information in the financial results of the Bancorp and may not contain all of the information that is important to you. For a more complete understanding of trends, events, commitments, uncertainties, liquidity, capital resources and critical accounting policies and estimates, you should carefully read this entire document as well as the Bancorp's Annual Report on Form 10-K for the year ended December 31, 2025. Each of these items could have an impact on the Bancorp's financial condition, results of operations and cash flows. In addition, refer to the Glossary of Abbreviations and Acronyms in this report for a list of terms included as a tool for the reader of this Quarterly Report on Form 10-Q. The abbreviations and acronyms identified therein are used throughout this MD&A, as well as the Condensed Consolidated Financial Statements and Notes to Condensed Consolidated Financial Statements.
+Net interest income, net interest margin, net interest rate spread and the efficiency ratio are presented in MD&A on an FTE basis. The FTE basis adjusts for the tax-favored status of income from certain loans and leases and securities held by the Bancorp that are not taxable for federal income tax purposes. The Bancorp believes this presentation to be the preferred industry measurement of net interest income as it provides a relevant comparison between taxable and non-taxable amounts. The FTE basis for presenting net interest income is a non-GAAP measure. For further information, refer to the Non-GAAP Financial Measures section of MD&A.
+The Bancorp's revenues are dependent on both net interest income and noninterest income. For both the three and six months ended June 30, 2026, net interest income on an FTE basis and noninterest income provided 68% and 32% of total revenue, respectively. The Bancorp derives the majority of its revenues within the U.S. from customers domiciled in the U.S. Changes in interest rates, credit quality, economic trends and the capital markets are primary factors that drive the performance of the Bancorp. As discussed later in the Risk Management section of MD&A, risk identification, measurement, monitoring, control and reporting are important to the management of risk and to the financial performance and capital strength of the Bancorp.
+Net interest income is the difference between interest income earned on assets such as loans, leases and securities, and interest expense incurred on liabilities such as deposits, short-term borrowings and long-term debt. Net interest income is affected by the general level of interest rates, the relative level of short-term and long-term interest rates, changes in interest rates and changes in the amount and composition of interest-earning assets and interest-bearing liabilities.
+Noninterest income is derived from wealth and asset management revenue, commercial payments revenue, consumer banking revenue, capital markets fees, commercial banking revenue, mortgage banking net revenue, other noninterest income and net securities gains or losses. Noninterest expense includes compensation and benefits, technology and communications, net occupancy expense, card and processing expense, equipment expense, marketing expense, loan and lease expense and other noninterest expense.
+Acquisition of Comerica Incorporated
+On February 1, 2026, Fifth Third Bancorp closed the merger with Comerica Incorporated ("Comerica") in an all-stock transaction valued at approximately $12.7 billion. Under the terms of the merger agreement, each outstanding share of Comerica's common stock was converted into the right to receive 1.8663 shares of Fifth Third Bancorp common stock and each outstanding share of Comerica's preferred stock was converted into the right to receive one share of a newly created series of preferred stock with comparable terms issued by the Bancorp.
+On February 1, 2026, the Bancorp issued 16,000,000 depository shares, representing 400,000 shares of 6.875% fixed-rate reset non-cumulative perpetual preferred stock, Series M to the holders of Comerica's 6.875% fixed-rate reset non-cumulative perpetual preferred stock, Series B that were outstanding on January 30, 2026. Each Series M share has a $1,000 liquidation preference and accrues dividends on a non-cumulative quarterly basis, initially beginning on January 1, 2026 with a first dividend payment date of April 1, 2026. Subject to any required regulatory approval, the Bancorp may redeem the Series M preferred shares at its option, in whole or in part, on any dividend payment date on or after October 1, 2030 and may redeem, in whole but not in part, within 90 days following a regulatory capital event. The Series M preferred shares are not convertible into Bancorp common shares or any other securities.
+The Bancorp's financial condition and results of operations as of, and for the three and six months ended, June 30, 2026, were impacted by activity attributable to the Comerica acquisition and the integration of acquired operations, which affects the comparability of results between periods presented herein.
+3
+Table of Contents
+Management's Discussion and Analysis of Financial Condition and Results of Operations (continued) |
+Refer to Note 4 of the Notes to Condensed Consolidated Financial Statements for more information.
+Senior Notes Transactions
+On January 29, 2026, the Bancorp issued and sold $1.0 billion of fixed-rate/floating-rate senior notes which will mature on April 29, 2032. The senior notes will bear interest at a rate of 4.566% per annum to, but excluding, April 29, 2031. From, and including, April 29, 2031, to, but excluding, the maturity date, the senior notes will bear interest at a rate of compounded SOFR plus 0.95%.
+On January 29, 2026, the Bancorp issued and sold $1.0 billion of fixed-rate/floating-rate senior notes which will mature on January 29, 2037. The senior notes will bear interest at a rate of 5.141% per annum to, but excluding, January 29, 2036. From, and including, January 29, 2036 to, but excluding, the maturity date, the senior notes will bear interest at a rate of compounded SOFR plus 1.24%.
+On June 10, 2026, the Bancorp completed the previously announced exchange offer with respect to the $550 million of 4.00% fixed-rate senior notes due February 1, 2029, originally issued by Comerica Incorporated and assumed by Fifth Third Financial Corporation, as successor by merger, pursuant to which approximately $335 million of such notes were exchanged for new senior notes issued by the Bancorp and cash consideration. The new senior notes have substantially identical terms to the prior notes including the same interest rate of 4.00% and maturity date of February 1, 2029.
+On June 10, 2026, the Bancorp completed the previously announced exchange offer with respect to the $1.0 billion of fixed-rate/floating-rate senior notes due January 30, 2030, originally issued by Comerica Incorporated and assumed by Fifth Third Financial Corporation, as successor by merger, pursuant to which approximately $938 million of such notes were exchanged for new senior notes issued by the Bancorp and cash consideration. The new senior notes have substantially identical terms to the prior notes including the same interest rate of 5.982% and maturity date of January 30, 2030.
+Refer to Note 14 of the Notes to Condensed Consolidated Financial Statements for more information.
+Category III Transition
+In the third quarter of 2026, the Bancorp will begin the transition from Category IV to Category III compliance standards. Under Category III standards, the Bancorp will be subject to additional regulatory requirements and oversight, including enhanced liquidity monitoring through compliance with the liquidity coverage ratio and net stable funding ratio, while additional reporting requirements including compliance with single counterparty credit limits will need to be met. The Bancorp will continue to be required to develop and maintain an annual capital plan, which must be approved by the Board of Directors; however, as a Category III institution, it will transition to annual supervisory stress testing, including the recalibration of its stress capital buffer, from the Category IV biennial requirement.
+Proposed Updates to Regulatory Requirements for Capital
+On March 19, 2026, the U.S. banking agencies issued notices of proposed rulemaking to revise the U.S. regulatory capital framework to finalize the post-crisis Basel III reforms. Comments were due by June 18, 2026 with final implementation expected to include a multi-year transition. The Bancorp and the Bank would not be required to adopt the new expanded risk&#8209;based approach under the proposed rules, although the proposed rules would permit an election to adopt the expanded risk&#8209;based approach. However, if implemented as proposed, the rules would impact how the Bancorp and the Bank calculate capital requirements. Effective dates for the proposed rules were not included in the proposal. The Bancorp is in the process of evaluating this proposed rulemaking and assessing its potential impact.
+Key Performance Indicators
+The Bancorp, as a banking institution, utilizes various key indicators of financial condition and operating results in managing and monitoring the performance of the business. In addition to traditional financial metrics, such as revenue and expense trends, the Bancorp monitors other financial measures that assist in evaluating growth trends, capital and liquidity strength and operational efficiencies. The Bancorp analyzes these key performance indicators against its past performance, its forecasted performance and with the performance of its peer banking institutions. These indicators may change from time to time as the operating environment and businesses change. There have been no material changes made during the six months ended June 30, 2026 to the Bancorp's key performance indicators. Refer to the Bancorp's Annual Report on Form 10-K for the year ended December 31, 2025 for more information.
+4
+Table of Contents
+Management's Discussion and Analysis of Financial Condition and Results of Operations (continued) |
+
+----- [line 251] -----
+Net losses charged-off as a percent of average portfolio loans and leases (annualized) | 0.30 | % | 0.45 | (33) | 0.33 | % | 0.45 | (27) |
+ALLL as a percent of portfolio loans and leases | 1.63 | 1.97 | (17) | 1.63 | 1.97 | (17) |
+ACL as a percent of portfolio loans and leases | 1.76 | 2.09 | (16) | 1.76 | 2.09 | (16) |
+Nonperforming portfolio assets as a percent of portfolio loans and leases and OREO | 0.60 | 0.72 | (17) | 0.60 | 0.72 | (17) |
+Regulatory Capital Ratios |
+CET1 risk-based capital | 9.93 | % | 10.58 | (6) | 9.93 | % | 10.58 | (6) |
+Tier 1 risk-based capital | 10.81 | 11.85 | (9) | 10.81 | 11.85 | (9) |
+Total risk-based capital | 12.50 | 13.77 | (9) | 12.50 | 13.77 | (9) |
+Leverage | 9.20 | 9.42 | (2) | 9.20 | 9.42 | (2) |
+(a)Amounts presented on an FTE basis. The FTE adjustments were $5 for both the three months ended June 30, 2026 and 2025 and $10 for both the six months ended June 30, 2026 and 2025.
+(b)This is a non-GAAP measure. For further information, refer to the Non-GAAP Financial Measures section of MD&A.
+Earnings Summary
+Net interest income on an FTE basis (non-GAAP) was $2.2 billion and $4.2 billion for the three and six months ended June 30, 2026, respectively, increasing $720 million and $1.2 billion compared to the same periods in the prior year. Net interest income for the three and six months ended June 30, 2026 reflected the impact of the Comerica acquisition, including $73.0 billion of interest-earning assets acquired as well as $48.2 billion of interest-bearing liabilities and $24.9 billion of noninterest-bearing liabilities assumed on February 1, 2026. Net interest income for the three and six months ended June 30, 2026 was positively impacted by higher average balances of interest-earning assets primarily driven by the Comerica acquisition, lower funding costs due to the benefit of lower short-term market rates and repricing of fixed-rate assets to higher yields, including the reinvestment of cash flows from average taxable securities and securities repositioning during the second quarter of 2026. These positive impacts were partially offset by increases in interest expense primarily due to higher average balances of interest-bearing core deposits and long-term debt primarily driven by the Comerica acquisition and lower yields on average loans and leases and average other short-term investments driven by lower short-term market rates. The increases in the average balances of long-term debt for both the three and six months ended June 30, 2026 also reflected the Bancorp's January 2026 issuance of $2.0 billion of fixed-rate/floating-rate senior notes. Additionally, net interest income for the three and six months ended June 30, 2026 included $64 million and $102 million, respectively, of amortization and accretion of purchase accounting premiums and discounts related to the Comerica acquisition. Net interest margin on an FTE basis (non-GAAP) was 3.36% and 3.33% for the three and six months ended June 30, 2026, respectively, compared to 3.12% and 3.08% for the comparable periods in the prior year.
+The provision for credit losses was $129 million and $356 million for the three and six months ended June 30, 2026, respectively, compared to $173 million and $347 million during the same periods in the prior year. Provision expense for the three months ended June 30, 2026 was
+5
+Table of Contents
+Management's Discussion and Analysis of Financial Condition and Results of Operations (continued) |
+affected by certain factors that caused a decrease in the ACL from March 31, 2026, including improvement in the economic forecast used to calculate the ACL and improving credit characteristics within the portfolio, partially offset by higher period-end portfolio loan and lease balances. Provision expense for the six months ended June 30, 2026 was affected by factors which caused an increase in the ACL from December 31, 2025, including an increase in provision for the reserve for unfunded commitments recorded as part of the initial recognition of the reserve for unfunded commitments assumed in the Comerica acquisition, higher period-end portfolio loan and lease balances and a qualitative adjustment to reflect economic uncertainty associated with the ongoing U.S.-Iran conflict, partially offset by the improvement in the economic forecast used to calculate the ACL.
+Noninterest income increased $309 million and $510 million for the three and six months ended June 30, 2026, respectively, compared to the same periods in the prior year primarily driven by increases in commercial payments revenue, wealth and asset management revenue, capital markets fees and commercial banking revenue. These increases were impacted by activity attributable to the Comerica acquisition and the integration of acquired operations.
+Noninterest expense increased $845 million and $1.9 billion for the three and six months ended June 30, 2026, respectively, compared to the same periods in the prior year primarily due to increases in compensation and benefits expense, technology and communications expense, net occupancy expense, card and processing expense, marketing expense and other noninterest expense. These increases included direct merger-related expenses as well as activity attributable to the Comerica acquisition and the integration of acquired operations.
+For more information on net interest income, provision for credit losses, noninterest income and noninterest expense, including impacts of the Comerica acquisition, refer to the Statements of Income Analysis section of MD&A.
+6
+Table of Contents
+Management's Discussion and Analysis of Financial Condition and Results of Operations (continued) |
+NON-GAAP FINANCIAL MEASURES
+The following are non-GAAP financial measures which provide useful insight to the reader of the Condensed Consolidated Financial Statements but should be supplemental to primary U.S. GAAP measures and should not be read in isolation or relied upon as a substitute for the primary U.S. GAAP measures. The Bancorp encourages readers to consider the Condensed Consolidated Financial Statements in their entirety and not to rely on any single financial measure.
+The FTE basis adjusts for the tax-favored status of income from certain loans and leases and securities held by the Bancorp that are not taxable for federal income tax purposes. The Bancorp believes this presentation to be the preferred industry measurement of net interest income as it provides a relevant comparison between taxable and non-taxable amounts.
+The following table reconciles the non-GAAP financial measures of net interest income on an FTE basis, interest income on an FTE basis, net interest margin, net interest rate spread and the efficiency ratio to U.S. GAAP:
+TABLE 2: Non-GAAP Financial Measures - Financial Measures and Ratios on an FTE basis |
+For the three months ended
+June 30, | For the six months ended
+June 30, |
+($ in millions) | 2026 | 2025 | 2026 | 2025 |
+Net interest income (U.S. GAAP) | $ | 2,215 | 1,495 | 4,149 | 2,932 |
+Add: FTE adjustment | 5 | 5 | 10 | 10 |
+Net interest income on an FTE basis (1) | $ | 2,220 | 1,500 | 4,159 | 2,942 |
+Net interest income on an FTE basis (annualized) (2) | 8,904 | 6,016 | 8,387 | 5,933 |
+Interest income (U.S. GAAP) | $ | 3,372 | 2,484 | 6,344 | 4,917 |
+Add: FTE adjustment | 5 | 5 | 10 | 10 |
+Interest income on an FTE basis | $ | 3,377 | 2,489 | 6,354 | 4,927 |
+Interest income on an FTE basis (annualized) (3) | 13,545 | 9,983 | 12,813 | 9,936 |
+Interest expense (annualized) (4) | $ | 4,641 | 3,967 | 4,426 | 4,003 |
+Noninterest income (5) | 1,059 | 750 | 1,954 | 1,444 |
+Noninterest expense (6) | 2,109 | 1,264 | 4,504 | 2,568 |
+Average interest-earning assets (7) | 264,989 | 192,682 | 251,550 | 192,745 |
+Average interest-bearing liabilities (8) | 190,452 | 142,913 | 181,439 | 143,595 |
+Ratios: |
+Net interest margin on an FTE basis (2) / (7) | 3.36 | % | 3.12 | 3.33 | 3.08 |
+Net interest rate spread on an FTE basis ((3) / (7)) - ((4) / (8)) | 2.67 | 2.40 | 2.65 | 2.36 |
+Efficiency ratio on an FTE basis (6) / ((1) + (5)) | 64.3 | 56.2 | 73.7 | 58.6 |
+The Bancorp believes return on average tangible common equity is an important measure for comparative purposes with other financial institutions, but is not defined under U.S. GAAP, and therefore is considered a non-GAAP financial measure. This measure is useful for evaluating the performance of a business as it calculates the return available to common shareholders without the impact of intangible assets and their related amortization.
+7
+Table of Contents
+Management's Discussion and Analysis of Financial Condition and Results of Operations (continued) |
+The following table reconciles the non-GAAP financial measure of return on average tangible common equity to U.S. GAAP:
+TABLE 3: Non-GAAP Financial Measures - Return on Average Tangible Common Equity |
+For the three months ended
+June 30, | For the six months ended
+June 30, |
+($ in millions)
+2026 | 2025 | 2026 | 2025 |
+Net income available to common shareholders (U.S. GAAP) | $ | 763 | 591 | 891 | 1,069 |
+Add: Intangible amortization, net of tax | 48 | 5 | 82 | 11 |
+Tangible net income available to common shareholders | $ | 811 | 596 | 973 | 1,080 |
+Tangible net income available to common shareholders (annualized) (1) | 3,253 | 2,391 | 1,962 | 2,178 |
+Average Bancorp shareholders' equity (U.S. GAAP) | $ | 34,260 | 20,670 | 32,195 | 20,337 |
+Less: Average preferred stock | 2,182 | 2,116 | 2,111 | 2,116 |
+Average goodwill | 9,973 | 4,918 | 9,333 | 4,918 |
+Average intangible assets | 1,257 | 79 | 1,050 | 83 |
+Average tangible common equity (2) | $ | 20,848 | 13,557 | 19,701 | 13,220 |
+Return on average tangible common equity (1) / (2) | 15.6 | % | 17.6 | 10.0 | 16.5 |
+The Bancorp considers various measures when evaluating capital utilization and adequacy, including the tangible equity ratio and tangible common equity ratio, in addition to capital ratios defined by the U.S. banking agencies. These calculations are intended to complement the capital ratios defined by the U.S. banking agencies for both absolute and comparative purposes. As U.S. GAAP does not include capital ratio measures, the Bancorp believes there are no comparable U.S. GAAP financial measures to these ratios. These ratios are not formally defined by U.S. GAAP or codified in the federal banking regulations and, therefore, are considered to be non-GAAP financial measures.
+
+----- [line 346] -----
+Tangible common equity as a percentage of tangible assets, including AOCI (1) / (4) | 7.29 | 7.14 |
+8
+Table of Contents
+Management's Discussion and Analysis of Financial Condition and Results of Operations (continued) |
+RECENT ACCOUNTING STANDARDS
+Note 3 of the Notes to Condensed Consolidated Financial Statements provides a discussion of the significant new accounting standard applicable to the Bancorp and the expected impact of significant accounting standards issued, but not yet required to be adopted.
+CRITICAL ACCOUNTING POLICIES
+The Bancorp's Condensed Consolidated Financial Statements are prepared in accordance with U.S. GAAP. Certain accounting policies require management to exercise judgment in determining methodologies, economic assumptions and estimates that may materially affect the Bancorp's financial position, results of operations and cash flows. The Bancorp's critical accounting policies include the accounting for the ALLL, reserve for unfunded commitments, valuation of residential mortgage servicing rights, goodwill, legal contingencies and fair value measurements. These accounting policies are discussed in detail in the Critical Accounting Policies section of the Bancorp's Annual Report on Form 10-K for the year ended December 31, 2025. There have been no material changes to the valuation techniques or models during the six months ended June 30, 2026.
+STATEMENTS OF INCOME ANALYSIS
+Net Interest Income
+Net interest income is the interest earned on loans and leases (including yield-related fees), securities and other short-term investments less the interest incurred on core deposits and wholesale funding (including CDs over $250,000, federal funds purchased, other short-term borrowings and long-term debt). The net interest margin is calculated by dividing net interest income by average interest-earning assets. Net interest rate spread is the difference between the average yield earned on interest-earning assets and the average rate paid on interest-bearing liabilities. Net interest margin is typically greater than net interest rate spread due to the interest income earned on those assets that are funded by noninterest-bearing liabilities, or free funding, such as demand deposits or shareholders' equity.
+Tables 5 and 6 present the components of net interest income, net interest margin and net interest rate spread for the three and six months ended June 30, 2026 and 2025, as well as the relative impact of changes in the average balance sheet and changes in interest rates on net interest income. Nonaccrual loans and leases and loans and leases held for sale have been included in the average loan and lease balances. Average outstanding securities balances are based on amortized cost with any unrealized gains or losses included in average other assets.
+Net interest income on an FTE basis (non-GAAP) was $2.2 billion and $4.2 billion for the three and six months ended June 30, 2026, respectively, increasing $720 million and $1.2 billion compared to the same periods in the prior year. Net interest income for the three and six months ended June 30, 2026 reflected the impact of the Comerica acquisition, including $73.0 billion of interest-earning assets acquired as well as $48.2 billion of interest-bearing liabilities and $24.9 billion of noninterest-bearing liabilities assumed on February 1, 2026. Net interest income for the three and six months ended June 30, 2026 was positively impacted by higher average balances of interest-earning assets primarily driven by the Comerica acquisition, lower funding costs due to the benefit of lower short-term market rates and repricing of fixed-rate assets to higher yields, including the reinvestment of cash flows from average taxable securities and securities repositioning during the second quarter of 2026. These positive impacts were partially offset by increases in interest expense primarily due to higher average balances of interest-bearing core deposits and long-term debt primarily driven by the Comerica acquisition and lower yields on average loans and leases and average other short-term investments driven by lower short-term market rates. The increases in the average balances of long-term debt for both the three and six months ended June 30, 2026 also reflected the Bancorp's January 2026 issuance of $2.0 billion of fixed-rate/floating-rate senior notes. Additionally, net interest income for the three and six months ended June 30, 2026 included $64 million and $102 million, respectively, of amortization and accretion of purchase accounting premiums and discounts related to the Comerica acquisition.
+Net interest margin on an FTE basis (non-GAAP) was 3.36% and 3.33% for the three and six months ended June 30, 2026, respectively, compared to 3.12% and 3.08% for the same periods in the prior year. Net interest margin for the three and six months ended June 30, 2026 was positively impacted by the Comerica acquisition, primarily driven by the aforementioned amortization and accretion of purchase accounting premiums and discounts as well as the benefit of deposit mix shift.
+Interest income on an FTE basis (non-GAAP) from loans and leases increased $726 million and $1.2 billion during the three and six months ended June 30, 2026, respectively, compared to the same periods in the prior year primarily driven by increases in the average balances of loans and leases, partially offset by decreases in yields on average commercial loans and leases associated with lower short-term market rates. Interest income on an FTE basis (non-GAAP) from securities and other short-term investments increased $162 million and $224 million during the three and six months ended June 30, 2026, respectively, compared to the same periods in the prior year primarily due to increases in the average balances of taxable securities and other short-term investments.
+Interest expense on average core deposits increased $157 million and $229 million for the three and six months ended June 30, 2026, respectively, compared to the same periods in the prior year primarily due to increases in the average balances of interest-bearing core deposits, partially offset by decreases in the cost of average interest-bearing core deposits to 211 bps and 212 bps for the three and six months ended June 30, 2026, respectively, from 236 bps and 237 bps for the three and six months ended June 30, 2025, respectively.
+9
+Table of Contents
+Management's Discussion and Analysis of Financial Condition and Results of Operations (continued) |
+Interest expense on average wholesale funding increased $11 million for the three months ended June 30, 2026 compared to the same period in the prior year primarily due to an increase in the average balances of long-term debt, partially offset by a decrease in rates paid on average wholesale funding. Interest expense on average wholesale funding decreased $19 million for the six months ended June 30, 2026 compared to the same period in the prior year primarily due to a decrease in rates paid on average wholesale funding and a decrease in the average balances of FHLB advances, partially offset by an increase in the average balances of long-term debt. During the three and six months ended June 30, 2026, average wholesale funding represented 14% and 13% of average interest-bearing liabilities, respectively, compared to 16% for both the three and six months ended June 30, 2025. For more information on the Bancorp's interest rate risk management, including estimated earnings sensitivity to changes in market interest rates, refer to the Interest Rate and Price Risk Management subsection of the Risk Management section of MD&A.
+Average Balance Sheet
+On an average basis, interest-earning assets increased $72.3 billion, or 38%, for the three months ended June 30, 2026 compared to the same period in the prior year primarily driven by the impact of the Comerica acquisition on February 1, 2026 which included the acquisition of $46.5 billion of commercial loans and leases, $4.1 billion of consumer loans, $11.3 billion of other short-term investments and $11.2 billion of securities.
+On an average basis, interest-bearing liabilities increased $47.5 billion, or 33%, for the three months ended June 30, 2026 compared to the same period in the prior year primarily driven by the impact of the Comerica acquisition which included the assumption of $40.6 billion of interest-bearing core deposits and $5.5 billion of long-term debt. Average core deposits represented 77% of average total assets for both the three months ended June 30, 2026 and 2025.
+10
+Table of Contents
+Management's Discussion and Analysis of Financial Condition and Results of Operations (continued) |
+TABLE 5: Condensed Consolidated Average Balance Sheets and Analysis of Net Interest Income on an FTE Basis |
+For the three months ended | June 30, 2026 | June 30, 2025 | Attribution of Change in
+Net Interest Income(a)
+($ in millions) | Average Balance | Interest Earned/Paid | Average Yield/ Rate | Average Balance | Interest Earned/Paid | Average Yield/ Rate | Volume | Yield/ Rate | Total |
+Assets: |
+Interest-earning assets: |
+Loans and leases:(b)
+Commercial and industrial loans | $ | 85,260 | 1,253 | 5.90 | % | $ | 54,109 | 847 | 6.28 | % | $ | 461 | (55) | 406 |
+Commercial mortgage loans | 27,215 | 395 | 5.82 | 12,420 | 190 | 6.12 | 215 | (10) | 205 |
+Commercial construction loans | 8,504 | 138 | 6.50 | 5,810 | 104 | 7.17 | 44 | (10) | 34 |
+Commercial leases | 3,503 | 40 | 4.61 | 3,121 | 38 | 4.83 | 4 | (2) | 2 |
+Total commercial loans and leases | $ | 124,482 | 1,826 | 5.89 | % | $ | 75,460 | 1,179 | 6.26 | % | $ | 724 | (77) | 647 |
+Residential mortgage loans | 20,362 | 211 | 4.16 | 18,156 | 180 | 3.98 | 23 | 8 | 31 |
+Home equity | 6,830 | 118 | 6.95 | 4,383 | 81 | 7.42 | 43 | (6) | 37 |
+Indirect secured consumer loans | 18,239 | 252 | 5.53 | 17,248 | 242 | 5.63 | 14 | (4) | 10 |
+Credit card | 1,646 | 56 | 13.69 | 1,659 | 60 | 14.33 | (1) | (3) | (4) |
+Solar energy installation loans | 4,384 | 87 | 7.93 | 4,268 | 86 | 8.10 | 3 | (2) | 1 |
+Other consumer loans | 2,764 | 60 | 8.66 | 2,483 | 56 | 9.09 | 7 | (3) | 4 |
+Total consumer loans | $ | 54,225 | 784 | 5.80 | % | $ | 48,197 | 705 | 5.87 | % | $ | 89 | (10) | 79 |
+Total loans and leases | $ | 178,707 | 2,610 | 5.86 | % | $ | 123,657 | 1,884 | 6.11 | % | $ | 813 | (87) | 726 |
+Securities: |
+Taxable | 66,532 | 589 | 3.55 | 54,896 | 450 | 3.29 | 101 | 38 | 139 |
+Exempt from income taxes(b)
+1,392 | 11 | 3.25 | 1,347 | 10 | 3.19 | 1 | -- | 1 |
+Other short-term investments | 18,358 | 167 | 3.64 | 12,782 | 145 | 4.56 | 55 | (33) | 22 |
+Total interest-earning assets | $ | 264,989 | 3,377 | 5.11 | % | $ | 192,682 | 2,489 | 5.18 | % | $ | 970 | (82) | 888 |
+Cash and due from banks | 3,307 | 2,437 |
+Other assets | 32,574 | 17,819 |
+Allowance for loan and lease losses | (2,922) | (2,384) |
+Total assets
+$ | 297,948 | $ | 210,554 |
+Liabilities and Equity: |
+Interest-bearing liabilities: |
+Interest checking deposits | $ | 70,507 | 377 | 2.15 | % | $ | 56,738 | 380 | 2.69 | % | $ | 82 | (85) | (3) |
+Savings deposits | 18,430 | 16 | 0.35 | 16,962 | 20 | 0.48 | 2 | (6) | (4) |
+Money market deposits | 63,200 | 383 | 2.43 | 36,296 | 218 | 2.40 | 163 | 2 | 165 |
+CDs $250,000 or less | 12,403 | 91 | 2.94 | 10,494 | 92 | 3.52 | 15 | (16) | (1) |
+Total interest-bearing core deposits | $ | 164,540 | 867 | 2.11 | % | $ | 120,490 | 710 | 2.36 | % | $ | 262 | (105) | 157 |
+CDs over $250,000 | 2,990 | 24 | 3.25 | 2,200 | 22 | 4.07 | 7 | (5) | 2 |
+Federal funds purchased | 160 | 2 | 3.65 | 206 | 2 | 4.39 | -- | -- | -- |
+Securities sold under repurchase agreements | 444 | 2 | 1.69 | 353 | 1 | 1.16 | -- | 1 | 1 |
+FHLB advances | 3,437 | 33 | 3.88 | 4,976 | 57 | 4.59 | (16) | (8) | (24) |
+Derivative collateral and other borrowed money | 64 | 1 | 7.25 | 89 | 1 | 5.61 | -- | -- | -- |
+Long-term debt | 18,817 | 228 | 4.87 | 14,599 | 196 | 5.36 | 52 | (20) | 32 |
+Total interest-bearing liabilities | $ | 190,452 | 1,157 | 2.44 | % | $ | 142,913 | 989 | 2.78 | % | $ | 305 | (137) | 168 |
+Demand deposits | 63,976 | 40,885 |
+Other liabilities | 9,260 | 6,086 |
+Total liabilities | $ | 263,688 | $ | 189,884 |
+Total equity | $ | 34,260 | $ | 20,670 |
+Total liabilities and equity | $ | 297,948 | $ | 210,554 |
+Net interest income (FTE)(c)
+$ | 2,220 | $ | 1,500 | $ | 665 | 55 | 720 |
+Net interest margin (FTE)(c)
+
+----- [line 680] -----
+Consumer loans: |
+Residential mortgage loans | 1,854 |
+Home equity | 1,772 |
+Other consumer loans | 434 |
+Total consumer loans | $ | 4,060 |
+Total loans and leases | $ | 50,528 |
+Total portfolio loans and leases (excluding loans and leases held for sale) | $ | 50,527 |
+The following discussion excludes the impact of the loans and leases acquired in the Comerica acquisition. Commercial loans and leases increased $4.9 billion, or 7%, from December 31, 2025 primarily due to increases in commercial and industrial loans and commercial construction loans. Commercial and industrial loans increased $4.5 billion, or 9%, from December 31, 2025 primarily as a result of loan originations exceeding payoffs as well as increased line utilization. Commercial construction loans increased $574 million, or 11%, from December 31, 2025 as loan originations exceeded payoffs.
+18
+Table of Contents
+Management's Discussion and Analysis of Financial Condition and Results of Operations (continued) |
+Investment Securities
+The Bancorp uses investment securities as a means of managing interest rate risk, providing collateral for pledging purposes and for liquidity risk management. The carrying value of total investment securities, which consist of available-for-sale debt and other securities, held-to-maturity securities, trading debt securities and equity securities, was $65.2 billion and $49.0 billion at June 30, 2026 and December 31, 2025, respectively. The increase in total investment securities reflects the impact of the Comerica acquisition, including $7.2 billion of available-for-sale debt and other securities, $3.7 billion of held-to-maturity securities, $170 million of trading debt securities and $141 million of equity securities acquired on February 1, 2026.
+Debt securities are classified as available-for-sale when, in management's judgment, they may be sold in response to, or in anticipation of, changes in market conditions. Debt securities that management has the intent and ability to hold to maturity are classified as held-to-maturity and reported at amortized cost. Debt securities are classified as trading typically when bought and held principally for the purpose of selling them in the near term. The taxable available-for-sale debt and other securities portfolio had an effective duration of 3.9 and 3.8 at June 30, 2026 and December 31, 2025, respectively. The taxable held-to-maturity securities portfolio had an effective duration of 4.7 and 5.1 at June 30, 2026 and December 31, 2025, respectively.
+At June 30, 2026, the Bancorp's investment securities portfolio consisted primarily of U.S. Treasury and other government guaranteed securities. The Bancorp held an immaterial amount of below-investment grade available-for-sale debt securities and held-to-maturity securities at both June 30, 2026 and December 31, 2025. At both June 30, 2026 and December 31, 2025, the Bancorp did not recognize an allowance for credit losses for its investment securities. The Bancorp also did not recognize provision for credit losses for investment securities during both the three and six months ended June 30, 2026 and 2025.
+The Bancorp recognized $7 million of impairment losses on its available-for-sale debt and other securities for both the three and six months ended June 30, 2026. The Bancorp recognized an immaterial amount of impairment losses on its available-for-sale debt and other securities for both the three and six months ended June 30, 2025. These losses were included in securities gains, net, in the Condensed Consolidated Statements of Income and related to certain securities in unrealized loss positions where the Bancorp had determined that it no longer intended to hold the securities until the recovery of their amortized cost bases.
+The following table summarizes the end of period components of investment securities:
+TABLE 16: Components of Investment Securities |
+As of ($ in millions) | June 30,
+2026 | December 31,
+2025 |
+Available-for-sale debt and other securities (amortized cost basis): |
+U.S. Treasury and federal agencies securities | $ | 1,906 | 1,575 |
+Mortgage-backed securities: |
+Agency residential mortgage-backed securities | 15,659 | 9,138 |
+Agency commercial mortgage-backed securities | 23,556 | 22,307 |
+Non-agency commercial mortgage-backed securities | 2,826 | 3,032 |
+Asset-backed securities and other debt securities | 2,416 | 2,381 |
+Other securities(a)
+1,260 | 674 |
+Total available-for-sale debt and other securities | $ | 47,623 | 39,107 |
+Held-to-maturity securities (amortized cost basis):(b)
+U.S. Treasury and federal agencies securities | $ | 3,382 | 2,438 |
+Mortgage-backed securities: |
+Agency residential mortgage-backed securities | 5,472 | 5,023 |
+Agency commercial mortgage-backed securities | 9,548 | 3,905 |
+Asset-backed securities and other debt securities | 2 | 2 |
+Total held-to-maturity securities | $ | 18,404 | 11,368 |
+Trading debt securities (fair value): |
+U.S. Treasury and federal agencies securities | $ | 697 | 494 |
+Obligations of states and political subdivisions securities | 149 | 63 |
+Agency residential mortgage-backed securities | 42 | 49 |
+Asset-backed securities and other debt securities | 965 | 451 |
+Total trading debt securities | $ | 1,853 | 1,057 |
+Total equity securities (fair value) | $ | 495 | 453 |
+(a)Other securities consist of FHLB, FRB and DTCC restricted stock holdings that are carried at cost.
+(b)Includes a discount of $685 and $742 at June 30, 2026 and December 31, 2025, respectively, pertaining to the remaining unamortized portion of unrealized losses on securities transferred to HTM.
+19
+Table of Contents
+Management's Discussion and Analysis of Financial Condition and Results of Operations (continued) |
+The following table presents the estimated future amortization of unrealized losses related to investment securities transferred from available-for-sale to held-to-maturity. At June 30, 2026, these transferred securities had an estimated weighted-average life of 6.3 years.
+TABLE 17: Estimated Amortization of Unrealized Losses on Securities Transferred to Held-to-Maturity |
+As of June 30, 2026 ($ in millions) |
+Remainder of 2026 | $ | 62 |
+2027 | 56 |
+2028 | 72 |
+2029 | 43 |
+2030 | 33 |
+Thereafter | 419 |
+Unamortized portion of unrealized losses
+$ | 685 |
+On an amortized cost basis, available-for-sale debt and other securities and held-to-maturity securities comprised 25% and 26% of total interest-earning assets at June 30, 2026 and December 31, 2025, respectively. The estimated weighted-average life of the debt securities in the available-for-sale debt and other securities portfolio was 5.3 years and 5.1 years at June 30, 2026 and December 31, 2025, respectively. In addition, the debt securities in the available-for-sale debt and other securities portfolio had a weighted-average yield of 3.44% and 3.09% at June 30, 2026 and December 31, 2025, respectively. The held-to-maturity securities portfolio had an estimated weighted-average life of 5.7 years and 6.4 years at June 30, 2026 and December 31, 2025, respectively. In addition, the held-to-maturity securities portfolio had a weighted-average yield of 3.89% and 3.50% at June 30, 2026 and December 31, 2025, respectively.
+Information presented in Tables 18 and 19 is on a weighted-average life basis, anticipating future prepayments. Yield information is presented on an FTE basis and is computed using amortized cost balances and reflects the impact of prepayments. Maturity and yield calculations for the total available-for-sale debt and other securities portfolio exclude other securities that have no stated yield or maturity.
+The fair values of investment securities are impacted by interest rates, credit spreads, market volatility and liquidity conditions. The fair value of the Bancorp's investment securities portfolio generally decreases when interest rates increase or when credit spreads widen, and, conversely, increases when interest rates decrease or when credit spreads contract. Total net unrealized losses on the available-for-sale debt and other securities portfolio were $3.2 billion and $2.9 billion at June 30, 2026 and December 31, 2025, respectively.
+20
+Table of Contents
+Management's Discussion and Analysis of Financial Condition and Results of Operations (continued) |
+TABLE 18: Characteristics of Available-for-Sale Debt and Other Securities |
+As of June 30, 2026 ($ in millions) |
+Amortized Cost |
+Fair Value | Weighted-Average Life
+(in years) | Weighted-Average Yield |
+U.S. Treasury and federal agencies securities: |
+Average life within one year | $ | 50 | 50 | 1.0 | 3.55 | % |
+Average life after one year through five years | 1,856 | 1,849 | 2.7 | 3.97 |
+Total | $ | 1,906 | 1,899 | 2.7 | 3.96 | % |
+Agency residential mortgage-backed securities: |
+Average life within one year | 78 | 77 | 0.7 | 3.74 |
+Average life after one year through five years | 6,059 | 5,932 | 4.0 | 4.36 |
+Average life after five years through ten years | 9,114 | 8,689 | 7.0 | 4.43 |
+Average life after ten years | 408 | 331 | 11.4 | 2.85 |
+Total | $ | 15,659 | 15,029 | 5.9 | 4.36 | % |
+Agency commercial mortgage-backed securities:(a)
+Average life within one year | 738 | 731 | 0.7 | 3.04 |
+Average life after one year through five years | 10,880 | 10,325 | 2.8 | 2.85 |
+Average life after five years through ten years | 8,953 | 7,957 | 6.8 | 2.92 |
+Average life after ten years | 2,985 | 2,344 | 12.8 | 2.61 |
+Total | $ | 23,556 | 21,357 | 5.5 | 2.85 | % |
+Non-agency commercial mortgage-backed securities: |
+Average life within one year | 688 | 681 | 0.6 | 3.31 |
+Average life after one year through five years | 903 | 821 | 3.8 | 2.47 |
+Average life after five years through ten years | 1,235 | 1,116 | 5.4 | 2.97 |
+Total | $ | 2,826 | 2,618 | 3.7 | 2.89 | % |
+Asset-backed securities and other debt securities: |
+Average life within one year | 130 | 130 | 0.3 | 4.01 |
+Average life after one year through five years | 1,970 | 1,874 | 3.2 | 3.37 |
+Average life after five years through ten years | 316 | 299 | 6.1 | 3.76 |
+Total | $ | 2,416 | 2,303 | 3.4 | 3.45 | % |
+Other securities | 1,260 | 1,260 |
+Total available-for-sale debt and other securities | $ | 47,623 | 44,466 | 5.3 | 3.44 | % |
+(a)Taxable-equivalent yield adjustments included in the above table are 0.01%, 0.04%, 0.05% and 0.02% for securities with an average life between 1 and 5 years, average life between 5 and 10 years, average life greater than 10 years and in total, respectively.
+21
+Table of Contents
+Management's Discussion and Analysis of Financial Condition and Results of Operations (continued) |
+TABLE 19: Characteristics of Held-to-Maturity Securities |
+As of June 30, 2026 ($ in millions) |
+Amortized Cost(b)
+Fair Value | Weighted-Average Life
+(in years) | Weighted-Average Yield |
+U.S. Treasury and federal agencies securities: |
+Average life within one year | $ | 193 | 193 | 1.0 | 1.82 | % |
+Average life after one year through five years | 1,675 | 1,666 | 2.2 | 2.52 |
+Average life after five years through ten years | 1,514 | 1,524 | 6.1 | 4.37 |
+Total | $ | 3,382 | 3,383 | 3.8 | 3.31 | % |
+Agency residential mortgage-backed securities: |
+Average life after one year through five years | 390 | 398 | 4.4 | 5.92 |
+Average life after five years through ten years | 5,082 | 4,987 | 8.5 | 3.65 |
+Total | $ | 5,472 | 5,385 | 8.2 | 3.81 | % |
+Agency commercial mortgage-backed securities:(a)
+Average life within one year | 42 | 43 | 0.8 | 3.70 |
+Average life after one year through five years | 5,316 | 5,287 | 4.0 | 4.12 |
+Average life after five years through ten years | 4,023 | 3,989 | 5.9 | 4.14 |
+Average life after ten years | 167 | 169 | 11.1 | 5.07 |
+Total | $ | 9,548 | 9,488 | 4.9 | 4.14 | % |
+Asset-backed securities and other debt securities: |
+Average life after five years through ten years | 2 | 2 | 9.3 | 6.96 |
+Total | $ | 2 | 2 | 9.3 | 6.96 | % |
+Total held-to-maturity securities | $ | 18,404 | 18,258 | 5.7 | 3.89 | % |
+(a)Taxable-equivalent yield adjustments included in the above table are 0.17%, 0.04%, 0.95% and 0.03% for securities with an average life less than 1 year, average life between 5 and 10 years, average life greater than 10 years and in total, respectively.
+(b)Includes a discount of $685 pertaining to the unamortized portion of unrealized losses on HTM securities.
+Other Short-Term Investments
+Other short-term investments have original maturities less than one year and primarily include interest-bearing balances that are funds on deposit at the FRB or other depository institutions. Other short-term investments are used as an extension of the investment securities portfolio to manage liquidity risk. Other short-term investments were $19.4 billion at June 30, 2026, an increase of $474 million from December 31, 2025. The increase was primarily driven by other short-term investment balances acquired in connection with the acquisition of Comerica and an increase in short-term wholesale funding, partially offset by seasonal deposit trends and loan growth during the six months ended June 30, 2026.
+22
+Table of Contents
+Management's Discussion and Analysis of Financial Condition and Results of Operations (continued) |
+Deposits
+The Bancorp's deposit balances represent an important source of funding and revenue growth opportunity. The Bancorp continues to focus on core deposit growth in its retail and commercial franchises by improving customer satisfaction, building full relationships and offering competitive rates and through its strategy of expanding retail presence in high-growth markets, such as in the Southeast and Texas.
+The following table presents the end of period components of deposits:
+TABLE 20: Components of Deposits |
+As of ($ in millions) | June 30, 2026 | December 31, 2025 |
+Demand | $ | 63,928 | 42,647 |
+Interest checking | 70,527 | 61,155 |
+Savings | 18,161 | 16,155 |
+Money market | 65,932 | 39,285 |
+Total transaction deposits | $ | 218,548 | 159,242 |
+CDs $250,000 or less | 12,708 | 10,599 |
+Total core deposits | $ | 231,256 | 169,841 |
+CDs over $250,000(a)
+2,885 | 1,978 |
+Total deposits | $ | 234,141 | 171,819 |
+(a)Includes $1 and $777 of retail brokered CDs which are fully covered by FDIC insurance as of June 30, 2026 and December 31, 2025, respectively.
+Total deposits increased $62.3 billion, or 36%, from December 31, 2025 due to the Comerica acquisition as the Bancorp assumed commercial and consumer deposit balances of $65.2 billion at acquisition. Table 21 summarizes the detail of deposits assumed as a result of the Comerica acquisition on February 1, 2026.
+TABLE 21: Deposits Assumed |
+($ in millions) |
+Demand | $ | 22,509 |
+Interest checking | 13,661 |
+Savings | 1,970 |
+Money market | 22,962 |
+Total transaction deposits | $ | 61,102 |
+CDs $250,000 or less | 2,049 |
+Total core deposits | $ | 63,151 |
+CDs over $250,000 | 2,042 |
+Total deposits | $ | 65,193 |
+The following discussion excludes the impact of the deposits assumed in the Comerica acquisition. Core deposits decreased $1.7 billion, or 1%, from December 31, 2025 primarily due to a decrease in transaction deposits. Transaction deposits decreased $1.8 billion, or 1%, from December 31, 2025 primarily driven by decreases in interest checking deposits and demand deposits, partially offset by an increase in money market deposits. Interest checking deposits decreased $4.3 billion, or 7%, from December 31, 2025 primarily due to the intentional reduction of higher-cost, non-relationship commercial customer deposits as well as seasonal impacts which contributed to lower balances per commercial customer account. Demand deposits decreased $1.2 billion, or 3%, from December 31, 2025 as a result of lower balances per consumer and commercial customer account, which is partially attributable to seasonality. Money market deposits increased $3.7 billion, or 9%, from December 31, 2025 primarily as a result of higher offering rates from promotional offers leading to higher balances per consumer customer account as well as growth in the number of consumer customer accounts.
+CDs over $250,000 decreased $1.1 billion, or 57%, from December 31, 2025 primarily due to maturities of retail brokered CDs.
+Deposit insurance
+The FDIC generally provides a standard amount of insurance of $250,000 per depositor, per insured bank, for each account ownership category defined by the FDIC. As of June 30, 2026 and December 31, 2025, approximately $139.5 billion, or 60%, and $101.8 billion, or 59%, respectively, of the Bancorp's domestic deposits were estimated to be insured. As of June 30, 2026 and December 31, 2025, approximately $94.1 billion and $69.8 billion, respectively, of the Bancorp's domestic deposits were estimated to be uninsured. At June 30, 2026 and December 31, 2025, approximately $2.2 billion and $1.1 billion, respectively, of domestic time deposits were estimated to be uninsured. Where information is not readily available to determine the amount of insured deposits, the amount of uninsured deposits is estimated, consistent with the methodologies and assumptions utilized in providing information to the Bank's regulators.
+
+----- [line 854] -----
+As of ($ in millions) | June 30,
+2026 | December 31,
+2025 |
+Short-term borrowings | $ | 4,633 | 926 |
+Long-term debt | 17,636 | 13,589 |
+Total borrowings | $ | 22,269 | 14,515 |
+Total borrowings increased $7.8 billion, or 53%, from December 31, 2025 due to increases in long-term debt and short-term borrowings. Long-term debt increased $4.0 billion from December 31, 2025 primarily due to the long-term debt assumed in the Comerica acquisition totaling $5.5 billion. Additionally, the increase from December 31, 2025 included the issuance of senior fixed-rate/floating-rate notes in January 2026 totaling $2.0 billion, which was more than offset by $3.3 billion of redemptions and maturities. For further information regarding long-term debt activity, refer to Note 14 of the Notes to Condensed Consolidated Financial Statements. Short-term borrowings increased $3.7 billion from December 31, 2025 primarily due to an increase in short-term FHLB advances to manage balance sheet liquidity needs due to seasonal fluctuations. The level of other short-term borrowings and mix of total borrowings can fluctuate significantly from period to period depending on funding needs and the sources that are used to satisfy those needs.
+24
+Table of Contents
+Management's Discussion and Analysis of Financial Condition and Results of Operations (continued) |
+BUSINESS SEGMENT REVIEW
+The Bancorp has three reportable segments: Commercial Banking, Consumer and Small Business Banking and Wealth and Asset Management. Additional information on each segment is included in Note 22 of the Notes to Condensed Consolidated Financial Statements. Results of the Bancorp's segments are presented based on its management structure and management accounting practices, which are specific to the Bancorp. Therefore, the financial results of the Bancorp's segments are not necessarily comparable with similar information for other financial institutions. The Bancorp refines its methodologies from time to time as management's accounting practices and businesses change.
+The Bancorp manages interest rate risk centrally at the corporate level. By employing an FTP methodology, the segments are insulated from most benchmark interest rate volatility, enabling them to focus on serving customers through the origination of loans and acceptance of deposits. The FTP methodology assigns charge and credit rates to classes of assets and liabilities, respectively, based on the estimated amount and timing of the cash flows for each transaction.
+The Bancorp adjusts the FTP charge and credit rates as dictated by changes in interest rates for various interest-earning assets and interest-bearing liabilities and by the review of behavioral assumptions, such as prepayment rates on interest-earning assets and the estimated durations for indeterminate-lived deposits. In general, the charge rates on assets decreased since December 31, 2025 as they were affected by the prevailing level of short-term interest rates and repricing characteristics of the existing portfolio, and to a lesser extent the impact of reduced liquidity premium assumptions on new production throughout 2026. Additionally, charge rates on new production have increased relative to the existing portfolio driven by the impact of higher long-term interest rates. The credit rates for deposit products have increased since December 31, 2025 due to increases in intermediate- and long-term interest rates.
+For more information about the Bancorp's FTP process and other allocation methodologies, refer to the Business Segment Review section included in MD&A of the Bancorp's Annual Report on Form 10-K for the year ended December 31, 2025.
+Results of the Bancorp's segments for the three and six months ended June 30, 2026 were impacted by activity attributable to the Comerica acquisition and the integration of acquired operations.
+The following table summarizes income (loss) before income taxes on an FTE basis by segment:
+TABLE 23: Income (Loss) Before Income Taxes (FTE) by Segment |
+For the three months ended
+June 30, | For the six months ended
+June 30, |
+($ in millions) | 2026 | 2025 | 2026 | 2025 |
+Commercial Banking | $ | 840 | 384 | 1,267 | 646 |
+Consumer and Small Business Banking | 616 | 648 | 1,088 | 1,170 |
+Wealth and Asset Management | 118 | 65 | 184 | 116 |
+General Corporate and Other(a)
+(533) | (284) | (1,286) | (461) |
+Income before income taxes (FTE)(b)
+$ | 1,041 | 813 | 1,253 | 1,471 |
+(a)General Corporate and Other is not a reportable segment and is presented for reconciliation purposes.
+(b)Includes FTE adjustments of $5 for both the three months ended June 30, 2026 and 2025 and $10 for both the six months ended June 30, 2026 and 2025.
+25
+Table of Contents
+Management's Discussion and Analysis of Financial Condition and Results of Operations (continued) |
+Commercial Banking
+Commercial Banking offers credit intermediation, cash management and financial services to large and middle-market businesses and government and professional customers.
+The following table contains selected financial data for the Commercial Banking segment:
+TABLE 24: Commercial Banking |
+For the three months ended
+June 30, | For the six months ended
+June 30, |
+($ in millions) | 2026 | 2025 | 2026 | 2025 |
+Income Statement Data |
+Net interest income (FTE)(a)
+$ | 1,115 | 595 | 1,994 | 1,147 |
+Provision for credit losses | 25 | 79 | 184 | 159 |
+Net interest income after provision for credit losses | 1,090 | 516 | 1,810 | 988 |
+Noninterest income | 507 | 321 | 947 | 622 |
+Noninterest expense | 757 | 453 | 1,490 | 964 |
+Income before income taxes (FTE)(a)
+$ | 840 | 384 | 1,267 | 646 |
+Average Balance Sheet Data |
+Loans and leases, including held for sale | $ | 113,297 | 68,784 | 104,751 | 68,600 |
+Noninterest-bearing deposits | 31,562 | 16,257 | 29,075 | 16,094 |
+Interest-bearing deposits | 64,201 | 43,913 | 61,638 | 44,337 |
+(a)Includes FTE adjustments of $3 for both the three months ended June 30, 2026 and 2025 and $6 for both the six months ended June 30, 2026 and 2025.
+Income before income taxes on an FTE basis was $840 million and $1.3 billion for the three and six months ended June 30, 2026, respectively, compared to $384 million and $646 million for the same periods in the prior year. The increases were primarily driven by increases in net interest income on an FTE basis and noninterest income, partially offset by increases in noninterest expense. The increase for the three months ended June 30, 2026 also included a decrease in provision for credit losses while the increase for the six months ended June 30, 2026 was partially offset by an increase in provision for credit losses.
+Net interest income on an FTE basis increased $520 million and $847 million for the three and six months ended June 30, 2026, respectively, compared to the same periods in the prior year primarily driven by increases in the average balances of commercial loans and leases, increases in FTP credits on deposits and decreases in rates paid on average interest-bearing deposits. These positive impacts were partially offset by increases in FTP charges on commercial loans and leases, increases in the average balances of deposits and decreases in yields on average commercial loans and leases.
+Provision for credit losses decreased $54 million and increased $25 million for the three and six months ended June 30, 2026, respectively, compared to the same periods in the prior year. The decrease for the three months ended June 30, 2026 was primarily driven by an allocated benefit from credit losses related to commercial criticized asset levels compared to an allocated provision for credit losses for the same period in the prior year. The increase for the six months ended June 30, 2026 compared to the same period in the prior year was primarily driven by an increase in the allocated provision for credit losses related to commercial criticized asset levels. Annualized net charge-offs as a percent of average portfolio loans and leases decreased to 19 bps and 22 bps for the three and six months ended June 30, 2026, respectively, compared to 35 bps and 33 bps for the same periods in the prior year.
+Noninterest income increased $186 million and $325 million for the three and six months ended June 30, 2026, respectively, compared to the same periods in the prior year primarily due to increases in commercial payments revenue, capital markets fees and commercial banking revenue. Noninterest expense increased $304 million and $526 million for the three and six months ended June 30, 2026, respectively, compared to the same periods in the prior year primarily driven by increases in other noninterest expense, compensation and benefits expense and card and processing expense.
+The average balance sheet data for the Commercial Banking segment reflected the impact of the Comerica acquisition, including $43.4 billion of loans and leases, $15.7 billion of noninterest-bearing deposits and $21.3 billion of interest-bearing deposits on February 1, 2026. Average loans and leases increased $44.5 billion and $36.2 billion for the three and six months ended June 30, 2026, respectively, compared to the same periods in the prior year primarily driven by the Comerica acquisition which led to increases in average commercial and industrial loans, average commercial mortgage loans and average commercial construction loans. Average interest-bearing deposits increased $20.3 billion and $17.3 billion for the three and six months ended June 30, 2026, respectively, compared to the same periods in the prior year primarily driven by the Comerica acquisition which led to increases in average money market deposits and average interest checking deposits.
+26
+Table of Contents
+Management's Discussion and Analysis of Financial Condition and Results of Operations (continued) |
+Consumer and Small Business Banking
+Consumer and Small Business Banking provides a full range of deposit and loan products to individuals and small businesses through a network of full-service banking centers and relationships with indirect and correspondent loan originators in addition to providing products designed to meet the specific needs of small businesses, including cash management services.
+The following table contains selected financial data for the Consumer and Small Business Banking segment:
+TABLE 25: Consumer and Small Business Banking |
+For the three months ended
+June 30, | For the six months ended
+June 30, |
+($ in millions) | 2026 | 2025 | 2026 | 2025 |
+Income Statement Data |
+
+----- [line 960] -----
+Loans and leases, including held for sale | $ | 9,709 | 4,550 | 8,844 | 4,443 |
+Noninterest-bearing deposits | 1,384 | 419 | 1,222 | 422 |
+Interest-bearing deposits | 11,806 | 9,624 | 11,537 | 10,008 |
+Income before income taxes was $118 million and $184 million for the three and six months ended June 30, 2026, respectively, compared to $65 million and $116 million for the same periods in the prior year. The increases were primarily driven by increases in noninterest income and net interest income, partially offset by increases in noninterest expense.
+Net interest income increased $56 million and $89 million for the three and six months ended June 30, 2026, respectively, compared to the same periods in the prior year primarily driven by increases in the average balances of loans and leases, increases in FTP credits on deposits and decreases in rates paid on average interest-bearing deposits, partially offset by increases in FTP charges on loans and leases and increases in the average balances on deposits.
+Noninterest income increased $85 million and $141 million for the three and six months ended June 30, 2026, respectively, compared to the same periods in the prior year primarily due to increases in wealth and asset management revenue. Noninterest expense increased $90 million and $165 million for the three and six months ended June 30, 2026, respectively, compared to the same periods in the prior year primarily driven by increases in other noninterest expense and compensation and benefits expense.
+The average balance sheet data for the Wealth and Asset Management segment reflected the impact of the Comerica acquisition, including $4.6 billion of loans and leases, $1.1 billion of noninterest-bearing deposits and $2.3 billion of interest-bearing deposits on February 1, 2026. Average loans and leases increased $5.2 billion and $4.4 billion for the three and six months ended June 30, 2026, respectively, compared to the same periods in the prior year primarily driven by the Comerica acquisition which led to increases in average commercial mortgage loans, average residential mortgage loans and average commercial and industrial loans. Average interest-bearing deposits increased $2.2 billion and $1.5 billion for the three and six months ended June 30, 2026, respectively, compared to the same periods in the prior year primarily driven by the Comerica acquisition which led to increases in average money market deposits and average interest checking deposits, partially offset by decreases in average savings deposits.
+28
+Table of Contents
+Management's Discussion and Analysis of Financial Condition and Results of Operations (continued) |
+General Corporate and Other
+General Corporate and Other includes the unallocated portion of the investment securities portfolio, securities gains and losses, certain non-core deposit funding, unassigned equity, unallocated provision for credit losses or a benefit from the reduction of the ACL, the payment of preferred stock dividends and certain support activities and other items not attributed to its segments.
+Net interest income on an FTE basis decreased $8 million and increased $31 million for the three and six months ended June 30, 2026, respectively, compared to the same periods in the prior year. The decrease for the three months ended June 30, 2026 compared to the same period in the prior year was primarily driven by an increase in FTP credits on deposits allocated to the segments and an increase in FTP charges on securities, partially offset by increases in FTP charges on loans and leases allocated to the segments and interest income on securities and commercial loans. The increase for the six months ended June 30, 2026 compared to the same period in the prior year was primarily driven by increases in FTP charges on loans and leases allocated to the segments and interest income on commercial loans and securities. These positive impacts were partially offset by an increase in FTP credits on deposits allocated to the segments and an increase in FTP charges on securities. The increase in FTP charges allocated to the segments was primarily driven by increases in total assets associated with the acquisition of Comerica. To a lesser extent, increases in market interest rates net of reduced liquidity premium assumptions increased FTP charges on new fixed-rate loan and lease production relative to the existing portfolio. The increase in FTP credits allocated to the segments was primarily driven by increases in total liabilities associated with the acquisition of Comerica and higher FTP credit rates paid on deposits as a result of higher market interest rates net of reduced liquidity premium assumptions. Given the daily repricing option on non-maturity deposits, the FTP credits on deposits earned by the segments generally increases or decreases at a faster pace than the amount of allocated FTP charges on loans and leases. Under the Bancorp's internal reporting methodology, the Bancorp insulates the segments from interest rate risk associated with fixed-rate lending by transferring this risk to General Corporate and Other through the FTP methodology.
+Provision for credit losses increased $14 million and decreased $16 million for the three and six months ended June 30, 2026, respectively, compared to the same periods in the prior year. The increase for the three months ended June 30, 2026 compared to the same period in the prior year was primarily driven by a decrease in allocations to the segments, partially offset by a decrease in the provision for the reserve for unfunded commitments. The decrease for the six months ended June 30, 2026 compared to the same period in the prior year was primarily driven by an increase in allocations to the segments, partially offset by an increase in the provision for the reserve for unfunded commitments recorded as part of the initial recognition of the reserve for unfunded commitments assumed in the Comerica acquisition.
+Noninterest income increased $10 million for the three months ended June 30, 2026 compared to the same period in the prior year primarily driven by an increase in other noninterest income, partially offset by a decrease in commercial payments revenue.
+Noninterest expense increased $237 million and $871 million for the three and six months ended June 30, 2026, respectively, compared to the same periods in the prior year primarily due to merger-related expenses related to the Comerica acquisition. Refer to the Noninterest Expense subsection of the Statements of Income Analysis section of MD&A for information on the merger-related expenses. Additionally, the increases for the three and six months ended June 30, 2026 compared to the same periods in the prior year were driven by increases in compensation and benefits expense and technology and communications expense, partially offset by increases in corporate overhead allocations from General Corporate and Other to the other segments.
+29
+Table of Contents
+Management's Discussion and Analysis of Financial Condition and Results of Operations (continued) |
+RISK MANAGEMENT - OVERVIEW
+The Risk Management Overview section included in Item 7 of the Bancorp's Annual Report on Form 10-K describes the Bancorp's Enterprise Risk Management Framework and Three Lines of Defense structure as well as key areas of risk, which include credit risk, liquidity risk, interest rate risk, price risk, legal and regulatory compliance risk, operational risk, reputation risk and strategic risk. Item 7 of the Bancorp's Annual Report on Form 10-K also includes additional detailed information about the Bancorp's processes related to operational risk management as well as legal and regulatory compliance risk management. The following information should be read in conjunction with the Bancorp's Annual Report on Form 10-K.
+CREDIT RISK MANAGEMENT
+Credit risk management utilizes a framework that encompasses consistent processes for identifying, assessing, managing, monitoring and reporting credit risk. These processes are supported by a credit risk governance structure that includes Board oversight, policies, risk limits and risk committees.
+The Bancorp continues to monitor macroeconomic, governmental policy and geopolitical developments, and their potential impact on borrower performance and overall credit quality. These developments include, among other factors, global conflicts, trade and tariff policies, inflationary pressures, interest rate levels, labor market conditions, energy prices, market volatility, supply chain conditions and trends in consumer discretionary spending, debt levels and defaults. The Bancorp continues to emphasize disciplined client selection, adherence to established underwriting standards and monitoring of potential concentrations of credit risk.
+Refer to the Credit Risk Management subsection of the Risk Management section of MD&A included in the Bancorp's Annual Report on Form 10-K for the year ended December 31, 2025 for additional information on the Bancorp's credit risk management framework.
+Commercial Portfolio
+The Bancorp's credit risk management strategy seeks to minimize concentrations of risk through diversification. The Bancorp has commercial loan concentration limits based on industry, lines of business within the commercial segment, geography and credit product type. The risk within the commercial loan and lease portfolio is managed and monitored through an underwriting process utilizing detailed origination policies, continuous loan level reviews, monitoring of industry concentration and product type limits and continuous portfolio risk management reporting.
+The Bancorp provides loans to a variety of customers ranging from large multinational firms to middle market businesses, small businesses, sole proprietors and high net worth individuals. The origination policies for commercial loans and leases outline the risks and underwriting requirements for individuals and businesses in various industries. Included in the policies are maturity and amortization terms, collateral and leverage requirements, cash flow coverage measures and hold limits. The Bancorp aligns credit and sales teams with specific industry and regional expertise to better monitor and manage different industry and geographic segments of the portfolio.
+The commercial loan portfolio acquired in connection with the Comerica acquisition is comprised primarily of middle market loans but also includes specialty lending segments. These products serve distinct client needs and broaden the Bancorp's lending capabilities. The portfolio is managed within Fifth Third's credit risk framework to ensure adherence to risk appetite.
+30
+Table of Contents
+Management's Discussion and Analysis of Financial Condition and Results of Operations (continued) |
+The following table provides detail on commercial loans and leases by industry classification (as defined by the North American Industry Classification System), by loan size and by state, illustrating the diversity and granularity of the Bancorp's commercial loans and leases as of:
+TABLE 27: Commercial Loan and Lease Portfolio (excluding loans and leases held for sale) |
+June 30, 2026 | December 31, 2025 |
+($ in millions) | Outstanding | Exposure | Nonaccrual | Outstanding | Exposure | Nonaccrual |
+By Industry: |
+Real estate | $ | 24,226 | 35,521 | 35 | 13,929 | 23,228 | 7 |
+Business services | 14,918 | 23,406 | 28 | 6,600 | 11,128 | 90 |
+Financial services and insurance | 14,805 | 34,912 | 23 | 9,633 | 21,859 | 20 |
+Manufacturing | 13,586 | 27,722 | 54 | 8,561 | 18,998 | 59 |
+Wholesale trade | 8,665 | 17,438 | 71 | 5,378 | 10,566 | 45 |
+Retail trade | 8,656 | 16,690 | 98 | 3,248 | 7,808 | 53 |
+Construction | 7,294 | 14,582 | 48 | 3,112 | 7,599 | 26 |
+Healthcare | 6,918 | 10,157 | 76 | 5,834 | 8,616 | 45 |
+Accommodation and food | 5,379 | 9,228 | 31 | 4,571 | 7,076 | 14 |
+Communication and information | 5,378 | 8,983 | 100 | 3,191 | 6,072 | 53 |
+Mining | 3,621 | 9,272 | -- | 2,103 | 5,677 | -- |
+Transportation and warehousing | 3,551 | 6,054 | 4 | 2,381 | 3,894 | 5 |
+Utilities | 3,080 | 6,579 | 9 | 1,884 | 3,251 | -- |
+Entertainment and recreation | 2,569 | 4,484 | 21 | 1,666 | 3,032 | 4 |
+Other | 2,234 | 6,300 | 17 | 1,471 | 2,773 | 6 |
+Total | $ | 124,880 | 231,328 | 615 | 73,562 | 141,577 | 427 |
+By Loan Size: |
+Less than $1 million | 4 | % | 4 | 17 | 6 | 5 | 15 |
+$1 million to $5 million | 12 | 9 | 12 | 7 | 5 | 10 |
+$5 million to $10 million | 9 | 7 | 8 | 4 | 4 | 8 |
+$10 million to $25 million | 17 | 16 | 39 | 12 | 10 | 18 |
+$25 million to $50 million | 22 | 22 | 13 | 23 | 21 | 25 |
+$50 million to $100 million | 20 | 21 | 11 | 26 | 28 | 24 |
+Greater than $100 million | 16 | 21 | -- | 22 | 27 | -- |
+Total | 100 | % | 100 | 100 | 100 | 100 | 100 |
+By State: |
+Texas | 17 | % | 16 | 14 | 8 | 9 | 16 |
+California | 15 | 13 | 9 | 11 | 9 | 4 |
+Michigan | 8 | 8 | 16 | 5 | 5 | 5 |
+Illinois | 6 | 5 | 9 | 8 | 7 | 6 |
+Florida | 5 | 5 | 11 | 7 | 7 | 5 |
+New York | 5 | 5 | 7 | 7 | 6 | 18 |
+Ohio | 5 | 6 | 3 | 8 | 10 | 3 |
+Indiana | 3 | 2 | -- | 3 | 3 | 1 |
+Other | 36 | 40 | 31 | 43 | 44 | 42 |
+Total | 100 | % | 100 | 100 | 100 | 100 | 100 |
+The origination policies for commercial real estate outline the risks and underwriting requirements for owner and nonowner-occupied and construction lending. Included in the policies are maturity and amortization terms, maximum LTVs, minimum debt service coverage ratios, construction loan monitoring procedures, appraisal requirements, pre-leasing requirements (as applicable), pro forma analysis requirements and interest rate sensitivity. The Bancorp requires a valuation of real estate collateral, which may include third-party appraisals, be performed at the time of origination and renewal in accordance with regulatory requirements and on an as-needed basis when market conditions justify. The Bancorp maintains an appraisal review department to order and review third-party appraisals in accordance with regulatory requirements. Nonaccrual assets with relationships exceeding $1 million are reviewed quarterly to assess the appropriateness of the value ascribed in the assessment of charge-offs and specific reserves. Additionally, collateral values are also reviewed at least annually for all criticized assets.
+The Bancorp assesses all real estate and non-real estate collateral securing a loan and considers all cross-collateralized loans in the calculation of the LTV ratio. The following tables provide detail on the most recent LTV ratios for commercial mortgage loans greater than $1 million, excluding commercial mortgage loans that are individually evaluated for an ACL and loans which do not have real estate as the primary collateral. The Bancorp does not typically aggregate the LTV ratios for commercial mortgage loans less than $1 million.
+31
+Table of Contents
+Management's Discussion and Analysis of Financial Condition and Results of Operations (continued) |
+TABLE 28: Commercial Mortgage Loans Outstanding by LTV, Loans Greater Than $1 Million |
+As of June 30, 2026 ($ in millions) | LTV > 100% | LTV 80-100% | LTV < 80% |
+Commercial mortgage owner-occupied loans | $ | 365 | 973 | 8,281 |
+Commercial mortgage nonowner-occupied loans | -- | 267 | 14,376 |
+Total | $ | 365 | 1,240 | 22,657 |
+TABLE 29: Commercial Mortgage Loans Outstanding by LTV, Loans Greater Than $1 Million |
+As of December 31, 2025 ($ in millions) | LTV > 100% | LTV 80-100% | LTV < 80% |
+Commercial mortgage owner-occupied loans | $ | 423 | 544 | 3,392 |
+Commercial mortgage nonowner-occupied loans | -- | 92 | 5,800 |
+Total | $ | 423 | 636 | 9,192 |
+Generally, loans with an LTV greater than 80% are originated with either a compensating SBA guaranty or other structural credit protections.
+The Bancorp views nonowner-occupied commercial real estate as a higher credit risk product compared to some other commercial loan portfolios due to the higher volatility of the industry.
+The following tables provide an analysis of nonowner-occupied commercial real estate loans, disaggregated by property location (excluding loans held for sale):
+TABLE 30: Nonowner-Occupied Commercial Real Estate (excluding loans held for sale)(a)
+As of June 30, 2026 ($ in millions) | Outstanding | Exposure | Nonaccrual |
+By State: |
+California | $ | 4,749 | 6,525 | 15 |
+Texas | 4,468 | 6,364 | 1 |
+Florida | 1,870 | 2,912 | -- |
+Michigan | 1,534 | 1,848 | 6 |
+Illinois | 1,163 | 1,377 | 2 |
+Ohio | 1,056 | 1,506 | -- |
+North Carolina | 754 | 1,135 | -- |
+Nevada | 635 | 742 | -- |
+Arizona | 506 | 821 | -- |
+Georgia | 493 | 946 | -- |
+All other states | 5,826 | 7,613 | 3 |
+Total | $ | 23,054 | 31,789 | 27 |
+(a)Included in commercial mortgage loans and commercial construction loans in the Loans and Leases subsection of the Balance Sheet Analysis section of MD&A.
+TABLE 31: Nonowner-Occupied Commercial Real Estate (excluding loans held for sale)(a)
+As of December 31, 2025 ($ in millions) | Outstanding | Exposure | Nonaccrual |
+By State: |
+California | $ | 862 | 1,262 | -- |
+Texas | 1,010 | 1,917 | -- |
+Florida | 1,377 | 2,222 | -- |
+Michigan | 784 | 990 | -- |
+Illinois | 979 | 1,329 | -- |
+Ohio | 918 | 1,450 | -- |
+North Carolina | 409 | 513 | -- |
+Nevada | 268 | 344 | -- |
+Arizona | 75 | 117 | -- |
+Georgia | 277 | 675 | -- |
+All other states | 3,859 | 5,273 | 5 |
+Total | $ | 10,818 | 16,092 | 5 |
+(a)Included in commercial mortgage loans and commercial construction loans in the Loans and Leases subsection of the Balance Sheet Analysis section of MD&A.
+The Bancorp realized $1 million of net recoveries on nonowner-occupied commercial real estate loans for both the three and six months ended June 30, 2026, compared to an immaterial amount of net charge-offs for both the three and six months ended June 30, 2025. At
+32
+Table of Contents
+Management's Discussion and Analysis of Financial Condition and Results of Operations (continued) |
+June 30, 2026 and 2025, $1 million and $3 million, respectively, of the Bancorp's nonowner-occupied commercial real estate loans were 90 days past due and still accruing.
+Consumer Portfolio
+The Bancorp's consumer portfolio is materially comprised of six categories of loans: residential mortgage loans, home equity, indirect secured consumer loans, credit card, solar energy installation loans and other consumer loans. The Bancorp has identified certain credit characteristics within these six categories of loans which it believes represent a higher level of risk compared to the rest of the consumer loan portfolio. The Bancorp does not update LTVs for the consumer portfolio subsequent to origination except as part of the charge-off process for real estate secured loans. The Bancorp actively manages the consumer portfolio through concentration limits, which mitigate credit risk through limiting the exposure to lower FICO scores, higher LTVs, specific geographic concentration risks and additional risk elements.
+The Bancorp continues to ensure that underwriting standards and guidelines adequately account for broader economic conditions affecting the consumer portfolio, including the impact of interest rate movements. Guidelines are designed to ensure that the various consumer products fall within the Bancorp's risk appetite. These guidelines are monitored and adjusted as deemed appropriate in response to the prevailing economic conditions while remaining within the Bancorp's risk appetite limits.
+The payment structures for certain variable-rate products (such as residential mortgage loans, home equity and credit card) are susceptible to changes in benchmark interest rates. Changes in interest rates may affect borrower payment obligations and credit performance, particularly when coupled with broader economic pressures affecting consumer finances. The Bancorp actively monitors the portion of its consumer portfolio that is susceptible to changes in minimum payments and continues to assess the impact on the overall risk appetite and soundness of the portfolio.
+The consumer loan portfolio acquired in connection with the Comerica acquisition is comprised primarily of residential mortgage, home equity, and other consumer loans. The portfolios will be managed within the Bancorp's credit risk management framework to ensure adherence to risk appetite.
+
+----- [line 1521] -----
+Indirect secured consumer loans | 1.77 | 1.69 |
+Credit card | 8.85 | 8.59 |
+Solar energy installation loans | 8.16 | 6.89 |
+Other consumer loans | 3.97 | 4.44 |
+Total ALLL as a percent of portfolio loans and leases | 1.63 | % | 1.84 |
+Total ACL as a percent of portfolio loans and leases | 1.76 | 1.96 |
+(a)Includes residential mortgage loans measured at fair value of $102 at June 30, 2026 and $106 at December 31, 2025.
+The Bancorp's ALLL may vary significantly from period to period based on changes in economic conditions, economic forecasts and the composition and credit quality of the Bancorp's loan and lease portfolio.
+43
+Table of Contents
+Management's Discussion and Analysis of Financial Condition and Results of Operations (continued) |
+INTEREST RATE AND PRICE RISK MANAGEMENT
+Interest rate risk is the risk to earnings or capital arising from movement of interest rates. This risk primarily impacts the Bancorp's income categories through changes in interest income on earning assets and the cost of interest-bearing liabilities, and through fee items that are related to interest-sensitive activities such as mortgage origination and servicing income and through earnings credits earned on commercial deposits that offset commercial deposit fees. Price risk is the risk to earnings or capital arising from changes in the value of financial instruments and portfolios due to movements in interest rates, volatilities, foreign exchange rates, equity prices and commodity prices. For more information, refer to the Interest Rate and Price Risk Management subsection of Risk Management section of MD&A of the Bancorp's Annual Report on Form 10-K for the year ended December 31, 2025.
+Net Interest Income Sensitivity
+As of June 30, 2026, the Bancorp's interest rate risk exposure is governed by a risk framework that utilizes the change in NII over 12-month and 24-month horizons under parallel and non-parallel increases and decreases in interest rates. Risk appetite thresholds are utilized for scenarios assuming a 200 bps increase and a 200 bps decrease in interest rates over 12-month and 24-month horizons. The Bancorp routinely analyzes various potential and extreme scenarios, including parallel ramps and shocks as well as non-parallel shifts in rates, to assess where risks to net interest income persist or develop as changes in the balance sheet and market rates evolve, and employs key risk indicators and early warning indicators to monitor and manage exposures under these types of scenarios. Additionally, the Bancorp routinely evaluates its exposures to changes in the basis between interest rates.
+In order to recognize the risk of noninterest-bearing demand deposit balance migration or attrition in a rising interest rate environment, the Bancorp's NII sensitivity modeling assumes additional attrition of approximately $1.5 billion of demand deposit balances over a period of 24 months for each 100 bps increase in short-term market interest rates. Similarly, the Bancorp's NII sensitivity modeling incorporates approximately $1.5 billion of incremental growth in noninterest-bearing deposit balances over 24 months for each 100 bps decrease in short-term market interest rates. The incremental balance attrition and growth are modeled to flow into and out of funding products that reprice in conjunction with short-term market rate changes.
+The Bancorp's NII sensitivity modeling uses beta assumptions which result in weighted-average rising-rate interest-bearing deposit betas at the end of the ramped parallel scenarios of approximately 65%-70% for both a 100 bps and 200 bps increase in rates. In the event of continued rate cuts, this approach assumes a weighted-average falling-rate interest-bearing deposit beta at the end of the ramped parallel scenarios of approximately 55%-60% for both a 100 bps and 200 bps decrease in rates. In falling rate scenarios, deposit rate floors are utilized to ensure modeled deposit rates will not become negative. The Bancorp provides sensitivity analysis in Tables 53 and 54 for key assumptions related to its deposit modeling, including beta and demand deposit balance performance.
+The Bancorp continually evaluates the sensitivity of its interest rate risk measures to these important deposit modeling assumptions. The Bancorp also regularly monitors the sensitivity of other important modeling assumptions, such as loan and security prepayments and early withdrawals on fixed-rate customer liabilities.
+The following table shows the Bancorp's estimated NII sensitivity profile and policy limits as of:
+TABLE 52: Estimated NII Sensitivity Profile and Policy Limits |
+June 30, 2026 | June 30, 2025 |
+% Change in NII (FTE) | Policy Limit | % Change in NII (FTE) | Policy Limit |
+Change in Interest Rates (bps) | 12
+Months | 13-24
+Months | 12
+Months | 13-24
+Months | 12
+Months | 13-24
+Months | 12
+Months | 13-24
+Months |
++200 Ramp over 12 months | 0.54 | % | 2.86 | (9.00) | (15.00) | (3.51) | (4.48) | (6.00) | (7.00) |
++100 Ramp over 12 months | 0.42 | 1.87 | NA | NA | (1.71) | (2.03) | NA | NA |
+-100 Ramp over 12 months | (1.08) | (3.72) | NA | NA | 0.88 | 0.65 | NA | NA |
+-200 Ramp over 12 months | (2.92) | (9.72) | (9.00) | (15.00) | 1.29 | (0.21) | (6.00) | (7.00) |
+Table 52 presents the change in estimated net interest income for 12 month and 13-24 month horizons for alternative interest rate scenarios relative to the net interest income projection for a static rate scenario for those same time horizons. These numbers do not represent a forecast, but are instead risk measures that are monitored to evaluate the consolidated interest rate risk position of the Bancorp. At June 30, 2026, the Bancorp's NII sensitivity in the rising-rate scenarios is positive in years one and two as interest income is expected to increase more than interest expense primarily due to floating-rate loans repricing faster than interest-bearing deposits. The Bancorp's NII simulation projects a decrease in NII in year one under both the parallel 100 bps ramp decrease and 200 bps ramp decrease in interest rates driven by an expectation that deposits would reprice slower than earning assets. In year two of these simulations, some deposits have reached their floors, but assets continue to be repriced to lower rates, generating less NII. The changes in the estimated NII sensitivity profile compared to June 30, 2025 were attributable to growth in floating-rate loans and noninterest-bearing deposits primarily due to the Comerica acquisition.
+44
+Table of Contents
+Management's Discussion and Analysis of Financial Condition and Results of Operations (continued) |
+Tables 53 and 54 provide the sensitivity of the Bancorp's estimated NII profile at June 30, 2026 to changes to certain deposit balance and deposit repricing sensitivity (beta) assumptions.
+The following table includes the Bancorp's estimated NII sensitivity profile with an immediate $1 billion decrease and an immediate $1 billion increase in demand deposit balances as of June 30, 2026:
+TABLE 53: Estimated NII Sensitivity Profile at June 30, 2026 with a $1 Billion Change in Demand Deposit Assumption |
+% Change in NII (FTE) |
+Immediate $1 Billion Balance
+Decrease | Immediate $1 Billion Balance
+Increase |
+Change in Interest Rates (bps) | 12
+Months | 13-24
+Months | 12
+Months | 13-24
+Months |
++200 Ramp over 12 months | 0.03 | % | 2.28 | 1.05 | 3.44 |
++100 Ramp over 12 months | (0.03) | 1.40 | 0.88 | 2.35 |
+-100 Ramp over 12 months | (1.41) | (3.99) | (0.74) | (3.45) |
+-200 Ramp over 12 months | (3.20) | (9.89) | (2.65) | (9.56) |
+The following table includes the Bancorp's estimated NII sensitivity profile with a 5% increase and a 5% decrease to the corresponding deposit beta assumptions as of June 30, 2026:
+TABLE 54: Estimated NII Sensitivity Profile at June 30, 2026 with Deposit Beta Assumptions Changes |
+% Change in NII (FTE) |
+Betas 5% Higher(a)
+Betas 5% Lower(a)
+Change in Interest Rates (bps) | 12
+Months | 13-24
+Months | 12
+Months | 13-24
+Months |
++200 Ramp over 12 months | (0.25) | % | 1.40 | 1.43 | 4.55 |
++100 Ramp over 12 months | 0.02 | 1.13 | 0.87 | 2.71 |
+-100 Ramp over 12 months | (0.71) | (3.05) | (1.48) | (4.46) |
+-200 Ramp over 12 months | (2.22) | (8.44) | (3.70) | (11.14) |
+(a)Applies a +/- 5% addition on assumed betas.
+Economic Value of Equity Sensitivity
+The Bancorp also uses EVE as a measurement tool to govern and manage its interest rate risk exposure. The exposure is governed by a risk framework that uses risk appetite thresholds for scenarios assuming an instantaneous 200 bps increase and a 200 bps decrease in interest rates. The Bancorp routinely analyzes exposures to other interest rate scenarios and employs key risk indicators to monitor and manage exposures.
+The following table shows the Bancorp's estimated EVE sensitivity profile as of:
+TABLE 55: Estimated EVE Sensitivity Profile |
+June 30, 2026 | December 31, 2025 |
+Change in Interest Rates (bps) | % Change in EVE | Policy Limit | % Change in EVE | Policy Limit |
++200 Shock | (2.49) | % | (12.00) | (5.12) | (12.00) |
++100 Shock | (0.91) | N/A | (2.20) | N/A |
+-100 Shock | (0.41) | N/A | 0.69 | N/A |
+-200 Shock | (2.90) | (12.00) | (1.02) | (12.00) |
+The EVE sensitivity is negative in both a +200 bps and +100 bps rising-rate scenario as well as both a -100 bps and -200 bps falling-rate scenario at June 30, 2026. The changes in the estimated EVE sensitivity profile from December 31, 2025 were primarily related to changes in forward interest rate expectations and an increase in interest-bearing and noninterest-bearing deposits reflecting the impact of the Comerica acquisition, partially offset by growth in the investment securities portfolio.
+While an instantaneous shift in spot interest rates is used in this analysis to provide an estimate of exposure, the Bancorp believes that a gradual shift in interest rates would have a more modest impact. Since EVE measures the discounted present value of cash flows over the estimated lives of instruments, the change in EVE does not directly correlate to the degree that earnings would be impacted over a shorter time horizon (e.g., the current fiscal year). Further, EVE does not account for factors such as future balance sheet growth, changes in product mix, changes in yield curve relationships and changing product spreads that could mitigate or exacerbate the impact of changes in interest
+45
+Table of Contents
+Management's Discussion and Analysis of Financial Condition and Results of Operations (continued) |
+rates. The NII simulations and EVE analyses do not necessarily include certain actions that management may undertake to manage risk in response to actual changes in interest rates.
+The Bancorp regularly evaluates its exposures to a static balance sheet forecast, basis risks relative to the Prime Rate and various SOFR terms, yield curve twist risks and embedded options risks. In addition, the impacts on NII on an FTE basis and EVE of extreme changes in interest rates are modeled, wherein the Bancorp employs the use of yield curve shocks and environment-specific scenarios.
+Use of Derivatives to Manage Interest Rate Risk
+An integral component of the Bancorp's interest rate risk management strategy is its use of derivative instruments to minimize significant fluctuations in earnings caused by changes in market interest rates. Examples of derivative instruments that the Bancorp may use as part of its interest rate risk management strategy include interest rate swaps, interest rate floors, interest rate caps, forward contracts, forward starting interest rate swaps, options, swaptions and TBA securities.
+These positions are used to convert the contractual interest rate index of agreed-upon amounts of assets and liabilities (i.e., notional amounts) to another interest rate index, to hedge the exposure to changes in fair value of a recognized asset attributable to changes in the benchmark interest rate or to hedge forecasted transactions for the variability in cash flows attributable to the contractually specified interest rate. The volume, maturity and mix of portfolio swaps change frequently as the Bancorp adjusts its broader interest rate risk management objectives and the balance sheet positions to be hedged.
+Additionally, as part of its overall risk management strategy relative to its residential mortgage banking activities, the Bancorp enters into forward contracts accounted for as free-standing derivatives to economically hedge IRLCs that are also considered free-standing derivatives. The Bancorp economically hedges its exposure to residential mortgage loans held for sale through the use of forward contracts and mortgage options as well.
+The Bancorp also enters into derivative contracts with major financial institutions to economically hedge market risks assumed in interest rate derivative contracts with commercial customers. Generally, these contracts have similar terms in order to protect the Bancorp from market volatility. Credit risk arises from the possible inability of the counterparties to meet the terms of their contracts, which the Bancorp minimizes through collateral arrangements, approvals, limits and monitoring procedures. The Bancorp has risk limits and internal controls in place to help ensure excessive risk is not being taken in providing this service to customers. These controls include an independent determination of interest rate volatility and potential future exposure on these contracts and counterparty credit approvals performed by independent risk management.
+For further information, including the notional amount and fair values of these derivatives, refer to Note 12 of the Notes to Condensed Consolidated Financial Statements. Additionally, for information on residential mortgage servicing rights and price risk, foreign currency risk, and commodity risk, refer to the Interest Rate and Price Risk Management subsection of Risk Management section of MD&A of the Bancorp's Annual Report on Form 10-K for the year ended December 31, 2025.
+46
+Table of Contents
+Management's Discussion and Analysis of Financial Condition and Results of Operations (continued) |
+LIQUIDITY RISK MANAGEMENT
+The goal of liquidity risk management is to maintain adequate funds to meet changes in the balance sheet, contractual obligations and risk arising from off-balance-sheet exposures. A summary of certain obligations and commitments to make future payments under contracts is included in Note 15 of the Notes to Condensed Consolidated Financial Statements. For more information on how liquidity risk is monitored and managed for both Fifth Third Bancorp and its subsidiaries, refer to the Liquidity Risk Management subsection of the Risk Management section of MD&A of the Bancorp's Annual Report on Form 10-K for the year ended December 31, 2025.
+Sources of Funds
+Primary sources of funds include revenue from noninterest income, cash flows from loan and lease payments, payments from securities including sales and maturities, the sale or securitization of loans and leases, funds generated by core deposits and the use of wholesale borrowings.
+The available-for-sale debt and other securities and held-to-maturity securities portfolios had a fair value of $62.7 billion at June 30, 2026. From these portfolios, $7.5 billion in principal and interest payments are expected to be received in the next 12 months and an additional $8.3 billion is expected to be received in the next 13 to 24 months. For further information on the investment securities portfolio, refer to the Investment Securities subsection of the Balance Sheet Analysis section of MD&A.
+Asset-driven liquidity is provided by the ability to monetize loans, leases and investment securities through a variety of channels, including repurchase agreements, outright sales, securitizations or pledging to secured borrowing providers. For the three and six months ended June 30, 2026, the Bancorp sold loans and leases totaling $2.0 billion and $3.3 billion, respectively, compared to $1.3 billion and $2.4 billion during the three and six months ended June 30, 2025, respectively. For further information, refer to Note 11 of the Notes to Condensed Consolidated Financial Statements.
+Core deposits have historically provided a sizable source of relatively stable and low-cost funds. Average core deposits and average shareholders' equity funded 88% and 89% of the Bancorp's average total assets for the three and six months ended June 30, 2026, respectively, and 86% for both the three and six months ended June 30, 2025. In addition to core deposit funding, the Bancorp also accesses a variety of other short-term and long-term funding sources, which include the use of the FHLB system. Management does not rely on any one source of liquidity and manages availability in response to changing balance sheet needs.
+In June of 2026, the Board of Directors authorized $15.0 billion of debt or other securities for issuance, all of which remained available for issuance as of June 30, 2026. The Bancorp is authorized to file any necessary registration statements with the SEC to permit ready access to the public securities markets; however, access to these markets may depend on market conditions. In January 2026, under the Board of Directors' prior authorization, the Bancorp issued and sold $2.0 billion of fixed-rate/floating-rate senior notes. In June 2026, under the Board of Directors' prior authorization, the Bancorp completed the previously announced exchange offer with respect to the $550 million of fixed-rate senior notes and the $1.0 billion of fixed-rate/floating-rate senior notes originally issued by Comerica Incorporated and assumed by Fifth Third Financial Corporation, as successor by merger, pursuant to which approximately $335 million and $938 million, respectively, of such notes were exchanged for new senior notes issued by the Bancorp and cash consideration. For further information, refer to Note 14 of the Notes to Condensed Consolidated Financial Statements.
+As of June 30, 2026, the Bank's global bank note program had a borrowing capacity of $25.0 billion, of which $20.9 billion was available for issuance. Additionally, at June 30, 2026, the Bank had approximately $91.1 billion of borrowing capacity available through secured borrowing sources, including the FRB and the FHLB.
+Current Liquidity Position
+The Bancorp maintains a strong liquidity profile driven by strong core deposit funding and $141 billion in readily available liquidity at June 30, 2026. Refer to the Deposits subsection of the Balance Sheet Analysis section of MD&A for more information regarding the Bancorp's deposit portfolio characteristics. The Bancorp maintains a liquidity profile focused on core deposit and stable long-term funding sources, while supplementing with a variety of secured and unsecured wholesale funding sources across the maturity spectrum, which allows for the effective management of concentration and rollover risk. The investment securities portfolio remains highly concentrated in liquid and readily marketable instruments and is a significant source of secured borrowing capacity via several monetization channels. As part of its liquidity management activities, the Bancorp maintains collateral at its secured funding providers to ensure immediate availability of funding. Additionally, the Bancorp routinely executes test trades to ensure operational readiness and market depth associated with its secured funding sources.
+As of June 30, 2026, the Bancorp (parent company) had sufficient liquidity to meet contractual obligations and all preferred and common dividends without accessing the capital markets or receiving upstream dividends from the Bank subsidiary for 27 months.
+Credit Ratings
+The cost and availability of financing to the Bancorp and Bank are impacted by its credit ratings. A downgrade to the credit ratings of the Bancorp or the Bank could affect their ability to access the credit markets and increase borrowing costs, thereby adversely impacting their
+47
+Table of Contents
+Management's Discussion and Analysis of Financial Condition and Results of Operations (continued) |
+financial condition and liquidity. Key factors in maintaining high credit ratings include a stable and diverse earnings stream, strong credit quality, strong capital ratios and diverse funding sources, in addition to disciplined liquidity monitoring procedures.
+Credit ratings are summarized in Table 56. The ratings reflect the view of each rating agency on the capacity of the Bancorp and the Bank to meet financial commitments. As an investor, you should be aware that a security rating is not a recommendation to buy, sell or hold securities, that it may be subject to revision or withdrawal at any time by the assigning rating organization and that each rating should be evaluated independently of any other rating. Additional information on the credit rating ranking within the overall classification system is located on the website of each credit rating agency.
+TABLE 56: Agency Ratings |
+As of August 4, 2026 | Moody's | Standard and Poor's | Fitch | DBRS Morningstar |
+Fifth Third Bancorp: |
+Short-term borrowings | No rating | A-2 | F1 | R-1L |
+Senior debt | Baa1 | BBB+ | A- | A |
+Subordinated debt | Baa1 | BBB | BBB+ | AL |
+Fifth Third Bank, National Association: |
+Short-term borrowings | P-2 | A-2 | F1 | R-1M |
+Short-term deposit | P-1 | No rating | F1 | No rating |
+Long-term deposit | A1 | No rating | A+ | AH |
+Senior debt | A3 | A- | A- | AH |
+Subordinated debt | A3 | BBB+ | BBB+ | A |
+Rating Agency Outlook for Fifth Third Bancorp and Fifth Third Bank, National Association | Negative | Stable | Stable | Positive |
+48
+Table of Contents
+Management's Discussion and Analysis of Financial Condition and Results of Operations (continued) |
+CAPITAL MANAGEMENT
+Management regularly reviews capital levels to help ensure it is appropriately positioned under various operating environments. The Bancorp has established a Capital Committee which is responsible for making capital plan recommendations to management. These recommendations are reviewed by the ERMC and the capital plan is approved by the Board of Directors. The Capital Committee is responsible for execution and oversight of the capital actions of the capital plan.
+Regulatory Capital Ratios
+The Basel III Final Rule sets minimum regulatory capital ratios as well as defines the measure of well-capitalized for insured depository institutions. The following table presents these requirements as well as the actual ratios and amounts for the Bancorp and Bank as of:
+TABLE 57: Regulatory Capital |
+Regulatory Ratio Requirements | June 30, 2026 | December 31, 2025
+($ in millions) | Minimum | Well-Capitalized | Ratio | Amount | Ratio | Amount |
+CET1 risk-based capital: |
+Fifth Third Bancorp | 4.50 | % | N/A | 9.93 | % | $ | 24,508 | 10.81 | % | $ | 18,099 |
+Fifth Third Bank, National Association | 4.50 | 6.50 | 11.70 | 28,723 | 13.09 | 21,766 |
+Tier 1 risk-based capital: |
+Fifth Third Bancorp | 6.00 | 6.00 | 10.81 | 26,690 | 11.87 | 19,869 |
+Fifth Third Bank, National Association | 6.00 | 8.00 | 11.70 | 28,723 | 13.09 | 21,766 |
+Total risk-based capital: |
+Fifth Third Bancorp | 8.00 | 10.00 | 12.50 | 30,863 | 13.78 | 23,066 |
+Fifth Third Bank, National Association | 8.00 | 10.00 | 12.95 | 31,794 | 14.33 | 23,833 |
+Leverage: |
+Fifth Third Bancorp | 4.00 | N/A | 9.20 | 26,690 | 9.41 | 19,869 |
+
+----- [line 2226] -----
+179 | 482 | -- | 661 |
+Initial amortized cost basis of acquired loans and leases | $ | 3,362 | 46,761 | 405 | 50,528 |
+Unpaid principal balance of acquired loans and leases(a)
+3,457 | 46,836 | 406 | 50,699 |
+Noncredit discount, net | $ | (95) | (75) | (1) | (171) |
+(a)The unpaid principal balance and adjustment for expected credit losses exclude net charge-offs of $111 which were taken at the time of the Comerica acquisition.
+(b)The initial ALLL on other acquired loans and leases was $8 and was recorded as provision for credit losses in the Bancorp's Condensed Consolidated Statements of Income in the first quarter of 2026.
+65
+Table of Contents
+Fifth Third Bancorp and Subsidiaries
+Notes to Condensed Consolidated Financial Statements (unaudited) |
+5. Investment Securities
+The Bancorp uses investment securities as a means of managing interest rate risk, providing collateral for pledging purposes and for liquidity risk management. The Bancorp may also utilize investment securities as part of a non-qualifying hedging strategy to manage interest rate risk related to residential MSRs.
+The following tables provide the amortized cost, unrealized gains and losses and fair value for the major categories of the available-for-sale debt and other securities and held-to-maturity securities portfolios as of:
+June 30, 2026 ($ in millions) | Amortized
+Cost | Unrealized
+Gains | Unrealized
+Losses | Fair
+Value |
+Available-for-sale debt and other securities: |
+U.S. Treasury and federal agencies securities | $ | 1,906 | 1 | (8) | 1,899 |
+Mortgage-backed securities: |
+Agency residential mortgage-backed securities | 15,659 | 9 | (639) | 15,029 |
+Agency commercial mortgage-backed securities | 23,556 | 1 | (2,200) | 21,357 |
+Non-agency commercial mortgage-backed securities | 2,826 | -- | (208) | 2,618 |
+Asset-backed securities and other debt securities | 2,416 | 2 | (115) | 2,303 |
+Other securities(a)
+1,260 | -- | -- | 1,260 |
+Total available-for-sale debt and other securities | $ | 47,623 | 13 | (3,170) | 44,466 |
+Held-to-maturity securities:(b)
+U.S. Treasury and federal agencies securities | $ | 3,382 | 11 | (10) | 3,383 |
+Mortgage-backed securities: |
+Agency residential mortgage-backed securities | 5,472 | 8 | (95) | 5,385 |
+Agency commercial mortgage-backed securities | 9,548 | 12 | (72) | 9,488 |
+Asset-backed securities and other debt securities | 2 | -- | -- | 2 |
+Total held-to-maturity securities | $ | 18,404 | 31 | (177) | 18,258 |
+(a)Other securities consist of FHLB, FRB and DTCC restricted stock holdings of $368, $889 and $3, respectively, at June 30, 2026, that are carried at cost.
+(b)The amortized cost basis includes a discount of $685 at June 30, 2026 pertaining to the remaining unamortized portion of unrealized losses on securities transferred to HTM.
+December 31, 2025 ($ in millions) | Amortized
+Cost | Unrealized
+Gains | Unrealized
+Losses | Fair
+Value |
+Available-for-sale debt and other securities: |
+U.S. Treasury and federal agencies securities | $ | 1,575 | -- | -- | 1,575 |
+Mortgage-backed securities: |
+Agency residential mortgage-backed securities | 9,138 | 18 | (533) | 8,623 |
+Agency commercial mortgage-backed securities | 22,307 | 4 | (2,124) | 20,187 |
+Non-agency commercial mortgage-backed securities | 3,032 | 1 | (200) | 2,833 |
+Asset-backed securities and other debt securities | 2,381 | 2 | (116) | 2,267 |
+Other securities(a)
+674 | -- | -- | 674 |
+Total available-for-sale debt and other securities | $ | 39,107 | 25 | (2,973) | 36,159 |
+Held-to-maturity securities:(b)
+U.S. Treasury and federal agencies securities | $ | 2,438 | 19 | -- | 2,457 |
+Mortgage-backed securities: |
+Agency residential mortgage-backed securities | 5,023 | 23 | (44) | 5,002 |
+Agency commercial mortgage-backed securities | 3,905 | 43 | (5) | 3,943 |
+Asset-backed securities and other debt securities | 2 | -- | -- | 2 |
+Total held-to-maturity securities | $ | 11,368 | 85 | (49) | 11,404 |
+(a)Other securities consist of FHLB, FRB and DTCC restricted stock holdings of $167, $505 and $2, respectively, at December 31, 2025, that are carried at cost.
+(b)The amortized cost basis includes a discount of $742 at December 31, 2025 pertaining to the remaining unamortized portion of unrealized losses on securities transferred to HTM.
+The following table provides the fair value of trading debt securities and equity securities as of:
+($ in millions) | June 30,
+2026 | December 31,
+2025 |
+Trading debt securities | $ | 1,853 | 1,057 |
+Equity securities | 495 | 453 |
+66
+Table of Contents
+Fifth Third Bancorp and Subsidiaries
+Notes to Condensed Consolidated Financial Statements (unaudited) |
+
+----- [line 3198] -----
+Weighted-
+Average Life
+(in years) | Prepayment
+Speed
+(annual) | OAS
+(bps) | Weighted-
+Average Life
+(in years) | Prepayment
+Speed
+(annual) | OAS
+(bps) |
+Fixed-rate residential mortgage loans | 8.3 | 9.0 | % | 549 | 6.0 | 12.1 | % | 496 |
+At June 30, 2026 and December 31, 2025, the Bancorp serviced $85.9 billion and $87.8 billion, respectively, of residential mortgage loans for other investors. The value of MSRs that continue to be held by the Bancorp is subject to credit, prepayment and interest rate risks on the sold financial assets. The weighted-average coupon of the residential mortgage portfolio was 3.91% and 3.86% at June 30, 2026 and December 31, 2025, respectively.
+88
+Table of Contents
+Fifth Third Bancorp and Subsidiaries
+Notes to Condensed Consolidated Financial Statements (unaudited) |
+At June 30, 2026, the sensitivity of the current fair value of residual cash flows to immediate 10%, 20% and 50% adverse changes in prepayment speed assumptions and immediate 10% and 20% adverse changes in OAS for servicing rights related to residential mortgage loans are as follows:
+($ in millions)(a)
+Prepayment Speed Assumption | OAS Assumption |
+Fair Value | Weighted-
+Average Life
+(in years) | Impact of Adverse Change
+on Fair Value | OAS
+(bps) | Impact of Adverse Change on Fair Value |
+Rate | 10% | 20% | 50% | 10% | 20% |
+Fixed-rate | $ | 1,579 | 7.7 | 6.8 | % | $ | (38) | (73) | (170) | 376 | $ | (27) | (54) |
+Adjustable-rate | 3 | 4.1 | 21.1 | -- | (1) | (2) | 702 | -- | (1) |
+(a)The impact of the weighted-average default rate on the current fair value of residual cash flows for all scenarios is immaterial.
+These sensitivities are hypothetical and should be used with caution. As the figures indicate, changes in fair value based on these variations in the assumptions typically cannot be extrapolated because the relationship of the change in assumption to the change in fair value may not be linear. The Bancorp believes that variations of these levels are reasonably possible; however, there is the potential that adverse changes in key assumptions could be even greater. Also, in the previous table, the effect of a variation in a particular assumption on the fair value of the interests that continue to be held by the Bancorp is calculated without changing any other assumption; in reality, changes in one factor may result in changes in another (for example, increases in market interest rates may result in lower prepayments), which might magnify or counteract these sensitivities.
+Commercial Mortgage Loan Sales and Servicing Rights
+During both the three and six months ended June 30, 2026, the Bancorp sold $3 million of commercial mortgage loans with servicing retained and recognized $1 million of gross commercial mortgage servicing fee income, which is included in commercial banking revenue in the Condensed Consolidated Statements of Income. In addition to the servicing responsibilities obtained in those sales, the Bancorp also provided certain standard representations and warranties as well as a loss share guarantee equal to one-third of the balance of the servicing portfolio. The Bancorp receives servicing fees based on a percentage of the outstanding balance. The liability for the Bancorp's loss share guarantee obligation is reported in other liabilities on the Condensed Consolidated Balance Sheets. Refer to Note 15 for further information on the loss share guarantee.
+The Bancorp measures its commercial mortgage servicing rights using the amortization method. Under this method, the commercial mortgage servicing rights are carried at the lower of amortized cost or estimated fair value. The Bancorp's commercial mortgage servicing rights are amortized in proportion to, and over the estimated period that net servicing income is expected to be received based on projections of the amount and timing of estimated future net cash flows, which is reported as a component of commercial banking revenue in the Condensed Consolidated Statements of Income. At June 30, 2026, the carrying amount of commercial mortgage servicing rights was $25 million.
+89
+Table of Contents
+Fifth Third Bancorp and Subsidiaries
+Notes to Condensed Consolidated Financial Statements (unaudited) |
+12. Derivative Financial Instruments
+The Bancorp maintains an overall risk management strategy that incorporates the use of derivative instruments to reduce certain risks related to interest rate, prepayment and foreign currency volatility. The Bancorp's interest rate risk management strategy involves modifying the repricing characteristics of certain financial instruments so that changes in interest rates do not adversely affect the Bancorp's net interest margin and cash flows. Additionally, the Bancorp holds derivative instruments for the benefit of its commercial customers and for other business purposes. The Bancorp does not enter into unhedged speculative derivative positions. Refer to Note 14 of the Notes to Consolidated Financial Statements included in the Bancorp's Annual Report on Form 10-K for the year ended December 31, 2025 for additional information about the Bancorp's use of derivative instruments, including those designated as hedges.
+The Bancorp's derivative contracts include certain contractual features in which either the Bancorp or the counterparties may be required to provide collateral, typically in the form of cash or securities, as initial margin and to offset changes in the fair value of the derivatives, including changes in the fair value due to credit risk, either of the Bancorp or the counterparty. In measuring the fair value of its derivative contracts, the Bancorp considers its own credit risk, taking into consideration collateral maintenance requirements of certain derivative counterparties and the duration of instruments with counterparties that do not require collateral maintenance.
+As of June 30, 2026 and December 31, 2025, the balance of collateral held by the Bancorp for derivative assets was $1.6 billion and $576 million, respectively. For derivative contracts cleared through certain central clearing parties whose rules treat variation margin payments as settlements of the derivative contract, the payments for variation margin of $412 million and $270 million as of June 30, 2026 and December 31, 2025, respectively, were applied to reduce the respective derivative contracts and were also not included in the total amount of collateral held. As of June 30, 2026 and December 31, 2025, the credit component negatively impacting the fair value of derivative assets associated with customer accommodation contracts was $5 million and $6 million, respectively.
+As of June 30, 2026 and December 31, 2025, the balance of collateral posted by the Bancorp, as either initial margin or due to changes in fair value of the related derivative contracts, was $2.0 billion and $868 million, respectively. Additionally, as of June 30, 2026 and December 31, 2025, $649 million and $415 million of variation margin payments, respectively, were applied to the respective derivative contracts to reduce the Bancorp's derivative liabilities and were also not included in the total amount of collateral posted. Certain of the Bancorp's derivative liabilities contain credit risk-related contingent features that could result in the requirement to post additional collateral upon the occurrence of specified events. As of both June 30, 2026 and December 31, 2025, the fair value of the additional collateral that could be required to be posted as a result of the credit risk-related contingent features being triggered was immaterial to the Bancorp's Condensed Consolidated Financial Statements. The posting of collateral has been determined to remove the need for further consideration of credit risk. As a result, the Bancorp determined that the impact of the Bancorp's credit risk to the valuation of its derivative liabilities was immaterial to the Bancorp's Condensed Consolidated Financial Statements.
+The Bancorp holds certain derivative instruments that qualify for hedge accounting treatment and are designated as either fair value hedges or cash flow hedges. Derivative instruments that do not qualify for hedge accounting treatment, or for which hedge accounting is not established, are held as free-standing derivatives. All customer accommodation derivatives are held as free-standing derivatives.
+90
+Table of Contents
+Fifth Third Bancorp and Subsidiaries
+Notes to Condensed Consolidated Financial Statements (unaudited) |
+The following tables reflect the notional amounts and fair values for all derivative instruments included in the Condensed Consolidated Balance Sheets as of:
+Fair Value |
+June 30, 2026 ($ in millions) | Notional
+Amount | Derivative
+Assets | Derivative
+Liabilities |
+Derivatives Designated as Qualifying Hedging Instruments: |
+Fair value hedges: |
+Interest rate swaps related to long-term debt | $ | 7,314 | 1 | 17 |
+Total fair value hedges | 1 | 17 |
+Cash flow hedges: |
+Interest rate swaps related to C&I loans | 7,850 | -- | -- |
+Interest rate swaps related to C&I loans - forward starting(a)
+2,000 | -- | -- |
+Interest rate swaps related to commercial mortgage and commercial construction loans | 4,000 | 1 | -- |
+Total cash flow hedges | 1 | -- |
+Total derivatives designated as qualifying hedging instruments | 2 | 17 |
+Derivatives Not Designated as Qualifying Hedging Instruments: |
+Free-standing derivatives - risk management and other business purposes:
+Interest rate contracts related to residential MSR portfolio | 4,880 | 7 | 1 |
+Forward contracts related to residential mortgage loans measured at fair value(b)
+1,021 | 2 | 3 |
+Swap associated with the sale of Visa, Inc. Class B Shares | 2,335 | -- | 70 |
+Foreign exchange contracts | 493 | 19 | -- |
+Other | 82 | -- | -- |
+Total free-standing derivatives - risk management and other business purposes
+28 | 74 |
+Free-standing derivatives - customer accommodation:
+Interest rate contracts(c)
+103,146 | 601 | 781 |
+Interest rate lock commitments | 418 | 7 | -- |
+Commodity contracts | 31,815 | 1,356 | 1,357 |
+TBA securities | 30 | -- | -- |
+Foreign exchange contracts | 22,698 | 484 | 437 |
+Total free-standing derivatives - customer accommodation
+2,448 | 2,575 |
+Total derivatives not designated as qualifying hedging instruments | 2,476 | 2,649 |
+Total | $ | 2,478 | 2,666 |
+(a)Forward starting swaps will become effective in December 2026.
+(b)Includes forward sale and forward purchase contracts which are utilized to manage market risk on residential mortgage loans held for sale and the related interest rate lock commitments in addition to certain portfolio residential mortgage loans measured at fair value.
+(c)Derivative assets and liabilities are presented net of variation margin of $263 and $39, respectively.
+91
+Table of Contents
+Fifth Third Bancorp and Subsidiaries
+Notes to Condensed Consolidated Financial Statements (unaudited) |
+Fair Value |
+December 31, 2025 ($ in millions) | Notional
+Amount | Derivative
+Assets | Derivative
+Liabilities |
+Derivatives Designated as Qualifying Hedging Instruments: |
+
+----- [line 3668] -----
+(c)Excludes accrued interest receivable of $19.
+The following is a description of the valuation methodologies used for instruments measured at fair value, as well as the general classification of such instruments pursuant to the valuation hierarchy.
+Debt securities
+Where quoted prices are available in an active market, securities are classified within Level 1 of the valuation hierarchy. Level 1 securities include U.S. Treasury securities. If quoted market prices are not available, then fair values are estimated using pricing models which primarily utilize quoted prices of securities with similar characteristics. Level 2 securities may include federal agencies securities, asset-backed securities and other debt securities and private placement securities.
+Collective investment funds
+NAV is used as a practical expedient to determine the fair value of investments in collective funds, so these investments are not classified within the fair value hierarchy. There are no unfunded commitments or redemption restrictions on the collective investment funds. The investments are redeemable daily.
+There were no assets in the Non-Qualified Plan at June 30, 2026.
+104
+Table of Contents
+Fifth Third Bancorp and Subsidiaries
+Notes to Condensed Consolidated Financial Statements (unaudited) |
+Investment Policies and Strategies
+The Bancorp's objectives for the Qualified Plan are to maintain a portfolio of assets of appropriate liquidity and diversification; to generate investment returns (net of all operating costs) that are reasonably anticipated to maintain the plan's fully funded status or to reduce a funding deficit, after taking into account various factors, including reasonably anticipated future contributions, expense and the interest rate sensitivity of the plan's assets relative to that of the plan's liabilities; and to generate investment returns (net of all operating costs) that meet or exceed a customized benchmark as defined in the plan's investment policy. The Bancorp's target allocations for plan investments are 55 percent to 65 percent for fixed-income securities and 35 percent to 45 percent for equity securities. There were no significant concentrations of risk associated with the investments of the Qualified Plan at June 30, 2026.
+Permitted asset classes of the Qualified Plan include fixed-income (U.S. Treasury and other U.S. government agency securities, corporate bonds and notes, municipal bonds, collateralized mortgage obligations and money market funds) and equities (collective investment funds). Derivative instruments are permissible for hedging and transactional efficiency, but only to the extent that the derivative use enhances the efficient execution of the Qualified Plan's investment policy. The Qualified Plan does not directly invest in securities issued by the Bancorp and its subsidiaries.
+Fifth Third Bank, National Association, (the "Trustee"), is expected to manage plan assets in a manner consistent with the Qualified Plan agreement and other regulatory, federal and state laws. The Fifth Third Bank Pension, 401(k) and Medical Plan Committee (the "Committee") is the plan administrator. The Trustee provides to the Committee quarterly reports and is also required to keep the Committee apprised of any material changes in the Trustee's outlook and recommended investment policy. There were no fees paid by the Plan for accounting or administrative services provided by the Trustee for the period from February 1, 2026 to June 30, 2026.
+Comerica Postretirement Benefit Plan
+The Bancorp also acquired a postretirement benefit plan in connection with the Comerica acquisition, which provides postretirement health care and life insurance benefits for certain former Comerica employees. This plan is frozen and has been closed to new participants since January 1, 2007 but primarily provides benefits to participants who retired prior to January 1, 2000. The Plan's health benefits are structured as a funded Health Reimbursement Arrangement for participants covered by Medicare or individual marketplace insurance plans. At February 1, 2026, the plan's accumulated benefit obligation was $13 million and the plan was overfunded.
+19. Earnings Per Share
+The following table provides the calculation of earnings per share and the reconciliation of earnings per share and earnings per diluted share:
+For the three months ended
+June 30, | For the six months ended
+June 30, |
+($ in millions, except per share data) | 2026 | 2025 | 2026 | 2025 |
+Net income available to common shareholders | $ | 763 | 591 | 891 | 1,069 |
+Average common shares outstanding - basic | 912 | 671 | 869 | 671 |
+Effect of dilutive stock-based awards | 4 | 3 | 4 | 4 |
+Average common shares outstanding - diluted | 916 | 674 | 873 | 675 |
+Earnings per share - basic | $ | 0.84 | 0.88 | 1.03 | 1.59 |
+Earnings per share - diluted | 0.83 | 0.88 | 1.02 | 1.58 |
+Anti-dilutive stock-based awards excluded from diluted shares | 2 | 3 | 2 | 2 |
+105
+Table of Contents
+Fifth Third Bancorp and Subsidiaries
+Notes to Condensed Consolidated Financial Statements (unaudited) |
+20. Accumulated Other Comprehensive Income
+The tables below present the activity of the components of OCI and AOCI for the three months ended:
+Total OCI | Total AOCI |
+June 30, 2026 ($ in millions) | Pre-tax
+Activity | Tax
+Effect | Net
+Activity | Beginning
+Balance | Net
+Activity | Ending
+Balance |
+Unrealized holding losses on available-for-sale debt securities arising during period | $ | (97) | 22 | (75) |
+Reclassification adjustment for net losses on available-for-sale debt securities included in net income | 17 | (4) | 13 |
+Net unrealized losses on available-for-sale debt securities | (80) | 18 | (62) | (2,331) | (62) | (2,393) |
+Amortization of unrealized losses on available-for-sale debt securities transferred to held-to-maturity securities included in net income | 30 | (6) | 24 |
+Net unrealized losses on available-for-sale debt securities transferred to held-to-maturity securities | 30 | (6) | 24 | (565) | 24 | (541) |
+Unrealized holding losses on cash flow hedge derivatives arising during period | (118) | 28 | (90) |
+Reclassification adjustment for net losses on cash flow hedge derivatives included in net income | 21 | (5) | 16 |
+Net unrealized losses on cash flow hedge derivatives | (97) | 23 | (74) | (321) | (74) | (395) |
+Net actuarial gain arising during period | 83 | (19) | 64 |
+Reclassification of amounts to net periodic benefit costs | (5) | 1 | (4) |
+Defined benefit pension plans, net | 78 | (18) | 60 | (15) | 60 | 45 |
+Other | -- | -- | -- | (2) | -- | (2) |
+Total | $ | (69) | 17 | (52) | (3,234) | (52) | (3,286) |
+Total OCI | Total AOCI |
+June 30, 2025 ($ in millions) | Pre-tax
+Activity | Tax
+Effect | Net
+Activity | Beginning
+Balance | Net
+Activity | Ending
+Balance |
+Unrealized holding gains on available-for-sale debt securities arising during period | $ | 237 | (58) | 179 |
+Reclassification adjustment for net losses on available-for-sale debt securities included in net income | -- | -- | -- |
+Net unrealized losses on available-for-sale debt securities | 237 | (58) | 179 | (2,799) | 179 | (2,620) |
+Amortization of unrealized losses on available-for-sale debt securities transferred to held-to-maturity securities included in net income | 28 | (6) | 22 |
+Net unrealized losses on available-for-sale debt securities transferred to held-to-maturity securities | 28 | (6) | 22 | (659) | 22 | (637) |
+Unrealized holding gains on cash flow hedge derivatives arising during period | 144 | (34) | 110 |
+Reclassification adjustment for net losses on cash flow hedge derivatives included in net income | 50 | (12) | 38 |
+
+----- [line 4033] -----
+(b)There were no unrealized gains or losses for the period included in other comprehensive income for instruments still held at June 30, 2025.
+(c)Included in the following line items in the Condensed Consolidated Statements of Income: mortgage banking net revenue for residential mortgage loans and residential mortgage servicing rights, mortgage banking net revenue and capital markets fees for interest rate derivatives, and other noninterest income for equity derivatives.
+(d)Includes certain residential mortgage loans originated as held for sale that were transferred to held for investment.
+112
+Table of Contents
+Fifth Third Bancorp and Subsidiaries
+Notes to Condensed Consolidated Financial Statements (unaudited) |
+The following tables present information as of June 30, 2026 and 2025 about significant unobservable inputs related to the Bancorp's material categories of Level 3 financial assets and liabilities measured at fair value on a recurring basis:
+As of June 30, 2026 ($ in millions) |
+Financial Instrument | Fair Value | Valuation
+Technique | Significant
+Unobservable Inputs | Range of Inputs | Weighted-Average
+Residential mortgage loans | $ | 102 | Loss rate model | Interest rate risk factor | (52.0) | - | 6.7% | (10.5) | % | (a)
+Credit risk factor | -- | - | 0.7% | 0.1 | % | (a)
+Residential mortgage servicing rights | 1,582 | DCF | Prepayment speed | -- | - | 90.3% | (Fixed)
+6.8 | % | (b)
+(Adjustable)
+21.1 | % | (b)
+OAS (bps) | 335 | - | 1,827 | (Fixed)
+376 | (b)
+(Adjustable)
+702 | (b)
+IRLCs, net | 7 | DCF | Loan closing rates | 0.7 | - | 99.1% | 83.9 | % | (c)
+Swap associated with the sale of Visa, Inc. Class B Shares | (70) | DCF | Timing of the resolution
+of the Covered Litigation | Q1 2028 | - | Q2 2029 | Q3 2028 | (d)
+(a)Unobservable inputs were weighted by the relative carrying value of the instruments.
+(b)Unobservable inputs were weighted by the relative unpaid principal balance of the instruments.
+(c)Unobservable inputs were weighted by the relative notional amount of the instruments.
+(d)Unobservable inputs were weighted by the probability of the final funding date of the instruments.
+As of June 30, 2025 ($ in millions) |
+Financial Instrument | Fair Value | Valuation
+Technique | Significant
+Unobservable Inputs | Range of Inputs | Weighted-Average |
+Residential mortgage loans | $ | 107 | Loss rate model | Interest rate risk factor | (52.0) | - | 6.1 % | (11.4) | % | (a)
+Credit risk factor | -- | - | 0.8 % | 0.1 | % | (a)
+Residential mortgage servicing rights | 1,629 | DCF | Prepayment speed | -- | - | 100.0 % | (Fixed) | 6.5 | % | (b)
+(Adjustable) | 17.2 | % | (b)
+OAS (bps) | 335 | - | 1,821 | (Fixed) | 433 | (b)
+(Adjustable) | 723 | (b)
+IRLCs, net | 7 | DCF | Loan closing rates | 18.6 | - | 96.0 % | 82.2 | % | (c)
+Swap associated with the sale of Visa, Inc. Class B Shares | (145) | DCF | Timing of the resolution
+of the Covered Litigation | Q2 2027 | - | Q2 2028 | Q4 2027 | (d)
+(a)Unobservable inputs were weighted by the relative carrying value of the instruments.
+(b)Unobservable inputs were weighted by the relative unpaid principal balance of the instruments.
+(c)Unobservable inputs were weighted by the relative notional amount of the instruments.
+(d)Unobservable inputs were weighted by the probability of the final funding date of the instruments.
+Assets and Liabilities Measured at Fair Value on a Nonrecurring Basis
+Certain assets and liabilities are measured at fair value on a nonrecurring basis. These assets and liabilities are not measured at fair value on an ongoing basis; however, they are subject to fair value adjustments in certain circumstances, such as when there is evidence of impairment.
+The following tables provide the fair value hierarchy and carrying amount of all assets that were held as of June 30, 2026 and 2025, and for which a nonrecurring fair value adjustment was recorded during the three and six months ended June 30, 2026 and 2025, and the related gains and losses from fair value adjustments on assets sold during the period as well as assets still held as of the end of the period.
+Fair Value Measurements Using | Total (Losses) Gains |
+As of June 30, 2026 ($ in millions) | Level 1 | Level 2 | Level 3 | Total | For the three months ended June 30, 2026
+For the six
+months ended June 30, 2026
+Commercial loans and leases | $ | -- | -- | 195 | 195 | (77) | (94) |
+Consumer and residential mortgage loans | -- | -- | 207 | 207 | (1) | (4) |
+OREO | -- | -- | 1 | 1 | 2 | 2 |
+Bank premises and equipment | -- | -- | 36 | 36 | (1) | (24) |
+Private equity investments | -- | -- | -- | -- | (13) | (13) |
+Total | $ | -- | -- | 439 | 439 | (90) | (133) |
+113
+Table of Contents
+Fifth Third Bancorp and Subsidiaries
+Notes to Condensed Consolidated Financial Statements (unaudited) |
+Fair Value Measurements Using | Total (Losses) Gains |
+As of June 30, 2025 ($ in millions) | Level 1 | Level 2 | Level 3 | Total | For the three months ended
+June 30, 2025
+For the six
+months ended
+June 30, 2025
+Commercial loans and leases | $ | -- | -- | 222 | 222 | (78) | (204) |
+Consumer and residential mortgage loans | -- | -- | 194 | 194 | (3) | (7) |
+OREO | -- | -- | 5 | 5 | -- | 1 |
+Private equity investments | -- | 13 | -- | 13 | -- | 4 |
+Total | $ | -- | 13 | 421 | 434 | (81) | (206) |
+The following tables present information as of June 30, 2026 and 2025 about significant unobservable inputs related to the Bancorp's material categories of Level 3 financial assets and liabilities measured at fair value on a nonrecurring basis:
+As of June 30, 2026 ($ in millions) |
+Financial Instrument | Fair Value | Valuation Technique | Significant Unobservable Inputs | Ranges of
+Inputs | Weighted-Average |
+Commercial loans and leases | $ | 195 | Appraised value | Collateral value | NM | NM |
+Consumer and residential mortgage loans | 207 | Appraised value | Collateral value | NM | NM |
+OREO | 1 | Appraised value | Appraised value | NM | NM |
+Bank premises and equipment | 36 | Appraised value | Appraised value | NM | NM |
+Private equity investments | -- | Comparable company analysis | Market comparable transactions | NM | NM |
+As of June 30, 2025 ($ in millions) |
+Financial Instrument | Fair Value | Valuation Technique | Significant Unobservable Inputs | Ranges of
+Inputs | Weighted-Average |
+Commercial loans and leases | $ | 222 | Appraised value | Collateral value | NM | NM |
+Consumer and residential mortgage loans | 194 | Appraised value | Collateral value | NM | NM |
+OREO | 5 | Appraised value | Appraised value | NM | NM |
+For further information on the valuation methodologies used for certain assets measured at fair value on a nonrecurring basis, refer to Note 28 of the Notes to Consolidated Financial Statements included in the Bancorp's Annual Report on Form 10-K for the year ended December 31, 2025.
+Private equity investments
+The Bancorp accounts for its private equity investments using the measurement alternative to fair value, except for those accounted for under the equity method of accounting. Under the measurement alternative, the Bancorp carries each investment at its cost basis minus impairment, if any, plus or minus changes resulting from observable price changes in orderly transactions for identical or similar investments of the same issuer. The Bancorp did not recognize gains during both the three and six months ended June 30, 2026 and did not recognize gains and recognized gains of $4 million during the three and six months ended June 30, 2025, respectively, resulting from observable price changes. The carrying value of the Bancorp's private equity investments still held as of June 30, 2026 includes a cumulative $23 million of positive adjustments as a result of observable price changes since January 1, 2018. Because these adjustments are based on observable transactions in inactive markets, they are classified in Level 2 of the fair value hierarchy.
+For private equity investments which are accounted for using the measurement alternative to fair value, the Bancorp qualitatively evaluates each investment quarterly to determine if impairment may exist. If necessary, the Bancorp then measures impairment by estimating the value of its investment and comparing that to the investment's carrying value, whether or not the Bancorp considers the impairment to be temporary. These valuations are typically developed using a DCF method, but other methods may be used if more appropriate for the circumstances. These valuations are based on unobservable inputs and therefore are classified in Level 3 of the fair value hierarchy. The Bancorp recognized $13 million of impairment charges on its private equity investments during both the three and six months ended June 30, 2026 and recognized an immaterial amount of impairment charges during both the three and six months ended June 30, 2025. The carrying value of the Bancorp's private equity investments still held as of June 30, 2026 includes a cumulative $28 million of impairment charges recognized since adoption of the measurement alternative to fair value on January 1, 2018.
+
+----- [line 4184] -----
+Consumer and residential mortgage loans | 47,916 | -- | -- | 47,724 | 47,724 |
+Total portfolio loans and leases, net | $ | 120,292 | -- | -- | 121,352 | 121,352 |
+Financial liabilities: |
+Deposits | $ | 171,819 | -- | 171,899 | -- | 171,899 |
+Short-term borrowings | 926 | 226 | 700 | -- | 926 |
+Long-term debt | 13,579 | 5,067 | 8,938 | -- | 14,005 |
+116
+Table of Contents
+Fifth Third Bancorp and Subsidiaries
+Notes to Condensed Consolidated Financial Statements (unaudited) |
+22. Business Segments
+The Bancorp has three reportable segments: Commercial Banking, Consumer and Small Business Banking and Wealth and Asset Management. The Bancorp's reportable segments have been determined based on its management structure and management accounting practices. This presentation is aligned with how results are reviewed internally by the Bancorp's Chairman, Chief Executive Officer and President, which the Bancorp has determined to be its Chief Operating Decision Maker ("CODM"). For each of the Bancorp's segments, the CODM primarily uses segment income before income taxes on an FTE basis to allocate resources such as employees and capital. The CODM also monitors trends in net interest income, noninterest income and noninterest expense to evaluate the financial performance of each segment and make resource allocation decisions. These decisions also consider segment-specific events and circumstances, general market conditions, forecasts and variances to annual budgets. Additionally, the CODM uses segment average assets as a measure to allocate resources to the segments.
+The Bancorp manages interest rate risk centrally at the corporate level. By employing an FTP methodology, the segments are insulated from most benchmark interest rate volatility, enabling them to focus on serving customers through the origination of loans and acceptance of deposits. The FTP methodology assigns charge and credit rates to classes of assets and liabilities, respectively, based on the estimated amount and timing of the cash flows for each transaction. Assigning the FTP rate based on matching the duration of cash flows allocates interest income and interest expense to each segment so its resulting net interest income is insulated from future changes in benchmark interest rates. The Bancorp's FTP methodology also allocates the contribution to net interest income of the asset-generating and deposit-providing businesses on a duration-adjusted basis to better attribute the driver of the performance. As the asset and liability durations are not perfectly matched, the residual impact of the FTP methodology is captured in General Corporate and Other. The charge and credit rates are determined using the FTP rate curve, which is based on an estimate of Fifth Third's marginal borrowing cost in the wholesale funding markets. The FTP curve is constructed using the U.S. swap curve, brokered CD pricing and unsecured debt pricing.
+The Bancorp adjusts the FTP charge and credit rates as dictated by changes in interest rates for various interest-earning assets and interest-bearing liabilities and by the review of behavioral assumptions, such as prepayment rates on interest-earning assets and the estimated durations for indeterminate-lived deposits. Key assumptions, including the credit rates provided for deposit accounts, are reviewed at a minimum, annually. Credit rates for deposit products and charge rates for loan products may be reset more frequently in response to changes in market conditions.
+Refer to Note 31 of the Notes to Consolidated Financial Statements included in the Bancorp's Annual Report on Form 10-K for the year ended December 31, 2025 for additional information about the Bancorp's FTP process and other allocation methodologies.
+The following is a description of each of the Bancorp's segments and the products and services they provide to their respective client bases.
+Commercial Banking offers credit intermediation, cash management and financial services to large and middle-market businesses and government and professional customers. In addition to the traditional lending and depository offerings, Commercial Banking products and services include global cash management, foreign exchange and international trade finance, derivatives and capital markets services, asset-based lending, real estate finance, public finance, commercial leasing and syndicated finance.
+Consumer and Small Business Banking provides a full range of deposit and loan products to individuals and small businesses through a network of full-service banking centers and relationships with indirect and correspondent loan originators in addition to providing products designed to meet the specific needs of small businesses, including cash management services. Consumer and Small Business Banking includes the Bancorp's residential mortgage, home equity loans and lines of credit, credit cards, automobile and other indirect lending, solar energy installation and other consumer lending activities. Residential mortgage activities include the origination, retention and servicing of residential mortgage loans, sales and securitizations of those loans and all associated hedging activities. Indirect lending activities include extending loans to consumers through automobile dealers, recreational vehicle dealers and marine dealers. Solar energy installation loans and certain other consumer loans are originated through a network of contractors and installers.
+Wealth and Asset Management provides a full range of wealth management solutions for individuals, companies and not-for-profit organizations, including wealth planning, investment management, banking, insurance, trust and estate services. These offerings include retail brokerage services for individual clients, advisory services for institutional clients including middle market businesses, non-profits, states and municipalities, and wealth management strategies and products for high net worth and ultra-high net worth clients.
+117
+Table of Contents
+Fifth Third Bancorp and Subsidiaries
+Notes to Condensed Consolidated Financial Statements (unaudited) |
+The following tables present the results of operations and average assets by segment for the three months ended:
+June 30, 2026 ($ in millions) | Commercial
+Banking | Consumer
+and Small Business
+Banking | Wealth
+and Asset
+Management | General
+Corporate
+and Other(d)
+Total |
+Net interest income (FTE)(a)
+$ | 1,115 | 1,237 | 113 | (245) | 2,220 |
+Provision for (benefit from) credit losses | 25 | 82 | (4) | 26 | 129 |
+Net interest income after provision for (benefit from) credit losses
+$ | 1,090 | 1,155 | 117 | (271) | 2,091 |
+Noninterest income: |
+Wealth and asset management revenue | $ | 1 | 79 | 181 | (5) | 256 |
+Commercial payments revenue | 220 | 37 | 2 | (5) | 254 |
+Consumer banking revenue | -- | 160 | 1 | -- | 161 |
+Capital markets fees | 152 | 1 | 1 | -- | 154 |
+Commercial banking revenue | 122 | 2 | 1 | -- | 125 |
+Mortgage banking net revenue | -- | 39 | -- | -- | 39 |
+Other noninterest income(b)
+11 | 3 | -- | 36 | 50 |
+Securities gains, net | 1 | -- | -- | 19 | 20 |
+Total noninterest income | $ | 507 | 321 | 186 | 45 | 1,059 |
+Noninterest expense: |
+Compensation and benefits | $ | 232 | 302 | 91 | 504 | 1,129 |
+Technology and communications | 5 | 15 | 1 | 229 | 250 |
+Net occupancy expense | 12 | 82 | 5 | 55 | 154 |
+Card and processing expense | 44 | 22 | -- | -- | 66 |
+Equipment expense | 7 | 19 | -- | 34 | 60 |
+Marketing expense | -- | 44 | -- | 21 | 65 |
+Loan and lease expense | 23 | 22 | 1 | 7 | 53 |
+Other noninterest expense(c)
+434 | 354 | 87 | (543) | 332 |
+Total noninterest expense | $ | 757 | 860 | 185 | 307 | 2,109 |
+Income (loss) before income taxes (FTE)(a)
+$ | 840 | 616 | 118 | (533) | 1,041 |
+Average assets | $ | 127,324 | 61,896 | 10,128 | 98,600 | 297,948 |
+(a)Includes FTE adjustments of $3 for Commercial Banking and $2 for General Corporate and Other.
+(b)Includes impairment charges of $1 for bank premises and equipment recorded in General Corporate and Other. For more information, refer to Note 21.
+(c)Includes segment expenses which are classified as other noninterest expense and allocations of corporate and shared services expenses.
+(d)General Corporate and Other is not a reportable segment and is presented for reconciliation purposes.
+118
+Table of Contents
+Fifth Third Bancorp and Subsidiaries
+Notes to Condensed Consolidated Financial Statements (unaudited) |
+June 30, 2025 ($ in millions) | Commercial
