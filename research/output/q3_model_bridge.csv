@@ -1,0 +1,76 @@
+t,item,d_pbt_musd,sd
+JPM,NII ex-Markets (FY guide 105.5bn total),1000,300
+JPM,Markets revenue 12.1bn -> ~10.4bn (+16.5% YoY guide),-1700,800
+JPM,IB fees 3.2bn -> ~3.0bn (+mid/high-teens YoY),-160,300
+JPM,Asset & wealth fees (avg S&P +4.8%),200,100
+JPM,Card/payments/other fees,100,150
+JPM,Opex (variable comp; FY 107.5bn),350,350
+JPM,Provision (card NCO 3.2% guide),-100,400
+GS,Investments line 'much more muted',-1800,700
+GS,Equities (strong),-300,500
+GS,FICC (softer),-600,450
+GS,IB fees,-300,300
+GS,NII / mgmt fees,200,150
+GS,Compensation accrual falls with revenue,840,200
+GS,Non-comp expense +$0.5bn+ (guide),-550,120
+GS,Provision 'slightly higher',-200,120
+MS,Equities (3Q is no 2Q),-450,450
+MS,FICC,-250,300
+MS,IB (100+ sponsor mandates),100,250
+MS,Unrealized carry reversal (mgmt),-200,80
+MS,Wealth NII + fees,150,120
+MS,Compensation accrual,250,150
+MS,Other expense,-50,80
+BAC,NII ex-Markets (upper end of +6-8%),300,150
+BAC,Sales & trading 7.1bn -> ~5.5bn ('flat YoY' vs 5.4bn),-1550,350
+BAC,IB fees 2.1bn -> 1.6-1.8bn (guide),-400,120
+BAC,Asset management fees,100,80
+BAC,Other fees,50,150
+BAC,Opex (~18.6bn),150,200
+BAC,Provision,-50,250
+C,Markets (+mid-single-digit YoY guide),-700,400
+C,IB (+low-single-digit YoY guide),-150,150
+C,Services/Wealth/USPB revenue,250,200
+C,Opex,100,250
+C,Provision (card),-100,300
+WFC,NII (FY ~50bn; NIM stabilises),200,150
+WFC,Non-interest income after strong Q2,-450,450
+WFC,Opex (FY ~55.7bn),-190,250
+WFC,Provision,-90,200
+USB,"NII (+4-6% YoY, high end)",73,50
+USB,Fees (+12-14% YoY incl. BTIG),150,120
+USB,Opex (+8% YoY incl. BTIG),-105,60
+USB,Provision incl. Amazon reserve build $160m,-120,80
+PNC,NII +3-3.5% QoQ,135,40
+PNC,Fee income -5 to -5.5% QoQ,-120,60
+PNC,Other non-interest income 150-200m vs 265m adj Q2,-90,50
+PNC,Adj. expense -2 to -3% QoQ,96,40
+PNC,Provision (NCO ~225m),0,60
+TFC,NII +1.5% QoQ,54,30
+TFC,"Non-interest income flat guide, but Q2 other income +106m QoQ may not repeat",-60,80
+TFC,Expense +2% QoQ,-61,40
+TFC,Provision,-25,60
+FITB,NII +2-2.5% QoQ (CFO: upper end),55,25
+FITB,Non-interest income +1-3% (CFO: upper end),31,20
+FITB,Expense: 1.86bn x0.985 + merger ~200m (conversion qtr) + other 15m vs 2.11bn,62,100
+FITB,Provision,-20,50
+HBAN,NII flat (FY growth cut to ~35%),0,40
+HBAN,Non-interest income,20,50
+HBAN,Expense: merger costs fade,60,60
+HBAN,Provision,0,30
+CFG,NII +2.5-3.5% QoQ,49,25
+CFG,Non-interest income +1%,7,30
+CFG,Expense flat/slightly up,-10,25
+CFG,Provision,0,30
+KEY,NII (FY +9-11%; NIM exit 3.00-3.05%),45,25
+KEY,Non-interest income (FY +4-5%),50,40
+KEY,Adj. expense (FY ~+4%),-43,25
+KEY,Provision,-3,25
+MTB,NII (lower half of 7.2-7.35bn),10,25
+MTB,Fees: Q2 Bayview distribution not repeated,-40,40
+MTB,Expense (high end of 5.5-5.6bn),-57,30
+MTB,Provision,0,30
+SCHW,"Net interest revenue (NIM +5bp, IEA +1%)",105,80
+SCHW,Asset mgmt & admin fees,65,40
+SCHW,Trading revenue (lower vol),-60,80
+SCHW,Expense,-60,40
